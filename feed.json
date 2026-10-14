@@ -1,4 +1,539 @@
 {
- "generatedAt": "2026-10-14T00:34:09Z",
- "items": []
+ "generatedAt": "2026-10-14T00:48:39.688Z",
+ "items": [
+  {
+   "id": "2d7bfd9c8a3f",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Typefully adds polls for LinkedIn, Threads, and Mastodon",
+   "summary": "Typefully now supports polls in LinkedIn , Threads , and Mastodon posts, in addition to X . Users can write poll options once for a multi-platform draft, while configuring settings such as duration for each platform separately. Typefully f…",
+   "url": "https://alternativeto.net/news/2026/10/typefully-adds-polls-for-linkedin-threads-and-mastodon/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791910592521.png",
+   "date": "2026-10-13T16:56:32.000Z"
+  },
+  {
+   "id": "73fdbad66231",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "The X Subscription combines Grok, Cursor and X Premium",
+   "summary": "SpaceX Super Intelligence is introducing the X Subscription, intended to unify plans across Grok , Cursor , and X Premium . Current subscribers can retain their existing plan or switch and link their Grok, Cursor, and X accounts. The rollo…",
+   "url": "https://alternativeto.net/news/2026/10/the-x-subscription-combines-grok-cursor-and-x-premium/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791910389997.png",
+   "date": "2026-10-13T16:53:09.000Z"
+  },
+  {
+   "id": "86bc0086ed6d",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Waterfox 6.7.6 adds feed controls and fixes startup hangs",
+   "summary": "Waterfox 6.7.6 adds separate controls for Live Bookmarks and direct feed URL previews, alongside new options to open original feed articles in a tab or window. The release also adds double-click closing for ordinary tabs and fixes a startu…",
+   "url": "https://alternativeto.net/news/2026/10/waterfox-6-7-6-adds-feed-controls-and-fixes-startup-hangs/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791909988791.png",
+   "date": "2026-10-13T16:46:28.000Z"
+  },
+  {
+   "id": "8e6ec72e4029",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc234",
+   "summary": "Bump release version to 0.9.74rc234",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc234",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-13T14:03:13.000Z"
+  },
+  {
+   "id": "e493b65d10df",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc233",
+   "summary": "Bump release version to 0.9.74rc233",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc233",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-13T13:31:46.000Z"
+  },
+  {
+   "id": "c10730f01a35",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc232",
+   "summary": "Bump release version to 0.9.74rc232",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc232",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-13T13:01:30.000Z"
+  },
+  {
+   "id": "ffc748cb8d88",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "image": "",
+   "date": "2026-10-13T12:00:00.000Z"
+  },
+  {
+   "id": "21c7aa05bbeb",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Weekly Update 525: AI Data Breach Hyperbole",
+   "summary": "I remember the name of that AI doco now - The AI Doc: Or How I Became an Apocaloptimist . I was watching it on the long-haul flight home the other day, and what I found particularly engrossing was the polar-opposite opinions from a bunch o…",
+   "url": "https://www.troyhunt.com/weekly-update-525/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/IMNVv9VZuIZ3s.png",
+   "date": "2026-10-13T10:47:27.000Z"
+  },
+  {
+   "id": "1d00fd594c45",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Names of Nearly 4 Million Enslaved People in Former British Colonies Are Now Searchable Online, Helping Descendants Find Lost Ancestors",
+   "summary": "A few years ago, we featured here on Open Culture the Freedmen’s Bureau Project database , which contains searchable information on formerly enslaved people in the United States after its Civil War. With nearly 1.8 million men, women, and…",
+   "url": "https://www.openculture.com/2026/10/names-of-nearly-4-million-enslaved-people-in-former-british-colonies-are-searchable-online.html",
+   "image": "https://cdn8.openculture.com/2026/10/12230137/Screenshot-2026-10-12-at-11.05.48-PM-1.png",
+   "date": "2026-10-13T09:02:36.000Z"
+  },
+  {
+   "id": "78ea14817927",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Bialetti Moka Express: The History of Italy’s Iconic Coffee Maker, and How to Use It the Right Way",
+   "summary": "I am sure that many an Open Culture reader has a Bialetti Moka Express in their kitchen. I know I do, but I must add that I knew little about its history and apparently even less about how to properly use one. Coffee expert and author of T…",
+   "url": "https://www.openculture.com/2026/10/how-to-use-the-bialetti-moka-pot-the-right-way.html",
+   "image": "https://i.ytimg.com/vi/upgQsA5kLAk/maxresdefault.jpg",
+   "date": "2026-10-13T08:00:20.000Z"
+  },
+  {
+   "id": "5bcfd3601dd4",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "The People, Counted: Browse Raw Census Records at the Internet Archive",
+   "summary": "The U.S. Census has been in the headlines lately, as proposed changes to the 2030 count have sparked debate over who gets counted and what information should be recorded as part of that process. Few government records say more about a demo…",
+   "url": "https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/image-1-1024x432.png",
+   "date": "2026-10-12T16:13:51.000Z"
+  },
+  {
+   "id": "1b35e8148d5f",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Biggest Ship in History Was Built in China 600 Years Ago—Or Was It?",
+   "summary": "In 2002, the retired British submarine lieutenant-commander turned amateur historian Gavin Menzies created a stir with a book about Chinese seafaring in the fifteenth century. 1421: The Year China Discovered the World (tellingly titled 142…",
+   "url": "https://www.openculture.com/2026/10/the-biggest-ship-in-history-was-built-in-china-600-years-ago-or-was-it.html",
+   "image": "https://i.ytimg.com/vi/dNvYhm6wT-0/maxresdefault.jpg",
+   "date": "2026-10-12T09:00:44.000Z"
+  },
+  {
+   "id": "fce65b81393e",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.60.9",
+   "summary": "What's Changed i18n: Add ja translations for new UI (part 2) by @skkzsh in #4491 Restock & Price detection - Fix decimal-comma prices (\"39,99\") being read as 3999 by @jaime-king in #4494 Update pytest requirement from ~=9.0 to ~=9.1 by @de…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.9",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-10-12T07:52:49.000Z"
+  },
+  {
+   "id": "90dfcc93d005",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.2",
+   "summary": "Highlights Bring Reactive Resume into Claude, Codex and ChatGPT. Eight agent skills now cover the whole job search, from resume content, bullets and tailoring to application tracking, interview prep, mock interviews and offer negotiation.…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.2",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-09T15:50:33.000Z"
+  },
+  {
+   "id": "4f3f69273c08",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.16",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.16 Extractors Additions [toyhouse] add extractor for character galleries ( cb#493 ) [xenfo…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.16",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-10-09T09:45:22.000Z"
+  },
+  {
+   "id": "edd58468d564",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+   "url": "https://openai.com/index/sophos",
+   "image": "",
+   "date": "2026-10-09T07:00:00.000Z"
+  },
+  {
+   "id": "90995f7dbc9c",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "image": "",
+   "date": "2026-10-09T07:00:00.000Z"
+  },
+  {
+   "id": "7f95f2321b1e",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.1",
+   "summary": "Reactive Resume v6.0.1 introduces Application Workspace + Career Coach : a place to turn your experience into application answers, prepare for interviews, and keep your job search moving. Highlights A workspace for every application. Check…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.1",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-08T20:28:06.000Z"
+  },
+  {
+   "id": "a5e745b13644",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Internet Archive to Demo Wayback Machine at Friday’s Uniqlo Street Festival",
+   "summary": "The Internet Archive is joining other area nonprofits for the Uniqlo Street Festival on Friday, October 9, 2026, alongside the opening of Uniqlo’s new flagship store on Market Street. We’ll be set up with fellow San Francisco nonprofits Gr…",
+   "url": "https://blog.archive.org/2026/10/08/internet-archive-to-demo-wayback-machine-at-fridays-uniqlo-street-festival/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/09/Internet-Archive-Logo-White-on-Black-512x512-1.png",
+   "date": "2026-10-08T11:50:00.000Z"
+  },
+  {
+   "id": "9c233400a6cc",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Who Is Government Information For? Information Stewardship Forum 2026 Report",
+   "summary": "Democracy’s Library exists as a project of the Internet Archive to make government publications and information broadly accessible and available. But Democracy’s Library is about more than collections – it is also about building community.…",
+   "url": "https://blog.archive.org/2026/10/06/who-is-government-information-for-information-stewardship-forum-2026-report/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-12.06.58-PM-782x1024.png",
+   "date": "2026-10-06T15:48:12.000Z"
+  },
+  {
+   "id": "4c9d867c9227",
+   "sourceId": "gh-vaultwarden",
+   "sourceName": "Vaultwarden",
+   "title": "Vaultwarden · 1.37.4",
+   "summary": "Security Fixes This release contains security fixes for the following advisories. We strongly advise updating as soon as possible. Organization member revocation [GHSA-69q9-v8p6-xvx3] ( High , 8.1) Two-factor authentication [GHSA-7jg8-8m5x…",
+   "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.4",
+   "image": "https://avatars.githubusercontent.com/u/725423?s=60&v=4",
+   "date": "2026-10-06T11:30:54.000Z"
+  },
+  {
+   "id": "7a643f257b62",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.0",
+   "summary": "Reactive Resume v6 is a full redesign. It rebuilds the workspace around your documents: one library, a Write / Design / Check editor, an assistant whose edits you review, standalone cover letters, and an application tracker centered on you…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.0",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-04T19:00:06.000Z"
+  },
+  {
+   "id": "5e2f5e5d0c09",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Weekly Update 524: Live From Copenhagen",
+   "summary": "I&apos;m in Denmark! Well, just, I&apos;m now at Copenhagen airport ready to begin the long trek home, with the final event at GOTO now done and going just perfectly. This week, there are two ShinyHunters arrests in the news: Pepijn in the…",
+   "url": "https://www.troyhunt.com/weekly-update-524/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault.jpg",
+   "date": "2026-10-04T11:52:23.000Z"
+  },
+  {
+   "id": "6b014303a99c",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.15",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.15 Extractors Additions [mastodon] support mastodon.art ( gh#5269 ) [mastodon] support aet…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.15",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-10-03T15:53:29.000Z"
+  },
+  {
+   "id": "1d1c2c9aaec3",
+   "sourceId": "gh-suwayomi",
+   "sourceName": "Suwayomi",
+   "title": "Suwayomi · v2.4.2366 - Syncyomi v2 and Other Improvements!",
+   "summary": "Major Changes Bug Squashing and Optimizations! This release focuses on fixing many bugs and optimizing startup time! Syncyomi v2 Support! Syncyomi has released its next version of syncing your library, optimizing the sync and squashing man…",
+   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.4.2366",
+   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
+   "date": "2026-09-30T03:16:23.000Z"
+  },
+  {
+   "id": "0da1ef5420c4",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.60.8",
+   "summary": "What's Changed Adding HTTP browser caching of UI elements by @dgtlmoon in #4450 UI - Set language on reverse proxy/subdirectory hosting was acting wrong, just redirect it to watchlist so theres no failures. by @dgtlmoon in #4453 System - E…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.8",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-09-28T07:24:57.000Z"
+  },
+  {
+   "id": "2ee4dc7fcf2e",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Weekly Update 523: Live From a Norwegian Fjord",
+   "summary": "How&apos;s that view?! With NDC Oslo now done, it&apos;s a little bit of sightseeing before heading to Denmark for GOTO in Copenhagen for Scott&apos;s and my \"Cyber-broken\" talk. In the meantime, this week is mostly about the ShinyHunters…",
+   "url": "https://www.troyhunt.com/weekly-update-523/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/maxresdefault.jpg",
+   "date": "2026-09-28T07:24:49.000Z"
+  },
+  {
+   "id": "a7e8b0fa2059",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.14",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.14 Extractors Additions [xasiat] add video extractor ( cb#453 gh#8335 ) [steamcommunity] a…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.14",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-09-27T10:09:00.000Z"
+  },
+  {
+   "id": "30dd7154d8f4",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.60.7",
+   "summary": "What's Changed Fetch favicon candidates in parallel under one deadline, and fix two ways it could hang by @dgtlmoon in #4435 Keep history diff title and controls visible while scrolling by @jhedlund in #4412 General licence cleanups by @dg…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.7",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-09-17T09:23:07.000Z"
+  },
+  {
+   "id": "dc94359bf967",
+   "sourceId": "gh-vaultwarden",
+   "sourceName": "Vaultwarden",
+   "title": "Vaultwarden · 1.37.3",
+   "summary": "What's Changed Fix password change with newer web-vault by @BlackDex in #7634 chore: remove duplicate \"the\" in ciphers.rs comment by @mvanhorn in #7254 Ignore reset-password auto-enroll when mail is disabled by @xhon-pelushi in #7585 Fix m…",
+   "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.3",
+   "image": "https://avatars.githubusercontent.com/u/610450?s=60&v=4",
+   "date": "2026-09-13T15:03:37.000Z"
+  },
+  {
+   "id": "85e98b464c11",
+   "sourceId": "gh-localsend",
+   "sourceName": "LocalSend",
+   "title": "LocalSend · v1.18.2",
+   "summary": "This release fixes compatibility issues with 1.17.0 and earlier. Note: The Windows binaries have been updated to include a signature. feat: drag and drop files into the \"Receive via link\" browser page feat(desktop): allow customizing the w…",
+   "url": "https://github.com/localsend/localsend/releases/tag/v1.18.2",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-09-12T03:00:00.000Z"
+  },
+  {
+   "id": "6e385e32db39",
+   "sourceId": "gh-localsend",
+   "sourceName": "LocalSend",
+   "title": "LocalSend · v1.18.0",
+   "summary": "This release is also the first release of the CLI. It uses the same Rust library as the Flutter app. The Rust rewrite of the core networking and file I/O logic is complete. You should notice that in improved transfer speeds. Note: The Wind…",
+   "url": "https://github.com/localsend/localsend/releases/tag/v1.18.0",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-09-12T02:39:04.000Z"
+  },
+  {
+   "id": "50daaab95354",
+   "sourceId": "gh-vaultwarden",
+   "sourceName": "Vaultwarden",
+   "title": "Vaultwarden · 1.37.2",
+   "summary": "Note This update is required for support with clients with version 2026.8.0+, please update before reporting any issues with them. Important Also read #7615 for more details if you still have client issues! What's Changed Fix Debian cross-…",
+   "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.2",
+   "image": "https://avatars.githubusercontent.com/u/610450?s=60&v=4",
+   "date": "2026-08-24T09:42:38.000Z"
+  },
+  {
+   "id": "61f9d0d39767",
+   "sourceId": "gh-localsend",
+   "sourceName": "LocalSend",
+   "title": "LocalSend · v1.18.1",
+   "summary": "Android+iOS only hotfix update. See 1.18.0 for the full release. fix: revert button icon sizes to 24 fix: when sending a message that is accepted immediately, a ghost device list tile appears fix(mobile): when sending a link message, the \"…",
+   "url": "https://github.com/localsend/localsend/releases/tag/v1.18.1",
+   "image": "https://avatars.githubusercontent.com/u/38380847?s=60&v=4",
+   "date": "2026-08-12T13:11:17.000Z"
+  },
+  {
+   "id": "5d8fe5de0b43",
+   "sourceId": "gh-suwayomi",
+   "sourceName": "Suwayomi",
+   "title": "Suwayomi · v2.3.2243 - SyncYomi Support, Extension API v1.6, and More! Fix 4",
+   "summary": "Fix 4 for v2.3.2223 Added ( Extension ) Add ability to install jar versions of extensions Fixed ( Extension ) Fix missing memo field in getPageList Fix 3 for v2.3.2223 Changed ( Extension ) Support fully qualified extension class names ( M…",
+   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.3.2243",
+   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
+   "date": "2026-07-13T18:34:38.000Z"
+  },
+  {
+   "id": "392d7dac1c1f",
+   "sourceId": "gh-suwayomi",
+   "sourceName": "Suwayomi",
+   "title": "Suwayomi · v2.3.2238 - SyncYomi Support, Extension API v1.6, and More! Hotfix 3",
+   "summary": "Hotfix 3 for v2.3.2223 Changed ( Extension ) Support fully qualified extension class names ( Manga/API ) Return partial responses for Manga And Chapters query Fixed ( Database/H2 ) Use temporary file for H2 migration tools download Hotfix…",
+   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.3.2238",
+   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
+   "date": "2026-07-05T19:44:30.000Z"
+  },
+  {
+   "id": "bc43e2a2a821",
+   "sourceId": "gh-libretranslate",
+   "sourceName": "LibreTranslate",
+   "title": "LibreTranslate · 1.9.6",
+   "summary": "What's Changed Turkish UI Full Changelog : v1.9.5...v1.9.6",
+   "url": "https://github.com/LibreTranslate/LibreTranslate/releases/tag/v1.9.6",
+   "image": "https://avatars.githubusercontent.com/u/1951843?s=60&v=4",
+   "date": "2026-05-26T17:45:39.000Z"
+  },
+  {
+   "id": "3bfee87b54bd",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Radiotechnik : by Hanns Günther",
+   "summary": "Language: German",
+   "url": "https://www.gutenberg.org/ebooks/79778",
+   "image": "https://www.gutenberg.org/cache/epub/79778/pg79778.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "bac699606e9a",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Samhain, issue 2, October 1902 :",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79768",
+   "image": "https://www.gutenberg.org/cache/epub/79768/pg79768.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "ec5b08beab3a",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Samhain, issue 3, October 1903 :",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79770",
+   "image": "https://www.gutenberg.org/cache/epub/79770/pg79770.cover.medium.jpg",
+   "date": null
+  }
+ ],
+ "report": {
+  "chatgpt": {
+   "feed": "https://openai.com/news/rss.xml",
+   "itens": 1288
+  },
+  "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
+   "aviso": "sem feed"
+  },
+  "receivesms": {
+   "aviso": "ignorado"
+  },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
+  "delphi": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "tec": {
+   "aviso": "sem feed"
+  },
+  "123apps": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 17
+  },
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
+  },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  }
+ }
 }
