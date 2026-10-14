@@ -1,6 +1,56 @@
 {
- "generatedAt": "2026-10-14T06:59:27.522Z",
+ "generatedAt": "2026-10-14T09:47:32.966Z",
  "items": [
+  {
+   "id": "2da4fb0637a5",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
+   "summary": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dollars into current ones…",
+   "url": "https://www.openculture.com/2026/10/why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classics-still-look-so-good.html",
+   "image": "https://i.ytimg.com/vi/Qhjfxx3_n34/maxresdefault.jpg",
+   "date": "2026-10-14T09:00:07.000Z"
+  },
+  {
+   "id": "27cef93a843f",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Linux Mint 27 “Adrien” coming this Christmas with new alarm app and yearly release cycle",
+   "summary": "In a significant departure from its traditional six-month release cycle, Linux Mint has announced it will now adopt a yearly development schedule . The shift, described by the team as a decision years in the making, aims to allow for more…",
+   "url": "https://alternativeto.net/news/2026/10/linux-mint-27-adrien-coming-this-christmas-with-new-alarm-app-and-yearly-release-cycle/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791903963525.png",
+   "date": "2026-10-14T09:00:00.000Z"
+  },
+  {
+   "id": "1efbb2edd584",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Soviet-Era Illustrations of J. R. R. Tolkien’s The Hobbit (1976)",
+   "summary": "Until I read J. R. R. Tolkien’s The Lord of the Rings , my favorite book growing up was, by far, The Hobbit . Growing up in Russia, however, meant that instead of Tolkien’s English version, my parents read me a Russian translation. To me,…",
+   "url": "https://www.openculture.com/2026/10/soviet-era-illustrations-of-j-r-r-tolkiens-the-hobbit-1976.html",
+   "image": "https://cdn8.openculture.com/wp-content/uploads/2014/03/Hobbit1.jpg",
+   "date": "2026-10-14T08:00:40.000Z"
+  },
+  {
+   "id": "a16cc74b703b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Mozilla releases Firefox 158 with JPEG XL support and faster form-filling in Smart Windows",
+   "summary": "Mozilla has released Firefox 158 , bringing a suite of productivity enhancements and format improvements to the popular web browser. One of the standout additions is Smart Window's upgraded form-filling capability , which now suggests rele…",
+   "url": "https://alternativeto.net/news/2026/10/mozilla-releases-firefox-158-with-jpeg-xl-support-and-faster-form-filling-in-smart-windows/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791902930492.png",
+   "date": "2026-10-14T07:30:00.000Z"
+  },
+  {
+   "id": "2f3282e48314",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "The EU’s next chapter in AI is agentic",
+   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "image": "",
+   "date": "2026-10-14T00:00:00.000Z"
+  },
   {
    "id": "2d7bfd9c8a3f",
    "sourceId": "alternativeto",
@@ -10,26 +60,6 @@
    "url": "https://alternativeto.net/news/2026/10/typefully-adds-polls-for-linkedin-threads-and-mastodon/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791910592521.png",
    "date": "2026-10-13T16:56:32.000Z"
-  },
-  {
-   "id": "73fdbad66231",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "The X Subscription combines Grok, Cursor and X Premium",
-   "summary": "SpaceX Super Intelligence is introducing the X Subscription, intended to unify plans across Grok , Cursor , and X Premium . Current subscribers can retain their existing plan or switch and link their Grok, Cursor, and X accounts. The rollo…",
-   "url": "https://alternativeto.net/news/2026/10/the-x-subscription-combines-grok-cursor-and-x-premium/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791910389997.png",
-   "date": "2026-10-13T16:53:09.000Z"
-  },
-  {
-   "id": "86bc0086ed6d",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Waterfox 6.7.6 adds feed controls and fixes startup hangs",
-   "summary": "Waterfox 6.7.6 adds separate controls for Live Bookmarks and direct feed URL previews, alongside new options to open original feed articles in a tab or window. The release also adds double-click closing for ordinary tabs and fixes a startu…",
-   "url": "https://alternativeto.net/news/2026/10/waterfox-6-7-6-adds-feed-controls-and-fixes-startup-hangs/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791909988791.png",
-   "date": "2026-10-13T16:46:28.000Z"
   },
   {
    "id": "8e6ec72e4029",
@@ -92,16 +122,6 @@
    "date": "2026-10-13T09:02:36.000Z"
   },
   {
-   "id": "78ea14817927",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Bialetti Moka Express: The History of Italy’s Iconic Coffee Maker, and How to Use It the Right Way",
-   "summary": "I am sure that many an Open Culture reader has a Bialetti Moka Express in their kitchen. I know I do, but I must add that I knew little about its history and apparently even less about how to properly use one. Coffee expert and author of T…",
-   "url": "https://www.openculture.com/2026/10/how-to-use-the-bialetti-moka-pot-the-right-way.html",
-   "image": "https://i.ytimg.com/vi/upgQsA5kLAk/maxresdefault.jpg",
-   "date": "2026-10-13T08:00:20.000Z"
-  },
-  {
    "id": "5bcfd3601dd4",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -110,16 +130,6 @@
    "url": "https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/image-1-1024x432.png",
    "date": "2026-10-12T16:13:51.000Z"
-  },
-  {
-   "id": "1b35e8148d5f",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Biggest Ship in History Was Built in China 600 Years Ago—Or Was It?",
-   "summary": "In 2002, the retired British submarine lieutenant-commander turned amateur historian Gavin Menzies created a stir with a book about Chinese seafaring in the fifteenth century. 1421: The Year China Discovered the World (tellingly titled 142…",
-   "url": "https://www.openculture.com/2026/10/the-biggest-ship-in-history-was-built-in-china-600-years-ago-or-was-it.html",
-   "image": "https://i.ytimg.com/vi/dNvYhm6wT-0/maxresdefault.jpg",
-   "date": "2026-10-12T09:00:44.000Z"
   },
   {
    "id": "fce65b81393e",
@@ -158,16 +168,6 @@
    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
    "url": "https://openai.com/index/sophos",
-   "image": "",
-   "date": "2026-10-09T07:00:00.000Z"
-  },
-  {
-   "id": "90995f7dbc9c",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "url": "https://openai.com/index/asana-browser-agent",
    "image": "",
    "date": "2026-10-09T07:00:00.000Z"
   },
@@ -405,7 +405,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1288
+   "itens": 1289
   },
   "canva": {
    "aviso": "sem feed"
@@ -433,9 +433,6 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
@@ -443,39 +440,42 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 19
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -485,35 +485,30 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "unscreen": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "unscreen": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -524,15 +519,20 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   }
  }
