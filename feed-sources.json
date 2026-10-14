@@ -1,0 +1,8 @@
+{
+  "chatgpt": { "feed": "https://openai.com/news/rss.xml" },
+  "openculture": { "feed": "https://www.openculture.com/feed" },
+  "wayback": { "feed": "https://blog.archive.org/feed/" },
+  "hibp": { "feed": "https://www.troyhunt.com/rss/" },
+  "gutenberg": { "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss" },
+  "receivesms": { "skip": true }
+}
