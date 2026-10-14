@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-14T12:57:06.230Z",
+ "generatedAt": "2026-10-14T15:52:48.912Z",
  "items": [
+  {
+   "id": "5d9e396595b2",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Google's Gemini 4 Argon is now available in Gemini, AI Studio, AI mode in Search, and more",
+   "summary": "Google has officially launched Gemini 4 Argon , two weeks after its first introduction , making the advanced AI model globally available for developers and enterprises. The new model is accessible via API through Google AI Studio and the G…",
+   "url": "https://alternativeto.net/news/2026/10/google-s-gemini-4-argon-is-now-available-in-gemini-ai-studio-ai-mode-in-search-and-more/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791925118890.png",
+   "date": "2026-10-14T15:00:00.000Z"
+  },
   {
    "id": "c9fb178b92fa",
    "sourceId": "alternativeto",
@@ -52,16 +62,6 @@
    "date": "2026-10-14T09:00:07.000Z"
   },
   {
-   "id": "27cef93a843f",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Linux Mint 27 “Adrien” coming this Christmas with new alarm app and yearly release cycle",
-   "summary": "In a significant departure from its traditional six-month release cycle, Linux Mint has announced it will now adopt a yearly development schedule . The shift, described by the team as a decision years in the making, aims to allow for more…",
-   "url": "https://alternativeto.net/news/2026/10/linux-mint-27-adrien-coming-this-christmas-with-new-alarm-app-and-yearly-release-cycle/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791903963525.png",
-   "date": "2026-10-14T09:00:00.000Z"
-  },
-  {
    "id": "1efbb2edd584",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -70,6 +70,16 @@
    "url": "https://www.openculture.com/2026/10/soviet-era-illustrations-of-j-r-r-tolkiens-the-hobbit-1976.html",
    "image": "https://cdn8.openculture.com/wp-content/uploads/2014/03/Hobbit1.jpg",
    "date": "2026-10-14T08:00:40.000Z"
+  },
+  {
+   "id": "e181547094b0",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+   "url": "https://openai.com/index/third-moment-research",
+   "image": "",
+   "date": "2026-10-14T07:00:00.000Z"
   },
   {
    "id": "2f3282e48314",
@@ -180,16 +190,6 @@
    "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.16",
    "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
    "date": "2026-10-09T09:45:22.000Z"
-  },
-  {
-   "id": "edd58468d564",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-   "url": "https://openai.com/index/sophos",
-   "image": "",
-   "date": "2026-10-09T07:00:00.000Z"
   },
   {
    "id": "7f95f2321b1e",
@@ -372,16 +372,6 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
-   "id": "3bfee87b54bd",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Radiotechnik : by Hanns Günther",
-   "summary": "Language: German",
-   "url": "https://www.gutenberg.org/ebooks/79778",
-   "image": "https://www.gutenberg.org/cache/epub/79778/pg79778.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "877d498e3bd2",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -400,35 +390,43 @@
    "url": "https://www.gutenberg.org/ebooks/2413",
    "image": "https://www.gutenberg.org/cache/epub/2413/pg2413.cover.medium.jpg",
    "date": null
+  },
+  {
+   "id": "8702f76f364c",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Paradise Regained by John Milton",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/58",
+   "image": "https://www.gutenberg.org/cache/epub/58/pg58.cover.medium.jpg",
+   "date": null
   }
  ],
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1289
-  },
-  "canva": {
-   "aviso": "sem feed"
+   "itens": 1290
   },
   "comprecripto": {
+   "aviso": "sem feed"
+  },
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "123apps": {
-   "aviso": "sem feed"
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   },
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -439,31 +437,33 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 11
+   "itens": 16
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -475,20 +475,23 @@
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "hibp": {
-   "feed": "https://www.troyhunt.com/rss/",
-   "itens": 15
-  },
   "photopea": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
+  },
+  "smartmockups": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -498,34 +501,31 @@
   "unscreen": {
    "aviso": "sem feed"
   },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
