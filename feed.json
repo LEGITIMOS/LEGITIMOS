@@ -1,6 +1,46 @@
 {
- "generatedAt": "2026-10-14T09:47:32.966Z",
+ "generatedAt": "2026-10-14T12:57:06.230Z",
  "items": [
+  {
+   "id": "c9fb178b92fa",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Joomla 6.2 brings TinyMCE editor updates, OAuth2 support, and security flag for extensions",
+   "summary": "The Joomla Project has announced the official release of Joomla 6.2 , code-named “Mwezi”, marking a significant minor version update focused on streamlining content creation and bolstering platform security. The update introduces substanti…",
+   "url": "https://alternativeto.net/news/2026/10/joomla-6-2-brings-tinymce-editor-updates-oauth2-support-and-security-flag-for-extensions/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791913179128.png",
+   "date": "2026-10-14T12:00:00.000Z"
+  },
+  {
+   "id": "57650796d41b",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Building the Hero Award: The Story Behind Taekyeom Lee’s 3D-Printed Model of the Internet Archive",
+   "summary": "The Internet Archive Hero Award, as designed by Taekyeom Lee. Taekyeom Lee is an educator, designer, maker, and researcher. The associate professor of graphic design at Indiana University Bloomington is not only committed to teaching his s…",
+   "url": "https://blog.archive.org/2026/10/14/building-the-hero-award/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/Internet-Archive-Hero-Award-for-Tim-Berners-Lee-862x1024.jpg",
+   "date": "2026-10-14T12:00:00.000Z"
+  },
+  {
+   "id": "1269dba2523a",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Bumble agrees to $1.3 billion all-cash sale to Ithaca Holdings",
+   "summary": "Bumble has agreed to be acquired by Ithaca Holdings in an all-cash transaction valued at $1.3 billion. Class A common shareholders will receive $6.05 per share in cash, and the deal has received the required shareholder approval by written…",
+   "url": "https://alternativeto.net/news/2026/10/bumble-agrees-to-1-3-billion-all-cash-sale-to-ithaca-holdings/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791973568532.png",
+   "date": "2026-10-14T10:26:08.000Z"
+  },
+  {
+   "id": "47eadd5b17fe",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.3",
+   "summary": "Highlights Format text the way you want. The editor toolbar brings back alignment and underline, plus a More formatting menu with strikethrough, code, highlight, text colour, headings, indent and outdent, horizontal lines and clear formatt…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.3",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-14T09:54:53.000Z"
+  },
   {
    "id": "2da4fb0637a5",
    "sourceId": "openculture",
@@ -32,16 +72,6 @@
    "date": "2026-10-14T08:00:40.000Z"
   },
   {
-   "id": "a16cc74b703b",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Mozilla releases Firefox 158 with JPEG XL support and faster form-filling in Smart Windows",
-   "summary": "Mozilla has released Firefox 158 , bringing a suite of productivity enhancements and format improvements to the popular web browser. One of the standout additions is Smart Window's upgraded form-filling capability , which now suggests rele…",
-   "url": "https://alternativeto.net/news/2026/10/mozilla-releases-firefox-158-with-jpeg-xl-support-and-faster-form-filling-in-smart-windows/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791902930492.png",
-   "date": "2026-10-14T07:30:00.000Z"
-  },
-  {
    "id": "2f3282e48314",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -50,16 +80,6 @@
    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
    "image": "",
    "date": "2026-10-14T00:00:00.000Z"
-  },
-  {
-   "id": "2d7bfd9c8a3f",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Typefully adds polls for LinkedIn, Threads, and Mastodon",
-   "summary": "Typefully now supports polls in LinkedIn , Threads , and Mastodon posts, in addition to X . Users can write poll options once for a multi-platform draft, while configuring settings such as duration for each platform separately. Typefully f…",
-   "url": "https://alternativeto.net/news/2026/10/typefully-adds-polls-for-linkedin-threads-and-mastodon/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791910592521.png",
-   "date": "2026-10-13T16:56:32.000Z"
   },
   {
    "id": "8e6ec72e4029",
@@ -192,16 +212,6 @@
    "date": "2026-10-08T11:50:00.000Z"
   },
   {
-   "id": "9c233400a6cc",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Who Is Government Information For? Information Stewardship Forum 2026 Report",
-   "summary": "Democracy’s Library exists as a project of the Internet Archive to make government publications and information broadly accessible and available. But Democracy’s Library is about more than collections – it is also about building community.…",
-   "url": "https://blog.archive.org/2026/10/06/who-is-government-information-for-information-stewardship-forum-2026-report/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-12.06.58-PM-782x1024.png",
-   "date": "2026-10-06T15:48:12.000Z"
-  },
-  {
    "id": "4c9d867c9227",
    "sourceId": "gh-vaultwarden",
    "sourceName": "Vaultwarden",
@@ -210,16 +220,6 @@
    "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.4",
    "image": "https://avatars.githubusercontent.com/u/725423?s=60&v=4",
    "date": "2026-10-06T11:30:54.000Z"
-  },
-  {
-   "id": "7a643f257b62",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.0",
-   "summary": "Reactive Resume v6 is a full redesign. It rebuilds the workspace around your documents: one library, a Write / Design / Check editor, an assistant whose edits you review, standalone cover letters, and an application tracker centered on you…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.0",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-04T19:00:06.000Z"
   },
   {
    "id": "5e2f5e5d0c09",
@@ -392,13 +392,13 @@
    "date": null
   },
   {
-   "id": "bac699606e9a",
+   "id": "e66bcdbbe8e9",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Samhain, issue 2, October 1902 :",
+   "title": "Madame Bovary by Gustave Flaubert",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79768",
-   "image": "https://www.gutenberg.org/cache/epub/79768/pg79768.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/2413",
+   "image": "https://www.gutenberg.org/cache/epub/2413/pg2413.cover.medium.jpg",
    "date": null
   }
  ],
@@ -416,17 +416,19 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
+   "aviso": "sem feed"
+  },
+  "delphi": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -437,19 +439,23 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 19
+   "itens": 11
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
+   "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
@@ -457,10 +463,7 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "arena": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -475,15 +478,22 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "carbon": {
    "aviso": "sem feed"
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
   },
   "unscreen": {
    "aviso": "sem feed"
@@ -491,8 +501,11 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
@@ -503,36 +516,23 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
    "aviso": "sem feed"
   }
  }
