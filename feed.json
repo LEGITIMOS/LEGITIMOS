@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T00:48:39.688Z",
+ "generatedAt": "2026-10-14T06:59:27.522Z",
  "items": [
   {
    "id": "2d7bfd9c8a3f",
@@ -382,6 +382,16 @@
    "date": null
   },
   {
+   "id": "877d498e3bd2",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The voiceless sentinels by Roger D. Aycock",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79780",
+   "image": "https://www.gutenberg.org/cache/epub/79780/pg79780.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "bac699606e9a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -389,16 +399,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79768",
    "image": "https://www.gutenberg.org/cache/epub/79768/pg79768.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "ec5b08beab3a",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Samhain, issue 3, October 1903 :",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79770",
-   "image": "https://www.gutenberg.org/cache/epub/79770/pg79770.cover.medium.jpg",
    "date": null
   }
  ],
@@ -423,50 +423,50 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 17
+   "itens": 19
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "poe": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -478,9 +478,6 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
@@ -488,19 +485,21 @@
   "carbon": {
    "aviso": "sem feed"
   },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
+  "unscreen": {
    "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -509,8 +508,9 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -520,16 +520,16 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "rayso": {
