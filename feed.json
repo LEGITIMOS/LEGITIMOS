@@ -1,25 +1,65 @@
 {
- "generatedAt": "2026-10-15T15:49:16.590Z",
+ "generatedAt": "2026-10-15T18:55:17.882Z",
  "items": [
   {
-   "id": "20fc28275c70",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc244",
-   "summary": "Bump release version to 0.9.74rc244",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc244",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-15T15:47:50.000Z"
-  },
-  {
-   "id": "fce987b9f597",
+   "id": "03d6d45db197",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
-   "title": "Meta unveils “Your Algorithm” to personalize your Facebook feed with AI-powered controls",
-   "summary": "Meta has announced a significant shift in how Facebook surfaces content to its billions of users, unveiling new AI-powered tools that allow individuals to directly shape their algorithmic feed preferences . The update, dubbed “Your Algorit…",
-   "url": "https://alternativeto.net/news/2026/10/meta-unveils-your-algorithm-to-personalize-your-facebook-feed-with-ai-powered-controls/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791984537685.png",
-   "date": "2026-10-15T13:30:00.000Z"
+   "title": "Notion unveils version 3.8 with enhanced agent capabilities & cross-platform integrations",
+   "summary": "Notion has launched version 3.8, introducing a suite of features designed to strengthen collaboration between human teams and AI agents . The update centers on “context for your agents” , with major improvements to synced databases now sup…",
+   "url": "https://alternativeto.net/news/2026/10/notion-unveils-version-3-8-with-enhanced-agent-capabilities-and-cross-platform-integrations/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791990621342.png",
+   "date": "2026-10-15T18:00:00.000Z"
+  },
+  {
+   "id": "1e520e06f10e",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.74rc251",
+   "summary": "Bump release version to 0.9.74rc251",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc251",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-15T17:49:40.000Z"
+  },
+  {
+   "id": "295e7471ec24",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc251",
+   "summary": "Bump release version to 0.9.74rc251",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc251",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-15T17:49:40.000Z"
+  },
+  {
+   "id": "a033de29acb7",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc250",
+   "summary": "Bump release version to 0.9.74rc250",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc250",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-15T17:43:27.000Z"
+  },
+  {
+   "id": "616f85c1a60b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Proton Pass brings folders and detailed autofill controls",
+   "summary": "Proton Pass now supports folders and nested subfolders for organizing vault items, including drag-and-drop, filtering, and search within folders. Autofill URL matching can be customized with domain, host, wildcard, regular-expression, and…",
+   "url": "https://alternativeto.net/news/2026/10/proton-pass-brings-folders-and-detailed-autofill-controls/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792081900521.png",
+   "date": "2026-10-15T16:31:40.000Z"
+  },
+  {
+   "id": "5d3743a5e27b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Proton Meet adds new features to give more control to teams: waiting rooms & chat threads",
+   "summary": "Swiss privacy-focused company Proton has rolled out two significant enhancements to its Meet video conferencing platform , targeting organizations that prioritize both security and meeting efficiency. The newly launched waiting rooms and c…",
+   "url": "https://alternativeto.net/news/2026/10/proton-meet-adds-new-features-to-give-more-control-to-teams-waiting-rooms-and-chat-threads/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791985263599.png",
+   "date": "2026-10-15T16:30:00.000Z"
   },
   {
    "id": "fa14b8f7db46",
@@ -30,36 +70,6 @@
    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
    "image": "",
    "date": "2026-10-15T13:00:00.000Z"
-  },
-  {
-   "id": "438ff9991aa7",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Deezer upgrades lossless audio to 24-bit/192 kHz for all subscribers at no extra cost",
-   "summary": "Deezer has announced that it is upgrading its flagship HiFi service to support lossless FLAC streaming at up to 24-bit/192 kHz , moving beyond the CD-quality 16-bit/44.1 kHz standard it has offered since launching its lossless tier. The Fr…",
-   "url": "https://alternativeto.net/news/2026/10/deezer-upgrades-lossless-audio-to-24-bit-192-khz-for-all-subscribers-at-no-extra-cost/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791983771334.png",
-   "date": "2026-10-15T10:30:00.000Z"
-  },
-  {
-   "id": "27f5d1aa443b",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.74rc243",
-   "summary": "Bump release version to 0.9.74rc243",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc243",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-15T10:14:48.000Z"
-  },
-  {
-   "id": "1e6e43311bcf",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc243",
-   "summary": "Bump release version to 0.9.74rc243",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc243",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-15T10:14:48.000Z"
   },
   {
    "id": "b002b93553ad",
@@ -80,16 +90,6 @@
    "url": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
    "image": "https://i.ytimg.com/vi/mKdcQK2v3JQ/maxresdefault.jpg",
    "date": "2026-10-15T08:00:54.000Z"
-  },
-  {
-   "id": "21fdf5378d8a",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "KDE Plasma 6.8 launches on community's 30th birthday, retiring X11 in favor of Wayland",
-   "summary": "The KDE community celebrated a landmark occasion with the release of KDE Plasma 6.8 , marking three decades since its founding. The latest iteration of the popular Linux desktop environment delivers both immediate user-facing improvements…",
-   "url": "https://alternativeto.net/news/2026/10/kde-plasma-6-8-launches-on-community-s-30th-birthday-retiring-x11-in-favor-of-wayland/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791983308671.png",
-   "date": "2026-10-15T07:30:00.000Z"
   },
   {
    "id": "f5e60c7dac58",
@@ -429,6 +429,9 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
@@ -437,13 +440,7 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "poe": {
-   "aviso": "sem feed"
-  },
-  "arena": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
@@ -451,44 +448,47 @@
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
+   "itens": 13
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -498,11 +498,15 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
@@ -517,20 +521,16 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
+  "unscreen": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
