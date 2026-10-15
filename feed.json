@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-14T18:56:07.991Z",
+ "generatedAt": "2026-10-15T00:55:59.483Z",
  "items": [
+  {
+   "id": "f5e60c7dac58",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch",
+   "summary": "Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery . Created in collaboration with the Internet Archiv…",
+   "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/IMG_2446-791x1024.jpeg",
+   "date": "2026-10-14T20:23:31.000Z"
+  },
+  {
+   "id": "809493b20c4b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "ONLYOFFICE Docs 10.0 launches with context-aware AI across pretty much all its editors",
+   "summary": "ONLYOFFICE has released Docs 10.0 , bringing one of its biggest updates yet with more than 50 new features and a major expansion of AI capabilities across its document, spreadsheet, presentation, and PDF editors. A new AI Tools tab provide…",
+   "url": "https://alternativeto.net/news/2026/10/onlyoffice-docs-10-0-launches-with-context-aware-ai-across-pretty-much-all-its-editors/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792006439804.png",
+   "date": "2026-10-14T19:15:57.000Z"
+  },
   {
    "id": "59b95275b9e2",
    "sourceId": "alternativeto",
@@ -39,16 +59,6 @@
    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
    "url": "https://openai.com/index/sentinelone",
    "image": "",
-   "date": "2026-10-14T12:00:00.000Z"
-  },
-  {
-   "id": "c9fb178b92fa",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Joomla 6.2 brings TinyMCE editor updates, OAuth2 support, and security flag for extensions",
-   "summary": "The Joomla Project has announced the official release of Joomla 6.2 , code-named “Mwezi”, marking a significant minor version update focused on streamlining content creation and bolstering platform security. The update introduces substanti…",
-   "url": "https://alternativeto.net/news/2026/10/joomla-6-2-brings-tinymce-editor-updates-oauth2-support-and-security-flag-for-extensions/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791913179128.png",
    "date": "2026-10-14T12:00:00.000Z"
   },
   {
@@ -200,16 +210,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.1",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-08T20:28:06.000Z"
-  },
-  {
-   "id": "a5e745b13644",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Internet Archive to Demo Wayback Machine at Friday’s Uniqlo Street Festival",
-   "summary": "The Internet Archive is joining other area nonprofits for the Uniqlo Street Festival on Friday, October 9, 2026, alongside the opening of Uniqlo’s new flagship store on Market Street. We’ll be set up with fellow San Francisco nonprofits Gr…",
-   "url": "https://blog.archive.org/2026/10/08/internet-archive-to-demo-wayback-machine-at-fridays-uniqlo-street-festival/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/09/Internet-Archive-Logo-White-on-Black-512x512-1.png",
-   "date": "2026-10-08T11:50:00.000Z"
   },
   {
    "id": "4c9d867c9227",
@@ -405,12 +405,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1292
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1293
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -420,10 +420,10 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
@@ -433,43 +433,43 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "arena": {
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 16
+   "itens": 17
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
@@ -491,45 +491,45 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "rayso": {
