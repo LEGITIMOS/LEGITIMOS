@@ -1,25 +1,65 @@
 {
- "generatedAt": "2026-10-15T07:00:23.401Z",
+ "generatedAt": "2026-10-15T09:47:50.399Z",
  "items": [
   {
-   "id": "6e8c752fc477",
+   "id": "4111b24a2387",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc237",
-   "summary": "Bump release version to 0.9.74rc237",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc237",
+   "title": "ArchiveBox · release-candidate/0.9.74rc242",
+   "summary": "Bump release version to 0.9.74rc242",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc242",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-15T06:45:51.000Z"
+   "date": "2026-10-15T09:43:55.000Z"
   },
   {
-   "id": "23dca4eb2106",
+   "id": "02b1cd628921",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc236",
-   "summary": "Bump release version to 0.9.74rc236",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc236",
+   "title": "ArchiveBox · release-candidate/0.9.74rc241",
+   "summary": "Bump release version to 0.9.74rc241",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc241",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-15T06:32:34.000Z"
+   "date": "2026-10-15T09:38:47.000Z"
+  },
+  {
+   "id": "09cf6372490a",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.74rc240",
+   "summary": "Bump release version to 0.9.74rc240",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc240",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-15T09:10:15.000Z"
+  },
+  {
+   "id": "b002b93553ad",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Megaprojects That Even the Ancient Romans Couldn’t Pull Off: Rerouting the Tiber, Digging a Canal, and More",
+   "summary": "Some would call the United States of America the mightiest empire the world has ever known. Yet over the past half-century or so, it has shown a strange inability to build domestic infrastructure, at least at the efficiency or on the scale…",
+   "url": "https://www.openculture.com/2026/10/the-megaprojects-even-the-ancient-romans-couldnt-pull-off.html",
+   "image": "https://i.ytimg.com/vi/qJIDOq0ezTs/maxresdefault.jpg",
+   "date": "2026-10-15T09:00:05.000Z"
+  },
+  {
+   "id": "77af670485c2",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
+   "summary": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “ The World of Bosch .” Modern viewers may find this very hard to believe. We approach Bosch through layers of Freud…",
+   "url": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
+   "image": "https://i.ytimg.com/vi/mKdcQK2v3JQ/maxresdefault.jpg",
+   "date": "2026-10-15T08:00:54.000Z"
+  },
+  {
+   "id": "21fdf5378d8a",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "KDE Plasma 6.8 launches on community's 30th birthday, retiring X11 in favor of Wayland",
+   "summary": "The KDE community celebrated a landmark occasion with the release of KDE Plasma 6.8 , marking three decades since its founding. The latest iteration of the popular Linux desktop environment delivers both immediate user-facing improvements…",
+   "url": "https://alternativeto.net/news/2026/10/kde-plasma-6-8-launches-on-community-s-30th-birthday-retiring-x11-in-favor-of-wayland/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791983308671.png",
+   "date": "2026-10-15T07:30:00.000Z"
   },
   {
    "id": "28771e2b059f",
@@ -30,16 +70,6 @@
    "url": "https://alternativeto.net/news/2026/10/meta-launches-muse-wonder-ai-models-outperforming-gpt-6-and-opus-5-5-in-key-benchmarks/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792043577607.png",
    "date": "2026-10-15T05:41:10.000Z"
-  },
-  {
-   "id": "a0f42a67068f",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc235",
-   "summary": "Bump release version to 0.9.74rc235",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc235",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-15T02:50:09.000Z"
   },
   {
    "id": "f5e60c7dac58",
@@ -60,16 +90,6 @@
    "url": "https://alternativeto.net/news/2026/10/onlyoffice-docs-10-0-launches-with-context-aware-ai-across-pretty-much-all-its-editors/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792006439804.png",
    "date": "2026-10-14T19:15:57.000Z"
-  },
-  {
-   "id": "59b95275b9e2",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google will let users vibe code and run Android apps without requiring a developer account",
-   "summary": "Google Play has unveiled a significant update on October 13, 2026, introducing a suite of new features aimed at enhancing app discovery, cross-device compatibility, and personalized AI experiences. Vice President Sam Bright announced that…",
-   "url": "https://alternativeto.net/news/2026/10/google-will-let-users-vibe-code-and-run-android-apps-without-requiring-a-developer-account/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791926619905.png",
-   "date": "2026-10-14T16:30:00.000Z"
   },
   {
    "id": "a0e0fec2c2b5",
@@ -122,16 +142,6 @@
    "date": "2026-10-14T09:00:07.000Z"
   },
   {
-   "id": "1efbb2edd584",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Soviet-Era Illustrations of J. R. R. Tolkien’s The Hobbit (1976)",
-   "summary": "Until I read J. R. R. Tolkien’s The Lord of the Rings , my favorite book growing up was, by far, The Hobbit . Growing up in Russia, however, meant that instead of Tolkien’s English version, my parents read me a Russian translation. To me,…",
-   "url": "https://www.openculture.com/2026/10/soviet-era-illustrations-of-j-r-r-tolkiens-the-hobbit-1976.html",
-   "image": "https://cdn8.openculture.com/wp-content/uploads/2014/03/Hobbit1.jpg",
-   "date": "2026-10-14T08:00:40.000Z"
-  },
-  {
    "id": "e181547094b0",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -150,16 +160,6 @@
    "url": "https://www.troyhunt.com/weekly-update-525/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/IMNVv9VZuIZ3s.png",
    "date": "2026-10-13T10:47:27.000Z"
-  },
-  {
-   "id": "1d00fd594c45",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Names of Nearly 4 Million Enslaved People in Former British Colonies Are Now Searchable Online, Helping Descendants Find Lost Ancestors",
-   "summary": "A few years ago, we featured here on Open Culture the Freedmen’s Bureau Project database , which contains searchable information on formerly enslaved people in the United States after its Civil War. With nearly 1.8 million men, women, and…",
-   "url": "https://www.openculture.com/2026/10/names-of-nearly-4-million-enslaved-people-in-former-british-colonies-are-searchable-online.html",
-   "image": "https://cdn8.openculture.com/2026/10/12230137/Screenshot-2026-10-12-at-11.05.48-PM-1.png",
-   "date": "2026-10-13T09:02:36.000Z"
   },
   {
    "id": "5bcfd3601dd4",
@@ -423,18 +423,18 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "arena": {
+   "aviso": "sem feed"
+  },
+  "tec": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
+  },
+  "123apps": {
+   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
@@ -443,45 +443,42 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 19
-  },
-  "poe": {
-   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
   "photopea": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -491,12 +488,18 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -506,30 +509,27 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "rayso": {
