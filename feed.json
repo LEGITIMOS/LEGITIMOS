@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-15T03:47:57.252Z",
+ "generatedAt": "2026-10-15T07:00:23.401Z",
  "items": [
+  {
+   "id": "6e8c752fc477",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc237",
+   "summary": "Bump release version to 0.9.74rc237",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc237",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-15T06:45:51.000Z"
+  },
+  {
+   "id": "23dca4eb2106",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc236",
+   "summary": "Bump release version to 0.9.74rc236",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc236",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-15T06:32:34.000Z"
+  },
+  {
+   "id": "28771e2b059f",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Meta launches Muse Wonder AI models, outperforming GPT-6 and Opus 5.5 in key benchmarks",
+   "summary": "Meta has announced Muse Wonder and Muse Wonder Full , a new family of frontier AI models designed to compete with OpenAI, Anthropic, and Google. Following the smaller Muse Spark 1.3 released last month, the new models were trained at Meta’…",
+   "url": "https://alternativeto.net/news/2026/10/meta-launches-muse-wonder-ai-models-outperforming-gpt-6-and-opus-5-5-in-key-benchmarks/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792043577607.png",
+   "date": "2026-10-15T05:41:10.000Z"
+  },
   {
    "id": "a0f42a67068f",
    "sourceId": "gh-archivebox",
@@ -40,16 +70,6 @@
    "url": "https://alternativeto.net/news/2026/10/google-will-let-users-vibe-code-and-run-android-apps-without-requiring-a-developer-account/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791926619905.png",
    "date": "2026-10-14T16:30:00.000Z"
-  },
-  {
-   "id": "5d9e396595b2",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google's Gemini 4 Argon is now available in Gemini, AI Studio, AI mode in Search, and more",
-   "summary": "Google has officially launched Gemini 4 Argon , two weeks after its first introduction , making the advanced AI model globally available for developers and enterprises. The new model is accessible via API through Google AI Studio and the G…",
-   "url": "https://alternativeto.net/news/2026/10/google-s-gemini-4-argon-is-now-available-in-gemini-ai-studio-ai-mode-in-search-and-more/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1791925118890.png",
-   "date": "2026-10-14T15:00:00.000Z"
   },
   {
    "id": "a0e0fec2c2b5",
@@ -120,26 +140,6 @@
    "url": "https://openai.com/index/third-moment-research",
    "image": "",
    "date": "2026-10-14T07:00:00.000Z"
-  },
-  {
-   "id": "8e6ec72e4029",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc234",
-   "summary": "Bump release version to 0.9.74rc234",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc234",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-13T14:03:13.000Z"
-  },
-  {
-   "id": "e493b65d10df",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc233",
-   "summary": "Bump release version to 0.9.74rc233",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc233",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-13T13:31:46.000Z"
   },
   {
    "id": "21c7aa05bbeb",
@@ -429,6 +429,9 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
@@ -440,12 +443,12 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 17
+   "itens": 19
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -454,13 +457,13 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -469,29 +472,23 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -501,35 +498,38 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "rayso": {
