@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T18:52:08.134Z",
+ "generatedAt": "2026-10-16T21:44:36.108Z",
  "items": [
   {
    "id": "0af85946803f",
@@ -72,6 +72,16 @@
    "date": "2026-10-16T07:37:25.000Z"
   },
   {
+   "id": "9db4940a53f8",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "image": "",
+   "date": "2026-10-16T00:00:00.000Z"
+  },
+  {
    "id": "a72d1e4da6b0",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -110,16 +120,6 @@
    "url": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
    "image": "https://i.ytimg.com/vi/mKdcQK2v3JQ/maxresdefault.jpg",
    "date": "2026-10-15T08:00:54.000Z"
-  },
-  {
-   "id": "dd00c04c9b95",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "image": "",
-   "date": "2026-10-15T00:00:00.000Z"
   },
   {
    "id": "f5e60c7dac58",
@@ -405,7 +405,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1296
+   "itens": 1297
   },
   "canva": {
    "aviso": "sem feed"
@@ -420,18 +420,14 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
-  },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
   },
   "arena": {
    "aviso": "sem feed"
@@ -440,6 +436,10 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
+  },
   "neapay": {
    "aviso": "sem feed"
   },
@@ -447,32 +447,29 @@
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 23
   },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -488,25 +485,36 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
@@ -516,20 +524,12 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "rayso": {
