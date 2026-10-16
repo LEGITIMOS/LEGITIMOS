@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-16T12:58:44.681Z",
+ "generatedAt": "2026-10-16T15:46:36.880Z",
  "items": [
+  {
+   "id": "9f431703cbc4",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Sync-in 2.6 brings draw.io integration, a redesigned image viewer and unified search modes",
+   "summary": "Sync-in has released version 2.6 of its collaborative platform, headlined by the integration of draw.io , the popular open-source diagram editor. According to the company's official announcement , this addition represents a much-requested…",
+   "url": "https://alternativeto.net/news/2026/10/sync-in-2-6-brings-draw-io-integration-a-redesigned-image-viewer-and-unified-search-modes/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792073862470.png",
+   "date": "2026-10-16T15:00:00.000Z"
+  },
+  {
+   "id": "3e4a2c5ff9ea",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "AliasVault 0.31 brings faster vault synchronization and vault sharing with family members",
+   "summary": "AliasVault has released version 0.31 , capping roughly four months of development with what the project describes as its “long-awaited major vault data model update” . According to the official announcement , the release introduces a rebui…",
+   "url": "https://alternativeto.net/news/2026/10/aliasvault-0-31-brings-faster-vault-synchronization-and-vault-sharing-with-family-members/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792073117235.png",
+   "date": "2026-10-16T13:30:00.000Z"
+  },
   {
    "id": "9738c2dbb468",
    "sourceId": "alternativeto",
@@ -10,16 +30,6 @@
    "url": "https://alternativeto.net/news/2026/10/you-can-now-invite-anyone-to-join-a-whatsapp-call-whether-they-have-an-account-or-not/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792072552700.png",
    "date": "2026-10-16T12:00:00.000Z"
-  },
-  {
-   "id": "2d1a08cedeb2",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Fastmail enhances its calendar with a new world clock feature for time zone coordination",
-   "summary": "Fastmail has rolled out what it describes as “a big update” to its calendar, headlined by a new world clock feature aimed at users who coordinate across time zones. In a post on the company's blog, Chief Product Officer Neil Jenkins said t…",
-   "url": "https://alternativeto.net/news/2026/10/fastmail-enhances-its-calendar-with-a-new-world-clock-feature-for-time-zone-coordination/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792071614776.png",
-   "date": "2026-10-16T09:00:00.000Z"
   },
   {
    "id": "38567ea319ff",
@@ -60,16 +70,6 @@
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc278",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-10-16T07:37:25.000Z"
-  },
-  {
-   "id": "df528b8c68ff",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Epic Games introduces new vibe coded launcher and confirms Fortnite is coming to Linux",
-   "summary": "Epic Games has announced a major overhaul of its anti-cheat infrastructure for Linux with the introduction of Easy Anti-Cheat (EAC) Linux V2 . While EAC has supported native Linux game clients since 2014 and added Wine / Proton compatibili…",
-   "url": "https://alternativeto.net/news/2026/10/epic-games-introduces-new-vibe-coded-launcher-and-confirms-fortnite-is-coming-to-linux/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792071108360.png",
-   "date": "2026-10-16T07:30:00.000Z"
   },
   {
    "id": "a72d1e4da6b0",
@@ -419,21 +419,25 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   },
-  "arena": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "delphi": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
@@ -443,38 +447,38 @@
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 19
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
   "poe": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -487,26 +491,26 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
+  "removebg": {
    "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -514,6 +518,10 @@
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -524,16 +532,8 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "rayso": {
    "aviso": "sem feed"
-  },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
   }
  }
 }
