@@ -1,65 +1,75 @@
 {
- "generatedAt": "2026-10-16T06:59:22.031Z",
+ "generatedAt": "2026-10-16T12:58:44.681Z",
  "items": [
   {
-   "id": "1574bcdbea01",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc275",
-   "summary": "Bump release version to 0.9.74rc275",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc275",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-16T06:48:19.000Z"
-  },
-  {
-   "id": "f884e77c839c",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc274",
-   "summary": "Bump release version to 0.9.74rc274",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc274",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-16T06:24:38.000Z"
-  },
-  {
-   "id": "5374f7d41df1",
+   "id": "9738c2dbb468",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
-   "title": "OpenCode 2.0 officially launches with background agents, Code Mode, and a rebuilt API",
-   "summary": "The open-source AI coding agent OpenCode has officially launched version 2.0 , about three months after its public beta began. The update introduces a shared local background service that connects its terminal, web, and desktop interfaces,…",
-   "url": "https://alternativeto.net/news/2026/10/opencode-2-0-officially-launches-with-background-agents-code-mode-and-a-rebuilt-api/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792131357051.png",
-   "date": "2026-10-16T06:03:16.000Z"
+   "title": "You can now invite anyone to join a WhatsApp call, whether they have an account or not",
+   "summary": "In a move that significantly expands accessibility, Meta has announced the launch of WhatsApp guest calling , allowing users to invite anyone to participate in WhatsApp voice and video calls regardless of whether they have a WhatsApp accou…",
+   "url": "https://alternativeto.net/news/2026/10/you-can-now-invite-anyone-to-join-a-whatsapp-call-whether-they-have-an-account-or-not/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792072552700.png",
+   "date": "2026-10-16T12:00:00.000Z"
   },
   {
-   "id": "8bc2aa186049",
+   "id": "2d1a08cedeb2",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Fastmail enhances its calendar with a new world clock feature for time zone coordination",
+   "summary": "Fastmail has rolled out what it describes as “a big update” to its calendar, headlined by a new world clock feature aimed at users who coordinate across time zones. In a post on the company's blog, Chief Product Officer Neil Jenkins said t…",
+   "url": "https://alternativeto.net/news/2026/10/fastmail-enhances-its-calendar-with-a-new-world-clock-feature-for-time-zone-coordination/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792071614776.png",
+   "date": "2026-10-16T09:00:00.000Z"
+  },
+  {
+   "id": "38567ea319ff",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc273",
-   "summary": "Bump release version to 0.9.74rc273",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc273",
+   "title": "ArchiveBox · release-candidate/0.9.74rc283",
+   "summary": "Bump release version to 0.9.74rc283",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc283",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-16T05:59:11.000Z"
+   "date": "2026-10-16T08:38:44.000Z"
   },
   {
-   "id": "e15466219b15",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Libreboot 26.10 adopts UEFI and adds Chromebook support",
-   "summary": "Libreboot 26.10 , codenamed Ominous Olive, introduces full UEFI support by making MrChromebox EDK2 the default boot payload on most supported 64-bit systems, replacing its previous reliance on GRUB and SeaBIOS. This expands compatibility t…",
-   "url": "https://alternativeto.net/news/2026/10/libreboot-26-10-adopts-uefi-and-adds-chromebook-support/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792126171222.png",
-   "date": "2026-10-16T04:34:15.000Z"
+   "id": "1ff91b9de7e1",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc282",
+   "summary": "Bump release version to 0.9.74rc282",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc282",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-16T08:26:19.000Z"
   },
   {
-   "id": "f1832b724650",
+   "id": "795e70c93c9c",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "How Vincent van Gogh’s Sister-in-Law Worked Tirelessly to Make Him Famous",
+   "summary": "No artist, no matter how solitary by nature, becomes a cultural phenomenon alone. That’s even true of such an isolated figure as Vincent van Gogh, whose death in obscurity at the age of 37 left open the question of who, if anyone, would vo…",
+   "url": "https://www.openculture.com/2026/10/how-vincent-van-goghs-sister-in-law-worked-tirelessly-to-make-him-famous.html",
+   "image": "https://i.ytimg.com/vi/m-PcTk9G_Bw/maxresdefault.jpg",
+   "date": "2026-10-16T08:00:05.000Z"
+  },
+  {
+   "id": "cf9bc5032e8d",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.74rc278",
+   "summary": "Bump release version to 0.9.74rc278",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc278",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-16T07:37:25.000Z"
+  },
+  {
+   "id": "df528b8c68ff",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
-   "title": "YouTube Music adds Made with AI labels to generated music tracks",
-   "summary": "YouTube Music is introducing a new “Made with AI” label for music tracks that were substantially altered or fully generated using generative AI. The label focuses on songs where AI played a significant role in creating elements such as com…",
-   "url": "https://alternativeto.net/news/2026/10/youtube-music-adds-made-with-ai-labels-to-generated-music-tracks/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792125116894.png",
-   "date": "2026-10-16T04:24:57.000Z"
+   "title": "Epic Games introduces new vibe coded launcher and confirms Fortnite is coming to Linux",
+   "summary": "Epic Games has announced a major overhaul of its anti-cheat infrastructure for Linux with the introduction of Easy Anti-Cheat (EAC) Linux V2 . While EAC has supported native Linux game clients since 2014 and added Wine / Proton compatibili…",
+   "url": "https://alternativeto.net/news/2026/10/epic-games-introduces-new-vibe-coded-launcher-and-confirms-fortnite-is-coming-to-linux/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792071108360.png",
+   "date": "2026-10-16T07:30:00.000Z"
   },
   {
    "id": "a72d1e4da6b0",
@@ -140,16 +150,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.3",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-14T09:54:53.000Z"
-  },
-  {
-   "id": "2da4fb0637a5",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
-   "summary": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dollars into current ones…",
-   "url": "https://www.openculture.com/2026/10/why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classics-still-look-so-good.html",
-   "image": "https://i.ytimg.com/vi/Qhjfxx3_n34/maxresdefault.jpg",
-   "date": "2026-10-14T09:00:07.000Z"
   },
   {
    "id": "21c7aa05bbeb",
@@ -416,17 +416,19 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "delphi": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -437,20 +439,11 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 26
+   "itens": 19
   },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
@@ -460,10 +453,13 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "poe": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -472,42 +468,45 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "unscreen": {
+  "gh-searxng": {
    "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "removebg": {
+   "aviso": "sem feed"
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -517,23 +516,24 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "rayso": {
    "aviso": "sem feed"
+  },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   }
  }
 }
