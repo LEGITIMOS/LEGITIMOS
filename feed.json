@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-16T21:44:36.108Z",
+ "generatedAt": "2026-10-17T00:57:01.293Z",
  "items": [
+  {
+   "id": "65442e708214",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "image": "",
+   "date": "2026-10-16T19:00:00.000Z"
+  },
   {
    "id": "0af85946803f",
    "sourceId": "alternativeto",
@@ -90,16 +100,6 @@
    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
    "image": "",
    "date": "2026-10-15T19:00:00.000Z"
-  },
-  {
-   "id": "fa14b8f7db46",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Teaching students to think and learn through questions",
-   "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "image": "",
-   "date": "2026-10-15T13:00:00.000Z"
   },
   {
    "id": "b002b93553ad",
@@ -372,6 +372,16 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "1e75512cdc1b",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Climate, considered especially in relation to man by Robert DeCourcy Ward",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79803",
+   "image": "https://www.gutenberg.org/cache/epub/79803/pg79803.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "0c32f9adf0f7",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -390,27 +400,17 @@
    "url": "https://www.gutenberg.org/ebooks/79790",
    "image": "https://www.gutenberg.org/cache/epub/79790/pg79790.cover.medium.jpg",
    "date": null
-  },
-  {
-   "id": "580c7afc4f1f",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Norrbotten. Del I by Various",
-   "summary": "Language: Swedish",
-   "url": "https://www.gutenberg.org/ebooks/79787",
-   "image": "https://www.gutenberg.org/cache/epub/79787/pg79787.cover.medium.jpg",
-   "date": null
   }
  ],
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1297
-  },
-  "canva": {
-   "aviso": "sem feed"
+   "itens": 1298
   },
   "comprecripto": {
+   "aviso": "sem feed"
+  },
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -429,41 +429,35 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 27
   },
   "neapay": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 23
-  },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "arena": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -472,7 +466,13 @@
   "pdf24": {
    "aviso": "sem feed"
   },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -482,21 +482,21 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "photopea": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
+   "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
@@ -505,24 +505,20 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
@@ -530,6 +526,10 @@
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
