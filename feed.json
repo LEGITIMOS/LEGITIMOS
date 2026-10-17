@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T15:42:12.689Z",
+ "generatedAt": "2026-10-17T18:44:36.682Z",
  "items": [
   {
    "id": "ab7f42636114",
@@ -372,6 +372,16 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "737f5df1bbe7",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The Divine Right of Church Government",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/13941",
+   "image": "https://www.gutenberg.org/cache/epub/13941/pg13941.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "90327419311f",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -382,23 +392,13 @@
    "date": null
   },
   {
-   "id": "1e75512cdc1b",
+   "id": "0a68d7a09133",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Climate, considered especially in relation to man by Robert DeCourcy Ward",
+   "title": "Index of the Project Gutenberg Works of Bret Harte by Bret Harte",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79803",
-   "image": "https://www.gutenberg.org/cache/epub/79803/pg79803.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "0c32f9adf0f7",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Buried diamonds, Vol. 1 (of 3) by Sarah Tytler",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79799",
-   "image": "https://www.gutenberg.org/cache/epub/79799/pg79799.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/59300",
+   "image": "https://www.gutenberg.org/cache/epub/59300/pg59300.cover.medium.jpg",
    "date": null
   }
  ],
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1299
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -420,13 +420,13 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
+   "aviso": "sem feed"
+  },
+  "delphi": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -440,39 +440,42 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 21
+   "itens": 29
   },
   "poe": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -482,57 +485,54 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "removebg": {
+  "gh-searxng": {
    "aviso": "sem feed"
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "rayso": {
-   "aviso": "sem feed"
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
   },
-  "pdf24": {
+  "rayso": {
    "aviso": "sem feed"
   }
  }
