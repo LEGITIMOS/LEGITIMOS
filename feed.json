@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T00:57:01.293Z",
+ "generatedAt": "2026-10-17T06:54:24.476Z",
  "items": [
   {
    "id": "65442e708214",
@@ -92,14 +92,14 @@
    "date": "2026-10-16T00:00:00.000Z"
   },
   {
-   "id": "a72d1e4da6b0",
+   "id": "4a2f3ca18eb9",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "url": "https://openai.com/index/benefit-street-partners",
    "image": "",
-   "date": "2026-10-15T19:00:00.000Z"
+   "date": "2026-10-16T00:00:00.000Z"
   },
   {
    "id": "b002b93553ad",
@@ -372,6 +372,16 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "90327419311f",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The Passionate Pilgrim by William Shakespeare",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/1544",
+   "image": "https://www.gutenberg.org/cache/epub/1544/pg1544.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "1e75512cdc1b",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -390,27 +400,17 @@
    "url": "https://www.gutenberg.org/ebooks/79799",
    "image": "https://www.gutenberg.org/cache/epub/79799/pg79799.cover.medium.jpg",
    "date": null
-  },
-  {
-   "id": "59096faf92fe",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "My life and loves in Greenwich Village by Maxwell Bodenheim",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79790",
-   "image": "https://www.gutenberg.org/cache/epub/79790/pg79790.cover.medium.jpg",
-   "date": null
   }
  ],
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1298
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1299
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -433,37 +433,40 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 27
+  "arena": {
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 36
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "pdf24": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -472,7 +475,7 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -482,46 +485,36 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "photopea": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -531,6 +524,13 @@
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "unscreen": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
