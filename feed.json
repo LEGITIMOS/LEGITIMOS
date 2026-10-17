@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-17T06:54:24.476Z",
+ "generatedAt": "2026-10-17T15:42:12.689Z",
  "items": [
+  {
+   "id": "ab7f42636114",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.17",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.17 Extractors 500px fix PhotoGroup items in user results ( cb#517 ) warn about missing x-5…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.17",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-10-17T14:26:38.000Z"
+  },
+  {
+   "id": "910af83382bf",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · Native Forme 0.0.0 e96ba439",
+   "summary": "Native Forme build input for iOS and Android. Source identity and SHA-256 are recorded in prebuilt.json.",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-e96ba4390f3656b93ceaa155f3a29d3eccb9a065bb5642ac92925fe4aa903abf",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-17T14:08:21.000Z"
+  },
   {
    "id": "65442e708214",
    "sourceId": "chatgpt",
@@ -82,22 +102,22 @@
    "date": "2026-10-16T07:37:25.000Z"
   },
   {
-   "id": "9db4940a53f8",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "image": "",
-   "date": "2026-10-16T00:00:00.000Z"
-  },
-  {
    "id": "4a2f3ca18eb9",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
    "title": "Benefit Street Partners answers questions faster with Codex",
    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
    "url": "https://openai.com/index/benefit-street-partners",
+   "image": "",
+   "date": "2026-10-16T00:00:00.000Z"
+  },
+  {
+   "id": "9db4940a53f8",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "image": "",
    "date": "2026-10-16T00:00:00.000Z"
   },
@@ -202,16 +222,6 @@
    "date": "2026-10-09T09:45:22.000Z"
   },
   {
-   "id": "7f95f2321b1e",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.1",
-   "summary": "Reactive Resume v6.0.1 introduces Application Workspace + Career Coach : a place to turn your experience into application answers, prepare for interviews, and keep your job search moving. Highlights A workspace for every application. Check…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.1",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-08T20:28:06.000Z"
-  },
-  {
    "id": "4c9d867c9227",
    "sourceId": "gh-vaultwarden",
    "sourceName": "Vaultwarden",
@@ -270,16 +280,6 @@
    "url": "https://www.troyhunt.com/weekly-update-523/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/maxresdefault.jpg",
    "date": "2026-09-28T07:24:49.000Z"
-  },
-  {
-   "id": "a7e8b0fa2059",
-   "sourceId": "gh-gallerydl",
-   "sourceName": "Gallery-DL",
-   "title": "Gallery-DL · v1.32.14",
-   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.14 Extractors Additions [xasiat] add video extractor ( cb#453 gh#8335 ) [steamcommunity] a…",
-   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.14",
-   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
-   "date": "2026-09-27T10:09:00.000Z"
   },
   {
    "id": "30dd7154d8f4",
@@ -437,45 +437,42 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 36
+   "itens": 21
   },
   "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "wolframalpha": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "photopea": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -488,6 +485,9 @@
   "carbon": {
    "aviso": "sem feed"
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
@@ -497,6 +497,9 @@
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -510,8 +513,9 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -521,18 +525,14 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "unscreen": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "pdf24": {
    "aviso": "sem feed"
   }
  }
