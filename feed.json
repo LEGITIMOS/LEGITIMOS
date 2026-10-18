@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T18:44:36.682Z",
+ "generatedAt": "2026-10-18T00:57:09.054Z",
  "items": [
   {
    "id": "ab7f42636114",
@@ -382,23 +382,23 @@
    "date": null
   },
   {
-   "id": "90327419311f",
+   "id": "45fd19e6a616",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "The Passionate Pilgrim by William Shakespeare",
+   "title": "The Complete Works of William Shakespeare by William Shakespeare",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/1544",
-   "image": "https://www.gutenberg.org/cache/epub/1544/pg1544.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/100",
+   "image": "https://www.gutenberg.org/cache/epub/100/pg100.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "0a68d7a09133",
+   "id": "f0b776b2c0c9",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Index of the Project Gutenberg Works of Bret Harte by Bret Harte",
+   "title": "King Henry VI, Part 3 by William Shakespeare",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/59300",
-   "image": "https://www.gutenberg.org/cache/epub/59300/pg59300.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/1502",
+   "image": "https://www.gutenberg.org/cache/epub/1502/pg1502.cover.medium.jpg",
    "date": null
   }
  ],
@@ -407,14 +407,17 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1299
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
    "aviso": "ignorado"
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
@@ -423,10 +426,10 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -440,39 +443,33 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 29
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
+   "itens": 35
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "poe": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "photopea": {
@@ -481,48 +478,51 @@
   "shots": {
    "aviso": "sem feed"
   },
+  "smartmockups": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
