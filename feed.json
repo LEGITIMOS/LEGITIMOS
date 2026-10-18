@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-18T09:43:55.270Z",
+ "generatedAt": "2026-10-18T12:50:24.227Z",
  "items": [
+  {
+   "id": "92889d8ab5d1",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Meta launches Muse Spark Open, an 816B open-weight AI model for Macs requiring 1TB of RAM",
+   "summary": "Meta has launched Muse Spark Open , an 816-billion-parameter open-weight AI model designed to run locally on Apple Macs . It supports a context window of up to one million tokens, is natively multimodal, and targets complex coding and agen…",
+   "url": "https://alternativeto.net/news/2026/10/meta-launches-muse-spark-open-an-816b-open-weight-ai-model-for-macs-requiring-1tb-of-ram/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792318114874.png",
+   "date": "2026-10-18T09:55:10.000Z"
+  },
+  {
+   "id": "d1f6279047c0",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Forgejo 17.0 adds workflow webhooks and job summaries",
+   "summary": "Forgejo has released version 17.0 of its open-source, self-hosted code collaboration platform, introducing improvements to Forgejo Actions, repository management, and migration tools . The update changes how absolute links in repository do…",
+   "url": "https://alternativeto.net/news/2026/10/forgejo-17-0-adds-workflow-webhooks-and-job-summaries/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792317015090.png",
+   "date": "2026-10-18T09:40:49.000Z"
+  },
   {
    "id": "fabec861b6a6",
    "sourceId": "alternativeto",
@@ -80,26 +100,6 @@
    "url": "https://openai.com/index/itau-generative-ai",
    "image": "",
    "date": "2026-10-16T19:00:00.000Z"
-  },
-  {
-   "id": "0af85946803f",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Ubuntu 26.10 is here with Linux 7.3 kernel, GNOME 51, Rust coreutils & Myna speech-to-text",
-   "summary": "Canonical has announced that Ubuntu 26.10 , code-named “Stonking Stingray” , is now available for download and installation . The company framed the release as one that both consolidates earlier groundwork and reaches toward newer territor…",
-   "url": "https://alternativeto.net/news/2026/10/ubuntu-26-10-is-here-with-linux-7-3-kernel-gnome-51-rust-coreutils-and-myna-speech-to-text/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792075061656.png",
-   "date": "2026-10-16T16:30:00.000Z"
-  },
-  {
-   "id": "9f431703cbc4",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Sync-in 2.6 brings draw.io integration, a redesigned image viewer and unified search modes",
-   "summary": "Sync-in has released version 2.6 of its collaborative platform, headlined by the integration of draw.io , the popular open-source diagram editor. According to the company's official announcement , this addition represents a much-requested…",
-   "url": "https://alternativeto.net/news/2026/10/sync-in-2-6-brings-draw-io-integration-a-redesigned-image-viewer-and-unified-search-modes/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792073862470.png",
-   "date": "2026-10-16T15:00:00.000Z"
   },
   {
    "id": "795e70c93c9c",
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1299
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -440,11 +440,14 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 37
+   "itens": 21
   },
-  "neapay": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "poe": {
@@ -454,19 +457,16 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -478,17 +478,14 @@
   "shots": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -498,15 +495,22 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "removebg": {
@@ -516,20 +520,16 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
