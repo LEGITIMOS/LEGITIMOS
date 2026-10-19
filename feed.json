@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-19T09:51:13.483Z",
+ "generatedAt": "2026-10-19T18:56:39.412Z",
  "items": [
+  {
+   "id": "233db71a8e8d",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Astro 7.4 has arrived with build performance insights, parallel prerendering, and more",
+   "summary": "Astro has released version 7.4 , introducing performance monitoring tools and experimental features aimed at optimizing build times for developers working on larger-scale sites. The headline addition is a new --timings flag for the astro b…",
+   "url": "https://alternativeto.net/news/2026/10/astro-7-4-has-arrived-with-build-performance-insights-parallel-prerendering-and-more/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792247930754.png",
+   "date": "2026-10-19T13:30:00.000Z"
+  },
+  {
+   "id": "605acd1c6acb",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "React Native 0.88 brings web-based event dispatching & variable fonts; no breaking changes",
+   "summary": "React Native 0.88 has officially been released, marking the third consecutive version since 0.83 to ship without user-facing breaking changes, a milestone that underscores the framework's ongoing commitment to upgrade stability. The headli…",
+   "url": "https://alternativeto.net/news/2026/10/react-native-0-88-brings-web-based-event-dispatching-and-variable-fonts-no-breaking-changes/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792247304160.png",
+   "date": "2026-10-19T12:00:00.000Z"
+  },
+  {
+   "id": "dfbacd713e89",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "DeepSeek-V4.1-Flash-1017 brings faster project building",
+   "summary": "DeepSeek has released DeepSeek-V4.1-Flash-1017 on its website, app, and API, describing stronger benchmark performance, faster task completion, and shorter outputs than its previous version. The model uses reinforcement learning with self-…",
+   "url": "https://alternativeto.net/news/2026/10/deepseek-v4-1-flash-1017-brings-faster-project-building/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792406347516.png",
+   "date": "2026-10-19T10:39:07.000Z"
+  },
   {
    "id": "42078f300843",
    "sourceId": "openculture",
@@ -12,16 +42,6 @@
    "date": "2026-10-19T09:00:35.000Z"
   },
   {
-   "id": "2b8e745f3c8c",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Wine 11.20 brings CDROM support change, ARM64EC relay debugging & improved XML validation",
-   "summary": "The Wine Project has released version 11.20 , marking another step forward in the compatibility layer's ability to run Windows applications and games on Linux and other Unix-like operating systems. This bi-weekly release brings significant…",
-   "url": "https://alternativeto.net/news/2026/10/wine-11-20-brings-cdrom-support-change-arm64ec-relay-debugging-and-improved-xml-validation/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792246568822.png",
-   "date": "2026-10-19T09:00:00.000Z"
-  },
-  {
    "id": "f0003ac8f48a",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -30,16 +50,6 @@
    "url": "https://www.openculture.com/2026/10/when-a-cat-co-authored-a-paper-in-a-leading-physics-journal.html",
    "image": "https://cdn8.openculture.com/2017/07/04214343/FDC-Willard.jpg",
    "date": "2026-10-19T08:00:09.000Z"
-  },
-  {
-   "id": "f330a0571cce",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Apple tightens App Store review guidelines targeting AI “nudify” & “bait-and-switch” apps",
-   "summary": "Apple has updated its App Store review guidelines to explicitly classify nonconsensual intimate imagery, including imagery produced with AI tools, as content that apps must proactively prevent and remove, according to an announcement publi…",
-   "url": "https://alternativeto.net/news/2026/10/apple-tightens-app-store-review-guidelines-targeting-ai-nudify-and-bait-and-switch-apps/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792253206229.png",
-   "date": "2026-10-19T07:30:00.000Z"
   },
   {
    "id": "07986418197e",
@@ -80,16 +90,6 @@
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc311",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-10-18T22:21:49.000Z"
-  },
-  {
-   "id": "92889d8ab5d1",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Meta launches Muse Spark Open, an 816B open-weight AI model for Macs requiring 1TB of RAM",
-   "summary": "Meta has launched Muse Spark Open , an 816-billion-parameter open-weight AI model designed to run locally on Apple Macs . It supports a context window of up to one million tokens, is natively multimodal, and targets complex coding and agen…",
-   "url": "https://alternativeto.net/news/2026/10/meta-launches-muse-spark-open-an-816b-open-weight-ai-model-for-macs-requiring-1tb-of-ram/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792318114874.png",
-   "date": "2026-10-18T09:55:10.000Z"
   },
   {
    "id": "c1169e03ec02",
@@ -372,33 +372,33 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
-   "id": "737f5df1bbe7",
+   "id": "3efae6f3b1c9",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "The Divine Right of Church Government",
+   "title": "The yellow danger : by M. P. Shiel",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/13941",
-   "image": "https://www.gutenberg.org/cache/epub/13941/pg13941.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79820",
+   "image": "https://www.gutenberg.org/cache/epub/79820/pg79820.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "45fd19e6a616",
+   "id": "37d9410cdc0a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "The Complete Works of William Shakespeare by William Shakespeare",
+   "title": "Buried diamonds, Vol. 2 (of 3) by Sarah Tytler",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/100",
-   "image": "https://www.gutenberg.org/cache/epub/100/pg100.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79822",
+   "image": "https://www.gutenberg.org/cache/epub/79822/pg79822.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "f0b776b2c0c9",
+   "id": "a0dd4c2e94da",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "King Henry VI, Part 3 by William Shakespeare",
+   "title": "Buried diamonds, Vol. 3 (of 3) by Sarah Tytler",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/1502",
-   "image": "https://www.gutenberg.org/cache/epub/1502/pg1502.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79823",
+   "image": "https://www.gutenberg.org/cache/epub/79823/pg79823.cover.medium.jpg",
    "date": null
   }
  ],
@@ -422,13 +422,11 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
   "delphi": {
-   "aviso": "sem feed"
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -439,51 +437,50 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "escolavirtual": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 37
+   "itens": 25
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "pdf24": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "shots": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
+  "smartmockups": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
-  },
-  "smartmockups": {
-   "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
@@ -491,45 +488,48 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
