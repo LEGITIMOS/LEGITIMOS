@@ -1,6 +1,46 @@
 {
- "generatedAt": "2026-10-19T07:04:27.981Z",
+ "generatedAt": "2026-10-19T09:51:13.483Z",
  "items": [
+  {
+   "id": "42078f300843",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Dark Story Behind Edgar Allan Poe’s Most Famous Photograph, Taken Four Days After a Laudanum Overdose",
+   "summary": "In the Halloween season, one American writer comes to mind more often than any other: Edgar Allan Poe . That owes in large part to his famously macabre tales like “ The Tell-Tale Heart ,” “The Cask of Amontillado,” and “The Masque of the R…",
+   "url": "https://www.openculture.com/2026/10/the-dark-story-behind-edgar-allan-poes-most-famous-photograph.html",
+   "image": "https://cdn8.openculture.com/2026/10/18212908/poe.jpg",
+   "date": "2026-10-19T09:00:35.000Z"
+  },
+  {
+   "id": "2b8e745f3c8c",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Wine 11.20 brings CDROM support change, ARM64EC relay debugging & improved XML validation",
+   "summary": "The Wine Project has released version 11.20 , marking another step forward in the compatibility layer's ability to run Windows applications and games on Linux and other Unix-like operating systems. This bi-weekly release brings significant…",
+   "url": "https://alternativeto.net/news/2026/10/wine-11-20-brings-cdrom-support-change-arm64ec-relay-debugging-and-improved-xml-validation/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792246568822.png",
+   "date": "2026-10-19T09:00:00.000Z"
+  },
+  {
+   "id": "f0003ac8f48a",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "When a Cat Co-Authored a Paper in a Leading Physics Journal (1975)",
+   "summary": "Back in 1975, Jack H. Hetherington , a physics professor at Michigan State University, wrote a research paper on low–temperature physics for the respected scientific journal Physical Review Letters . Before sending it off, Hetherington ask…",
+   "url": "https://www.openculture.com/2026/10/when-a-cat-co-authored-a-paper-in-a-leading-physics-journal.html",
+   "image": "https://cdn8.openculture.com/2017/07/04214343/FDC-Willard.jpg",
+   "date": "2026-10-19T08:00:09.000Z"
+  },
+  {
+   "id": "f330a0571cce",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Apple tightens App Store review guidelines targeting AI “nudify” & “bait-and-switch” apps",
+   "summary": "Apple has updated its App Store review guidelines to explicitly classify nonconsensual intimate imagery, including imagery produced with AI tools, as content that apps must proactively prevent and remove, according to an announcement publi…",
+   "url": "https://alternativeto.net/news/2026/10/apple-tightens-app-store-review-guidelines-targeting-ai-nudify-and-bait-and-switch-apps/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792253206229.png",
+   "date": "2026-10-19T07:30:00.000Z"
+  },
   {
    "id": "07986418197e",
    "sourceId": "hibp",
@@ -50,26 +90,6 @@
    "url": "https://alternativeto.net/news/2026/10/meta-launches-muse-spark-open-an-816b-open-weight-ai-model-for-macs-requiring-1tb-of-ram/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792318114874.png",
    "date": "2026-10-18T09:55:10.000Z"
-  },
-  {
-   "id": "d1f6279047c0",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Forgejo 17.0 adds workflow webhooks and job summaries",
-   "summary": "Forgejo has released version 17.0 of its open-source, self-hosted code collaboration platform, introducing improvements to Forgejo Actions, repository management, and migration tools . The update changes how absolute links in repository do…",
-   "url": "https://alternativeto.net/news/2026/10/forgejo-17-0-adds-workflow-webhooks-and-job-summaries/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792317015090.png",
-   "date": "2026-10-18T09:40:49.000Z"
-  },
-  {
-   "id": "fabec861b6a6",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Brave Leo adds encrypted AI chats with verifiable computing",
-   "summary": "Brave has added end-to-end encryption, Oblivious HTTP (OHTTP), and verifiable confidential computing to Leo , its built-in AI assistant. Available in Brave Release, Beta, and Nightly, the new protections initially support Z.ai's open-weigh…",
-   "url": "https://alternativeto.net/news/2026/10/brave-leo-adds-encrypted-ai-chats-with-verifiable-computing/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792316374554.png",
-   "date": "2026-10-18T09:29:33.000Z"
   },
   {
    "id": "c1169e03ec02",
@@ -140,26 +160,6 @@
    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "image": "",
    "date": "2026-10-16T00:00:00.000Z"
-  },
-  {
-   "id": "b002b93553ad",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Megaprojects That Even the Ancient Romans Couldn’t Pull Off: Rerouting the Tiber, Digging a Canal, and More",
-   "summary": "Some would call the United States of America the mightiest empire the world has ever known. Yet over the past half-century or so, it has shown a strange inability to build domestic infrastructure, at least at the efficiency or on the scale…",
-   "url": "https://www.openculture.com/2026/10/the-megaprojects-even-the-ancient-romans-couldnt-pull-off.html",
-   "image": "https://i.ytimg.com/vi/qJIDOq0ezTs/maxresdefault.jpg",
-   "date": "2026-10-15T09:00:05.000Z"
-  },
-  {
-   "id": "77af670485c2",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
-   "summary": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “ The World of Bosch .” Modern viewers may find this very hard to believe. We approach Bosch through layers of Freud…",
-   "url": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
-   "image": "https://i.ytimg.com/vi/mKdcQK2v3JQ/maxresdefault.jpg",
-   "date": "2026-10-15T08:00:54.000Z"
   },
   {
    "id": "f5e60c7dac58",
@@ -416,17 +416,19 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
+   "aviso": "sem feed"
+  },
+  "delphi": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -437,13 +439,7 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "poe": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "gutenberg": {
@@ -454,23 +450,37 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
+  "poe": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
   },
   "smartmockups": {
    "aviso": "sem feed"
@@ -478,20 +488,7 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "hibp": {
-   "feed": "https://www.troyhunt.com/rss/",
-   "itens": 15
-  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
    "aviso": "sem feed"
   },
   "unscreen": {
@@ -501,27 +498,30 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "removebg": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
