@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-19T18:56:39.412Z",
+ "generatedAt": "2026-10-19T21:45:25.639Z",
  "items": [
+  {
+   "id": "119a9ca69c8b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Virtualization tool UTM 5.0 brings DirectX graphics support, Vulkan 1.3, and snapshots",
+   "summary": "The open-source virtualization project UTM has officially released version 5.0 , delivering its most substantial feature set to date with breakthrough graphics acceleration and innovative hardware integration. For the first time, Windows 1…",
+   "url": "https://alternativeto.net/news/2026/10/virtualization-tool-utm-5-0-brings-directx-graphics-support-vulkan-1-3-and-snapshots/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792332180327.png",
+   "date": "2026-10-19T19:30:00.000Z"
+  },
   {
    "id": "233db71a8e8d",
    "sourceId": "alternativeto",
@@ -20,16 +30,6 @@
    "url": "https://alternativeto.net/news/2026/10/react-native-0-88-brings-web-based-event-dispatching-and-variable-fonts-no-breaking-changes/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792247304160.png",
    "date": "2026-10-19T12:00:00.000Z"
-  },
-  {
-   "id": "dfbacd713e89",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "DeepSeek-V4.1-Flash-1017 brings faster project building",
-   "summary": "DeepSeek has released DeepSeek-V4.1-Flash-1017 on its website, app, and API, describing stronger benchmark performance, faster task completion, and shorter outputs than its previous version. The model uses reinforcement learning with self-…",
-   "url": "https://alternativeto.net/news/2026/10/deepseek-v4-1-flash-1017-brings-faster-project-building/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792406347516.png",
-   "date": "2026-10-19T10:39:07.000Z"
   },
   {
    "id": "42078f300843",
@@ -416,17 +416,20 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
   "delphi": {
+   "aviso": "sem feed"
+  },
+  "tec": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -444,18 +447,15 @@
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 25
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
+  "poe": {
+   "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
@@ -466,40 +466,40 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
+  "shots": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "shots": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
@@ -520,16 +520,16 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "rayso": {
