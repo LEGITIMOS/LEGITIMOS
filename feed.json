@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-19T03:50:01.501Z",
+ "generatedAt": "2026-10-19T07:04:27.981Z",
  "items": [
+  {
+   "id": "07986418197e",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Weekly Update 526: Building HIBP AI/SI First",
+   "summary": "I have this sense that we&apos;ve passed the point where \"vibe coding\" is a derogatory term. I have no empirical evidence for this; it&apos;s more a feeling that those weaponising the term have now accepted the inevitability and are just g…",
+   "url": "https://www.troyhunt.com/weekly-update-526/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/image.jpg",
+   "date": "2026-10-19T06:47:58.000Z"
+  },
   {
    "id": "5279d94a2750",
    "sourceId": "gh-archivebox",
@@ -272,16 +282,6 @@
    "date": "2026-09-28T07:24:57.000Z"
   },
   {
-   "id": "2ee4dc7fcf2e",
-   "sourceId": "hibp",
-   "sourceName": "Have I Been Pwned",
-   "title": "Weekly Update 523: Live From a Norwegian Fjord",
-   "summary": "How&apos;s that view?! With NDC Oslo now done, it&apos;s a little bit of sightseeing before heading to Denmark for GOTO in Copenhagen for Scott&apos;s and my \"Cyber-broken\" talk. In the meantime, this week is mostly about the ShinyHunters…",
-   "url": "https://www.troyhunt.com/weekly-update-523/",
-   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/maxresdefault.jpg",
-   "date": "2026-09-28T07:24:49.000Z"
-  },
-  {
    "id": "30dd7154d8f4",
    "sourceId": "gh-changedetection",
    "sourceName": "Changedetection.io",
@@ -443,12 +443,12 @@
   "arena": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 30
-  },
   "poe": {
    "aviso": "sem feed"
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 37
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -457,7 +457,13 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -466,70 +472,64 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "shots": {
-   "aviso": "sem feed"
-  },
   "smartmockups": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
+  "removebg": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "rayso": {
