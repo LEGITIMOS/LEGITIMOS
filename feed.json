@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-20T03:47:48.164Z",
+ "generatedAt": "2026-10-20T06:58:40.470Z",
  "items": [
+  {
+   "id": "c90dfa0936c9",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Krea 3 brings LoRA tuning and 2K image edits in 8 seconds",
+   "summary": "The San Francisco-based startup behind the AI image and video generation platform Krea has launched Krea 3 , its latest image editing model, capable of generating 2K edits in under eight seconds . It supports localized editing that preserv…",
+   "url": "https://alternativeto.net/news/2026/10/krea-3-brings-lora-tuning-and-2k-image-edits-in-8-seconds/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792478346939.png",
+   "date": "2026-10-20T06:30:07.000Z"
+  },
+  {
+   "id": "b18fbdfa7dce",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Linux 7.3 improves AMD low-VRAM gaming and CPU scheduling",
+   "summary": "Linux 7.3 has been released as the latest stable kernel, introducing improvements to graphics performance, CPU scheduling, filesystems, and hardware support. One of the main changes targets AMD GPUs with limited VRAM, potentially improving…",
+   "url": "https://alternativeto.net/news/2026/10/linux-7-3-improves-amd-low-vram-gaming-and-cpu-scheduling/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792477288712.png",
+   "date": "2026-10-20T06:12:11.000Z"
+  },
   {
    "id": "24b4f9a6315d",
    "sourceId": "wayback",
@@ -22,16 +42,6 @@
    "date": "2026-10-19T19:30:00.000Z"
   },
   {
-   "id": "233db71a8e8d",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Astro 7.4 has arrived with build performance insights, parallel prerendering, and more",
-   "summary": "Astro has released version 7.4 , introducing performance monitoring tools and experimental features aimed at optimizing build times for developers working on larger-scale sites. The headline addition is a new --timings flag for the astro b…",
-   "url": "https://alternativeto.net/news/2026/10/astro-7-4-has-arrived-with-build-performance-insights-parallel-prerendering-and-more/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792247930754.png",
-   "date": "2026-10-19T13:30:00.000Z"
-  },
-  {
    "id": "7a364f356aab",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -39,16 +49,6 @@
    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
    "url": "https://openai.com/index/low-resource-programming-languages",
    "image": "",
-   "date": "2026-10-19T12:00:00.000Z"
-  },
-  {
-   "id": "605acd1c6acb",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "React Native 0.88 brings web-based event dispatching & variable fonts; no breaking changes",
-   "summary": "React Native 0.88 has officially been released, marking the third consecutive version since 0.83 to ship without user-facing breaking changes, a milestone that underscores the framework's ongoing commitment to upgrade stability. The headli…",
-   "url": "https://alternativeto.net/news/2026/10/react-native-0-88-brings-web-based-event-dispatching-and-variable-fonts-no-breaking-changes/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792247304160.png",
    "date": "2026-10-19T12:00:00.000Z"
   },
   {
@@ -382,6 +382,16 @@
    "date": null
   },
   {
+   "id": "1acea0104ced",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The wanderer : by Alain-Fournier",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79827",
+   "image": "https://www.gutenberg.org/cache/epub/79827/pg79827.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "37d9410cdc0a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -389,16 +399,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79822",
    "image": "https://www.gutenberg.org/cache/epub/79822/pg79822.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "a0dd4c2e94da",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Buried diamonds, Vol. 3 (of 3) by Sarah Tytler",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79823",
-   "image": "https://www.gutenberg.org/cache/epub/79823/pg79823.cover.medium.jpg",
    "date": null
   }
  ],
@@ -423,15 +423,18 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "arena": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
+  },
+  "123apps": {
+   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
@@ -440,25 +443,16 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 28
   },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
-  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
   },
   "wolframalpha": {
    "aviso": "sem feed"
@@ -466,19 +460,25 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "poe": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -488,17 +488,11 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "removebg": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "unscreen": {
@@ -516,12 +510,11 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
@@ -531,6 +524,13 @@
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "photopea": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
