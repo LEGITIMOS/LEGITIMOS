@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-19T21:45:25.639Z",
+ "generatedAt": "2026-10-20T03:47:48.164Z",
  "items": [
+  {
+   "id": "24b4f9a6315d",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Annual Celebration 2026: Street Fair to Showcase Internet Archive’s Projects and Allies",
+   "summary": "Every year, the Internet Archive throws a party at our headquarters, celebrating a different facet of our ongoing preservation work. The theme for 2026 is “Democracy’s Library: Tools for Participation” and we’re putting a spotlight on the…",
+   "url": "https://blog.archive.org/2026/10/19/annual-celebration-2026-street-fair-to-showcase-internet-archives-projects-and-allies/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/TOOLS_FOR_PARTICIPATION_EVENTBRITE_2160-2048x1024-2-1024x512.png",
+   "date": "2026-10-19T22:09:22.000Z"
+  },
   {
    "id": "119a9ca69c8b",
    "sourceId": "alternativeto",
@@ -20,6 +30,16 @@
    "url": "https://alternativeto.net/news/2026/10/astro-7-4-has-arrived-with-build-performance-insights-parallel-prerendering-and-more/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792247930754.png",
    "date": "2026-10-19T13:30:00.000Z"
+  },
+  {
+   "id": "7a364f356aab",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Advancing coding in low‑resource programming languages",
+   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "image": "",
+   "date": "2026-10-19T12:00:00.000Z"
   },
   {
    "id": "605acd1c6acb",
@@ -152,16 +172,6 @@
    "date": "2026-10-16T00:00:00.000Z"
   },
   {
-   "id": "9db4940a53f8",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "image": "",
-   "date": "2026-10-16T00:00:00.000Z"
-  },
-  {
    "id": "f5e60c7dac58",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -200,16 +210,6 @@
    "url": "https://www.troyhunt.com/weekly-update-525/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/IMNVv9VZuIZ3s.png",
    "date": "2026-10-13T10:47:27.000Z"
-  },
-  {
-   "id": "5bcfd3601dd4",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "The People, Counted: Browse Raw Census Records at the Internet Archive",
-   "summary": "The U.S. Census has been in the headlines lately, as proposed changes to the 2030 count have sparked debate over who gets counted and what information should be recorded as part of that process. Few government records say more about a demo…",
-   "url": "https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/image-1-1024x432.png",
-   "date": "2026-10-12T16:13:51.000Z"
   },
   {
    "id": "fce65b81393e",
@@ -405,7 +405,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1299
+   "itens": 1300
   },
   "canva": {
    "aviso": "sem feed"
@@ -426,9 +426,6 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
   },
@@ -443,9 +440,15 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 25
+   "itens": 28
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -454,41 +457,38 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -508,20 +508,12 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -530,6 +522,14 @@
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
