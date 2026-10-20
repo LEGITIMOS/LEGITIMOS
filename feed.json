@@ -1,25 +1,45 @@
 {
- "generatedAt": "2026-10-20T12:58:48.948Z",
+ "generatedAt": "2026-10-20T18:54:23.435Z",
  "items": [
   {
-   "id": "8db08700cc76",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc327",
-   "summary": "Bump release version to 0.9.74rc327",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc327",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-20T12:37:32.000Z"
+   "id": "9ac63bb3e6af",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "OpenBSD 8.0 brings Clang/LLVM 22 base compiler, 64 VCPUs VM & Intel Arc A-Series support",
+   "summary": "The OpenBSD project has officially released version 8.0 , marking a landmark moment for the security-focused operating system with its transition to Clang / LLVM 22 as the base compiler across all clang-supported architectures. Most notabl…",
+   "url": "https://alternativeto.net/news/2026/10/openbsd-8-0-brings-clang-llvm-22-base-compiler-64-vcpus-vm-and-intel-arc-a-series-support/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792490159621.png",
+   "date": "2026-10-20T16:30:00.000Z"
   },
   {
-   "id": "9de22c3ac28f",
+   "id": "e9e6ddae7d3d",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc326",
-   "summary": "Bump release version to 0.9.74rc326",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc326",
+   "title": "ArchiveBox · v0.9.74rc338",
+   "summary": "Bump release version to 0.9.74rc338",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc338",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-20T12:13:02.000Z"
+   "date": "2026-10-20T15:46:44.000Z"
+  },
+  {
+   "id": "106947e04113",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc338",
+   "summary": "Bump release version to 0.9.74rc338",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc338",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-20T15:46:44.000Z"
+  },
+  {
+   "id": "cf65dd527f6d",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc337",
+   "summary": "Bump release version to 0.9.74rc337",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc337",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-20T15:36:23.000Z"
   },
   {
    "id": "faae7849c21f",
@@ -42,14 +62,14 @@
    "date": "2026-10-20T12:00:00.000Z"
   },
   {
-   "id": "1be90dbf5662",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc325",
-   "summary": "Bump release version to 0.9.74rc325",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc325",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-20T11:55:06.000Z"
+   "id": "b3fcb2e42d32",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+   "url": "https://openai.com/index/ted-taylor-restaurant",
+   "image": "",
+   "date": "2026-10-20T10:00:00.000Z"
   },
   {
    "id": "8ffa4fd60ca8",
@@ -62,22 +82,12 @@
    "date": "2026-10-20T09:15:41.000Z"
   },
   {
-   "id": "221fe856c072",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "AdGuard for Android v4.15 adds timed protection pauses",
-   "summary": "AdGuard for Android v4.15 adds Pause protection, a feature that temporarily disables protection on a timer. Users can choose 30 seconds, 2 minutes, or 5 minutes, and protection turns back on automatically when the selected interval ends. T…",
-   "url": "https://alternativeto.net/news/2026/10/adguard-for-android-v4-15-adds-timed-protection-pauses/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792487608092.png",
-   "date": "2026-10-20T09:13:28.000Z"
-  },
-  {
-   "id": "3101063cf7ee",
+   "id": "b9304c1f88c2",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
    "title": "Doctor Who’s Tom Baker Plays Douglas Adams’ Digital “Agent” in the AI-Predicting Hyperland (1990)",
    "summary": "Cast your mind, if you will, back to the year 2020. It now feels like a different time, what with the spreading COVID-19 pandemic and the heated sociopolitical battles being waged online, and indeed in the (socially distanced) streets. Tha…",
-   "url": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams-digital-agentdoctor-whos-tom-baker-plays-douglas-adams-digital-agent-in-the-ai-predicting-hyperland-1990.html",
+   "url": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams.html",
    "image": "https://i.ytimg.com/vi/5nOXGYxHVFI/maxresdefault.jpg",
    "date": "2026-10-20T09:00:25.000Z"
   },
@@ -90,6 +100,16 @@
    "url": "https://www.openculture.com/2026/10/how-clare-torry-made-gig-in-the-sky-great.html",
    "image": "https://i.ytimg.com/vi/8uQ11mlmtiI/maxresdefault.jpg",
    "date": "2026-10-20T08:00:24.000Z"
+  },
+  {
+   "id": "dbaa90254253",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "OpenAI acquires Orchestra Bio",
+   "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "image": "",
+   "date": "2026-10-20T00:00:00.000Z"
   },
   {
    "id": "24b4f9a6315d",
@@ -160,26 +180,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-e96ba4390f3656b93ceaa155f3a29d3eccb9a065bb5642ac92925fe4aa903abf",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-17T14:08:21.000Z"
-  },
-  {
-   "id": "65442e708214",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "image": "",
-   "date": "2026-10-16T19:00:00.000Z"
-  },
-  {
-   "id": "4a2f3ca18eb9",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Benefit Street Partners answers questions faster with Codex",
-   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-   "url": "https://openai.com/index/benefit-street-partners",
-   "image": "",
-   "date": "2026-10-16T00:00:00.000Z"
   },
   {
    "id": "f5e60c7dac58",
@@ -405,12 +405,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1300
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1302
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -426,28 +426,25 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "arena": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
+  "123apps": {
+   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
+   "itens": 13
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "openculture": {
@@ -457,19 +454,22 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "photopea": {
@@ -494,14 +494,11 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
@@ -512,24 +509,27 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "rayso": {
