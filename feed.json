@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-21T03:48:13.286Z",
+ "generatedAt": "2026-10-21T07:00:34.907Z",
  "items": [
+  {
+   "id": "6b9dd69db722",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "ShareX drops most ambitious update in project's history with rewritten user interface",
+   "summary": "In a move described by developers as the largest overhaul in ShareX 's nearly two-decade run, the popular open-source screenshot and screen recording utility has released version 22.0 , a ground-up rebuild that promises modern design and e…",
+   "url": "https://alternativeto.net/news/2026/10/sharex-drops-most-ambitious-update-in-project-s-history-with-rewritten-user-interface/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792491315994.png",
+   "date": "2026-10-21T04:30:00.000Z"
+  },
   {
    "id": "9ac63bb3e6af",
    "sourceId": "alternativeto",
@@ -52,16 +62,6 @@
    "date": "2026-10-20T12:00:00.000Z"
   },
   {
-   "id": "b43f828be9eb",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Internet Archive Honors Poynter and IRE for Preserving Local News Online",
-   "summary": "As newsrooms across the United States close, years of reporting are at risk of disappearing. Stories documenting local elections, holding public officials accountable, investigating community problems and recording everyday life can become…",
-   "url": "https://blog.archive.org/2026/10/20/internet-archive-hero-award-2026/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/HERO_AWARD_16_9-1024x576.png",
-   "date": "2026-10-20T12:00:00.000Z"
-  },
-  {
    "id": "b3fcb2e42d32",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -70,16 +70,6 @@
    "url": "https://openai.com/index/ted-taylor-restaurant",
    "image": "",
    "date": "2026-10-20T10:00:00.000Z"
-  },
-  {
-   "id": "8ffa4fd60ca8",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "MiniMax M3.1 Flash adds faster low-cost agent performance",
-   "summary": "MiniMax has released M3.1 Flash through its API, M Plan, and MiniMax Code, with model weights planned for a later release. The company says the model cuts overall agentic-task costs by 70% versus its predecessor, with pricing of $0.15 per…",
-   "url": "https://alternativeto.net/news/2026/10/minimax-m3-1-flash-adds-faster-low-cost-agent-performance/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792487741917.png",
-   "date": "2026-10-20T09:15:41.000Z"
   },
   {
    "id": "b9304c1f88c2",
@@ -120,16 +110,6 @@
    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
    "image": "",
    "date": "2026-10-20T00:00:00.000Z"
-  },
-  {
-   "id": "24b4f9a6315d",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Annual Celebration 2026: Street Fair to Showcase Internet Archive’s Projects and Allies",
-   "summary": "Every year, the Internet Archive throws a party at our headquarters, celebrating a different facet of our ongoing preservation work. The theme for 2026 is “Democracy’s Library: Tools for Participation” and we’re putting a spotlight on the…",
-   "url": "https://blog.archive.org/2026/10/19/annual-celebration-2026-street-fair-to-showcase-internet-archives-projects-and-allies/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/TOOLS_FOR_PARTICIPATION_EVENTBRITE_2160-2048x1024-2-1024x512.png",
-   "date": "2026-10-19T22:09:22.000Z"
   },
   {
    "id": "42078f300843",
@@ -180,16 +160,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-e96ba4390f3656b93ceaa155f3a29d3eccb9a065bb5642ac92925fe4aa903abf",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-17T14:08:21.000Z"
-  },
-  {
-   "id": "f5e60c7dac58",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch",
-   "summary": "Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery . Created in collaboration with the Internet Archiv…",
-   "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/IMG_2446-791x1024.jpeg",
-   "date": "2026-10-14T20:23:31.000Z"
   },
   {
    "id": "47eadd5b17fe",
@@ -434,8 +404,7 @@
    "itens": 15
   },
   "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
@@ -443,19 +412,19 @@
   "arena": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "poe": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 17
+   "itens": 18
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
@@ -472,26 +441,26 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "smartmockups": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "gh-searxng": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "unscreen": {
@@ -504,9 +473,6 @@
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
-  },
-  "removebg": {
-   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -531,6 +497,9 @@
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
