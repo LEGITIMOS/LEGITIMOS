@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-21T09:48:49.306Z",
+ "generatedAt": "2026-10-21T12:59:12.530Z",
  "items": [
+  {
+   "id": "d2c33aac9e10",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Subquadratic launches SubQ Snap, a long-context decision model it says outperforms Jev",
+   "summary": "Subquadratic, a startup focused on optimizing how foundation models scale, announced on October 12, 2026 the release of SubQ Snap , a specialized decision model built for agentic AI workflows. Unlike traditional large language models desig…",
+   "url": "https://alternativeto.net/news/2026/10/subquadratic-launches-subq-snap-a-long-context-decision-model-it-says-outperforms-jev/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792512241804.png",
+   "date": "2026-10-21T12:00:00.000Z"
+  },
+  {
+   "id": "43b750ead9e8",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "ForkLift 4.7.7 brings mouse navigation and macOS 27 fixes",
+   "summary": "ForkLift 4.7.7 adds built-in Back and Forward navigation for fourth and fifth mouse buttons, plus remote FTP, SFTP, and Amazon S3 locations in the path bar pop-up. The Info Window can now show recursive item counts for local folders when s…",
+   "url": "https://alternativeto.net/news/2026/10/forklift-4-7-7-brings-mouse-navigation-and-macos-27-fixes/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792578500158.png",
+   "date": "2026-10-21T10:28:20.000Z"
+  },
+  {
+   "id": "bdab898f6e51",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Umbrel for Windows adds remote drive access in Explorer",
+   "summary": "Umbrel is now available on Windows. Like the Mac app, it automatically finds an Umbrel, adds it as a drive in File Explorer, and supports remote access through Tailscale. View article on AlternativeTo &raquo; More about Umbrel | Umbrel Alt…",
+   "url": "https://alternativeto.net/news/2026/10/umbrel-for-windows-adds-remote-drive-access-in-explorer/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792578274792.png",
+   "date": "2026-10-21T10:24:34.000Z"
+  },
   {
    "id": "f01510dff4c4",
    "sourceId": "openculture",
@@ -12,16 +42,6 @@
    "date": "2026-10-21T09:00:04.000Z"
   },
   {
-   "id": "112cf906a935",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Spotify introduces paid podcast memberships across 34 markets to compete with Patreon",
-   "summary": "Spotify is expanding its creator monetization toolkit with a new memberships feature , officially rolling out across 34 markets including the U.S., U.K., Germany, Australia, and Canada. The program allows eligible podcast creators to offer…",
-   "url": "https://alternativeto.net/news/2026/10/spotify-introduces-paid-podcast-memberships-across-34-markets-to-compete-with-patreon/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792509116493.png",
-   "date": "2026-10-21T09:00:00.000Z"
-  },
-  {
    "id": "fcfc2b247cd3",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -30,26 +50,6 @@
    "url": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
    "image": "https://i.ytimg.com/vi/0bxxHoT2rk4/maxresdefault.jpg",
    "date": "2026-10-21T08:00:54.000Z"
-  },
-  {
-   "id": "fb6efaead480",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "qBittorrent 5.3 brings better torrent management, improved web UI, and numerous bug fixes",
-   "summary": "The qBittorrent project has released version 5.3 , a broad maintenance-and-feature update that touches nearly every corner of the popular open-source BitTorrent client. According to the release highlights, the bulk of the work targets day-…",
-   "url": "https://alternativeto.net/news/2026/10/qbittorrent-5-3-brings-better-torrent-management-improved-web-ui-and-numerous-bug-fixes/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792508298540.png",
-   "date": "2026-10-21T07:30:00.000Z"
-  },
-  {
-   "id": "6b9dd69db722",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "ShareX drops most ambitious update in project's history with rewritten user interface",
-   "summary": "In a move described by developers as the largest overhaul in ShareX 's nearly two-decade run, the popular open-source screenshot and screen recording utility has released version 22.0 , a ground-up rebuild that promises modern design and e…",
-   "url": "https://alternativeto.net/news/2026/10/sharex-drops-most-ambitious-update-in-project-s-history-with-rewritten-user-interface/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792491315994.png",
-   "date": "2026-10-21T04:30:00.000Z"
   },
   {
    "id": "e9e6ddae7d3d",
@@ -342,16 +342,6 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
-   "id": "1acea0104ced",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The wanderer : by Alain-Fournier",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79827",
-   "image": "https://www.gutenberg.org/cache/epub/79827/pg79827.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "a1cb183a9026",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -362,13 +352,23 @@
    "date": null
   },
   {
-   "id": "a907b99f96e2",
+   "id": "c824550befad",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Amy in Acadia: A Story for Girls by Helen Leah Reed",
+   "title": "The Chemical History of a Candle by Michael Faraday",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/35985",
-   "image": "https://www.gutenberg.org/cache/epub/35985/pg35985.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/14474",
+   "image": "https://www.gutenberg.org/cache/epub/14474/pg14474.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "b347829edbca",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "A History, of the War of 1812-15 Between the United States and Great Britain by Rossiter Johnson",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/49393",
+   "image": "https://www.gutenberg.org/cache/epub/49393/pg49393.cover.medium.jpg",
    "date": null
   }
  ],
@@ -390,115 +390,115 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "arena": {
+  "tec": {
    "aviso": "sem feed"
   },
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "123apps": {
-   "aviso": "sem feed"
-  },
-  "wayback": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 18
+  "arena": {
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 9
   },
   "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
+  "removebg": {
+   "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "unscreen": {
-   "aviso": "sem feed"
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "rayso": {
