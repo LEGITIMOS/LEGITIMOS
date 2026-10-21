@@ -1,6 +1,46 @@
 {
- "generatedAt": "2026-10-21T07:00:34.907Z",
+ "generatedAt": "2026-10-21T09:48:49.306Z",
  "items": [
+  {
+   "id": "f01510dff4c4",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "In 1897, London’s Lampposts Dispensed Hot Coffee, Tea, and “Fluid Beef”",
+   "summary": "Any reader of Victorian literature will wonder how much a ha’penny was actually worth in those days. For a little more than a year at the very end of that period, it could buy you a cup of coffee, cocoa, milk, tea, or “fluid beef” — which…",
+   "url": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
+   "image": "https://cdn8.openculture.com/2026/10/20223734/Refreshment-Lamp-London-1890s.jpg",
+   "date": "2026-10-21T09:00:04.000Z"
+  },
+  {
+   "id": "112cf906a935",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Spotify introduces paid podcast memberships across 34 markets to compete with Patreon",
+   "summary": "Spotify is expanding its creator monetization toolkit with a new memberships feature , officially rolling out across 34 markets including the U.S., U.K., Germany, Australia, and Canada. The program allows eligible podcast creators to offer…",
+   "url": "https://alternativeto.net/news/2026/10/spotify-introduces-paid-podcast-memberships-across-34-markets-to-compete-with-patreon/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792509116493.png",
+   "date": "2026-10-21T09:00:00.000Z"
+  },
+  {
+   "id": "fcfc2b247cd3",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Sears Sold 75,000 DIY Mail Order Homes Between 1908 and 1939, and Transformed American Life",
+   "summary": "Two of the books that most shaped American culture both happened to bear the nickname “The Big Book.” While the second of these, the A.A. Manual, published in 1939, changed the country with 12-Step recovery groups, the first of these, the…",
+   "url": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
+   "image": "https://i.ytimg.com/vi/0bxxHoT2rk4/maxresdefault.jpg",
+   "date": "2026-10-21T08:00:54.000Z"
+  },
+  {
+   "id": "fb6efaead480",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "qBittorrent 5.3 brings better torrent management, improved web UI, and numerous bug fixes",
+   "summary": "The qBittorrent project has released version 5.3 , a broad maintenance-and-feature update that touches nearly every corner of the popular open-source BitTorrent client. According to the release highlights, the bulk of the work targets day-…",
+   "url": "https://alternativeto.net/news/2026/10/qbittorrent-5-3-brings-better-torrent-management-improved-web-ui-and-numerous-bug-fixes/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792508298540.png",
+   "date": "2026-10-21T07:30:00.000Z"
+  },
   {
    "id": "6b9dd69db722",
    "sourceId": "alternativeto",
@@ -10,16 +50,6 @@
    "url": "https://alternativeto.net/news/2026/10/sharex-drops-most-ambitious-update-in-project-s-history-with-rewritten-user-interface/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792491315994.png",
    "date": "2026-10-21T04:30:00.000Z"
-  },
-  {
-   "id": "9ac63bb3e6af",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "OpenBSD 8.0 brings Clang/LLVM 22 base compiler, 64 VCPUs VM & Intel Arc A-Series support",
-   "summary": "The OpenBSD project has officially released version 8.0 , marking a landmark moment for the security-focused operating system with its transition to Clang / LLVM 22 as the base compiler across all clang-supported architectures. Most notabl…",
-   "url": "https://alternativeto.net/news/2026/10/openbsd-8-0-brings-clang-llvm-22-base-compiler-64-vcpus-vm-and-intel-arc-a-series-support/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792490159621.png",
-   "date": "2026-10-20T16:30:00.000Z"
   },
   {
    "id": "e9e6ddae7d3d",
@@ -52,16 +82,6 @@
    "date": "2026-10-20T15:36:23.000Z"
   },
   {
-   "id": "faae7849c21f",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "TypeSafe AI ships Jev 1.14 with new box type, composable images, and longer context length",
-   "summary": "TypeSafe AI has released Jev 1.14 , a version the company describes as deliberately unflashy: “small, subtle improvements to everything” , with the largest expected gains in multilingual support. The release arrives as jev-preview , and Ty…",
-   "url": "https://alternativeto.net/news/2026/10/typesafe-ai-ships-jev-1-14-with-new-box-type-composable-images-and-longer-context-length/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792424138838.png",
-   "date": "2026-10-20T12:00:00.000Z"
-  },
-  {
    "id": "b3fcb2e42d32",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -82,16 +102,6 @@
    "date": "2026-10-20T09:00:25.000Z"
   },
   {
-   "id": "26cbab633faf",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Hear How Clare Torry’s Vocals on Pink Floyd’s “The Great Gig in the Sky” Made the Song Go from Pretty Good to Downright Great",
-   "summary": "Smack in the middle of Pink Floyd’s classic Dark Side of the Moon sits a song many listeners may hear as an extended bridge between the two true centerpieces, “Time” and “Money.” But I’ve always thought of “The Great Gig in the Sky” as the…",
-   "url": "https://www.openculture.com/2026/10/how-clare-torry-made-gig-in-the-sky-great.html",
-   "image": "https://i.ytimg.com/vi/8uQ11mlmtiI/maxresdefault.jpg",
-   "date": "2026-10-20T08:00:24.000Z"
-  },
-  {
    "id": "a84b6a7bee5c",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -110,16 +120,6 @@
    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
    "image": "",
    "date": "2026-10-20T00:00:00.000Z"
-  },
-  {
-   "id": "42078f300843",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Dark Story Behind Edgar Allan Poe’s Most Famous Photograph, Taken Four Days After a Laudanum Overdose",
-   "summary": "In the Halloween season, one American writer comes to mind more often than any other: Edgar Allan Poe . That owes in large part to his famously macabre tales like “ The Tell-Tale Heart ,” “The Cask of Amontillado,” and “The Masque of the R…",
-   "url": "https://www.openculture.com/2026/10/the-dark-story-behind-edgar-allan-poes-most-famous-photograph.html",
-   "image": "https://cdn8.openculture.com/2026/10/18212908/poe.jpg",
-   "date": "2026-10-19T09:00:35.000Z"
   },
   {
    "id": "07986418197e",
@@ -390,6 +390,9 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "delphi": {
    "aviso": "sem feed"
   },
@@ -399,37 +402,34 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
-  },
   "wayback": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 18
   },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
+  "neapay": {
+   "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "justwatch": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
@@ -447,51 +447,43 @@
   "shots": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
+  "unscreen": {
+   "aviso": "sem feed"
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -500,6 +492,14 @@
   },
   "removebg": {
    "aviso": "sem feed"
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
   },
   "rayso": {
    "aviso": "sem feed"
