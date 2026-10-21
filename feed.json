@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-21T12:59:12.530Z",
+ "generatedAt": "2026-10-21T15:50:13.283Z",
  "items": [
+  {
+   "id": "40c456695c2d",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Mistral AI launches Voxtral 3, a new family of speech models for versatile voice agents",
+   "summary": "Mistral AI has released Voxtral 3 , a family of speech models bundled with a voice agent SDK rather than a single flagship model. According to the company's announcement , the release comprises three transcription models — Voxtral Small Tr…",
+   "url": "https://alternativeto.net/news/2026/10/mistral-ai-launches-voxtral-3-a-new-family-of-speech-models-for-versatile-voice-agents/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792591108947.png",
+   "date": "2026-10-21T15:00:00.000Z"
+  },
+  {
+   "id": "74fcf21eca7a",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "image": "",
+   "date": "2026-10-21T13:00:00.000Z"
+  },
+  {
+   "id": "61f4d0141ff3",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "OpenAI models are coming to Google Cloud",
+   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "image": "",
+   "date": "2026-10-21T12:00:00.000Z"
+  },
   {
    "id": "d2c33aac9e10",
    "sourceId": "alternativeto",
@@ -22,16 +52,6 @@
    "date": "2026-10-21T10:28:20.000Z"
   },
   {
-   "id": "bdab898f6e51",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Umbrel for Windows adds remote drive access in Explorer",
-   "summary": "Umbrel is now available on Windows. Like the Mac app, it automatically finds an Umbrel, adds it as a drive in File Explorer, and supports remote access through Tailscale. View article on AlternativeTo &raquo; More about Umbrel | Umbrel Alt…",
-   "url": "https://alternativeto.net/news/2026/10/umbrel-for-windows-adds-remote-drive-access-in-explorer/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792578274792.png",
-   "date": "2026-10-21T10:24:34.000Z"
-  },
-  {
    "id": "f01510dff4c4",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -50,6 +70,16 @@
    "url": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
    "image": "https://i.ytimg.com/vi/0bxxHoT2rk4/maxresdefault.jpg",
    "date": "2026-10-21T08:00:54.000Z"
+  },
+  {
+   "id": "d3f519557f32",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "image": "",
+   "date": "2026-10-21T07:00:00.000Z"
   },
   {
    "id": "e9e6ddae7d3d",
@@ -82,16 +112,6 @@
    "date": "2026-10-20T15:36:23.000Z"
   },
   {
-   "id": "b3fcb2e42d32",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "image": "",
-   "date": "2026-10-20T10:00:00.000Z"
-  },
-  {
    "id": "b9304c1f88c2",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -100,26 +120,6 @@
    "url": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams.html",
    "image": "https://i.ytimg.com/vi/5nOXGYxHVFI/maxresdefault.jpg",
    "date": "2026-10-20T09:00:25.000Z"
-  },
-  {
-   "id": "a84b6a7bee5c",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-   "url": "https://openai.com/index/terminal-x",
-   "image": "",
-   "date": "2026-10-20T07:00:00.000Z"
-  },
-  {
-   "id": "dbaa90254253",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "OpenAI acquires Orchestra Bio",
-   "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "image": "",
-   "date": "2026-10-20T00:00:00.000Z"
   },
   {
    "id": "07986418197e",
@@ -375,7 +375,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1303
+   "itens": 1308
   },
   "canva": {
    "aviso": "sem feed"
@@ -403,7 +403,7 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "arena": {
+  "wayback": {
    "aviso": "sem feed"
   },
   "neapay": {
@@ -412,36 +412,33 @@
   "poe": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wayback": {
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 9
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 9
+  "justwatch": {
+   "aviso": "sem feed"
   },
   "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -454,52 +451,55 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
    "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
+  "squoosh": {
+   "aviso": "sem feed"
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "removebg": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
