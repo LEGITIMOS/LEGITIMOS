@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-21T15:50:13.283Z",
+ "generatedAt": "2026-10-21T18:55:17.024Z",
  "items": [
+  {
+   "id": "4ab93569e260",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+   "url": "https://openai.com/index/att-legal",
+   "image": "",
+   "date": "2026-10-21T17:00:00.000Z"
+  },
   {
    "id": "40c456695c2d",
    "sourceId": "alternativeto",
@@ -72,16 +82,6 @@
    "date": "2026-10-21T08:00:54.000Z"
   },
   {
-   "id": "d3f519557f32",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "image": "",
-   "date": "2026-10-21T07:00:00.000Z"
-  },
-  {
    "id": "e9e6ddae7d3d",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
@@ -112,6 +112,16 @@
    "date": "2026-10-20T15:36:23.000Z"
   },
   {
+   "id": "b43f828be9eb",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Internet Archive Honors Poynter and IRE for Preserving Local News Online",
+   "summary": "As newsrooms across the United States close, years of reporting are at risk of disappearing. Stories documenting local elections, holding public officials accountable, investigating community problems and recording everyday life can become…",
+   "url": "https://blog.archive.org/2026/10/20/internet-archive-hero-award-2026/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/HERO_AWARD_16_9-1024x576.png",
+   "date": "2026-10-20T12:00:00.000Z"
+  },
+  {
    "id": "b9304c1f88c2",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -120,6 +130,16 @@
    "url": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams.html",
    "image": "https://i.ytimg.com/vi/5nOXGYxHVFI/maxresdefault.jpg",
    "date": "2026-10-20T09:00:25.000Z"
+  },
+  {
+   "id": "24b4f9a6315d",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Annual Celebration 2026: Street Fair to Showcase Internet Archive’s Projects and Allies",
+   "summary": "Every year, the Internet Archive throws a party at our headquarters, celebrating a different facet of our ongoing preservation work. The theme for 2026 is “Democracy’s Library: Tools for Participation” and we’re putting a spotlight on the…",
+   "url": "https://blog.archive.org/2026/10/19/annual-celebration-2026-street-fair-to-showcase-internet-archives-projects-and-allies/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/TOOLS_FOR_PARTICIPATION_EVENTBRITE_2160-2048x1024-2-1024x512.png",
+   "date": "2026-10-19T22:09:22.000Z"
   },
   {
    "id": "07986418197e",
@@ -160,6 +180,16 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-e96ba4390f3656b93ceaa155f3a29d3eccb9a065bb5642ac92925fe4aa903abf",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-17T14:08:21.000Z"
+  },
+  {
+   "id": "f5e60c7dac58",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch",
+   "summary": "Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery . Created in collaboration with the Internet Archiv…",
+   "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/IMG_2446-791x1024.jpeg",
+   "date": "2026-10-14T20:23:31.000Z"
   },
   {
    "id": "47eadd5b17fe",
@@ -375,7 +405,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1308
+   "itens": 1309
   },
   "canva": {
    "aviso": "sem feed"
@@ -390,55 +420,56 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "delphi": {
-   "aviso": "sem feed"
-  },
-  "123apps": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
-  },
-  "wayback": {
-   "aviso": "sem feed"
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "arena": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "tec": {
+   "aviso": "sem feed"
+  },
+  "123apps": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
+  },
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 9
-  },
-  "pdf24": {
-   "aviso": "sem feed"
+   "itens": 10
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "squoosh": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -451,28 +482,28 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "carbon": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
-  },
-  "squoosh": {
-   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -482,24 +513,24 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "removebg": {
    "aviso": "sem feed"
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
   },
   "rayso": {
    "aviso": "sem feed"
