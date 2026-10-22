@@ -1,6 +1,46 @@
 {
- "generatedAt": "2026-10-22T07:01:49.507Z",
+ "generatedAt": "2026-10-22T09:51:42.724Z",
  "items": [
+  {
+   "id": "9e6e22f1202e",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · Nightly 39751099158 (2559c42)",
+   "summary": "Nightly build of 2559c42c7a9e9d8d42bc92143b8671d0419ea642 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-2559c42c7a9e9d8d42bc92143b8671d0419ea642 Android downloads Choose the APK matching your device: arm64-v8a…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39751099158",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-22T09:04:56.000Z"
+  },
+  {
+   "id": "901ed4af4825",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Google brings Gemini's Personal Intelligence to Android Auto and cars with Google built-in",
+   "summary": "Google has announced that its Gemini AI assistant is now available globally on Android Auto and in cars with Google built-in , with a new capability called Personal Intelligence that lets the assistant draw on a user's own Gmail , Photos ,…",
+   "url": "https://alternativeto.net/news/2026/10/google-brings-gemini-s-personal-intelligence-to-android-auto-and-cars-with-google-built-in/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792594314113.png",
+   "date": "2026-10-22T09:00:00.000Z"
+  },
+  {
+   "id": "d6c336e12b7c",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "What Ancient Latin Sounded Like, And How We Know It",
+   "summary": "Latin is a language As dead as dead can be ; It killed the Romans long ago, And now it’s killing me. That famed ditty isn’t likely to resonate with many modern school children, but interest in ancient Rome remains fairly robust. We’ve come…",
+   "url": "https://www.openculture.com/2026/10/what-ancient-latin-sounded-like-how-we-know-it.html",
+   "image": "https://i.ytimg.com/vi/_enn7NIo-S0/maxresdefault.jpg",
+   "date": "2026-10-22T08:00:47.000Z"
+  },
+  {
+   "id": "dee8a7add247",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Substack introduces podcast sponsorship program, giving creators new revenue options",
+   "summary": "Substack has announced that it will begin offering podcast sponsorship capabilities to creators on its platform , marking a significant expansion of its monetization toolkit beyond paid subscriptions. The move comes as the publishing platf…",
+   "url": "https://alternativeto.net/news/2026/10/substack-introduces-podcast-sponsorship-program-giving-creators-new-revenue-options/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792593596599.png",
+   "date": "2026-10-22T07:30:00.000Z"
+  },
   {
    "id": "7f1a71b26411",
    "sourceId": "gh-reactiveresume",
@@ -52,16 +92,6 @@
    "date": "2026-10-21T17:00:00.000Z"
   },
   {
-   "id": "40c456695c2d",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Mistral AI launches Voxtral 3, a new family of speech models for versatile voice agents",
-   "summary": "Mistral AI has released Voxtral 3 , a family of speech models bundled with a voice agent SDK rather than a single flagship model. According to the company's announcement , the release comprises three transcription models — Voxtral Small Tr…",
-   "url": "https://alternativeto.net/news/2026/10/mistral-ai-launches-voxtral-3-a-new-family-of-speech-models-for-versatile-voice-agents/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792591108947.png",
-   "date": "2026-10-21T15:00:00.000Z"
-  },
-  {
    "id": "74fcf21eca7a",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -70,16 +100,6 @@
    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
    "image": "",
    "date": "2026-10-21T13:00:00.000Z"
-  },
-  {
-   "id": "d2c33aac9e10",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Subquadratic launches SubQ Snap, a long-context decision model it says outperforms Jev",
-   "summary": "Subquadratic, a startup focused on optimizing how foundation models scale, announced on October 12, 2026 the release of SubQ Snap , a specialized decision model built for agentic AI workflows. Unlike traditional large language models desig…",
-   "url": "https://alternativeto.net/news/2026/10/subquadratic-launches-subq-snap-a-long-context-decision-model-it-says-outperforms-jev/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792512241804.png",
-   "date": "2026-10-21T12:00:00.000Z"
   },
   {
    "id": "f01510dff4c4",
@@ -142,16 +162,6 @@
    "date": "2026-10-20T12:00:00.000Z"
   },
   {
-   "id": "b9304c1f88c2",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Doctor Who’s Tom Baker Plays Douglas Adams’ Digital “Agent” in the AI-Predicting Hyperland (1990)",
-   "summary": "Cast your mind, if you will, back to the year 2020. It now feels like a different time, what with the spreading COVID-19 pandemic and the heated sociopolitical battles being waged online, and indeed in the (socially distanced) streets. Tha…",
-   "url": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams.html",
-   "image": "https://i.ytimg.com/vi/5nOXGYxHVFI/maxresdefault.jpg",
-   "date": "2026-10-20T09:00:25.000Z"
-  },
-  {
    "id": "24b4f9a6315d",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -170,16 +180,6 @@
    "url": "https://www.troyhunt.com/weekly-update-526/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/image.jpg",
    "date": "2026-10-19T06:47:58.000Z"
-  },
-  {
-   "id": "c1169e03ec02",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.4",
-   "summary": "Highlights Native apps for iOS and Android join the project. Build resumes and cover letters, track applications, prepare for interviews and use Career coaching from a native interface. Drafts recover after interruptions, and PDF sharing w…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.4",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-18T07:32:58.000Z"
   },
   {
    "id": "ab7f42636114",
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1312
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -443,39 +443,42 @@
   "arena": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 15
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "squoosh": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
   "shots": {
    "aviso": "sem feed"
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -485,28 +488,29 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
   "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
@@ -517,10 +521,6 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
@@ -529,10 +529,10 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "escolavirtual": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
