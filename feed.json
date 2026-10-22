@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-22T00:59:04.646Z",
+ "generatedAt": "2026-10-22T03:48:46.934Z",
  "items": [
+  {
+   "id": "7f1a71b26411",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · Nightly 39717515617 (62658f3)",
+   "summary": "Nightly build of 62658f36fa2b75a9a6ec6995b6aa499cda3d1c13 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-62658f36fa2b75a9a6ec6995b6aa499cda3d1c13 Android downloads Choose the APK matching your device: arm64-v8a…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39717515617",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-22T03:44:16.000Z"
+  },
+  {
+   "id": "767b1d92e4e1",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · Nightly 39717476219 (feeb13e)",
+   "summary": "Nightly build of feeb13e802e52c554838e4049b13a971900cbf70 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-feeb13e802e52c554838e4049b13a971900cbf70 Android downloads Choose the APK matching your device: arm64-v8a…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39717476219",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-22T03:43:29.000Z"
+  },
+  {
+   "id": "2090eec8cf5c",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "PHP patches critical AI-discovered PHP2Shell vulnerabilities affecting millions of sites",
+   "summary": "PHP maintainers have released emergency fixes for two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , collectively known as PHP2Shell . Both are rated 9.2 out of 10 in severity and could allow remote code execution on vulne…",
+   "url": "https://alternativeto.net/news/2026/10/php-patches-critical-ai-discovered-php2shell-vulnerabilities-affecting-millions-of-sites/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792634595533.png",
+   "date": "2026-10-22T01:35:08.000Z"
+  },
   {
    "id": "2ed22a61b2f1",
    "sourceId": "chatgpt",
@@ -50,16 +80,6 @@
    "url": "https://alternativeto.net/news/2026/10/subquadratic-launches-subq-snap-a-long-context-decision-model-it-says-outperforms-jev/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792512241804.png",
    "date": "2026-10-21T12:00:00.000Z"
-  },
-  {
-   "id": "43b750ead9e8",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "ForkLift 4.7.7 brings mouse navigation and macOS 27 fixes",
-   "summary": "ForkLift 4.7.7 adds built-in Back and Forward navigation for fourth and fifth mouse buttons, plus remote FTP, SFTP, and Amazon S3 locations in the path bar pop-up. The Info Window can now show recursive item counts for local folders when s…",
-   "url": "https://alternativeto.net/news/2026/10/forklift-4-7-7-brings-mouse-navigation-and-macos-27-fixes/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792578500158.png",
-   "date": "2026-10-21T10:28:20.000Z"
   },
   {
    "id": "f01510dff4c4",
@@ -172,16 +192,6 @@
    "date": "2026-10-17T14:26:38.000Z"
   },
   {
-   "id": "910af83382bf",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · Native Forme 0.0.0 e96ba439",
-   "summary": "Native Forme build input for iOS and Android. Source identity and SHA-256 are recorded in prebuilt.json.",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-e96ba4390f3656b93ceaa155f3a29d3eccb9a065bb5642ac92925fe4aa903abf",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-17T14:08:21.000Z"
-  },
-  {
    "id": "f5e60c7dac58",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -190,16 +200,6 @@
    "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/IMG_2446-791x1024.jpeg",
    "date": "2026-10-14T20:23:31.000Z"
-  },
-  {
-   "id": "47eadd5b17fe",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.3",
-   "summary": "Highlights Format text the way you want. The editor toolbar brings back alignment and underline, plus a More formatting menu with strikethrough, code, highlight, text colour, headings, indent and outdent, horizontal lines and clear formatt…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.3",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-14T09:54:53.000Z"
   },
   {
    "id": "21c7aa05bbeb",
@@ -433,9 +433,6 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
@@ -443,78 +440,88 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "arena": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 12
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
   "unscreen": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -525,14 +532,7 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
