@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T03:48:46.934Z",
+ "generatedAt": "2026-10-22T07:01:49.507Z",
  "items": [
   {
    "id": "7f1a71b26411",
@@ -392,13 +392,13 @@
    "date": null
   },
   {
-   "id": "c824550befad",
+   "id": "070eb1187f35",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "The Chemical History of a Candle by Michael Faraday",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/14474",
-   "image": "https://www.gutenberg.org/cache/epub/14474/pg14474.cover.medium.jpg",
+   "title": "Pendragon by Alfred Assollant",
+   "summary": "Language: French",
+   "url": "https://www.gutenberg.org/ebooks/79836",
+   "image": "https://www.gutenberg.org/cache/epub/79836/pg79836.cover.medium.jpg",
    "date": null
   }
  ],
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1312
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -443,18 +443,21 @@
   "arena": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 12
-  },
   "poe": {
    "aviso": "sem feed"
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 15
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
   "pdf24": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "justwatch": {
@@ -469,21 +472,18 @@
   "photopea": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "shots": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
@@ -491,18 +491,19 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "escolavirtual": {
+  "gh-searxng": {
    "aviso": "sem feed"
+  },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -512,16 +513,12 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -531,6 +528,9 @@
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
