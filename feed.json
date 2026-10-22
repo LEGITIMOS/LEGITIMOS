@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-22T18:55:29.880Z",
+ "generatedAt": "2026-10-22T21:45:30.904Z",
  "items": [
+  {
+   "id": "0862eeadccad",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · forme-native-v0.0.0-c563664b4180a72b103ed966a7c910cd5a2d25f2c84f4825ad6a0e44fe73ad1e",
+   "summary": "Native Forme binaries. Review and commit prebuilt.json before building mobile apps.",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-c563664b4180a72b103ed966a7c910cd5a2d25f2c84f4825ad6a0e44fe73ad1e",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-22T21:23:21.000Z"
+  },
+  {
+   "id": "27825e300358",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Build more responsive apps with the Decisions API",
+   "summary": "Fast, focused, low-cost decisions for any application.",
+   "url": "https://openai.com/index/decisions-api",
+   "image": "",
+   "date": "2026-10-22T19:00:00.000Z"
+  },
   {
    "id": "868c531664f5",
    "sourceId": "alternativeto",
@@ -30,26 +50,6 @@
    "url": "https://alternativeto.net/news/2026/10/duckdb-s-major-2-0-release-turns-the-database-management-system-into-a-full-fledged-server/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792609908600.png",
    "date": "2026-10-22T15:00:00.000Z"
-  },
-  {
-   "id": "d3387923b265",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · Nightly 39792277844 (f89b86c)",
-   "summary": "Nightly build of f89b86c0410139aa6b248c2efced6d230b6a0233 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-f89b86c0410139aa6b248c2efced6d230b6a0233 Android downloads Choose the APK matching your device: arm64-v8a…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39792277844",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-22T14:13:21.000Z"
-  },
-  {
-   "id": "9e6e22f1202e",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · Nightly 39751099158 (2559c42)",
-   "summary": "Nightly build of 2559c42c7a9e9d8d42bc92143b8671d0419ea642 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-2559c42c7a9e9d8d42bc92143b8671d0419ea642 Android downloads Choose the APK matching your device: arm64-v8a…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39751099158",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-22T09:04:56.000Z"
   },
   {
    "id": "861a3e60adc1",
@@ -92,6 +92,16 @@
    "date": "2026-10-22T03:33:41.000Z"
   },
   {
+   "id": "767b1d92e4e1",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · nightly-39717476219",
+   "summary": "fix(ci): use published Android SDK platform package name",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39717476219",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-22T03:33:15.000Z"
+  },
+  {
    "id": "ba6fa07d677a",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -100,16 +110,6 @@
    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
    "image": "",
    "date": "2026-10-22T00:00:00.000Z"
-  },
-  {
-   "id": "2ed22a61b2f1",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Broad access through consistent standards",
-   "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
-   "image": "",
-   "date": "2026-10-21T21:00:00.000Z"
   },
   {
    "id": "f01510dff4c4",
@@ -405,7 +405,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1314
+   "itens": 1315
   },
   "canva": {
    "aviso": "sem feed"
@@ -426,15 +426,15 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "arena": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
+  },
+  "123apps": {
+   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
@@ -451,6 +451,9 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
    "aviso": "sem feed"
   },
@@ -460,22 +463,19 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
   "cleanup": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -485,21 +485,12 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "gh-cobalt": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
@@ -508,31 +499,40 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
+  "gh-cobalt": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   }
  }
