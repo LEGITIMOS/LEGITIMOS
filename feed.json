@@ -1,6 +1,46 @@
 {
- "generatedAt": "2026-10-22T09:51:42.724Z",
+ "generatedAt": "2026-10-22T18:55:29.880Z",
  "items": [
+  {
+   "id": "868c531664f5",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Crystal 1.22 adds native event loops and faster DWARF parsing",
+   "summary": "Crystal 1.22.0 makes a native system-selector event loop the default across all targets, leaving libevent as an opt-in fallback. The release also refactors DWARF parsing to scan sections on demand, build an index once, and cache decoded ba…",
+   "url": "https://alternativeto.net/news/2026/10/crystal-1-22-adds-native-event-loops-and-faster-dwarf-parsing/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792687021805.png",
+   "date": "2026-10-22T16:37:01.000Z"
+  },
+  {
+   "id": "73cb570bac15",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Instapaper brings 30 new AI voices and iPhone Duo support",
+   "summary": "Instapaper has added 30 new AI voices across 13 languages for Premium subscribers, with Dutch, German, Hebrew, Korean, and Polish newly supported. The update also adds Spanish (es-ES) and Portuguese (pt-PT) dialect options, available in Se…",
+   "url": "https://alternativeto.net/news/2026/10/instapaper-brings-30-new-ai-voices-and-iphone-duo-support/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792686785209.png",
+   "date": "2026-10-22T16:33:05.000Z"
+  },
+  {
+   "id": "4437498a6cf8",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "DuckDB's major 2.0 release turns the database management system into a full-fledged server",
+   "summary": "The DuckDB team has announced the release of DuckDB 2.0 LTS , code-named “Cinnamon Teal” after the reddish-brown duck native to the western Americas. At the heart of DuckDB 2.0 is the Quack remote protocol, which fundamentally transforms D…",
+   "url": "https://alternativeto.net/news/2026/10/duckdb-s-major-2-0-release-turns-the-database-management-system-into-a-full-fledged-server/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792609908600.png",
+   "date": "2026-10-22T15:00:00.000Z"
+  },
+  {
+   "id": "d3387923b265",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · Nightly 39792277844 (f89b86c)",
+   "summary": "Nightly build of f89b86c0410139aa6b248c2efced6d230b6a0233 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-f89b86c0410139aa6b248c2efced6d230b6a0233 Android downloads Choose the APK matching your device: arm64-v8a…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39792277844",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-22T14:13:21.000Z"
+  },
   {
    "id": "9e6e22f1202e",
    "sourceId": "gh-reactiveresume",
@@ -12,14 +52,14 @@
    "date": "2026-10-22T09:04:56.000Z"
   },
   {
-   "id": "901ed4af4825",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google brings Gemini's Personal Intelligence to Android Auto and cars with Google built-in",
-   "summary": "Google has announced that its Gemini AI assistant is now available globally on Android Auto and in cars with Google built-in , with a new capability called Personal Intelligence that lets the assistant draw on a user's own Gmail , Photos ,…",
-   "url": "https://alternativeto.net/news/2026/10/google-brings-gemini-s-personal-intelligence-to-android-auto-and-cars-with-google-built-in/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792594314113.png",
-   "date": "2026-10-22T09:00:00.000Z"
+   "id": "861a3e60adc1",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Christopher Lee Reads Edgar Allan Poe: “The Raven,” “The Fall of the House of Usher,” “The Murders in the Rue Morgue” & More",
+   "summary": "Sir Christopher Lee and Edgar Allan Poe went way back. Or at least they went as far back as 1969, the year of The Oblong Box , a loose and lurid film adaptation of the eponymous story starring Lee and the also Poe-associated Vincent Price.…",
+   "url": "https://www.openculture.com/2026/10/christopher-lee-reads-edgar-allan-poe-the-fall-of-the-house-of-usher.html",
+   "image": "https://cdn8.openculture.com/2026/10/21222015/Screenshot-2026-10-21-at-10.29.17-PM-1-1024x599.png",
+   "date": "2026-10-22T09:00:33.000Z"
   },
   {
    "id": "d6c336e12b7c",
@@ -32,44 +72,34 @@
    "date": "2026-10-22T08:00:47.000Z"
   },
   {
-   "id": "dee8a7add247",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Substack introduces podcast sponsorship program, giving creators new revenue options",
-   "summary": "Substack has announced that it will begin offering podcast sponsorship capabilities to creators on its platform , marking a significant expansion of its monetization toolkit beyond paid subscriptions. The move comes as the publishing platf…",
-   "url": "https://alternativeto.net/news/2026/10/substack-introduces-podcast-sponsorship-program-giving-creators-new-revenue-options/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792593596599.png",
-   "date": "2026-10-22T07:30:00.000Z"
+   "id": "63c31ca523f9",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "What FDE means at OpenAI",
+   "summary": "What forward deployed engineering means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "image": "",
+   "date": "2026-10-22T06:00:00.000Z"
   },
   {
    "id": "7f1a71b26411",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · Nightly 39717515617 (62658f3)",
-   "summary": "Nightly build of 62658f36fa2b75a9a6ec6995b6aa499cda3d1c13 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-62658f36fa2b75a9a6ec6995b6aa499cda3d1c13 Android downloads Choose the APK matching your device: arm64-v8a…",
+   "title": "Reactive Resume · nightly-39717515617: docs: document cover-letter PDF rendering and DOCX export (#3655)",
+   "summary": "Co-authored-by: context7[bot] <236830434+context7[bot]@users.noreply.github.com>",
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39717515617",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-22T03:44:16.000Z"
+   "image": "https://avatars.githubusercontent.com/in/2083650?s=60&v=4",
+   "date": "2026-10-22T03:33:41.000Z"
   },
   {
-   "id": "767b1d92e4e1",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · Nightly 39717476219 (feeb13e)",
-   "summary": "Nightly build of feeb13e802e52c554838e4049b13a971900cbf70 from main. Build logs · Docker: ghcr.io/reactive-resume/reactive-resume:sha-feeb13e802e52c554838e4049b13a971900cbf70 Android downloads Choose the APK matching your device: arm64-v8a…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39717476219",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-22T03:43:29.000Z"
-  },
-  {
-   "id": "2090eec8cf5c",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "PHP patches critical AI-discovered PHP2Shell vulnerabilities affecting millions of sites",
-   "summary": "PHP maintainers have released emergency fixes for two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , collectively known as PHP2Shell . Both are rated 9.2 out of 10 in severity and could allow remote code execution on vulne…",
-   "url": "https://alternativeto.net/news/2026/10/php-patches-critical-ai-discovered-php2shell-vulnerabilities-affecting-millions-of-sites/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792634595533.png",
-   "date": "2026-10-22T01:35:08.000Z"
+   "id": "ba6fa07d677a",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "image": "",
+   "date": "2026-10-22T00:00:00.000Z"
   },
   {
    "id": "2ed22a61b2f1",
@@ -82,26 +112,6 @@
    "date": "2026-10-21T21:00:00.000Z"
   },
   {
-   "id": "4ab93569e260",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-   "url": "https://openai.com/index/att-legal",
-   "image": "",
-   "date": "2026-10-21T17:00:00.000Z"
-  },
-  {
-   "id": "74fcf21eca7a",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "image": "",
-   "date": "2026-10-21T13:00:00.000Z"
-  },
-  {
    "id": "f01510dff4c4",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -110,16 +120,6 @@
    "url": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
    "image": "https://cdn8.openculture.com/2026/10/20223734/Refreshment-Lamp-London-1890s.jpg",
    "date": "2026-10-21T09:00:04.000Z"
-  },
-  {
-   "id": "fcfc2b247cd3",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Sears Sold 75,000 DIY Mail Order Homes Between 1908 and 1939, and Transformed American Life",
-   "summary": "Two of the books that most shaped American culture both happened to bear the nickname “The Big Book.” While the second of these, the A.A. Manual, published in 1939, changed the country with 12-Step recovery groups, the first of these, the…",
-   "url": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
-   "image": "https://i.ytimg.com/vi/0bxxHoT2rk4/maxresdefault.jpg",
-   "date": "2026-10-21T08:00:54.000Z"
   },
   {
    "id": "e9e6ddae7d3d",
@@ -372,16 +372,6 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
-   "id": "a1cb183a9026",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The man who was two men by Ray Cummings",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79828",
-   "image": "https://www.gutenberg.org/cache/epub/79828/pg79828.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "e677e66ce5bc",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -400,12 +390,22 @@
    "url": "https://www.gutenberg.org/ebooks/79836",
    "image": "https://www.gutenberg.org/cache/epub/79836/pg79836.cover.medium.jpg",
    "date": null
+  },
+  {
+   "id": "c824550befad",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The Chemical History of a Candle by Michael Faraday",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/14474",
+   "image": "https://www.gutenberg.org/cache/epub/14474/pg14474.cover.medium.jpg",
+   "date": null
   }
  ],
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1312
+   "itens": 1314
   },
   "canva": {
    "aviso": "sem feed"
@@ -429,6 +429,9 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
@@ -440,15 +443,9 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 15
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 9
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -457,68 +454,74 @@
   "justwatch": {
    "aviso": "sem feed"
   },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
   "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "smartmockups": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "photopea": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "removebg": {
    "aviso": "sem feed"
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -530,9 +533,6 @@
    "itens": 10
   },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
