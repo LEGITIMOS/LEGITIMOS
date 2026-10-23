@@ -1,6 +1,66 @@
 {
- "generatedAt": "2026-10-23T15:52:18.194Z",
+ "generatedAt": "2026-10-23T18:55:24.342Z",
  "items": [
+  {
+   "id": "df76f7966f63",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Gitea releases gt CLI with JSON output and Actions support",
+   "summary": "Gitea has released gitea-cli 0.1.0, introducing gt as a from-scratch rewrite of its tea command-line tool for Gitea 28 and newer. The CLI manages repositories, issues, pull requests, releases, Actions and packages, while list and view comm…",
+   "url": "https://alternativeto.net/news/2026/10/gitea-releases-gt-cli-with-json-output-and-actions-support/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781406211.png",
+   "date": "2026-10-23T18:50:06.000Z"
+  },
+  {
+   "id": "2f10239da174",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Day One introduces open-source CLI for journal automation",
+   "summary": "Day One has launched a beta command-line interface with JSON-first access to accounts, journals, entries, Daily Chat, and context items. The open-source tool supports scripted reading and writing, saves new entries locally, and syncs them…",
+   "url": "https://alternativeto.net/news/2026/10/day-one-introduces-open-source-cli-for-journal-automation/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781184483.png",
+   "date": "2026-10-23T18:46:24.000Z"
+  },
+  {
+   "id": "4aa4b35fcf2e",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Stremio 2.1 brings Calendar and Discover previews to Apple",
+   "summary": "Stremio 2.1 adds a Calendar with month navigation and a daily agenda for upcoming episodes on iOS, iPadOS, tvOS and macOS. Moreover, Discover now provides inline title previews with trailers and library, watched and rating actions, while S…",
+   "url": "https://alternativeto.net/news/2026/10/stremio-2-1-brings-calendar-and-discover-previews-to-apple/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792780757807.png",
+   "date": "2026-10-23T18:39:17.000Z"
+  },
+  {
+   "id": "fc74b408666e",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.74rc351",
+   "summary": "Bump release version to 0.9.74rc351",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc351",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-23T18:21:47.000Z"
+  },
+  {
+   "id": "9e65d828dfa3",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc351",
+   "summary": "Bump release version to 0.9.74rc351",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc351",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-23T18:21:47.000Z"
+  },
+  {
+   "id": "298c8de07d18",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "image": "",
+   "date": "2026-10-23T17:00:00.000Z"
+  },
   {
    "id": "47bb0c82d9b6",
    "sourceId": "gh-archivebox",
@@ -12,46 +72,6 @@
    "date": "2026-10-23T14:39:27.000Z"
   },
   {
-   "id": "b3b6edef5c08",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc350",
-   "summary": "Bump release version to 0.9.74rc350",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc350",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T14:39:27.000Z"
-  },
-  {
-   "id": "7033e4b400f9",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Introducing 1Password for Agents to securely manage AI logins without disclosing passwords",
-   "summary": "1Password has announced a new platform, 1Password for Agents , designed to let personal AI agents sign into websites and services without ever holding the user's passwords. The company says the system works by prompting the user when an ag…",
-   "url": "https://alternativeto.net/news/2026/10/introducing-1password-for-agents-to-securely-manage-ai-logins-without-disclosing-passwords/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792677469461.png",
-   "date": "2026-10-23T13:30:00.000Z"
-  },
-  {
-   "id": "9a9c76f7501a",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc349",
-   "summary": "Bump release version to 0.9.74rc349",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc349",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T12:10:22.000Z"
-  },
-  {
-   "id": "a84685768bd9",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Passbolt 5.17 brings passkeys for MFA, autofill enhancements, and PIN codes in QuickAccess",
-   "summary": "Passbolt has released version 5.17 , code-named “Mad World” , bringing passkeys to multifactor authentication and a ground-up rewrite of the browser extension's autofill detection engine . According to the company's changelog , passkeys jo…",
-   "url": "https://alternativeto.net/news/2026/10/passbolt-5-17-brings-passkeys-for-mfa-autofill-enhancements-and-pin-codes-in-quickaccess/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792672115641.png",
-   "date": "2026-10-23T12:00:00.000Z"
-  },
-  {
    "id": "5b958b050312",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
@@ -60,16 +80,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.5",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-23T10:38:28.000Z"
-  },
-  {
-   "id": "8d128c04080a",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "You must now pay a subscription to post more than two links a month on your Facebook page",
-   "summary": "Meta has intensified its monetization strategy in 2026 by implementing a controversial restriction on external link posts for professional accounts and business pages on Facebook . Under the new policy, non-paying accounts are limited to s…",
-   "url": "https://alternativeto.net/news/2026/10/you-must-now-pay-a-subscription-to-post-more-than-two-links-a-month-on-your-facebook-page/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792670265198.png",
-   "date": "2026-10-23T09:00:00.000Z"
   },
   {
    "id": "076148913e97",
@@ -130,16 +140,6 @@
    "url": "https://www.openculture.com/2026/10/what-ancient-latin-sounded-like-how-we-know-it.html",
    "image": "https://i.ytimg.com/vi/_enn7NIo-S0/maxresdefault.jpg",
    "date": "2026-10-22T08:00:47.000Z"
-  },
-  {
-   "id": "63c31ca523f9",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "What FDE means at OpenAI",
-   "summary": "What forward deployed engineering means at OpenAI",
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
-   "image": "",
-   "date": "2026-10-22T06:00:00.000Z"
   },
   {
    "id": "7f1a71b26411",
@@ -405,28 +405,28 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1316
-  },
-  "canva": {
-   "aviso": "sem feed"
+   "itens": 1317
   },
   "comprecripto": {
    "aviso": "sem feed"
-  },
-  "receivesms": {
-   "aviso": "ignorado"
   },
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
+  "receivesms": {
+   "aviso": "ignorado"
+  },
+  "canva": {
+   "aviso": "sem feed"
+  },
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -437,39 +437,39 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "arena": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
+   "itens": 12
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -482,9 +482,6 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "carbon": {
    "aviso": "sem feed"
   },
@@ -494,15 +491,22 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
@@ -511,10 +515,6 @@
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
