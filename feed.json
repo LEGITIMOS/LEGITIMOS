@@ -1,6 +1,56 @@
 {
- "generatedAt": "2026-10-23T18:55:24.342Z",
+ "generatedAt": "2026-10-23T21:47:38.465Z",
  "items": [
+  {
+   "id": "2e13340fee38",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc361",
+   "summary": "Bump release version to 0.9.74rc361",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc361",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-23T21:42:34.000Z"
+  },
+  {
+   "id": "a06d2d603e6b",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc360",
+   "summary": "Bump release version to 0.9.74rc360",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc360",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-23T21:23:07.000Z"
+  },
+  {
+   "id": "89e4d5aea0ca",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc359",
+   "summary": "Bump release version to 0.9.74rc359",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc359",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-23T21:19:33.000Z"
+  },
+  {
+   "id": "fa66780e38c5",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "The Browser Company confirms Arc browser sunset, directs users to AI-powered successor Dia",
+   "summary": "The Browser Company has officially announced the discontinuation of its acclaimed Arc browser , setting a December 22, 2026, shutdown date after more than four years of operation. The decision, confirmed via the company's website and socia…",
+   "url": "https://alternativeto.net/news/2026/10/the-browser-company-confirms-arc-browser-sunset-directs-users-to-ai-powered-successor-dia/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792747025578.png",
+   "date": "2026-10-23T19:30:00.000Z"
+  },
+  {
+   "id": "a5ac59bc4e26",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "SuperCmd 2.0 adds Liquid Glass, screenshots and window switching",
+   "summary": "SuperCmd 2.0 introduces Liquid Glass styling with adjustable transparency and tint controls shared across the launcher, ⌘K menus, widgets and notes. The window switcher now sorts windows by recent use, retains thumbnail previews between op…",
+   "url": "https://alternativeto.net/news/2026/10/supercmd-2-0-adds-liquid-glass-screenshots-and-window-switching/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781629480.png",
+   "date": "2026-10-23T18:53:49.000Z"
+  },
   {
    "id": "df76f7966f63",
    "sourceId": "alternativeto",
@@ -10,46 +60,6 @@
    "url": "https://alternativeto.net/news/2026/10/gitea-releases-gt-cli-with-json-output-and-actions-support/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781406211.png",
    "date": "2026-10-23T18:50:06.000Z"
-  },
-  {
-   "id": "2f10239da174",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Day One introduces open-source CLI for journal automation",
-   "summary": "Day One has launched a beta command-line interface with JSON-first access to accounts, journals, entries, Daily Chat, and context items. The open-source tool supports scripted reading and writing, saves new entries locally, and syncs them…",
-   "url": "https://alternativeto.net/news/2026/10/day-one-introduces-open-source-cli-for-journal-automation/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781184483.png",
-   "date": "2026-10-23T18:46:24.000Z"
-  },
-  {
-   "id": "4aa4b35fcf2e",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Stremio 2.1 brings Calendar and Discover previews to Apple",
-   "summary": "Stremio 2.1 adds a Calendar with month navigation and a daily agenda for upcoming episodes on iOS, iPadOS, tvOS and macOS. Moreover, Discover now provides inline title previews with trailers and library, watched and rating actions, while S…",
-   "url": "https://alternativeto.net/news/2026/10/stremio-2-1-brings-calendar-and-discover-previews-to-apple/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792780757807.png",
-   "date": "2026-10-23T18:39:17.000Z"
-  },
-  {
-   "id": "fc74b408666e",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.74rc351",
-   "summary": "Bump release version to 0.9.74rc351",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc351",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T18:21:47.000Z"
-  },
-  {
-   "id": "9e65d828dfa3",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc351",
-   "summary": "Bump release version to 0.9.74rc351",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc351",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T18:21:47.000Z"
   },
   {
    "id": "298c8de07d18",
@@ -62,16 +72,6 @@
    "date": "2026-10-23T17:00:00.000Z"
   },
   {
-   "id": "47bb0c82d9b6",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.74rc350",
-   "summary": "Bump release version to 0.9.74rc350",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc350",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T14:39:27.000Z"
-  },
-  {
    "id": "5b958b050312",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
@@ -80,6 +80,16 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.5",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-23T10:38:28.000Z"
+  },
+  {
+   "id": "48e2274fdf2b",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Securing our frontier model training environment",
+   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "image": "",
+   "date": "2026-10-23T10:00:00.000Z"
   },
   {
    "id": "076148913e97",
@@ -110,16 +120,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-c563664b4180a72b103ed966a7c910cd5a2d25f2c84f4825ad6a0e44fe73ad1e",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-22T21:23:21.000Z"
-  },
-  {
-   "id": "27825e300358",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Build more responsive apps with the Decisions API",
-   "summary": "Fast, focused, low-cost decisions for any application.",
-   "url": "https://openai.com/index/decisions-api",
-   "image": "",
-   "date": "2026-10-22T19:00:00.000Z"
   },
   {
    "id": "861a3e60adc1",
@@ -405,20 +405,20 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1317
+   "itens": 1318
   },
   "comprecripto": {
    "aviso": "sem feed"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
+  "canva": {
+   "aviso": "sem feed"
   },
   "receivesms": {
    "aviso": "ignorado"
   },
-  "canva": {
-   "aviso": "sem feed"
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   },
   "delphi": {
    "aviso": "sem feed"
@@ -433,12 +433,12 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
-  },
-  "arena": {
-   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
@@ -447,14 +447,14 @@
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 12
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
   "justwatch": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
@@ -478,17 +478,17 @@
   "shots": {
    "aviso": "sem feed"
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -498,11 +498,15 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -511,10 +515,6 @@
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
