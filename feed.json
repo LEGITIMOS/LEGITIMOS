@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-24T18:47:52.061Z",
+ "generatedAt": "2026-10-24T21:43:54.210Z",
  "items": [
+  {
+   "id": "6b23e97568d8",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Canva launches Canva Craft, its first in-house image generation model",
+   "summary": "Canva has released Canva Craft , its first in-house image generation model, available to all users through Dream Lab . The company said unlike traditional prompt-based generation, Craft first creates a plan that considers spatial relations…",
+   "url": "https://alternativeto.net/news/2026/10/canva-launches-canva-craft-its-first-in-house-image-generation-model/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792869918278.png",
+   "date": "2026-10-24T19:03:46.000Z"
+  },
+  {
+   "id": "6ad0b00f5f6a",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Proton Lumo adds an editable canvas for document, code, and web page creation",
+   "summary": "Proton's Lumo AI assistant now has its own canvas, similar to ChatGPT Canvas and Claude Artifacts , allowing users to create and edit documents, code, and interactive web pages alongside the chat. Users can continue conversations, request…",
+   "url": "https://alternativeto.net/news/2026/10/proton-lumo-adds-an-editable-canvas-for-document-code-and-web-page-creation/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792868564134.png",
+   "date": "2026-10-24T18:48:48.000Z"
+  },
   {
    "id": "b337bdb2f737",
    "sourceId": "gh-archivebox",
@@ -40,26 +60,6 @@
    "url": "https://alternativeto.net/news/2026/10/the-browser-company-confirms-arc-browser-sunset-directs-users-to-ai-powered-successor-dia/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792747025578.png",
    "date": "2026-10-23T19:30:00.000Z"
-  },
-  {
-   "id": "a5ac59bc4e26",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "SuperCmd 2.0 adds Liquid Glass, screenshots and window switching",
-   "summary": "SuperCmd 2.0 introduces Liquid Glass styling with adjustable transparency and tint controls shared across the launcher, ⌘K menus, widgets and notes. The window switcher now sorts windows by recent use, retains thumbnail previews between op…",
-   "url": "https://alternativeto.net/news/2026/10/supercmd-2-0-adds-liquid-glass-screenshots-and-window-switching/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781629480.png",
-   "date": "2026-10-23T18:53:49.000Z"
-  },
-  {
-   "id": "df76f7966f63",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Gitea releases gt CLI with JSON output and Actions support",
-   "summary": "Gitea has released gitea-cli 0.1.0, introducing gt as a from-scratch rewrite of its tea command-line tool for Gitea 28 and newer. The CLI manages repositories, issues, pull requests, releases, Actions and packages, while list and view comm…",
-   "url": "https://alternativeto.net/news/2026/10/gitea-releases-gt-cli-with-json-output-and-actions-support/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792781406211.png",
-   "date": "2026-10-23T18:50:06.000Z"
   },
   {
    "id": "298c8de07d18",
@@ -420,9 +420,6 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "delphi": {
    "aviso": "sem feed"
   },
@@ -432,10 +429,6 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
@@ -443,27 +436,37 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 13
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -482,16 +485,10 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -501,12 +498,26 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -517,22 +528,11 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
