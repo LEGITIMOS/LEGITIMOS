@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T01:04:51.474Z",
+ "generatedAt": "2026-10-24T12:54:30.786Z",
  "items": [
   {
    "id": "b337bdb2f737",
@@ -372,33 +372,33 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
-   "id": "228d58a2fff6",
+   "id": "b51db32baaea",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Effi Briest by Theodor Fontane",
-   "summary": "Language: German",
-   "url": "https://www.gutenberg.org/ebooks/5323",
-   "image": "https://www.gutenberg.org/cache/epub/5323/pg5323.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "5fa2226065f7",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Married in haste by Ann S. Stephens",
+   "title": "Dry-law debate : by Clarence Darrow and Wayne Bidwell Wheeler",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79843",
-   "image": "https://www.gutenberg.org/cache/epub/79843/pg79843.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79848",
+   "image": "https://www.gutenberg.org/cache/epub/79848/pg79848.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "c6616e897f63",
+   "id": "e40fd40e17dd",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Claude Monet : by Gustave Geffroy",
-   "summary": "Language: French",
-   "url": "https://www.gutenberg.org/ebooks/79839",
-   "image": "https://www.gutenberg.org/cache/epub/79839/pg79839.cover.medium.jpg",
+   "title": "Frankenstein; or, The modern Prometheus by Mary Wollstonecraft Shelley",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/42324",
+   "image": "https://www.gutenberg.org/cache/epub/42324/pg42324.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "1c629ac93746",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The Schoolmistress: A Farce in Three Acts by Arthur Wing Pinero",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/47560",
+   "image": "https://www.gutenberg.org/cache/epub/47560/pg47560.cover.medium.jpg",
    "date": null
   }
  ],
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -423,53 +423,53 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 15
-  },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "arena": {
    "aviso": "sem feed"
   },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 8
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
+  "poe": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "squoosh": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -491,30 +491,30 @@
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
