@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T12:54:30.786Z",
+ "generatedAt": "2026-10-24T18:47:52.061Z",
  "items": [
   {
    "id": "b337bdb2f737",
@@ -372,6 +372,26 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "c5a479bcb0fa",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Asteroid 745: Mauritia by Donald A. Wollheim",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79852",
+   "image": "https://www.gutenberg.org/cache/epub/79852/pg79852.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "5f9c2582dbda",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Nothing but terror by Jesse F. Bone",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79850",
+   "image": "https://www.gutenberg.org/cache/epub/79850/pg79850.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "b51db32baaea",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -379,26 +399,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79848",
    "image": "https://www.gutenberg.org/cache/epub/79848/pg79848.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "e40fd40e17dd",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Frankenstein; or, The modern Prometheus by Mary Wollstonecraft Shelley",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/42324",
-   "image": "https://www.gutenberg.org/cache/epub/42324/pg42324.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "1c629ac93746",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The Schoolmistress: A Farce in Three Acts by Arthur Wing Pinero",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/47560",
-   "image": "https://www.gutenberg.org/cache/epub/47560/pg47560.cover.medium.jpg",
    "date": null
   }
  ],
@@ -420,6 +420,9 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "delphi": {
    "aviso": "sem feed"
   },
@@ -429,23 +432,20 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
   },
-  "arena": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 8
+   "itens": 13
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -454,28 +454,28 @@
   "poe": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -488,18 +488,18 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "removebg": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -513,20 +513,20 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
