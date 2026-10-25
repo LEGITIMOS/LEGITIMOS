@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-25T15:45:58.574Z",
+ "generatedAt": "2026-10-25T21:43:30.855Z",
  "items": [
+  {
+   "id": "22a997a3c4c9",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc379",
+   "summary": "Bump release version to 0.9.74rc379",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc379",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-25T21:28:38.000Z"
+  },
+  {
+   "id": "fd54233a49ad",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc378",
+   "summary": "Bump release version to 0.9.74rc378",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc378",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-25T21:17:50.000Z"
+  },
+  {
+   "id": "633df91dfe16",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc377",
+   "summary": "Bump release version to 0.9.74rc377",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc377",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-25T20:14:48.000Z"
+  },
   {
    "id": "b4fe94b57e73",
    "sourceId": "gh-gallerydl",
@@ -40,36 +70,6 @@
    "url": "https://alternativeto.net/news/2026/10/proton-lumo-adds-an-editable-canvas-for-document-code-and-web-page-creation/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792868564134.png",
    "date": "2026-10-24T18:48:48.000Z"
-  },
-  {
-   "id": "b337bdb2f737",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc370",
-   "summary": "Bump release version to 0.9.74rc370",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc370",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T23:56:44.000Z"
-  },
-  {
-   "id": "28a2c8e6d0d6",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.74rc369",
-   "summary": "Bump release version to 0.9.74rc369",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc369",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T23:21:51.000Z"
-  },
-  {
-   "id": "33e265c6e909",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc369",
-   "summary": "Bump release version to 0.9.74rc369",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc369",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-23T23:21:51.000Z"
   },
   {
    "id": "fa66780e38c5",
@@ -372,6 +372,16 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "ca46a724da7d",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Assyria : by A. H. Sayce",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/42033",
+   "image": "https://www.gutenberg.org/cache/epub/42033/pg42033.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "75064974b40a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -389,16 +399,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79855",
    "image": "https://www.gutenberg.org/cache/epub/79855/pg79855.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "382f3b273ad2",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The works of Plato (Vol. 2 of 6) : by Plato",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79398",
-   "image": "https://www.gutenberg.org/cache/epub/79398/pg79398.cover.medium.jpg",
    "date": null
   }
  ],
@@ -433,46 +433,49 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 11
+   "itens": 21
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
   "pdf24": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "arena": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -482,28 +485,24 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "gh-cobalt": {
+  "carbon": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "carbon": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -517,22 +516,23 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
