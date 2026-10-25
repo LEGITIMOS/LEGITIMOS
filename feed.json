@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T09:45:35.910Z",
+ "generatedAt": "2026-10-25T15:45:58.574Z",
  "items": [
   {
    "id": "b4fe94b57e73",
@@ -372,6 +372,16 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "75064974b40a",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Barry Lyndon by William Makepeace Thackeray",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/4558",
+   "image": "https://www.gutenberg.org/cache/epub/4558/pg4558.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "4a1321de162f",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -390,16 +400,6 @@
    "url": "https://www.gutenberg.org/ebooks/79398",
    "image": "https://www.gutenberg.org/cache/epub/79398/pg79398.cover.medium.jpg",
    "date": null
-  },
-  {
-   "id": "c5a479bcb0fa",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Asteroid 745: Mauritia by Donald A. Wollheim",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79852",
-   "image": "https://www.gutenberg.org/cache/epub/79852/pg79852.cover.medium.jpg",
-   "date": null
   }
  ],
  "report": {
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -433,7 +433,7 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "arena": {
+  "poe": {
    "aviso": "sem feed"
   },
   "wayback": {
@@ -445,28 +445,28 @@
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 18
+   "itens": 11
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "photopea": {
@@ -482,24 +482,28 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "gh-searxng": {
    "aviso": "sem feed"
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -513,26 +517,22 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "escolavirtual": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
