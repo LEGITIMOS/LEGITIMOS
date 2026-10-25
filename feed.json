@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-25T00:55:00.132Z",
+ "generatedAt": "2026-10-25T03:48:54.063Z",
  "items": [
+  {
+   "id": "463260bd1bf6",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.6",
+   "summary": "Highlights A refreshed look across web and mobile. The original colors and landing page return with new Figtree and Instrument Serif typefaces, tighter corners, sentence-case labels and clearer interface copy throughout. ed3abe358 Faster e…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.6",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-25T01:58:21.000Z"
+  },
   {
    "id": "6b23e97568d8",
    "sourceId": "alternativeto",
@@ -140,16 +150,6 @@
    "url": "https://www.openculture.com/2026/10/what-ancient-latin-sounded-like-how-we-know-it.html",
    "image": "https://i.ytimg.com/vi/_enn7NIo-S0/maxresdefault.jpg",
    "date": "2026-10-22T08:00:47.000Z"
-  },
-  {
-   "id": "7f1a71b26411",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · nightly-39717515617: docs: document cover-letter PDF rendering and DOCX export (#3655)",
-   "summary": "Co-authored-by: context7[bot] <236830434+context7[bot]@users.noreply.github.com>",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/nightly-39717515617",
-   "image": "https://avatars.githubusercontent.com/in/2083650?s=60&v=4",
-   "date": "2026-10-22T03:33:41.000Z"
   },
   {
    "id": "b43f828be9eb",
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -429,12 +429,12 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
@@ -460,19 +460,16 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -485,7 +482,16 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -493,15 +499,6 @@
    "itens": 10
   },
   "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
@@ -533,6 +530,9 @@
    "itens": 10
   },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
    "aviso": "sem feed"
   }
  }
