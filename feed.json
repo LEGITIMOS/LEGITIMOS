@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T03:48:54.063Z",
+ "generatedAt": "2026-10-25T06:58:02.802Z",
  "items": [
   {
    "id": "463260bd1bf6",
@@ -138,7 +138,7 @@
    "title": "Christopher Lee Reads Edgar Allan Poe: “The Raven,” “The Fall of the House of Usher,” “The Murders in the Rue Morgue” & More",
    "summary": "Sir Christopher Lee and Edgar Allan Poe went way back. Or at least they went as far back as 1969, the year of The Oblong Box , a loose and lurid film adaptation of the eponymous story starring Lee and the also Poe-associated Vincent Price.…",
    "url": "https://www.openculture.com/2026/10/christopher-lee-reads-edgar-allan-poe-the-fall-of-the-house-of-usher.html",
-   "image": "https://cdn8.openculture.com/2026/10/21222015/Screenshot-2026-10-21-at-10.29.17-PM-1-1024x599.png",
+   "image": "",
    "date": "2026-10-22T09:00:33.000Z"
   },
   {
@@ -372,13 +372,23 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "4a1321de162f",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Wolves of the sea by Gaston Leroux",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79855",
+   "image": "",
+   "date": null
+  },
+  {
    "id": "382f3b273ad2",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
    "title": "The works of Plato (Vol. 2 of 6) : by Plato",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79398",
-   "image": "https://www.gutenberg.org/cache/epub/79398/pg79398.cover.medium.jpg",
+   "image": "",
    "date": null
   },
   {
@@ -390,16 +400,6 @@
    "url": "https://www.gutenberg.org/ebooks/79852",
    "image": "https://www.gutenberg.org/cache/epub/79852/pg79852.cover.medium.jpg",
    "date": null
-  },
-  {
-   "id": "5f9c2582dbda",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Nothing but terror by Jesse F. Bone",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79850",
-   "image": "https://www.gutenberg.org/cache/epub/79850/pg79850.cover.medium.jpg",
-   "date": null
   }
  ],
  "report": {
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -433,9 +433,6 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
@@ -445,19 +442,22 @@
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 15
+   "itens": 18
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -466,32 +466,26 @@
   "pdf24": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "shots": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -501,24 +495,26 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -527,6 +523,10 @@
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "rayso": {
