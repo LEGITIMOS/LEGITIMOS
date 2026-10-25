@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-25T06:58:02.802Z",
+ "generatedAt": "2026-10-25T09:45:35.910Z",
  "items": [
+  {
+   "id": "b4fe94b57e73",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.18",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.18 Extractors Additions [goonbox] add user extractor ( pr#535 ) deviantart fix avatar URLs…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.18",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-10-25T09:14:53.000Z"
+  },
   {
    "id": "463260bd1bf6",
    "sourceId": "gh-reactiveresume",
@@ -138,7 +148,7 @@
    "title": "Christopher Lee Reads Edgar Allan Poe: “The Raven,” “The Fall of the House of Usher,” “The Murders in the Rue Morgue” & More",
    "summary": "Sir Christopher Lee and Edgar Allan Poe went way back. Or at least they went as far back as 1969, the year of The Oblong Box , a loose and lurid film adaptation of the eponymous story starring Lee and the also Poe-associated Vincent Price.…",
    "url": "https://www.openculture.com/2026/10/christopher-lee-reads-edgar-allan-poe-the-fall-of-the-house-of-usher.html",
-   "image": "",
+   "image": "https://cdn8.openculture.com/2026/10/21222015/Screenshot-2026-10-21-at-10.29.17-PM-1-1024x599.png",
    "date": "2026-10-22T09:00:33.000Z"
   },
   {
@@ -250,16 +260,6 @@
    "url": "https://www.troyhunt.com/weekly-update-524/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault.jpg",
    "date": "2026-10-04T11:52:23.000Z"
-  },
-  {
-   "id": "6b014303a99c",
-   "sourceId": "gh-gallerydl",
-   "sourceName": "Gallery-DL",
-   "title": "Gallery-DL · v1.32.15",
-   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.15 Extractors Additions [mastodon] support mastodon.art ( gh#5269 ) [mastodon] support aet…",
-   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.15",
-   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
-   "date": "2026-10-03T15:53:29.000Z"
   },
   {
    "id": "1d1c2c9aaec3",
@@ -378,7 +378,7 @@
    "title": "Wolves of the sea by Gaston Leroux",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79855",
-   "image": "",
+   "image": "https://www.gutenberg.org/cache/epub/79855/pg79855.cover.medium.jpg",
    "date": null
   },
   {
@@ -388,7 +388,7 @@
    "title": "The works of Plato (Vol. 2 of 6) : by Plato",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79398",
-   "image": "",
+   "image": "https://www.gutenberg.org/cache/epub/79398/pg79398.cover.medium.jpg",
    "date": null
   },
   {
@@ -407,10 +407,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -433,6 +433,9 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
@@ -444,15 +447,15 @@
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 18
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
@@ -460,32 +463,35 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -495,44 +501,38 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "rayso": {
-   "aviso": "sem feed"
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
   },
   "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   }
  }
