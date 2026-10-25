@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T21:43:54.210Z",
+ "generatedAt": "2026-10-25T00:55:00.132Z",
  "items": [
   {
    "id": "6b23e97568d8",
@@ -372,6 +372,16 @@
    "date": "2026-05-26T17:45:39.000Z"
   },
   {
+   "id": "382f3b273ad2",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The works of Plato (Vol. 2 of 6) : by Plato",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79398",
+   "image": "https://www.gutenberg.org/cache/epub/79398/pg79398.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "c5a479bcb0fa",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -389,16 +399,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79850",
    "image": "https://www.gutenberg.org/cache/epub/79850/pg79850.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "b51db32baaea",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Dry-law debate : by Clarence Darrow and Wayne Bidwell Wheeler",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79848",
-   "image": "https://www.gutenberg.org/cache/epub/79848/pg79848.cover.medium.jpg",
    "date": null
   }
  ],
@@ -429,50 +429,50 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 13
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 15
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -488,9 +488,6 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
@@ -498,38 +495,41 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "removebg": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "rayso": {
