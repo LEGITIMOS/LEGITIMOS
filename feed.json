@@ -1,35 +1,75 @@
 {
- "generatedAt": "2026-10-26T07:06:07.903Z",
+ "generatedAt": "2026-10-26T09:59:15.789Z",
  "items": [
   {
-   "id": "69d4449bfeb9",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc395",
-   "summary": "Bump release version to 0.9.74rc395",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc395",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-26T06:44:47.000Z"
+   "id": "ee97485219f9",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Harry Houdini Died 100 Years Ago This Halloween: Was He Really Killed by a Punch to the Stomach?",
+   "summary": "This Halloween marks the 100th anniversary of the death of famed escape artist Harry Houdini . Today, most of us know more about the manner of that death than we do about any of t he feats of escape artistry that made him famous in the fir…",
+   "url": "https://www.openculture.com/2026/10/harry-houdini-died-100-years-ago-this-halloween.html",
+   "image": "https://i.ytimg.com/vi/Bj6ulLJGPB8/maxresdefault.jpg",
+   "date": "2026-10-26T09:00:06.000Z"
   },
   {
-   "id": "78681abb2338",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc394",
-   "summary": "Bump release version to 0.9.74rc394",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc394",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-26T06:02:03.000Z"
+   "id": "0656eb584525",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Bluesky launches highlighted profile links and iPad support to empower creators",
+   "summary": "Bluesky has rolled out profile links , a new feature allowing users to place external website links directly at the top of their profiles. The update enables creators, journalists, and regular users to showcase personal websites, newslette…",
+   "url": "https://alternativeto.net/news/2026/10/bluesky-launches-highlighted-profile-links-and-ipad-support-to-empower-creators/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792780257912.png",
+   "date": "2026-10-26T08:30:00.000Z"
   },
   {
-   "id": "9f38183e785c",
+   "id": "c179f758d3c6",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Hear an Hour of the Jazzy Background Music from the Original 1967 Spider-Man Cartoon",
+   "summary": "Ray Ellis had a six-decade career as a producer, arranger, and jazz composer. And while he’s best known for arranging music for Billie Holiday’s Lady in Satin (1958), he also enjoyed a long career orchestrating music for television. Workin…",
+   "url": "https://www.openculture.com/2026/10/an-hour-of-the-jazzy-background-music-from-the-original-1967-spider-man-cartoon.html",
+   "image": "https://i.ytimg.com/vi/yCF8JU30gXI/maxresdefault.jpg",
+   "date": "2026-10-26T08:00:29.000Z"
+  },
+  {
+   "id": "317a5dcc2e30",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc393",
-   "summary": "Bump release version to 0.9.74rc393",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc393",
+   "title": "ArchiveBox · release-candidate/0.9.74rc398",
+   "summary": "Bump release version to 0.9.74rc398",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc398",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-26T05:04:07.000Z"
+   "date": "2026-10-26T07:39:07.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-26T07:32:17.000Z"
+  },
+  {
+   "id": "9822b60be3cf",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc397",
+   "summary": "Bump release version to 0.9.74rc397",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc397",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-26T07:12:49.000Z"
+  },
+  {
+   "id": "a0b24d9fb092",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc396",
+   "summary": "Bump release version to 0.9.74rc396",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc396",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-26T07:07:30.000Z"
   },
   {
    "id": "1ce47e4254d7",
@@ -50,16 +90,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev6",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-10-26T00:38:57.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-25T22:51:07.000Z"
   },
   {
    "id": "2029673e5076",
@@ -170,16 +200,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.2",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-10-24T09:55:03.000Z"
-  },
-  {
-   "id": "fa66780e38c5",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "The Browser Company confirms Arc browser sunset, directs users to AI-powered successor Dia",
-   "summary": "The Browser Company has officially announced the discontinuation of its acclaimed Arc browser , setting a December 22, 2026, shutdown date after more than four years of operation. The decision, confirmed via the company's website and socia…",
-   "url": "https://alternativeto.net/news/2026/10/the-browser-company-confirms-arc-browser-sunset-directs-users-to-ai-powered-successor-dia/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792747025578.png",
-   "date": "2026-10-23T19:30:00.000Z"
   },
   {
    "id": "298c8de07d18",
@@ -300,26 +320,6 @@
    "url": "https://elevenlabs.io/blog/what-is-voice-over",
    "image": "https://elevenlabs.io/cover.png",
    "date": "2026-10-22T12:00:00.000Z"
-  },
-  {
-   "id": "861a3e60adc1",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Christopher Lee Reads Edgar Allan Poe: “The Raven,” “The Fall of the House of Usher,” “The Murders in the Rue Morgue” & More",
-   "summary": "Sir Christopher Lee and Edgar Allan Poe went way back. Or at least they went as far back as 1969, the year of The Oblong Box , a loose and lurid film adaptation of the eponymous story starring Lee and the also Poe-associated Vincent Price.…",
-   "url": "https://www.openculture.com/2026/10/christopher-lee-reads-edgar-allan-poe-the-fall-of-the-house-of-usher.html",
-   "image": "https://cdn8.openculture.com/2026/10/21222015/Screenshot-2026-10-21-at-10.29.17-PM-1-1024x599.png",
-   "date": "2026-10-22T09:00:33.000Z"
-  },
-  {
-   "id": "d6c336e12b7c",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "What Ancient Latin Sounded Like, And How We Know It",
-   "summary": "Latin is a language As dead as dead can be ; It killed the Romans long ago, And now it’s killing me. That famed ditty isn’t likely to resonate with many modern school children, but interest in ancient Rome remains fairly robust. We’ve come…",
-   "url": "https://www.openculture.com/2026/10/what-ancient-latin-sounded-like-how-we-know-it.html",
-   "image": "https://i.ytimg.com/vi/_enn7NIo-S0/maxresdefault.jpg",
-   "date": "2026-10-22T08:00:47.000Z"
   },
   {
    "id": "3bca49e35661",
@@ -922,16 +922,6 @@
    "date": null
   },
   {
-   "id": "75064974b40a",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Barry Lyndon by William Makepeace Thackeray",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/4558",
-   "image": "https://www.gutenberg.org/cache/epub/4558/pg4558.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "b9acefb1a964",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -939,6 +929,16 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/1184",
    "image": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "8a95f44d2350",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Papeis Avulsos by Machado de Assis",
+   "summary": "Language: Portuguese",
+   "url": "https://www.gutenberg.org/ebooks/57001",
+   "image": "https://www.gutenberg.org/cache/epub/57001/pg57001.cover.medium.jpg",
    "date": null
   },
   {
@@ -977,10 +977,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -996,15 +996,15 @@
   "tec": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
-  },
-  "arena": {
-   "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
@@ -1015,37 +1015,37 @@
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 25
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 16
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
+  "justwatch": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1055,24 +1055,27 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
+  "speedtest": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 102
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
+   "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
@@ -1080,26 +1083,20 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "perplexity": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1108,16 +1105,19 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "v0": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
   "bolt": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1130,25 +1130,25 @@
   "suno": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "otter": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "otter": {
+  "gamma": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
   "jasper": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1162,60 +1162,60 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "kling": {
    "aviso": "sem feed"
   },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
-   "itens": 10
-  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
+  },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
@@ -1232,24 +1232,20 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-strix": {
@@ -1258,6 +1254,10 @@
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "raphael": {
