@@ -1,35 +1,75 @@
 {
- "generatedAt": "2026-10-25T21:43:30.855Z",
+ "generatedAt": "2026-10-26T01:10:57.515Z",
  "items": [
   {
-   "id": "22a997a3c4c9",
+   "id": "2d64bb29c383",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc379",
-   "summary": "Bump release version to 0.9.74rc379",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc379",
+   "title": "ArchiveBox · release-candidate/0.9.74rc390",
+   "summary": "Bump release version to 0.9.74rc390",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc390",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-25T21:28:38.000Z"
+   "date": "2026-10-26T01:02:42.000Z"
   },
   {
-   "id": "fd54233a49ad",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc378",
-   "summary": "Bump release version to 0.9.74rc378",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc378",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-25T21:17:50.000Z"
+   "id": "e3f5ab3076d9",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev6",
+   "summary": "Langflow nightly v1.14.0.dev6",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev6",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-10-26T00:38:57.000Z"
   },
   {
-   "id": "633df91dfe16",
+   "id": "d081f0e76683",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc377",
-   "summary": "Bump release version to 0.9.74rc377",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc377",
+   "title": "ArchiveBox · release-candidate/0.9.74rc389",
+   "summary": "Bump release version to 0.9.74rc389",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc389",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-25T20:14:48.000Z"
+   "date": "2026-10-26T00:28:06.000Z"
+  },
+  {
+   "id": "294d61fb8a6e",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc388",
+   "summary": "Bump release version to 0.9.74rc388",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc388",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-26T00:13:47.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-25T22:51:07.000Z"
+  },
+  {
+   "id": "2029673e5076",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.13.1",
+   "summary": "fix: refresh enterprise bundle profile lock for 1.13.1",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.1",
+   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
+   "date": "2026-10-25T18:13:26.000Z"
+  },
+  {
+   "id": "06f852cd6997",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.16",
+   "summary": "Site audit fixes for Shopify stores, Chinese and Japanese pages, and sites behind Cloudflare. Fixed Site audits of Shopify stores no longer stop when Shopify refuses a single page. Chinese, Japanese and Thai articles are no longer wrongly…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.16",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-25T10:44:23.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -42,6 +82,16 @@
    "date": "2026-10-25T09:14:53.000Z"
   },
   {
+   "id": "48c08baa6419",
+   "sourceId": "gh-openwebui",
+   "sourceName": "Open WebUI",
+   "title": "Open WebUI · v0.12.4",
+   "summary": "Added 🎯 Load selected skills on demand. Administrators can turn on \"Load selected skills on demand\" under Admin Settings > General or set \"ENABLE_SKILL_LAZY_LOADING\", so skills selected in the chat or attached to a model are only listed f…",
+   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.4",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-25T08:07:13.000Z"
+  },
+  {
    "id": "463260bd1bf6",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
@@ -50,6 +100,36 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.6",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-10-25T01:58:21.000Z"
+  },
+  {
+   "id": "6cb72fb1af7e",
+   "sourceId": "gh-maxun",
+   "sourceName": "Maxun",
+   "title": "Maxun · v0.1.0",
+   "summary": "We're moving beyond 0.0.x and into 0.1.0 ! This release brings major improvements across scraping, crawling, AI-powered data extraction, document processing, and MCP. We've also rebuilt parts of the experience to make Maxun more capable, r…",
+   "url": "https://github.com/getmaxun/maxun/releases/tag/v0.1.0",
+   "image": "https://avatars.githubusercontent.com/u/76456498?s=60&v=4",
+   "date": "2026-10-25T01:45:40.000Z"
+  },
+  {
+   "id": "9e703d2e47e2",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev5",
+   "summary": "Langflow nightly v1.14.0.dev5",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev5",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-10-25T00:40:10.000Z"
+  },
+  {
+   "id": "1cff2839c17a",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.15",
+   "summary": "Search Console and GA4 setup over MCP, rank-grid maps in local-seo reports, and a way to disconnect agents. What's new Pick a project's Search Console site and GA4 property with MCP tools — thanks @ChNirvik Reports from the local-seo skill…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.15",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-24T20:54:19.000Z"
   },
   {
    "id": "6b23e97568d8",
@@ -72,6 +152,16 @@
    "date": "2026-10-24T18:48:48.000Z"
   },
   {
+   "id": "814ef480a5f1",
+   "sourceId": "gh-stirlingpdf",
+   "sourceName": "Stirling PDF",
+   "title": "Stirling PDF · 3.2.2 new annotations and other minor changes and improvements",
+   "summary": "Another small release with some bug fixes Fix for some viewer rendering issues New auto fit to width button for viewer New annotation shape options like arrow and polyline QR code stamp types What's Changed Bug Fixes fix(i18n): expand Turk…",
+   "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.2",
+   "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
+   "date": "2026-10-24T09:55:03.000Z"
+  },
+  {
    "id": "fa66780e38c5",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
@@ -90,6 +180,26 @@
    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "image": "",
    "date": "2026-10-23T17:00:00.000Z"
+  },
+  {
+   "id": "de28e840aebe",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.33.0",
+   "summary": "1.33.0 (2026-10-23) What's Changed Features feat(verify-openhands): launch --mars-web and --lock-to-cloud by @enyst in #18848 feat(digitalocean): keep the web build signed in across restarts by @enyst in #18705 Bug Fixes fix(automations):…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.33.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-10-23T13:54:32.000Z"
+  },
+  {
+   "id": "7d37b86a4f6c",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How Immobiliare.it went from one conversational agent to an agentic network",
+   "summary": "Italy’s leading property marketplace goes from one conversational agent to an agentic network",
+   "url": "https://elevenlabs.io/blog/immobiliare",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wxkqj0gr6ze-Immobiliare%20-%20SEO%20(1).webp",
+   "date": "2026-10-23T12:00:00.000Z"
   },
   {
    "id": "5b958b050312",
@@ -122,6 +232,26 @@
    "date": "2026-10-23T08:00:05.000Z"
   },
   {
+   "id": "2f533b8e9395",
+   "sourceId": "gh-dify",
+   "sourceName": "Dify",
+   "title": "Dify · v1.18.0 — Smarter Agent Routing, Portable Apps, Deeper Workflow Visibility",
+   "summary": "Dify 1.18.0 brings Agents that route workflows , portable app packages , deeper visibility into nested workflow runs , and the opt-in Agent Knowledge Base experience. OpenAPI and the new difyctl expand how you build and manage apps from th…",
+   "url": "https://github.com/langgenius/dify/releases/tag/1.18.0",
+   "image": "https://avatars.githubusercontent.com/u/16485841?s=60&v=4",
+   "date": "2026-10-23T06:35:41.000Z"
+  },
+  {
+   "id": "012f9fca3b5f",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.32.0",
+   "summary": "1.32.0 (2026-10-23) What's Changed Features feat(home): store pinned automations in agent-server settings by @abhayymishraa in #18190 feat(mcp): let the install dialog choose between installable library options by @ak684 in #18836 feat(aut…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.32.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-10-23T03:11:28.000Z"
+  },
+  {
    "id": "15c1f8ef7a58",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -140,6 +270,26 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-c563664b4180a72b103ed966a7c910cd5a2d25f2c84f4825ad6a0e44fe73ad1e",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-22T21:23:21.000Z"
+  },
+  {
+   "id": "20c57f600e4e",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.31.0",
+   "summary": "1.31.0 (2026-10-22) What's Changed Features feat(automations): hide the GitHub token secret field on self-hosted instances when GitHub is connected (OHE-3699) by @hieptl in #18829 Bug Fixes fix(mcp): install OAuth-only library entries thro…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.31.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-10-22T16:19:12.000Z"
+  },
+  {
+   "id": "02ccacdc254b",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "What is voice over? Definition, examples, and how it works",
+   "summary": "Learn what is voice over, how it differs from voice acting and dubbing, and how to write a script and create a voice over with AI in minutes.",
+   "url": "https://elevenlabs.io/blog/what-is-voice-over",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-10-22T12:00:00.000Z"
   },
   {
    "id": "861a3e60adc1",
@@ -162,6 +312,26 @@
    "date": "2026-10-22T08:00:47.000Z"
   },
   {
+   "id": "3bca49e35661",
+   "sourceId": "gh-stirlingpdf",
+   "sourceName": "Stirling PDF",
+   "title": "Stirling PDF · 3.2.1 Viewer improvements and bug fixes",
+   "summary": "Smaller release with some nice viewer and editor improvements and bug fixes for annotation and compression Key features are: Arrow key support for viewer Dual page view to support cover pages Read aloud now starts at the selected text You…",
+   "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.1",
+   "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
+   "date": "2026-10-22T07:29:46.000Z"
+  },
+  {
+   "id": "666895a3c20c",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Webinar Recap: Reaching At-Risk Patients When Minutes Matter",
+   "summary": "Learn how Cadence uses ElevenAgents to reach patients within minutes of a vital sign reading outside the expected range.",
+   "url": "https://elevenlabs.io/blog/webinar-recap-reaching-at-risk-patients-when-minutes-matter",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wuq1wrr60ii-Recap---Reaching-At-Risk-Patients-When-Minutes-Matter.webp",
+   "date": "2026-10-21T12:00:00.000Z"
+  },
+  {
    "id": "b43f828be9eb",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -172,6 +342,16 @@
    "date": "2026-10-20T12:00:00.000Z"
   },
   {
+   "id": "93e7a14b51c6",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · v3.8.52",
+   "summary": "OmniRoute v3.8.52 1,442 documented changes — 135 features, 1,112 fixes and 195 maintenance entries from 1,386 commits in the cycle, with 306 external contributors . Thank you all. 📄 Complete release notes (every entry, full description an…",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.52",
+   "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
+   "date": "2026-10-20T01:56:41.000Z"
+  },
+  {
    "id": "24b4f9a6315d",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -180,6 +360,16 @@
    "url": "https://blog.archive.org/2026/10/19/annual-celebration-2026-street-fair-to-showcase-internet-archives-projects-and-allies/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/TOOLS_FOR_PARTICIPATION_EVENTBRITE_2160-2048x1024-2-1024x512.png",
    "date": "2026-10-19T22:09:22.000Z"
+  },
+  {
+   "id": "036a7fb842f4",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.14",
+   "summary": "IndexNow submissions, rank trackers per language, and steadier rank checks. What's new Submit changed pages to Bing and other IndexNow engines, in Settings → Integrations or with the submit_indexnow_urls MCP tool Requires uploading a key f…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.14",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-19T20:16:37.000Z"
   },
   {
    "id": "07986418197e",
@@ -202,6 +392,76 @@
    "date": "2026-10-17T14:26:38.000Z"
   },
   {
+   "id": "42dce3e33270",
+   "sourceId": "gh-openwebui",
+   "sourceName": "Open WebUI",
+   "title": "Open WebUI · v0.12.3",
+   "summary": "Added 🔐 End-to-end encrypted chats. Direct messages and private group channels can now hold a temporary end-to-end encrypted chat: a member picks Encrypted Chat in the channel menu, the other members see \"Encrypted chat in progress\" with…",
+   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.3",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-16T11:46:21.000Z"
+  },
+  {
+   "id": "95b4aa1b3abd",
+   "sourceId": "gh-supabase",
+   "sourceName": "Supabase",
+   "title": "Supabase · self-hosted/v0.8.3",
+   "summary": "Self-hosted Supabase v0.8.3: Security fixes for Storage and Realtime,…",
+   "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.3",
+   "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
+   "date": "2026-10-16T11:43:13.000Z"
+  },
+  {
+   "id": "a60158f2cce8",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · 0.13.13: OpenAI browser tools and Cloud fixes",
+   "summary": "This release includes the OpenAI browser-tool driver and fixes two integration issues. Handle temporary empty Cloud tab URLs during navigation. Keep screenshots, crops, and pointer coordinates aligned on scaled displays. Provide 18 default…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.13",
+   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
+   "date": "2026-10-15T23:50:45.000Z"
+  },
+  {
+   "id": "57c5034d6421",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · 0.13.12: OpenAI browser tools",
+   "summary": "Add OpenAI browser tools backed by Browser Use Actor. Import BrowserUse from browser_use.integrations.openai . Install browser-use[openai-tools] to enable OpenAI Python 3.31+. Use local browsers, Browser Use Cloud, or an existing connected…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.12",
+   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
+   "date": "2026-10-15T23:37:58.000Z"
+  },
+  {
+   "id": "cff6d360f994",
+   "sourceId": "gh-stirlingpdf",
+   "sourceName": "Stirling PDF",
+   "title": "Stirling PDF · 3.2.0 New Multi-tool, better passworded PDFs and lots of improvements",
+   "summary": "Another good release! The old multi-tool has been replaced by a completely redesigned Page Editor. It now resupports images, renaming files, and a bunch of QOL UI changes making it much easier to rearrange and manage your documents. Please…",
+   "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.0",
+   "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
+   "date": "2026-10-15T21:26:38.000Z"
+  },
+  {
+   "id": "65f81757c6d9",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "Introducing Presentation Mode: Slides That Talk Back",
+   "summary": "Key Takeaways Presentation Mode is live. It turns any slide deck into an interactive presentation led by a D-ID Agent. Viewers can interrupt. They ask questions at any point, get answers on the spot, and the Agent continues where it left o…",
+   "url": "https://www.d-id.com/blog/blog-presentation-mode-interactive-presentations/",
+   "image": "https://www.d-id.com/wp-content/uploads/2026/10/introducing-presentation-mode-demo-poster.jpg",
+   "date": "2026-10-15T12:36:13.000Z"
+  },
+  {
+   "id": "7d652b51f262",
+   "sourceId": "gh-openwebui",
+   "sourceName": "Open WebUI",
+   "title": "Open WebUI · v0.12.2",
+   "summary": "Added 📑 MinerU 4.x servers. The MinerU document engine now works with self-hosted MinerU 4.x servers, where every document failed with a 404 because 4.x removed the old parsing interface; 3.x servers work as before, 4.x servers take a tie…",
+   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.2",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-14T21:07:29.000Z"
+  },
+  {
    "id": "f5e60c7dac58",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -210,6 +470,26 @@
    "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/IMG_2446-791x1024.jpeg",
    "date": "2026-10-14T20:23:31.000Z"
+  },
+  {
+   "id": "16316f176021",
+   "sourceId": "gh-crawl4ai",
+   "sourceName": "Crawl4AI",
+   "title": "Crawl4AI · Release v0.9.5",
+   "summary": "🎉 Crawl4AI v0.9.5 Released! 📦 Installation PyPI: pip install crawl4ai==0.9.5 Docker: docker pull unclecode/crawl4ai:0.9.5 docker pull unclecode/crawl4ai:latest Note: Docker images are being built and will be available shortly. Check the…",
+   "url": "https://github.com/unclecode/crawl4ai/releases/tag/v0.9.5",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-14T10:25:39.000Z"
+  },
+  {
+   "id": "1edfc14048e5",
+   "sourceId": "gh-crawl4ai",
+   "sourceName": "Crawl4AI",
+   "title": "Crawl4AI · docker-rebuild-v0.9.5",
+   "summary": "Merge main into develop: cloud launch wording",
+   "url": "https://github.com/unclecode/crawl4ai/releases/tag/docker-rebuild-v0.9.5",
+   "image": "https://avatars.githubusercontent.com/u/17140097?s=60&v=4",
+   "date": "2026-10-14T10:23:58.000Z"
   },
   {
    "id": "21c7aa05bbeb",
@@ -242,6 +522,26 @@
    "date": "2026-10-09T09:45:22.000Z"
   },
   {
+   "id": "cdc6c57a84cf",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "The Best AI Dubbing Tools of 2026",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key takeaways Lip sync is the first filter: speakers on camera need it, while narration, screencasts and podcasts can usually be dubbed as audio alone. Language counts are n…",
+   "url": "https://www.d-id.com/blog/best-ai-dubbing-tools/",
+   "image": "",
+   "date": "2026-10-07T07:56:22.000Z"
+  },
+  {
+   "id": "b649b1fb589d",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · 0.13.11",
+   "summary": "This release includes Browser Use toolsets for Claude, available at browser_use.integrations.toolsets_for_claude . The integration requires an Anthropic SDK release containing anthropic.tools.browser ; the current public Anthropic SDK does…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.11",
+   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
+   "date": "2026-10-07T04:23:18.000Z"
+  },
+  {
    "id": "4c9d867c9227",
    "sourceId": "gh-vaultwarden",
    "sourceName": "Vaultwarden",
@@ -250,6 +550,26 @@
    "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.4",
    "image": "https://avatars.githubusercontent.com/u/725423?s=60&v=4",
    "date": "2026-10-06T11:30:54.000Z"
+  },
+  {
+   "id": "07b59d10f873",
+   "sourceId": "gh-strix",
+   "sourceName": "Strix",
+   "title": "Strix · v1.7.0",
+   "summary": "What's Changed fix(models): frontier model check matches the model name only, never the provider route by @0xallam in #1280 feat(reporting): link HTTP exchange evidence by @bearsyankees in #1281 feat(prompts): require http_exchange_ids for…",
+   "url": "https://github.com/usestrix/strix/releases/tag/v1.7.0",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-05T02:53:24.000Z"
+  },
+  {
+   "id": "c2180be50d11",
+   "sourceId": "gh-opennotebook",
+   "sourceName": "Open Notebook",
+   "title": "Open Notebook · v1.15.0 — Quiet Green, new providers and sturdier ingestion",
+   "summary": "We recommend all users upgrade. v1.15.0 brings the new \"Quiet Green\" visual identity, three new provider options (SiliconFlow, Z.ai, MiniMax text-to-speech), and the latest Esperanto, content-core and podcast-creator releases. Behind them…",
+   "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0",
+   "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
+   "date": "2026-10-05T01:20:26.000Z"
   },
   {
    "id": "5e2f5e5d0c09",
@@ -262,6 +582,26 @@
    "date": "2026-10-04T11:52:23.000Z"
   },
   {
+   "id": "39b60030254c",
+   "sourceId": "gh-maxun",
+   "sourceName": "Maxun",
+   "title": "Maxun · v0.0.48",
+   "summary": "New Maxun SDKs: Node.js and Python Both official SDKs have been rebuilt to make Maxun simpler to use from code. The Node.js SDK ( maxun-sdk ) and the Python SDK ( maxun ) now share the same design, so the same few lines work in either lang…",
+   "url": "https://github.com/getmaxun/maxun/releases/tag/v0.0.48",
+   "image": "https://avatars.githubusercontent.com/u/76456498?s=60&v=4",
+   "date": "2026-10-01T17:38:20.000Z"
+  },
+  {
+   "id": "e38267f28b0e",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · v3.8.51",
+   "summary": "OmniRoute v3.8.51 2,022 documented changes — 235 features, 1,454 fixes and 333 maintenance entries from 1,973 commits in the cycle, with 301 external contributors . Thank you all. 📄 Complete release notes (every entry, full description an…",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.51",
+   "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
+   "date": "2026-09-30T06:53:54.000Z"
+  },
+  {
    "id": "1d1c2c9aaec3",
    "sourceId": "gh-suwayomi",
    "sourceName": "Suwayomi",
@@ -270,6 +610,16 @@
    "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.4.2366",
    "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
    "date": "2026-09-30T03:16:23.000Z"
+  },
+  {
+   "id": "d3893474bae8",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "AI Video Agents: How They Automate Video Content Creation",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways An AI video agent runs the whole production chain from a single input. A video generator renders the one step you ask it for. An agent still works from instruc…",
+   "url": "https://www.d-id.com/ai-video-agents-automate-content-creation/",
+   "image": "",
+   "date": "2026-09-28T12:37:48.000Z"
   },
   {
    "id": "0da1ef5420c4",
@@ -282,6 +632,26 @@
    "date": "2026-09-28T07:24:57.000Z"
   },
   {
+   "id": "6d47b4109654",
+   "sourceId": "gh-supabase",
+   "sourceName": "Supabase",
+   "title": "Supabase · self-hosted/v0.8.2",
+   "summary": "Self-hosted Supabase v0.8.2: Postgres init changes, setup.sh fix, OAu…",
+   "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.2",
+   "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
+   "date": "2026-09-23T13:17:39.000Z"
+  },
+  {
+   "id": "2826c2e162ac",
+   "sourceId": "gh-crawl4ai",
+   "sourceName": "Crawl4AI",
+   "title": "Crawl4AI · Release v0.9.4",
+   "summary": "🎉 Crawl4AI v0.9.4 Released! 📦 Installation PyPI: pip install crawl4ai==0.9.4 Docker: docker pull unclecode/crawl4ai:0.9.4 docker pull unclecode/crawl4ai:latest Note: Docker images are being built and will be available shortly. Check the…",
+   "url": "https://github.com/unclecode/crawl4ai/releases/tag/v0.9.4",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-09-23T12:14:55.000Z"
+  },
+  {
    "id": "30dd7154d8f4",
    "sourceId": "gh-changedetection",
    "sourceName": "Changedetection.io",
@@ -290,6 +660,16 @@
    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.7",
    "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
    "date": "2026-09-17T09:23:07.000Z"
+  },
+  {
+   "id": "4f9aa12fcc42",
+   "sourceId": "gh-maxun",
+   "sourceName": "Maxun",
+   "title": "Maxun · v0.0.47 | Website Monitoring 🔥",
+   "summary": "🔍 Monitoring Maxun can now monitor websites in just a few clicks! Track a website over time and get notified when it changes. You can monitor an entire website, or just a specific part of it. It works with Extract, Scrape, and Crawl robot…",
+   "url": "https://github.com/getmaxun/maxun/releases/tag/v0.0.47",
+   "image": "https://avatars.githubusercontent.com/u/76456498?s=60&v=4",
+   "date": "2026-09-16T22:04:19.000Z"
   },
   {
    "id": "dc94359bf967",
@@ -322,6 +702,56 @@
    "date": "2026-09-12T02:39:04.000Z"
   },
   {
+   "id": "7c5432f1a185",
+   "sourceId": "gh-dify",
+   "sourceName": "Dify",
+   "title": "Dify · v1.17.1 - Bug Fixes and Improvements",
+   "summary": "Warning Self-hosted deployments using the bundled Weaviate must complete a manual, staged upgrade before starting 1.17.1. The bundled Weaviate server moves from 1.27.0 to 1.39.2 — 12 minor versions — and skipping minors is unsupported . Pu…",
+   "url": "https://github.com/langgenius/dify/releases/tag/1.17.1",
+   "image": "https://avatars.githubusercontent.com/u/12965714?s=60&v=4",
+   "date": "2026-09-10T10:17:09.000Z"
+  },
+  {
+   "id": "a0cf7d7c2d2f",
+   "sourceId": "gh-supabase",
+   "sourceName": "Supabase",
+   "title": "Supabase · self-hosted/v0.8.1",
+   "summary": "Self-hosted Supabase v0.8.1: PgBouncer override option and version bumps",
+   "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.1",
+   "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
+   "date": "2026-09-09T13:49:44.000Z"
+  },
+  {
+   "id": "92f96ebabcb6",
+   "sourceId": "gh-strix",
+   "sourceName": "Strix",
+   "title": "Strix · v1.6.2",
+   "summary": "What's Changed fix(agents): stop parents waiting on finished non-interactive children by @devin-ai-integration [bot] in #1241 fix(cloud): print top-up instructions on 402 and guide oversize or ar… by @bearsyankees in #1242 fix(viewer): sho…",
+   "url": "https://github.com/usestrix/strix/releases/tag/v1.6.2",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-09-05T01:30:11.000Z"
+  },
+  {
+   "id": "83cc3748142c",
+   "sourceId": "gh-strix",
+   "sourceName": "Strix",
+   "title": "Strix · v1.6.1",
+   "summary": "What's Changed skills: reference new cloud cli by @bearsyankees in #1227 MCP call errors no longer quarantine the connection by @yoni-at-strix in #1228 fix(tui): run environment and model checks on the no-target start screen by @devin-ai-i…",
+   "url": "https://github.com/usestrix/strix/releases/tag/v1.6.1",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-09-02T16:10:57.000Z"
+  },
+  {
+   "id": "62d1fd0a127f",
+   "sourceId": "gh-dify",
+   "sourceName": "Dify",
+   "title": "Dify · v1.16.0",
+   "summary": "Introducing Dify Agent (Beta) : A New Agent Experience in Dify Warning You should provide Dify Agent services ⚠️ only to trusted, non-malicious users ⚠️ . As many of you know, the shell-based LLM agent paradigm has brought a major leap in…",
+   "url": "https://github.com/langgenius/dify/releases/tag/1.16.0",
+   "image": "https://avatars.githubusercontent.com/u/12965714?s=60&v=4",
+   "date": "2026-09-01T16:00:43.000Z"
+  },
+  {
    "id": "50daaab95354",
    "sourceId": "gh-vaultwarden",
    "sourceName": "Vaultwarden",
@@ -340,6 +770,76 @@
    "url": "https://github.com/localsend/localsend/releases/tag/v1.18.1",
    "image": "https://avatars.githubusercontent.com/u/38380847?s=60&v=4",
    "date": "2026-08-12T13:11:17.000Z"
+  },
+  {
+   "id": "1a1d85f01323",
+   "sourceId": "gh-booktoskill",
+   "sourceName": "Book to Skill",
+   "title": "Book to Skill · v1.4.0",
+   "summary": "Extraction reliability release: six fixes for silent content loss or silent wrong answers, plus the first changelog generated from commit messages. Highlights Scanned PDFs fail fast. An image-only PDF used to run the whole extraction chain…",
+   "url": "https://github.com/virgiliojr94/book-to-skill/releases/tag/v1.4.0",
+   "image": "https://avatars.githubusercontent.com/u/23645449?s=60&v=4",
+   "date": "2026-08-10T19:06:32.000Z"
+  },
+  {
+   "id": "5d3f3e74d6ec",
+   "sourceId": "gh-noaislop",
+   "sourceName": "No AI Slop",
+   "title": "No AI Slop · v1.0.6",
+   "summary": "What's Changed Update plugin logo, prompts, and description by @petergyang in #28 Full Changelog : v1.0.5...v1.0.6",
+   "url": "https://github.com/petergyang/no-ai-slop/releases/tag/v1.0.6",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-08-01T16:08:45.000Z"
+  },
+  {
+   "id": "9b17dc4c8646",
+   "sourceId": "gh-noaislop",
+   "sourceName": "No AI Slop",
+   "title": "No AI Slop · v1.0.5",
+   "summary": "What's Changed Simplify plugin icon and listing by @petergyang in #27 Full Changelog : v1.0.4...v1.0.5",
+   "url": "https://github.com/petergyang/no-ai-slop/releases/tag/v1.0.5",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-07-31T18:20:56.000Z"
+  },
+  {
+   "id": "0eed4176d9c5",
+   "sourceId": "gh-booktoskill",
+   "sourceName": "Book to Skill",
+   "title": "Book to Skill · v1.3.0",
+   "summary": "book-to-skill v1.3.0 36 commits since v1.2.0. This release is security-heavy and adds multilingual chapter detection. 🔒 Security Generated-skill prompt-injection scan — a dependency-free advisory scanner flags instruction-override phrases…",
+   "url": "https://github.com/virgiliojr94/book-to-skill/releases/tag/v1.3.0",
+   "image": "https://avatars.githubusercontent.com/u/23645449?s=60&v=4",
+   "date": "2026-07-30T14:19:44.000Z"
+  },
+  {
+   "id": "d853958940b4",
+   "sourceId": "gh-noaislop",
+   "sourceName": "No AI Slop",
+   "title": "No AI Slop · v1.0.4",
+   "summary": "What's Changed Use selected No AI Slop icon by @petergyang in #18 Full Changelog : v1.0.3...v1.0.4",
+   "url": "https://github.com/petergyang/no-ai-slop/releases/tag/v1.0.4",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-07-27T01:45:37.000Z"
+  },
+  {
+   "id": "e7c1c7cfa519",
+   "sourceId": "gh-opennotebook",
+   "sourceName": "Open Notebook",
+   "title": "Open Notebook · v1.14.0 — New Providers & Hardened Provider Connections",
+   "summary": "We recommend all users upgrade. v1.14.0 is a providers-and-plumbing release: six new ways to connect models, a DNS-rebinding hardening pass on every outbound provider call, and fixes to two failure modes that could silently break a working…",
+   "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.14.0",
+   "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
+   "date": "2026-07-21T02:09:26.000Z"
+  },
+  {
+   "id": "af61c075ab21",
+   "sourceId": "gh-opennotebook",
+   "sourceName": "Open Notebook",
+   "title": "Open Notebook · v1.13.0 — Content Core 2.0: Our Biggest Content-Processing Upgrade",
+   "summary": "We recommend all users upgrade. v1.13.0 is our biggest content-processing upgrade yet : it rebuilds extraction on top of Content Core 2.0 (a major architecture release), adds opt-in Docling (OCR + layout-aware parsing) and Crawl4AI (JavaSc…",
+   "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.13.0",
+   "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
+   "date": "2026-07-14T10:09:35.000Z"
   },
   {
    "id": "5d8fe5de0b43",
@@ -362,6 +862,16 @@
    "date": "2026-07-05T19:44:30.000Z"
   },
   {
+   "id": "1b75e2f4217d",
+   "sourceId": "gh-booktoskill",
+   "sourceName": "Book to Skill",
+   "title": "Book to Skill · v1.2.0 — installable package + multilingual chapter detection",
+   "summary": "book-to-skill v1.2.0 turns the project into an installable Python package and makes chapter detection genuinely multilingual. Highlights 📦 Installable package + CLI book-to-skill is now a real book_to_skill package: pip install it, run th…",
+   "url": "https://github.com/virgiliojr94/book-to-skill/releases/tag/v1.2.0",
+   "image": "https://avatars.githubusercontent.com/u/23645449?s=60&v=4",
+   "date": "2026-06-17T22:15:56.000Z"
+  },
+  {
    "id": "bc43e2a2a821",
    "sourceId": "gh-libretranslate",
    "sourceName": "LibreTranslate",
@@ -370,6 +880,36 @@
    "url": "https://github.com/LibreTranslate/LibreTranslate/releases/tag/v1.9.6",
    "image": "https://avatars.githubusercontent.com/u/1951843?s=60&v=4",
    "date": "2026-05-26T17:45:39.000Z"
+  },
+  {
+   "id": "e75d2536b82f",
+   "sourceId": "gh-opengenerativeai",
+   "sourceName": "Open Generative AI",
+   "title": "Open Generative AI · v2.0.0 — Audio Studio, Vibe Motion, Clipping, Design Agent & more",
+   "summary": "What's New in v2.0.0 New Features Audio Studio — dedicated audio generation tab Vibe Motion — new motion effect capability Clipping Tab — video clipping workflow Design Agent — AI-powered design assistant integration EN/ZH Language Switche…",
+   "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/tag/v2.0.0",
+   "image": "https://avatars.githubusercontent.com/u/4326215?s=60&v=4",
+   "date": "2026-05-23T00:42:31.000Z"
+  },
+  {
+   "id": "b38ee21fe1b6",
+   "sourceId": "gh-opengenerativeai",
+   "sourceName": "Open Generative AI",
+   "title": "Open Generative AI · v1.0.11 — Wan2GP end-frame upload skips API-key prompt",
+   "summary": "Fix Video Studio: the end-frame picker (for FLF image-to-video models like kling / veo / seedance) no longer triggers the API-key modal when a Wan2GP local model is selected. It now mirrors the start-frame picker's local-aware gating — rou…",
+   "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/tag/v1.0.11",
+   "image": "https://avatars.githubusercontent.com/u/4326215?s=60&v=4",
+   "date": "2026-05-11T21:00:17.000Z"
+  },
+  {
+   "id": "0c88f6c48c60",
+   "sourceId": "gh-opengenerativeai",
+   "sourceName": "Open Generative AI",
+   "title": "Open Generative AI · v1.0.10 — Lipsync Infinite Talk null-prompt fix",
+   "summary": "What's new fix(lipsync): Infinite Talk image-to-video (and the other hasPrompt: true lipsync models — Wan 2.2 s2v, LTX 2.3, LTX 2 19B, Infinite Talk v2v) no longer fail with field \"prompt\" failed nullable validation: Value is not nullable;…",
+   "url": "https://github.com/Anil-matcha/Open-Generative-AI/releases/tag/v1.0.10",
+   "image": "https://avatars.githubusercontent.com/u/4326215?s=60&v=4",
+   "date": "2026-05-01T04:52:16.000Z"
   },
   {
    "id": "ca46a724da7d",
@@ -399,6 +939,36 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79855",
    "image": "https://www.gutenberg.org/cache/epub/79855/pg79855.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "d3b8497aceac",
+   "sourceId": "photoroom",
+   "sourceName": "Photoroom",
+   "title": "Vestiaire Collective becomes the first luxury resale platform to standardize every new listing photo with Photoroom, lifting liquidity 5%",
+   "summary": "",
+   "url": "https://www.photoroom.com/inside-photoroom/vestiaire-collective-liquidity-photoroom",
+   "image": "https://storyblok-cdn.photoroom.com/f/191576/2132x1200/0aae7a147d/photoroom-x-vestiaire-collective-x-nvidia-m.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
+   "date": null
+  },
+  {
+   "id": "1efabeacb143",
+   "sourceId": "photoroom",
+   "sourceName": "Photoroom",
+   "title": "Keeping dbt aware of Omni, automatically",
+   "summary": "",
+   "url": "https://www.photoroom.com/inside-photoroom/keeping-dbt-aware-of-omni-automatically",
+   "image": "https://storyblok-cdn.photoroom.com/f/191576/3200x1800/a52264f69d/hero-article-dbt-omni.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
+   "date": null
+  },
+  {
+   "id": "ff44e805459b",
+   "sourceId": "photoroom",
+   "sourceName": "Photoroom",
+   "title": "What's new in product: August 2026",
+   "summary": "",
+   "url": "https://www.photoroom.com/inside-photoroom/new-in-product-august-2026",
+   "image": "https://storyblok-cdn.photoroom.com/f/191576/2132x1200/25772db7c1/coverm.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
    "date": null
   }
  ],
@@ -437,33 +1007,30 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "neapay": {
-   "aviso": "sem feed"
-  },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 21
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "arena": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 24
+  },
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
+  },
+  "poe": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -472,37 +1039,124 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "carbon": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 102
   },
   "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
+  },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "krea": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "perplexity": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "v0": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
+  },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "suno": {
+   "aviso": "sem feed"
+  },
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "napkin": {
+   "aviso": "sem feed"
+  },
+  "otter": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -512,27 +1166,101 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "rayso": {
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
+  },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "raphael": {
    "aviso": "sem feed"
   }
  }
