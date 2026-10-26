@@ -1,15 +1,45 @@
 {
- "generatedAt": "2026-10-26T01:10:57.515Z",
+ "generatedAt": "2026-10-26T07:06:07.903Z",
  "items": [
   {
-   "id": "2d64bb29c383",
+   "id": "69d4449bfeb9",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc390",
-   "summary": "Bump release version to 0.9.74rc390",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc390",
+   "title": "ArchiveBox · release-candidate/0.9.74rc395",
+   "summary": "Bump release version to 0.9.74rc395",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc395",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-26T01:02:42.000Z"
+   "date": "2026-10-26T06:44:47.000Z"
+  },
+  {
+   "id": "78681abb2338",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc394",
+   "summary": "Bump release version to 0.9.74rc394",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc394",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-26T06:02:03.000Z"
+  },
+  {
+   "id": "9f38183e785c",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc393",
+   "summary": "Bump release version to 0.9.74rc393",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc393",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-26T05:04:07.000Z"
+  },
+  {
+   "id": "1ce47e4254d7",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.17",
+   "summary": "Email and password accounts for self-hosting, and a new Docker setup. What's new Self-hosted installs now default to email and password accounts - existing installs keep their current sign-in. Invite teammates from Team settings - you copy…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.17",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-26T03:45:29.000Z"
   },
   {
    "id": "e3f5ab3076d9",
@@ -20,26 +50,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev6",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-10-26T00:38:57.000Z"
-  },
-  {
-   "id": "d081f0e76683",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc389",
-   "summary": "Bump release version to 0.9.74rc389",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc389",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-26T00:28:06.000Z"
-  },
-  {
-   "id": "294d61fb8a6e",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc388",
-   "summary": "Bump release version to 0.9.74rc388",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc388",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-26T00:13:47.000Z"
   },
   {
    "id": "cec978d14990",
@@ -360,16 +370,6 @@
    "url": "https://blog.archive.org/2026/10/19/annual-celebration-2026-street-fair-to-showcase-internet-archives-projects-and-allies/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/TOOLS_FOR_PARTICIPATION_EVENTBRITE_2160-2048x1024-2-1024x512.png",
    "date": "2026-10-19T22:09:22.000Z"
-  },
-  {
-   "id": "036a7fb842f4",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.14",
-   "summary": "IndexNow submissions, rank trackers per language, and steadier rank checks. What's new Submit changed pages to Bing and other IndexNow engines, in Settings → Integrations or with the submit_indexnow_urls MCP tool Requires uploading a key f…",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.14",
-   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
-   "date": "2026-10-19T20:16:37.000Z"
   },
   {
    "id": "07986418197e",
@@ -932,13 +932,13 @@
    "date": null
   },
   {
-   "id": "4a1321de162f",
+   "id": "b9acefb1a964",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Wolves of the sea by Gaston Leroux",
+   "title": "The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79855",
-   "image": "https://www.gutenberg.org/cache/epub/79855/pg79855.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/1184",
+   "image": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg",
    "date": null
   },
   {
@@ -977,10 +977,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1318
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1003,6 +1003,9 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
@@ -1010,27 +1013,27 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 24
+   "itens": 25
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1039,10 +1042,10 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "photopea": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1052,38 +1055,32 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
   "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 102
-  },
   "unscreen": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 102
+  },
+  "magnific": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1096,6 +1093,9 @@
   "registrobr": {
    "aviso": "sem feed"
   },
+  "cursor": {
+   "aviso": "sem feed"
+  },
   "rayso": {
    "aviso": "sem feed"
   },
@@ -1105,32 +1105,32 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "claude": {
    "aviso": "sem feed"
   },
   "bolt": {
-   "aviso": "sem feed"
-  },
-  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
+  "runway": {
    "aviso": "sem feed"
   },
   "suno": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "gamma": {
@@ -1139,43 +1139,39 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "notionai": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1186,27 +1182,31 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
-   "itens": 10
-  },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "kling": {
    "aviso": "sem feed"
   },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "did": {
@@ -1221,43 +1221,43 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "raphael": {
