@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T19:02:57.690Z",
+ "generatedAt": "2026-10-26T21:47:00.686Z",
  "items": [
   {
    "id": "348d9316b168",
@@ -40,6 +40,16 @@
    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
    "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
    "date": "2026-10-26T12:00:07.000Z"
+  },
+  {
+   "id": "20e57ea60a58",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How text to speech technology works: From text to natural voice",
+   "summary": "Learn how text to speech technology works by turning text into natural voice, from normalization and prosody to neural models, with a worked examples.",
+   "url": "https://elevenlabs.io/blog/how-text-to-speech-technology-works",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-10-26T12:00:00.000Z"
   },
   {
    "id": "796a78cdec5b",
@@ -128,6 +138,16 @@
    "title": "How Fanatics and OpenAI streamline the fan experience",
    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "image": "",
+   "date": "2026-10-26T07:00:00.000Z"
+  },
+  {
+   "id": "8f2f08b6e197",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+   "url": "https://openai.com/index/openai-cut-incident-investigation",
    "image": "",
    "date": "2026-10-26T07:00:00.000Z"
   },
@@ -230,16 +250,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.2",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-10-24T09:55:03.000Z"
-  },
-  {
-   "id": "298c8de07d18",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "image": "",
-   "date": "2026-10-23T17:00:00.000Z"
   },
   {
    "id": "de28e840aebe",
@@ -350,16 +360,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.1",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-10-22T07:29:46.000Z"
-  },
-  {
-   "id": "666895a3c20c",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Webinar Recap: Reaching At-Risk Patients When Minutes Matter",
-   "summary": "Learn how Cadence uses ElevenAgents to reach patients within minutes of a vital sign reading outside the expected range.",
-   "url": "https://elevenlabs.io/blog/webinar-recap-reaching-at-risk-patients-when-minutes-matter",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wuq1wrr60ii-Recap---Reaching-At-Risk-Patients-When-Minutes-Matter.webp",
-   "date": "2026-10-21T12:00:00.000Z"
   },
   {
    "id": "b43f828be9eb",
@@ -975,7 +975,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1320
+   "itens": 1322
   },
   "canva": {
    "aviso": "sem feed"
@@ -999,32 +999,32 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
-  "escolavirtual": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 20
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "wolframalpha": {
+  "arena": {
    "aviso": "sem feed"
   },
   "justwatch": {
@@ -1033,19 +1033,19 @@
   "pdf24": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "shots": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1055,10 +1055,10 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "removebg": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1071,41 +1071,29 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 102
   },
-  "magnific": {
+  "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "magnific": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "registrobr": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "perplexity": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "v0": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1114,10 +1102,22 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "bolt": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "v0": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1127,10 +1127,13 @@
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "otter": {
@@ -1139,32 +1142,21 @@
   "gamma": {
    "aviso": "sem feed"
   },
-  "napkin": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "jasper": {
+  "notionai": {
    "aviso": "sem feed"
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "kling": {
    "aviso": "sem feed"
@@ -1173,36 +1165,44 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-opennotebook": {
@@ -1217,28 +1217,28 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
@@ -1256,8 +1256,8 @@
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "raphael": {
