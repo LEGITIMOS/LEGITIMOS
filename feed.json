@@ -1,6 +1,76 @@
 {
- "generatedAt": "2026-10-27T13:02:39.534Z",
+ "generatedAt": "2026-10-27T15:58:37.081Z",
  "items": [
+  {
+   "id": "3ccd2528f666",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.74rc410",
+   "summary": "Bump release version to 0.9.74rc410",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc410",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-27T15:02:15.000Z"
+  },
+  {
+   "id": "825a5d14366c",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc410",
+   "summary": "Bump release version to 0.9.74rc410",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc410",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-27T15:02:15.000Z"
+  },
+  {
+   "id": "c72338a52fbf",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.74rc409",
+   "summary": "Bump release version to 0.9.74rc409",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc409",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-27T14:54:48.000Z"
+  },
+  {
+   "id": "1a586d876ec7",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.34.0",
+   "summary": "1.34.0 (2026-10-27) What's Changed Features feat(verify): stand in for DigitalOcean so Managed Agents can be verified by @enyst in #18867 feat(canvas): per-conversation Docker runtime and Settings → Runtime page by @VascoSch92 in #18436 fe…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-10-27T14:45:59.000Z"
+  },
+  {
+   "id": "be4121e68141",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Kali Linux 2026.3 brings Linux 7.1 kernel, KDE Plasma 6.7 & new penetration testing tools",
+   "summary": "Kali Linux 2026.3 has been released, with the build-scripts refresh serving as the release's foundational milestone . According to the official announcement, this marks the first major phase of a broader initiative to streamline Kali devel…",
+   "url": "https://alternativeto.net/news/2026/10/kali-linux-2026-3-brings-linux-7-1-kernel-kde-plasma-6-7-and-new-penetration-testing-tools/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793023646648.png",
+   "date": "2026-10-27T14:30:00.000Z"
+  },
+  {
+   "id": "74e30ca32bbd",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "The 15 Best AI Avatar Generators of 2026",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI avatar generators make it possible to create high-quality video content faster, cheaper, and at scale, without traditional production. The biggest different…",
+   "url": "https://www.d-id.com/blog/best-ai-avatar-generators/",
+   "image": "",
+   "date": "2026-10-27T13:19:13.000Z"
+  },
+  {
+   "id": "1dfe8088d572",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "SpeedCrunch 1.1 brings private tabs, classic interface, and searchable constant insertion",
+   "summary": "The SpeedCrunch developers have released version 1.1 of the open-source high-precision calculator, less than three weeks after the milestone 1.0 build landed on October 4 . According to the project's announcement, the update is available f…",
+   "url": "https://alternativeto.net/news/2026/10/speedcrunch-1-1-brings-private-tabs-classic-interface-and-searchable-constant-insertion/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793022284608.png",
+   "date": "2026-10-27T13:00:00.000Z"
+  },
   {
    "id": "d875aa436373",
    "sourceId": "wayback",
@@ -22,26 +92,6 @@
    "date": "2026-10-27T10:00:00.000Z"
   },
   {
-   "id": "78fa97428d3e",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.74rc408",
-   "summary": "Bump release version to 0.9.74rc408",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc408",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T09:01:34.000Z"
-  },
-  {
-   "id": "24ab17632d03",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc408",
-   "summary": "Bump release version to 0.9.74rc408",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc408",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T09:01:34.000Z"
-  },
-  {
    "id": "150c0936cb15",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -50,16 +100,6 @@
    "url": "https://www.openculture.com/2026/10/how-balzacs-extreme-coffee-habit-fueled-his-productive-writing-routine.html",
    "image": "https://cdn8.openculture.com/2026/10/26223252/balzac-scaled.png",
    "date": "2026-10-27T09:00:13.000Z"
-  },
-  {
-   "id": "617a0b13b57f",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc407",
-   "summary": "Bump release version to 0.9.74rc407",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc407",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T08:51:47.000Z"
   },
   {
    "id": "cec978d14990",
@@ -90,26 +130,6 @@
    "url": "https://www.openculture.com/2026/10/a-soviet-animation-of-stephen-kings-short-story-battleground.html",
    "image": "https://i.ytimg.com/vi/G0o_2PPsBw0/maxresdefault.jpg",
    "date": "2026-10-27T07:50:30.000Z"
-  },
-  {
-   "id": "95785e251029",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google may now use your Gmail and Photos data to serve targeted ads through AI Search",
-   "summary": "Google has updated its privacy policy to allow Gmail , Drive , and Google Photos data to be used for personalized advertising under certain conditions, reversing part of its previous restrictions on using this content for ad targeting. As…",
-   "url": "https://alternativeto.net/news/2026/10/google-may-now-use-your-gmail-and-photos-data-to-serve-targeted-ads-through-ai-search/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793075223527.png",
-   "date": "2026-10-27T03:57:55.000Z"
-  },
-  {
-   "id": "e0456762b162",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Moonshot launches Kimi K3.1 Pro with 1M-token and 3D modeling",
-   "summary": "Moonshot AI has recently launched Kimi K3.1 Pro , an updated version of its flagship K3 model with a context window of up to 1 million tokens and roughly 2.8 trillion parameters . The company attributes most of the improvements to addition…",
-   "url": "https://alternativeto.net/news/2026/10/moonshot-launches-kimi-k3-1-pro-with-1m-token-and-3d-modeling/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793074119781.png",
-   "date": "2026-10-27T03:37:22.000Z"
   },
   {
    "id": "c497eb39ddcf",
@@ -362,16 +382,6 @@
    "date": "2026-10-23T03:11:28.000Z"
   },
   {
-   "id": "20c57f600e4e",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.31.0",
-   "summary": "1.31.0 (2026-10-22) What's Changed Features feat(automations): hide the GitHub token secret field on self-hosted instances when GitHub is connected (OHE-3699) by @hieptl in #18829 Bug Fixes fix(mcp): install OAuth-only library entries thro…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.31.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-10-22T16:19:12.000Z"
-  },
-  {
    "id": "02ccacdc254b",
    "sourceId": "elevenlabs",
    "sourceName": "ElevenLabs",
@@ -560,16 +570,6 @@
    "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.16",
    "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
    "date": "2026-10-09T09:45:22.000Z"
-  },
-  {
-   "id": "cdc6c57a84cf",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "The Best AI Dubbing Tools of 2026",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key takeaways Lip sync is the first filter: speakers on camera need it, while narration, screencasts and podcasts can usually be dubbed as audio alone. Language counts are n…",
-   "url": "https://www.d-id.com/blog/best-ai-dubbing-tools/",
-   "image": "",
-   "date": "2026-10-07T07:56:22.000Z"
   },
   {
    "id": "4c9d867c9227",
@@ -975,7 +975,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1325
+   "itens": 1326
   },
   "canva": {
    "aviso": "sem feed"
@@ -990,16 +990,13 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -1013,27 +1010,18 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
+  "poe": {
+   "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 19
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
   },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -1042,10 +1030,22 @@
   "squoosh": {
    "aviso": "sem feed"
   },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1055,38 +1055,32 @@
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 103
   },
-  "unscreen": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "removebg": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
   "clipdrop": {
-   "aviso": "sem feed"
-  },
-  "krea": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
    "aviso": "sem feed"
   },
   "cursor": {
@@ -1099,13 +1093,16 @@
   "rayso": {
    "aviso": "sem feed"
   },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
   "perplexity": {
    "aviso": "sem feed"
   },
   "huggingface": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1120,26 +1117,26 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "bolt": {
+   "aviso": "sem feed"
   },
   "runway": {
-   "aviso": "sem feed"
-  },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "suno": {
    "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
   },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
+  },
+  "suno": {
+   "aviso": "sem feed"
+  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "otter": {
    "aviso": "sem feed"
   },
   "napkin": {
@@ -1151,12 +1148,12 @@
   "jasper": {
    "aviso": "sem feed"
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1170,16 +1167,19 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1194,10 +1194,6 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
@@ -1209,24 +1205,28 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
+  },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
@@ -1244,20 +1244,20 @@
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "raphael": {
