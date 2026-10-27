@@ -1,35 +1,75 @@
 {
- "generatedAt": "2026-10-27T07:01:55.922Z",
+ "generatedAt": "2026-10-27T09:54:33.529Z",
  "items": [
   {
-   "id": "58728f2cabc2",
+   "id": "78fa97428d3e",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.74rc406",
-   "summary": "Bump release version to 0.9.74rc406",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc406",
+   "title": "ArchiveBox · v0.9.74rc408",
+   "summary": "Bump release version to 0.9.74rc408",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.74rc408",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T06:28:06.000Z"
+   "date": "2026-10-27T09:01:34.000Z"
   },
   {
-   "id": "c7a3bfa5da7b",
+   "id": "24ab17632d03",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc406",
-   "summary": "Bump release version to 0.9.74rc406",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc406",
+   "title": "ArchiveBox · release-candidate/0.9.74rc408",
+   "summary": "Bump release version to 0.9.74rc408",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc408",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T06:28:06.000Z"
+   "date": "2026-10-27T09:01:34.000Z"
   },
   {
-   "id": "0ac4733b4340",
+   "id": "150c0936cb15",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "How Balzac’s Extreme Coffee Habit Fueled His Productive Writing Routine",
+   "summary": "Even now, in this age when the very reading of literature is endangered — or so the articles tell us — Honoré de Balzac (1799–1850) retains a notable ability to pick up new admirers. But even though he may have a decent readership by the s…",
+   "url": "https://www.openculture.com/2026/10/how-balzacs-extreme-coffee-habit-fueled-his-productive-writing-routine.html",
+   "image": "https://cdn8.openculture.com/2026/10/26223252/balzac-scaled.png",
+   "date": "2026-10-27T09:00:13.000Z"
+  },
+  {
+   "id": "617a0b13b57f",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.74rc405",
-   "summary": "Bump release version to 0.9.74rc405",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc405",
+   "title": "ArchiveBox · release-candidate/0.9.74rc407",
+   "summary": "Bump release version to 0.9.74rc407",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.74rc407",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T06:11:22.000Z"
+   "date": "2026-10-27T08:51:47.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-27T08:17:38.000Z"
+  },
+  {
+   "id": "ac4461527126",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Weekly Update 527: Cybergeddon News v. Reality",
+   "summary": "As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn&apos;t eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single s…",
+   "url": "https://www.troyhunt.com/weekly-update-527/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault-1.jpg",
+   "date": "2026-10-27T07:59:09.000Z"
+  },
+  {
+   "id": "939cc759a478",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "A Soviet Animation of Stephen King’s Short Story “Battleground” (1986)",
+   "summary": "Stephen King has that rare, and spectacularly profitable, skill to suck you into his world and compel you to flip to the next page. And when you’re hooked, his words have the uncanny ability to simply unfold like a movie in your head. So i…",
+   "url": "https://www.openculture.com/2026/10/a-soviet-animation-of-stephen-kings-short-story-battleground.html",
+   "image": "https://i.ytimg.com/vi/G0o_2PPsBw0/maxresdefault.jpg",
+   "date": "2026-10-27T07:50:30.000Z"
   },
   {
    "id": "95785e251029",
@@ -60,16 +100,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev7",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-10-27T00:37:27.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-27T00:30:50.000Z"
   },
   {
    "id": "d96360e24899",
@@ -180,16 +210,6 @@
    "url": "https://www.openculture.com/2026/10/harry-houdini-died-100-years-ago-this-halloween.html",
    "image": "https://i.ytimg.com/vi/Bj6ulLJGPB8/maxresdefault.jpg",
    "date": "2026-10-26T09:00:06.000Z"
-  },
-  {
-   "id": "c179f758d3c6",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Hear an Hour of the Jazzy Background Music from the Original 1967 Spider-Man Cartoon",
-   "summary": "Ray Ellis had a six-decade career as a producer, arranger, and jazz composer. And while he’s best known for arranging music for Billie Holiday’s Lady in Satin (1958), he also enjoyed a long career orchestrating music for television. Workin…",
-   "url": "https://www.openculture.com/2026/10/an-hour-of-the-jazzy-background-music-from-the-original-1967-spider-man-cartoon.html",
-   "image": "https://i.ytimg.com/vi/yCF8JU30gXI/maxresdefault.jpg",
-   "date": "2026-10-26T08:00:29.000Z"
   },
   {
    "id": "1ce47e4254d7",
@@ -310,16 +330,6 @@
    "url": "https://www.d-id.com/blog/conversational-ai-avatars-customer-support/",
    "image": "",
    "date": "2026-10-23T08:39:14.000Z"
-  },
-  {
-   "id": "076148913e97",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Watch Rome Rise, Fall, and Rise Again in a Three-Minute 3D Timelapse",
-   "summary": "Scholars disagree on when, exactly, Rome fell. But if you watch the new video from City 3D Timelapse above, you’ll understand the lack of debate on the question of whether it fell. Around the turn of the sixth century AD, buildings start v…",
-   "url": "https://www.openculture.com/2026/10/watch-rome-rise-fall-and-rise-again-in-a-three-minute-3d-timelapse.html",
-   "image": "https://i.ytimg.com/vi/m7qqGQxfpGc/maxresdefault.jpg",
-   "date": "2026-10-23T08:00:05.000Z"
   },
   {
    "id": "2f533b8e9395",
@@ -590,16 +600,6 @@
    "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0",
    "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
    "date": "2026-10-05T01:20:26.000Z"
-  },
-  {
-   "id": "5e2f5e5d0c09",
-   "sourceId": "hibp",
-   "sourceName": "Have I Been Pwned",
-   "title": "Weekly Update 524: Live From Copenhagen",
-   "summary": "I&apos;m in Denmark! Well, just, I&apos;m now at Copenhagen airport ready to begin the long trek home, with the final event at GOTO now done and going just perfectly. This week, there are two ShinyHunters arrests in the news: Pepijn in the…",
-   "url": "https://www.troyhunt.com/weekly-update-524/",
-   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault.jpg",
-   "date": "2026-10-04T11:52:23.000Z"
   },
   {
    "id": "39b60030254c",
@@ -922,6 +922,16 @@
    "date": null
   },
   {
+   "id": "a3b3e5e79509",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Source Book of London History, from the earliest times to 1800",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/51175",
+   "image": "https://www.gutenberg.org/cache/epub/51175/pg51175.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "4c01a9ad5c26",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -932,13 +942,13 @@
    "date": null
   },
   {
-   "id": "ca46a724da7d",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Assyria : by A. H. Sayce",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/42033",
-   "image": "https://www.gutenberg.org/cache/epub/42033/pg42033.cover.medium.jpg",
+   "id": "e90cc8bf6ccc",
+   "sourceId": "photoroom",
+   "sourceName": "Photoroom",
+   "title": "How a read replica almost took down its primary database and other database tales",
+   "summary": "",
+   "url": "https://www.photoroom.com/inside-photoroom/how-a-read-replica-almost-took-down-its-primary-database",
+   "image": "https://storyblok-cdn.photoroom.com/f/191576/1066x600/0a714b9792/database-replica-cover.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
    "date": null
   },
   {
@@ -959,16 +969,6 @@
    "summary": "",
    "url": "https://www.photoroom.com/inside-photoroom/keeping-dbt-aware-of-omni-automatically",
    "image": "https://storyblok-cdn.photoroom.com/f/191576/3200x1800/a52264f69d/hero-article-dbt-omni.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
-   "date": null
-  },
-  {
-   "id": "ff44e805459b",
-   "sourceId": "photoroom",
-   "sourceName": "Photoroom",
-   "title": "What's new in product: August 2026",
-   "summary": "",
-   "url": "https://www.photoroom.com/inside-photoroom/new-in-product-august-2026",
-   "image": "https://storyblok-cdn.photoroom.com/f/191576/2132x1200/25772db7c1/coverm.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
    "date": null
   }
  ],
@@ -993,10 +993,10 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "123apps": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -1007,22 +1007,31 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
+  "poe": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 31
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
+   "itens": 19
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
@@ -1030,19 +1039,10 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "cleanup": {
    "aviso": "sem feed"
   },
   "shots": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1052,39 +1052,43 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "carbon": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
-   "aviso": "sem feed"
-  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 102
+   "itens": 103
   },
-  "speedtest": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
-   "aviso": "sem feed"
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
   },
   "cursor": {
    "aviso": "sem feed"
@@ -1095,34 +1099,26 @@
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
-  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "replit": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
@@ -1130,7 +1126,14 @@
   "opusclip": {
    "aviso": "sem feed"
   },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
+  },
   "suno": {
+   "aviso": "sem feed"
+  },
+  "otter": {
    "aviso": "sem feed"
   },
   "gamma": {
@@ -1139,16 +1142,10 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1157,6 +1154,9 @@
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "notionai": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1190,59 +1190,51 @@
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
   "kling": {
    "aviso": "sem feed"
   },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
+  },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
@@ -1252,12 +1244,20 @@
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
