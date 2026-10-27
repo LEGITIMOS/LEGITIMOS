@@ -1,6 +1,66 @@
 {
- "generatedAt": "2026-10-26T21:47:00.686Z",
+ "generatedAt": "2026-10-27T01:03:53.899Z",
  "items": [
+  {
+   "id": "c497eb39ddcf",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev7",
+   "summary": "Langflow nightly v1.14.0.dev7",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev7",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-10-27T00:37:27.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-27T00:30:50.000Z"
+  },
+  {
+   "id": "d96360e24899",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.19",
+   "summary": "MCP sign-in for self-hosts with email and password accounts, and larger JavaScript-rendered audits. What's new Audits that render JavaScript are no longer capped at 1,000 pages Fixed MCP clients can finish signing in on self-hosts with ema…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.19",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-26T23:52:42.000Z"
+  },
+  {
+   "id": "8557a0062d70",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.7",
+   "summary": "Highlights Share your resume as a web page. The new Share mode publishes a page that uses your template and design, adapts to phones and computers, and stays up to date as you edit. Preview it before publishing, then copy its address or sh…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.7",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-26T23:47:02.000Z"
+  },
+  {
+   "id": "57c034712ba5",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · 0.13.14: Python agent and integration updates",
+   "summary": "This release keeps the Python agent and its existing models. The Pi migration remains separate. Changes since the last PyPI release: Add OpenAI browser tools and the shared Bash helper. Improve bounded page observations, form state, file a…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.14",
+   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
+   "date": "2026-10-26T22:00:34.000Z"
+  },
+  {
+   "id": "250e5d8f3024",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+   "url": "https://openai.com/index/greptile-code-review-codex-astra",
+   "image": "",
+   "date": "2026-10-26T22:00:00.000Z"
+  },
   {
    "id": "348d9316b168",
    "sourceId": "alternativeto",
@@ -12,6 +72,16 @@
    "date": "2026-10-26T16:00:00.000Z"
   },
   {
+   "id": "f16aefe89a6e",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Working with academic communities to build scientific understanding",
+   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "image": "",
+   "date": "2026-10-26T14:30:00.000Z"
+  },
+  {
    "id": "2bd0d330209e",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
@@ -20,6 +90,16 @@
    "url": "https://alternativeto.net/news/2026/10/ulysses-42-brings-iphone-duo-support-a-scrollable-markup-bar-and-two-sided-export-preview/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792783507829.png",
    "date": "2026-10-26T14:30:00.000Z"
+  },
+  {
+   "id": "1a1d4bf2fc11",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+   "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "image": "",
+   "date": "2026-10-26T13:45:00.000Z"
   },
   {
    "id": "de230cf8a74b",
@@ -82,16 +162,6 @@
    "date": "2026-10-26T10:10:40.000Z"
   },
   {
-   "id": "64d59b55a8fb",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "ChatGPT’s expanding world of work",
-   "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-   "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "image": "",
-   "date": "2026-10-26T10:00:00.000Z"
-  },
-  {
    "id": "ee97485219f9",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -122,36 +192,6 @@
    "date": "2026-10-26T07:39:07.000Z"
   },
   {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-26T07:32:17.000Z"
-  },
-  {
-   "id": "eb7708c5f537",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "image": "",
-   "date": "2026-10-26T07:00:00.000Z"
-  },
-  {
-   "id": "8f2f08b6e197",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-   "url": "https://openai.com/index/openai-cut-incident-investigation",
-   "image": "",
-   "date": "2026-10-26T07:00:00.000Z"
-  },
-  {
    "id": "1ce47e4254d7",
    "sourceId": "gh-openseo",
    "sourceName": "OpenSEO",
@@ -180,16 +220,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.1",
    "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
    "date": "2026-10-25T18:13:26.000Z"
-  },
-  {
-   "id": "06f852cd6997",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.16",
-   "summary": "Site audit fixes for Shopify stores, Chinese and Japanese pages, and sites behind Cloudflare. Fixed Site audits of Shopify stores no longer stop when Shopify refuses a single page. Chinese, Japanese and Thai articles are no longer wrongly…",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.16",
-   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
-   "date": "2026-10-25T10:44:23.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -230,16 +260,6 @@
    "url": "https://github.com/getmaxun/maxun/releases/tag/v0.1.0",
    "image": "https://avatars.githubusercontent.com/u/76456498?s=60&v=4",
    "date": "2026-10-25T01:45:40.000Z"
-  },
-  {
-   "id": "9e703d2e47e2",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev5",
-   "summary": "Langflow nightly v1.14.0.dev5",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev5",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-10-25T00:40:10.000Z"
   },
   {
    "id": "814ef480a5f1",
@@ -320,16 +340,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.32.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-10-23T03:11:28.000Z"
-  },
-  {
-   "id": "0862eeadccad",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · forme-native-v0.0.0-c563664b4180a72b103ed966a7c910cd5a2d25f2c84f4825ad6a0e44fe73ad1e",
-   "summary": "Native Forme binaries. Review and commit prebuilt.json before building mobile apps.",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-c563664b4180a72b103ed966a7c910cd5a2d25f2c84f4825ad6a0e44fe73ad1e",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-22T21:23:21.000Z"
   },
   {
    "id": "20c57f600e4e",
@@ -550,16 +560,6 @@
    "url": "https://www.d-id.com/blog/best-ai-dubbing-tools/",
    "image": "",
    "date": "2026-10-07T07:56:22.000Z"
-  },
-  {
-   "id": "b649b1fb589d",
-   "sourceId": "gh-browseruse",
-   "sourceName": "Browser Use",
-   "title": "Browser Use · 0.13.11",
-   "summary": "This release includes Browser Use toolsets for Claude, available at browser_use.integrations.toolsets_for_claude . The integration requires an Anthropic SDK release containing anthropic.tools.browser ; the current public Anthropic SDK does…",
-   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.11",
-   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
-   "date": "2026-10-07T04:23:18.000Z"
   },
   {
    "id": "4c9d867c9227",
@@ -975,7 +975,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1322
+   "itens": 1325
   },
   "canva": {
    "aviso": "sem feed"
@@ -990,10 +990,10 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
@@ -1003,31 +1003,34 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "arena": {
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 20
+   "itens": 25
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -1039,7 +1042,7 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1052,16 +1055,13 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "removebg": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "speedtest": {
@@ -1071,13 +1071,13 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 102
   },
-  "krea": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1096,28 +1096,28 @@
   "registrobr": {
    "aviso": "sem feed"
   },
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "perplexity": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
   "replit": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "perplexity": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
   "v0": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1133,16 +1133,19 @@
   "suno": {
    "aviso": "sem feed"
   },
-  "napkin": {
-   "aviso": "sem feed"
-  },
   "otter": {
    "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
   },
+  "napkin": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "jasper": {
@@ -1152,11 +1155,16 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
    "aviso": "sem feed"
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "kling": {
    "aviso": "sem feed"
@@ -1165,37 +1173,29 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1217,23 +1217,27 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1244,10 +1248,6 @@
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
@@ -1256,8 +1256,8 @@
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
