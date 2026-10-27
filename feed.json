@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-27T09:54:33.529Z",
+ "generatedAt": "2026-10-27T13:02:39.534Z",
  "items": [
+  {
+   "id": "d875aa436373",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "A Behind-the-Scenes Look at the Physical Archive",
+   "summary": "Internet Archive&#8217;s digital librarian, Brewster Kahle, leads a tour through the Physical Archive. Visitors who came to the open house at the Physical Archive in Richmond, California, on October 20 were curious. They wanted to learn ab…",
+   "url": "https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/Brewster-Physical-Archive-1-1024x683.jpg",
+   "date": "2026-10-27T11:05:00.000Z"
+  },
+  {
+   "id": "c6c37a29fac5",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Spotify tightens premium family plan verification to ensure users actually live together",
+   "summary": "Spotify acknowledged this week that it is tightening enforcement on its Premium Family plan , after users reported being prompted to prove they actually live with the plan's manager. Confirming the change during the company's third-quarter…",
+   "url": "https://alternativeto.net/news/2026/10/spotify-tightens-premium-family-plan-verification-to-ensure-users-actually-live-together/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793021249859.png",
+   "date": "2026-10-27T10:00:00.000Z"
+  },
   {
    "id": "78fa97428d3e",
    "sourceId": "gh-archivebox",
@@ -140,16 +160,6 @@
    "url": "https://openai.com/index/greptile-code-review-codex-astra",
    "image": "",
    "date": "2026-10-26T22:00:00.000Z"
-  },
-  {
-   "id": "348d9316b168",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "OBS Studio 33.0 arrives with a two-year browser engine jump and a plugin loading rework",
-   "summary": "OBS Studio 33.0 is here, led by a substantial update to the Chromium Embedded Framework that powers browser sources and docks. According to the release notes, CEF moves from version 127/6533 to 150/7871, described internally as a leap from…",
-   "url": "https://alternativeto.net/news/2026/10/obs-studio-33-0-arrives-with-a-two-year-browser-engine-jump-and-a-plugin-loading-rework/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1792844822511.png",
-   "date": "2026-10-26T16:00:00.000Z"
   },
   {
    "id": "f16aefe89a6e",
@@ -500,16 +510,6 @@
    "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.2",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-14T21:07:29.000Z"
-  },
-  {
-   "id": "f5e60c7dac58",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch",
-   "summary": "Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery . Created in collaboration with the Internet Archiv…",
-   "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/IMG_2446-791x1024.jpeg",
-   "date": "2026-10-14T20:23:31.000Z"
   },
   {
    "id": "16316f176021",
@@ -990,13 +990,16 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "arena": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -1007,30 +1010,30 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "neapay": {
    "aviso": "sem feed"
-  },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 19
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 19
+  },
+  "poe": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -1039,10 +1042,7 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
-  "shots": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1052,29 +1052,26 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 103
   },
-  "earthtimelapse": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1083,14 +1080,7 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
-  },
-  "cursor": {
+  "krea": {
    "aviso": "sem feed"
   },
   "registrobr": {
@@ -1099,13 +1089,29 @@
   "pairdrop": {
    "aviso": "sem feed"
   },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  },
   "perplexity": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
+  "bolt": {
+   "aviso": "sem feed"
+  },
   "replit": {
+   "aviso": "sem feed"
+  },
+  "claude": {
    "aviso": "sem feed"
   },
   "unshortenit": {
@@ -1114,29 +1120,26 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "suno": {
+  "runway": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
+  "suno": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "gamma": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "napkin": {
@@ -1148,14 +1151,11 @@
   "jasper": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "notionai": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
@@ -1174,16 +1174,16 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1194,39 +1194,39 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
-  },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 5
   },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
@@ -1240,10 +1240,6 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
@@ -1252,12 +1248,16 @@
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "raphael": {
