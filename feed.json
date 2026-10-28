@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-28T16:04:20.864Z",
+ "generatedAt": "2026-10-28T19:03:36.674Z",
  "items": [
+  {
+   "id": "f074cf0cccb7",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc16",
+   "summary": "Bump release version to 0.9.78rc16",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc16",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-28T17:37:45.000Z"
+  },
+  {
+   "id": "1a008d56c01b",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc16",
+   "summary": "Bump release version to 0.9.78rc16",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc16",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-28T17:37:45.000Z"
+  },
+  {
+   "id": "613c4245eb6c",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Ghostty 1.4 brings full Kitty graphics support and performance & memory improvements",
+   "summary": "Ghostty 1.4 has officially launched, delivering compatibility with macOS 27 “Golden Gate” alongside a suite of high-performance upgrades that position the terminal emulator as a leader in modern terminal development. The update resolves ke…",
+   "url": "https://alternativeto.net/news/2026/10/ghostty-1-4-brings-full-kitty-graphics-support-and-performance-and-memory-improvements/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793124629136.png",
+   "date": "2026-10-28T17:30:00.000Z"
+  },
   {
    "id": "46fa00f3e5f7",
    "sourceId": "alternativeto",
@@ -32,26 +62,6 @@
    "date": "2026-10-28T13:53:16.000Z"
   },
   {
-   "id": "a60b497089b0",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc14",
-   "summary": "Bump release version to 0.9.78rc14",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc14",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-28T12:40:41.000Z"
-  },
-  {
-   "id": "98b072005709",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc14",
-   "summary": "Bump release version to 0.9.78rc14",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc14",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-28T12:40:41.000Z"
-  },
-  {
    "id": "ae3fb4fde255",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -68,7 +78,7 @@
    "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
    "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
    "url": "https://elevenlabs.io/blog/lettuce",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wxkqj0gr6ze-Immobiliare%20-%20SEO%20(1).webp",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ijcihre29q-Blog-Template1920---ElevenLabs-x-Lettuce.webp",
    "date": "2026-10-28T12:00:00.000Z"
   },
   {
@@ -102,22 +112,22 @@
    "date": "2026-10-28T10:42:36.000Z"
   },
   {
-   "id": "724a76cf47e5",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Apple unveils major updates to Creator Studio with MotionVFX, video assets and AI features",
-   "summary": "Apple has announced a broad refresh of Apple Creator Studio , its subscription bundle of creative applications for Mac, iPad, and iPhone, headlined by built-in MotionVFX content in Final Cut Pro , a new intelligent assistant in Logic Pro ,…",
-   "url": "https://alternativeto.net/news/2026/10/apple-unveils-major-updates-to-creator-studio-with-motionvfx-video-assets-and-ai-features/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793119075577.png",
+   "id": "0dc3cf0b7c98",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "The future of the firm",
+   "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "image": "",
    "date": "2026-10-28T10:00:00.000Z"
   },
   {
-   "id": "2fc8e689e413",
+   "id": "41c97fe8dc29",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
    "title": "Legora is building the agentic operating system for legal work",
    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "url": "https://openai.com/index/legora",
    "image": "",
    "date": "2026-10-28T09:30:00.000Z"
   },
@@ -210,16 +220,6 @@
    "url": "https://www.troyhunt.com/weekly-update-527/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault-1.jpg",
    "date": "2026-10-27T07:59:09.000Z"
-  },
-  {
-   "id": "a3a879144b29",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "image": "",
-   "date": "2026-10-27T07:00:00.000Z"
   },
   {
    "id": "c497eb39ddcf",
@@ -965,53 +965,53 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1332
+   "itens": 1333
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
    "aviso": "ignorado"
   },
-  "comprecripto": {
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
+  "neapay": {
+   "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "poe": {
+  "arena": {
    "aviso": "sem feed"
-  },
-  "delphi": {
-   "aviso": "sem feed"
-  },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 22
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 22
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
+  "poe": {
    "aviso": "sem feed"
   },
   "justwatch": {
@@ -1026,9 +1026,6 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "pdf24": {
    "aviso": "sem feed"
   },
@@ -1038,15 +1035,25 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
   },
   "speedtest": {
    "aviso": "sem feed"
@@ -1054,45 +1061,38 @@
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
+  "krea": {
    "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "magnific": {
    "aviso": "sem feed"
   },
   "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "magnific": {
+  "registrobr": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "replit": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1101,78 +1101,79 @@
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "runway": {
    "aviso": "sem feed"
   },
-  "runway": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
   "suno": {
-   "aviso": "sem feed"
-  },
-  "gamma": {
-   "aviso": "sem feed"
-  },
-  "napkin": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
+  "napkin": {
+   "aviso": "sem feed"
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gamma": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -1183,10 +1184,6 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
@@ -1195,31 +1192,38 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
@@ -1230,20 +1234,16 @@
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
