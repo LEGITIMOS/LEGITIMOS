@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-27T21:49:35.179Z",
+ "generatedAt": "2026-10-28T01:15:15.749Z",
  "items": [
+  {
+   "id": "1aed3e040aad",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev8",
+   "summary": "Langflow nightly v1.14.0.dev8",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev8",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-10-28T00:29:12.000Z"
+  },
+  {
+   "id": "a363824cd912",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.77: Reliable setup, extension updates, and faster browsing",
+   "summary": "Changes since v0.9.76 A small follow-up release with fixes found while checking fresh installations and live captures. 🛠️ More reliable setup and installs. Server settings stay saved when captures start, and Debian installations correctly…",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.77",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-27T22:11:35.000Z"
+  },
   {
    "id": "35ed9efc7318",
    "sourceId": "gh-archivebox",
@@ -18,16 +38,6 @@
    "title": "ArchiveBox · v0.9.77rc4",
    "summary": "Bump release version to 0.9.77rc4",
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.77rc4",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-27T20:17:39.000Z"
-  },
-  {
-   "id": "8b99ed4efe39",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.77rc4",
-   "summary": "Bump release version to 0.9.77rc4",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.77rc4",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-10-27T20:17:39.000Z"
   },
@@ -62,6 +72,16 @@
    "date": "2026-10-27T17:44:51.000Z"
   },
   {
+   "id": "d42fb1eb3362",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+   "url": "https://openai.com/index/retell-ai",
+   "image": "",
+   "date": "2026-10-27T15:00:00.000Z"
+  },
+  {
    "id": "1a586d876ec7",
    "sourceId": "gh-openhands",
    "sourceName": "OpenHands",
@@ -80,6 +100,26 @@
    "url": "https://www.d-id.com/blog/best-ai-avatar-generators/",
    "image": "",
    "date": "2026-10-27T13:19:13.000Z"
+  },
+  {
+   "id": "c82f68a14b93",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How to build an AI voice assistant: Brand-aligned voice AI",
+   "summary": "Discover how to build an AI voice assistant with reliable speech, natural dialogue, and safeguards that earn users' trust at scale using ElevenAPI.",
+   "url": "https://elevenlabs.io/blog/build-an-ai-voice-assistant",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-10-27T12:00:00.000Z"
+  },
+  {
+   "id": "a69787f65cda",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "What shoppers choose once they’ve tried a retail AI agent",
+   "summary": "Retail is becoming conversational. People consistently choose speaking over typing on every shopping task. Dive into the data in this article.",
+   "url": "https://elevenlabs.io/blog/retail-ai-agents",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/bjlrj4i2h0t-cover0_720.webp",
+   "date": "2026-10-27T12:00:00.000Z"
   },
   {
    "id": "d875aa436373",
@@ -192,16 +232,6 @@
    "date": "2026-10-26T22:00:34.000Z"
   },
   {
-   "id": "250e5d8f3024",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-   "url": "https://openai.com/index/greptile-code-review-codex-astra",
-   "image": "",
-   "date": "2026-10-26T22:00:00.000Z"
-  },
-  {
    "id": "4d402a57715f",
    "sourceId": "gh-changedetection",
    "sourceName": "Changedetection.io",
@@ -260,16 +290,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev6",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-10-26T00:38:57.000Z"
-  },
-  {
-   "id": "2029673e5076",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.13.1",
-   "summary": "fix: refresh enterprise bundle profile lock for 1.13.1",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.1",
-   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
-   "date": "2026-10-25T18:13:26.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -332,16 +352,6 @@
    "date": "2026-10-23T13:54:32.000Z"
   },
   {
-   "id": "7d37b86a4f6c",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "How Immobiliare.it went from one conversational agent to an agentic network",
-   "summary": "Italy’s leading property marketplace goes from one conversational agent to an agentic network",
-   "url": "https://elevenlabs.io/blog/immobiliare",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wxkqj0gr6ze-Immobiliare%20-%20SEO%20(1).webp",
-   "date": "2026-10-23T12:00:00.000Z"
-  },
-  {
    "id": "5b958b050312",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
@@ -380,16 +390,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.32.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-10-23T03:11:28.000Z"
-  },
-  {
-   "id": "02ccacdc254b",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "What is voice over? Definition, examples, and how it works",
-   "summary": "Learn what is voice over, how it differs from voice acting and dubbing, and how to write a script and create a voice over with AI in minutes.",
-   "url": "https://elevenlabs.io/blog/what-is-voice-over",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-10-22T12:00:00.000Z"
   },
   {
    "id": "3bca49e35661",
@@ -975,7 +975,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1328
+   "itens": 1331
   },
   "canva": {
    "aviso": "sem feed"
@@ -990,10 +990,10 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
@@ -1015,7 +1015,7 @@
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 19
+   "itens": 23
   },
   "escolavirtual": {
    "aviso": "sem feed"
@@ -1024,10 +1024,13 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "justwatch": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1036,23 +1039,23 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "carbon": {
@@ -1061,15 +1064,12 @@
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
+  },
+  "speedtest": {
+   "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
@@ -1083,10 +1083,10 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "cursor": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "registrobr": {
@@ -1102,16 +1102,19 @@
   "perplexity": {
    "aviso": "sem feed"
   },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "replit": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "v0": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1120,33 +1123,26 @@
   "bolt": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "suno": {
-   "aviso": "sem feed"
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "napkin": {
    "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "napkin": {
    "aviso": "sem feed"
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "otter": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1178,10 +1174,6 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
@@ -1190,32 +1182,43 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 5
-  },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1229,20 +1232,24 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
@@ -1252,13 +1259,6 @@
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "v0": {
-   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
