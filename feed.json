@@ -1,6 +1,56 @@
 {
- "generatedAt": "2026-10-28T07:13:37.357Z",
+ "generatedAt": "2026-10-28T10:01:09.161Z",
  "items": [
+  {
+   "id": "f6dcfa10e659",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "ElevenLabs and adELA bring free voice restoration to Spain",
+   "summary": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free.",
+   "url": "https://elevenlabs.io/blog/elevenlabs-adela",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/e05hneq0ilu-ElevenLabs-Impact-x-adELA_Anibal_Blog-Cover_1920x1080.webp",
+   "date": "2026-10-28T12:00:00.000Z"
+  },
+  {
+   "id": "b6e1dbadff7c",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Inside the Making of the Sagrada Família, Barcelona’s 144-Year Megaproject",
+   "summary": "To get a sense of Sagrada Família’s popularity with YouTubers, you have only to take a look at the related Open Culture posts linked below. As will hardly escape your attention, most subjects that consistently draw the attention of the GoP…",
+   "url": "https://www.openculture.com/2026/10/inside-the-making-of-the-sagrada-familia-barcelonas-144-year-megaproject.html",
+   "image": "https://i.ytimg.com/vi/gVlrhYh8vU4/maxresdefault.jpg",
+   "date": "2026-10-28T09:00:07.000Z"
+  },
+  {
+   "id": "8e79587c03e7",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Vibrant Color Wheels Designed by Goethe, Newton & Other Theorists of Color (1665–1810)",
+   "summary": "Maybe it’s the cloistered headiness of Rene Descartes , or the rigorous austerity of Isaac Newton ; maybe it’s all the leathern breeches, gray waistcoats, sallow faces, and powdered wigs… but we tend not to associate Enlightenment Europe w…",
+   "url": "https://www.openculture.com/2026/10/the-vibrant-color-wheels-designed-by-goethe-newton-other-theorists.html",
+   "image": "https://cdn8.openculture.com/2017/12/05225642/Boutet_1708_color_circles.jpg",
+   "date": "2026-10-28T08:00:51.000Z"
+  },
+  {
+   "id": "e7c0d5ecf35a",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc7",
+   "summary": "Bump release version to 0.9.78rc7",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc7",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-28T07:52:08.000Z"
+  },
+  {
+   "id": "8722f3e26627",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc7",
+   "summary": "Bump release version to 0.9.78rc7",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc7",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-28T07:52:08.000Z"
+  },
   {
    "id": "bb5dcd30ac61",
    "sourceId": "gh-archivebox",
@@ -20,26 +70,6 @@
    "url": "https://alternativeto.net/news/2026/10/openai-unveils-gpt-6-1-terra-a-faster-and-cheaper-ai-model-with-less-hallucinations/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793117867790.png",
    "date": "2026-10-28T07:00:00.000Z"
-  },
-  {
-   "id": "c70118412410",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc5",
-   "summary": "Bump release version to 0.9.78rc5",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc5",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-28T06:47:05.000Z"
-  },
-  {
-   "id": "2f5a8b277e11",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc4",
-   "summary": "Bump release version to 0.9.78rc4",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc4",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-28T06:37:02.000Z"
   },
   {
    "id": "cec978d14990",
@@ -162,16 +192,6 @@
    "date": "2026-10-27T07:59:09.000Z"
   },
   {
-   "id": "939cc759a478",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "A Soviet Animation of Stephen King’s Short Story “Battleground” (1986)",
-   "summary": "Stephen King has that rare, and spectacularly profitable, skill to suck you into his world and compel you to flip to the next page. And when you’re hooked, his words have the uncanny ability to simply unfold like a movie in your head. So i…",
-   "url": "https://www.openculture.com/2026/10/a-soviet-animation-of-stephen-kings-short-story-battleground.html",
-   "image": "https://i.ytimg.com/vi/G0o_2PPsBw0/maxresdefault.jpg",
-   "date": "2026-10-27T07:50:30.000Z"
-  },
-  {
    "id": "a3a879144b29",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -242,16 +262,6 @@
    "date": "2026-10-26T12:00:07.000Z"
   },
   {
-   "id": "20e57ea60a58",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "How text to speech technology works: From text to natural voice",
-   "summary": "Learn how text to speech technology works by turning text into natural voice, from normalization and prosody to neural models, with a worked examples.",
-   "url": "https://elevenlabs.io/blog/how-text-to-speech-technology-works",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-10-26T12:00:00.000Z"
-  },
-  {
    "id": "796a78cdec5b",
    "sourceId": "gh-openseo",
    "sourceName": "OpenSEO",
@@ -260,16 +270,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.18",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-10-26T10:40:35.000Z"
-  },
-  {
-   "id": "ee97485219f9",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Harry Houdini Died 100 Years Ago This Halloween: Was He Really Killed by a Punch to the Stomach?",
-   "summary": "This Halloween marks the 100th anniversary of the death of famed escape artist Harry Houdini . Today, most of us know more about the manner of that death than we do about any of t he feats of escape artistry that made him famous in the fir…",
-   "url": "https://www.openculture.com/2026/10/harry-houdini-died-100-years-ago-this-halloween.html",
-   "image": "https://i.ytimg.com/vi/Bj6ulLJGPB8/maxresdefault.jpg",
-   "date": "2026-10-26T09:00:06.000Z"
   },
   {
    "id": "1ce47e4254d7",
@@ -912,16 +912,6 @@
    "date": null
   },
   {
-   "id": "8f6b49299746",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "A Child's Garden of Verses by Robert Louis Stevenson",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/19722",
-   "image": "https://www.gutenberg.org/cache/epub/19722/pg19722.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "a3b3e5e79509",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -929,6 +919,16 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/51175",
    "image": "https://www.gutenberg.org/cache/epub/51175/pg51175.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "0c5e590f0087",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Daisy Ashford: Her Book by Angela Ashford and Daisy Ashford",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/25658",
+   "image": "https://www.gutenberg.org/cache/epub/25658/pg25658.cover.medium.jpg",
    "date": null
   },
   {
@@ -983,7 +983,7 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "tec": {
@@ -993,26 +993,26 @@
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 35
+  "arena": {
+   "aviso": "sem feed"
   },
   "neapay": {
+   "aviso": "sem feed"
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 21
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
-  },
-  "poe": {
-   "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
@@ -1020,25 +1020,22 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1048,66 +1045,66 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "speedtest": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "cursor": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "bolt": {
    "aviso": "sem feed"
   },
   "v0": {
-   "aviso": "sem feed"
-  },
-  "replit": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1117,27 +1114,36 @@
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "suno": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "otter": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
+  "gamma": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "kling": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "jasper": {
+   "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
@@ -1149,31 +1155,25 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
-  },
-  "jasper": {
-   "aviso": "sem feed"
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
@@ -1191,43 +1191,39 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
@@ -1238,12 +1234,16 @@
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
