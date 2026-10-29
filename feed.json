@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-29T19:06:18.279Z",
+ "generatedAt": "2026-10-29T21:56:24.008Z",
  "items": [
+  {
+   "id": "432d28849a0f",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.0.9",
+   "summary": "Highlights Write a cover letter with its own sender details. Edit your name, email, phone and location without changing a resume, or choose No resume for a standalone letter. Your saved details carry through the preview, signature and down…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.9",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-10-29T21:35:46.000Z"
+  },
+  {
+   "id": "9d77539e3ac4",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.23.0-r2",
+   "summary": "fix(security): rebuild agent-canvas 1.23.0-r2 with patched dependenci…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.23.0-r2",
+   "image": "https://avatars.githubusercontent.com/u/294240611?s=60&v=4",
+   "date": "2026-10-29T21:17:05.000Z"
+  },
   {
    "id": "02f466818112",
    "sourceId": "alternativeto",
@@ -90,6 +110,16 @@
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-29T12:17:18.000Z"
+  },
+  {
+   "id": "e68704a5f0fc",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "What is turn taking in conversational AI: A guide to natural flow",
+   "summary": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it.",
+   "url": "https://elevenlabs.io/blog/what-is-turn-taking",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-10-29T12:00:00.000Z"
   },
   {
    "id": "c0db2f78e6f9",
@@ -209,16 +239,6 @@
    "summary": "At a time when free speech is under attack and the public record is fragile, supporters gathered in San Francisco on October 21 to celebrate the Internet Archive’s work to preserve knowledge for all through Democracy’s Library , an initiat…",
    "url": "https://blog.archive.org/2026/10/28/celebrating-democracys-library/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/2026-10-21-Internet-Archive-Democracys-Library_0352-1024x683.jpg",
-   "date": "2026-10-28T12:00:00.000Z"
-  },
-  {
-   "id": "3f3621d9515c",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Conversational AI in banking: Use cases, benefits, examples",
-   "summary": "Learn what conversational AI in banking is, how voice agents handle phone calls, use cases, core metrics, and how banks and fintechs use ElevenAgents today",
-   "url": "https://elevenlabs.io/blog/conversational-ai-in-banking",
-   "image": "https://elevenlabs.io/cover.png",
    "date": "2026-10-28T12:00:00.000Z"
   },
   {
@@ -352,16 +372,6 @@
    "date": "2026-10-25T08:07:13.000Z"
   },
   {
-   "id": "463260bd1bf6",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.6",
-   "summary": "Highlights A refreshed look across web and mobile. The original colors and landing page return with new Figtree and Instrument Serif typefaces, tighter corners, sentence-case labels and clearer interface copy throughout. ed3abe358 Faster e…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.6",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-25T01:58:21.000Z"
-  },
-  {
    "id": "6cb72fb1af7e",
    "sourceId": "gh-maxun",
    "sourceName": "Maxun",
@@ -410,16 +420,6 @@
    "url": "https://github.com/langgenius/dify/releases/tag/1.18.0",
    "image": "https://avatars.githubusercontent.com/u/16485841?s=60&v=4",
    "date": "2026-10-23T06:35:41.000Z"
-  },
-  {
-   "id": "012f9fca3b5f",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.32.0",
-   "summary": "1.32.0 (2026-10-23) What's Changed Features feat(home): store pinned automations in agent-server settings by @abhayymishraa in #18190 feat(mcp): let the install dialog choose between installable library options by @ak684 in #18836 feat(aut…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.32.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-10-23T03:11:28.000Z"
   },
   {
    "id": "3bca49e35661",
@@ -932,6 +932,26 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
+   "id": "61984f83ad63",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Herland by Charlotte Perkins Gilman",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/32",
+   "image": "https://www.gutenberg.org/cache/epub/32/pg32.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "153ce52e6387",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Seven pillars of wisdom : by T. E. Lawrence",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79877",
+   "image": "https://www.gutenberg.org/cache/epub/79877/pg79877.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "97afc543bf4d",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -939,26 +959,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79876",
    "image": "https://www.gutenberg.org/cache/epub/79876/pg79876.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "31b57f423181",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The darkness on Fifth Avenue by Murray Leinster",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79873",
-   "image": "https://www.gutenberg.org/cache/epub/79873/pg79873.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "fd59e7140913",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Overstuffed by Helen R. Hull",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79874",
-   "image": "https://www.gutenberg.org/cache/epub/79874/pg79874.cover.medium.jpg",
    "date": null
   },
   {
@@ -1013,6 +1013,9 @@
   "tec": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "delphi": {
    "aviso": "sem feed"
   },
@@ -1027,45 +1030,45 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "neapay": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 8
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 7
-  },
   "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
   "carbon": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1075,11 +1078,15 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
+  },
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
   },
   "unscreen": {
    "aviso": "sem feed"
@@ -1087,25 +1094,24 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "clipdrop": {
    "aviso": "sem feed"
-  },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
   },
   "krea": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
+  },
+  "registrobr": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
@@ -1113,37 +1119,28 @@
   "cursor": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "v0": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "runway": {
    "aviso": "sem feed"
   },
   "opusclip": {
-   "aviso": "sem feed"
-  },
-  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1154,16 +1151,25 @@
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
   "gamma": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "kling": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1171,9 +1177,6 @@
    "itens": 10
   },
   "notionai": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1191,40 +1194,37 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "kling": {
-   "aviso": "sem feed"
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
@@ -1232,10 +1232,6 @@
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
@@ -1246,19 +1242,15 @@
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
@@ -1269,12 +1261,20 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-strix": {
