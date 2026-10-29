@@ -1,15 +1,55 @@
 {
- "generatedAt": "2026-10-29T16:06:57.375Z",
+ "generatedAt": "2026-10-29T19:06:18.279Z",
  "items": [
   {
-   "id": "070a35734da0",
+   "id": "02f466818112",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
-   "title": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support & Mac-to-Mac file transfer",
-   "summary": "Astropad has officially released version 1.4 of its Workbench remote desktop application, introducing two significant features aimed at enhancing productivity for users managing remote Mac systems. The update brings native terminal support…",
-   "url": "https://alternativeto.net/news/2026/10/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-mac-to-mac-file-transfer/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793192389714.png",
-   "date": "2026-10-29T16:00:00.000Z"
+   "title": "DietPi 10.8 delivers network overhaul with new tool to manage WireGuard servers & clients",
+   "summary": "DietPi has released version 10.8 , marking one of the most significant updates to the lightweight ARM-focused operating system in recent months. This update introduces the headline feature: dietpi-wireguard , a dedicated tool for managing…",
+   "url": "https://alternativeto.net/news/2026/10/dietpi-10-8-delivers-network-overhaul-with-new-tool-to-manage-wireguard-servers-and-clients/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793193262068.png",
+   "date": "2026-10-29T19:00:00.000Z"
+  },
+  {
+   "id": "45a95c44f14a",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Umami Cloud adds error tracking, search and revenue data",
+   "summary": "Umami Cloud now captures JavaScript errors, groups them into issues and links each occurrence to the affected visit and available session replay. The update also adds Google Search Console reporting for queries, pages, countries and device…",
+   "url": "https://alternativeto.net/news/2026/10/umami-cloud-adds-error-tracking-search-and-revenue-data/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793296029643.png",
+   "date": "2026-10-29T17:47:09.000Z"
+  },
+  {
+   "id": "95ecea03775b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Raycast 2.10 brings images and unlimited notes to free plans",
+   "summary": "Raycast 2.10 adds image support to Notes, including GIFs and external Markdown image sources, with drag-and-drop reordering. The release also removes the five-note limit for free plans and adds drag-and-drop reordering for list items. Else…",
+   "url": "https://alternativeto.net/news/2026/10/raycast-2-10-brings-images-and-unlimited-notes-to-free-plans/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793295821474.png",
+   "date": "2026-10-29T17:43:41.000Z"
+  },
+  {
+   "id": "7a53bd271ac1",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Weaving ‘Tapestries’: Introducing A New Tool for Digital Storytelling and Archiving",
+   "summary": "Between text, images, audio clips and videos, there are so many elements at your fingertips to tell a story in the digital era. A new expressive tool is now available to make it easy to assemble material online and share your creation wide…",
+   "url": "https://blog.archive.org/2026/10/29/weaving-tapestries/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/exploring-seed-catalogs-tapestry-1-1024x716.png",
+   "date": "2026-10-29T17:34:52.000Z"
+  },
+  {
+   "id": "7bf0065ceb16",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "url": "https://openai.com/index/updated-model-spec",
+   "image": "",
+   "date": "2026-10-29T17:00:00.000Z"
   },
   {
    "id": "45890719979e",
@@ -42,16 +82,6 @@
    "date": "2026-10-29T13:33:12.000Z"
   },
   {
-   "id": "4f82d0e13c3b",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Opera introduces WebAI, a proposed web standard to run AI models locally in the browser",
-   "summary": "Opera has announced the rollout of WebAI, a feature that allows websites and browser extensions to run AI models directly within the browser , without relying on cloud servers. Positioned as a proposed web standard backed by major tech com…",
-   "url": "https://alternativeto.net/news/2026/10/opera-introduces-webai-a-proposed-web-standard-to-run-ai-models-locally-in-the-browser/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793191038605.png",
-   "date": "2026-10-29T13:00:00.000Z"
-  },
-  {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
    "sourceName": "OmniRoute",
@@ -72,6 +102,16 @@
    "date": "2026-10-29T12:00:00.000Z"
   },
   {
+   "id": "19616655e2da",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+   "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI.",
+   "url": "https://elevenlabs.io/blog/sound-effects-v3",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/4i9xsghce45-SFX-v3_-Thumbnail--1-.webp",
+   "date": "2026-10-29T12:00:00.000Z"
+  },
+  {
    "id": "61f093c4072a",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
@@ -80,16 +120,6 @@
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc29",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-10-29T11:32:23.000Z"
-  },
-  {
-   "id": "22dc809b26dd",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "PrivacyNotes adds Ninja quick-add, calendar, Kanban boards, and wellness tracking",
-   "summary": "AlternativeTo is excited to highlight PrivacyNotes , our official partner , which has been rolling out an impressive suite of productivity enhancements since joining our platform. Headlining the update is Ninja ( Cmd+K ), a versatile comma…",
-   "url": "https://alternativeto.net/news/2026/10/privacynotes-unveils-powerful-new-productivity-features-for-privacy-focused-users/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793271228423.png",
-   "date": "2026-10-29T10:53:48.000Z"
   },
   {
    "id": "0992d8bb6af0",
@@ -112,6 +142,46 @@
    "date": "2026-10-29T09:08:03.000Z"
   },
   {
+   "id": "22e221502d3a",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Early Years of Electronic Pop: The Moog Craze, Psychedelic Experiments, and More",
+   "summary": "There’s a decent chance you’ve heard at least a couple of tracks from Wendy Carlos’ Switched-On Bach . But when was the last time you put on Switched-On Rock , Switched-On Country , Switched-On Santa , or Switched-On Bacharach ? More likel…",
+   "url": "https://www.openculture.com/2026/10/the-early-years-of-electronic-pop-the-moog-craze-psychedelic-experiments-and-more.html",
+   "image": "https://i.ytimg.com/vi/XPaYtGIyRvg/maxresdefault.jpg",
+   "date": "2026-10-29T09:00:29.000Z"
+  },
+  {
+   "id": "d28967fce9c6",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How we detect frontier model misalignment",
+   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "image": "",
+   "date": "2026-10-29T09:00:00.000Z"
+  },
+  {
+   "id": "8d6f7aa879d4",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Surreal Pinscreen Animations Bring Kafka, Gogol & Mussorgsky to Life (1933–1972)",
+   "summary": "What do Franz Kafka , Nikolai Gogol, and Modest Mussorgsky have in common? They stand alone among their peers for their darkly humorous sensibilities, fascination with the grotesque, imaginative takes on cultural traditions, and a predispo…",
+   "url": "https://www.openculture.com/2026/10/surreal-pinscreen-animations-bring-kafka-gogol-mussorgsky-to-life-1933-1972.html",
+   "image": "https://i.ytimg.com/vi/pqPeI7-eVgc/maxresdefault.jpg",
+   "date": "2026-10-29T08:00:13.000Z"
+  },
+  {
+   "id": "2d9928289658",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "image": "",
+   "date": "2026-10-29T07:00:00.000Z"
+  },
+  {
    "id": "cf3a0b977498",
    "sourceId": "gh-langflow",
    "sourceName": "Langflow",
@@ -130,16 +200,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.1",
    "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
    "date": "2026-10-28T20:12:43.000Z"
-  },
-  {
-   "id": "75e2017ed4c5",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "image": "",
-   "date": "2026-10-28T13:15:00.000Z"
   },
   {
    "id": "ae3fb4fde255",
@@ -162,34 +222,14 @@
    "date": "2026-10-28T12:00:00.000Z"
   },
   {
-   "id": "00787c6ce357",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
-   "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
-   "url": "https://elevenlabs.io/blog/lettuce",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ijcihre29q-Blog-Template1920---ElevenLabs-x-Lettuce.webp",
-   "date": "2026-10-28T12:00:00.000Z"
-  },
-  {
-   "id": "0dc3cf0b7c98",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "The future of the firm",
-   "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "image": "",
-   "date": "2026-10-28T10:00:00.000Z"
-  },
-  {
-   "id": "41c97fe8dc29",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Legora is building the agentic operating system for legal work",
-   "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-   "url": "https://openai.com/index/legora",
-   "image": "",
-   "date": "2026-10-28T09:30:00.000Z"
+   "id": "b6e1dbadff7c",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Inside the Making of the Sagrada Família, Barcelona’s 144-Year Megaproject",
+   "summary": "To get a sense of Sagrada Família’s popularity with YouTubers, you have only to take a look at the related Open Culture posts linked below. As will hardly escape your attention, most subjects that consistently draw the attention of the GoP…",
+   "url": "https://www.openculture.com/2026/10/inside-the-making-of-the-sagrada-familia-barcelonas-144-year-megaproject.html",
+   "image": "https://i.ytimg.com/vi/gVlrhYh8vU4/maxresdefault.jpg",
+   "date": "2026-10-28T09:00:07.000Z"
   },
   {
    "id": "1aed3e040aad",
@@ -390,16 +430,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.1",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-10-22T07:29:46.000Z"
-  },
-  {
-   "id": "b43f828be9eb",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Internet Archive Honors Poynter and IRE for Preserving Local News Online",
-   "summary": "As newsrooms across the United States close, years of reporting are at risk of disappearing. Stories documenting local elections, holding public officials accountable, investigating community problems and recording everyday life can become…",
-   "url": "https://blog.archive.org/2026/10/20/internet-archive-hero-award-2026/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/HERO_AWARD_16_9-1024x576.png",
-   "date": "2026-10-20T12:00:00.000Z"
   },
   {
    "id": "93e7a14b51c6",
@@ -965,7 +995,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1334
+   "itens": 1337
   },
   "canva": {
    "aviso": "sem feed"
@@ -983,24 +1013,31 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "delphi": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "123apps": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
   "gutenberg": {
@@ -1010,16 +1047,7 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -1028,16 +1056,19 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1047,29 +1078,39 @@
   "shots": {
    "aviso": "sem feed"
   },
+  "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "removebg": {
    "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
-   "aviso": "sem feed"
-  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "clipdrop": {
+  "krea": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
+  },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "pairdrop": {
@@ -1078,49 +1119,36 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "v0": {
-   "aviso": "sem feed"
-  },
-  "openculture": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "replit": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "claude": {
+   "aviso": "sem feed"
   },
-  "runway": {
+  "v0": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
    "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "runway": {
    "aviso": "sem feed"
+  },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1132,18 +1160,21 @@
   "napkin": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
   },
   "notionai": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
-  },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
   },
   "gh-searxng": {
    "aviso": "sem feed"
@@ -1152,16 +1183,13 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
@@ -1179,17 +1207,24 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
-   "itens": 10
-  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
+  },
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
@@ -1199,24 +1234,20 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
-  },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
@@ -1226,6 +1257,14 @@
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
@@ -1234,16 +1273,8 @@
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-strix": {
