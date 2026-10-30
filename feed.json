@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-10-30T13:10:57.062Z",
+ "generatedAt": "2026-10-30T16:01:48.162Z",
  "items": [
+  {
+   "id": "184a9d924236",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Google expands AI Mode advertising to 10 new markets amid search evolution",
+   "summary": "Google has announced that it is rolling out advertisements in AI Mode across ten new countries in Google Search , marking a significant expansion of monetization within its generative search experience. The update brings sponsored content…",
+   "url": "https://alternativeto.net/news/2026/10/google-expands-ai-mode-advertising-to-10-new-markets-amid-search-evolution/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793306494018.png",
+   "date": "2026-10-30T14:30:00.000Z"
+  },
   {
    "id": "f20724d7afbe",
    "sourceId": "alternativeto",
@@ -50,16 +60,6 @@
    "url": "https://www.openculture.com/2026/10/watch-150-classic-horror-and-suspense-films-free-online.html",
    "image": "https://cdn8.openculture.com/2026/10/29231611/Screenshot-2026-10-29-at-11.27.10-PM-1024x774.png",
    "date": "2026-10-30T08:00:18.000Z"
-  },
-  {
-   "id": "7f2274d161f8",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Reddit is introducing a “For You” feed to enhance content discovery",
-   "summary": "In a move aimed at improving content discovery and user experience, Reddit has announced the introduction of a new dual-feed system that gives users a clearer choice between exploring new communities and staying updated on their existing o…",
-   "url": "https://alternativeto.net/news/2026/10/reddit-is-introducing-a-for-you-feed-to-enhance-content-discovery/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793292790208.png",
-   "date": "2026-10-30T07:00:00.000Z"
   },
   {
    "id": "e32f63129ae3",
@@ -995,7 +995,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1337
+   "itens": 1338
   },
   "canva": {
    "aviso": "sem feed"
@@ -1006,18 +1006,18 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
+  },
+  "delphi": {
+   "aviso": "sem feed"
+  },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
@@ -1027,33 +1027,27 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
+  "arena": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 5
-  },
-  "arena": {
-   "aviso": "sem feed"
+   "itens": 6
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "poe": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "justwatch": {
@@ -1062,31 +1056,37 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "shots": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
+  },
+  "earthtimelapse": {
+   "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
@@ -1094,21 +1094,14 @@
   "speedtest": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
-  },
-  "magnific": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
   },
   "pairdrop": {
    "aviso": "sem feed"
@@ -1119,40 +1112,43 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "replit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
+  "claude": {
+   "aviso": "sem feed"
+  },
   "v0": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
   "bolt": {
-   "aviso": "sem feed"
-  },
-  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
+   "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
@@ -1163,13 +1159,16 @@
   "napkin": {
    "aviso": "sem feed"
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "jasper": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "notionai": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1183,13 +1182,17 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
@@ -1215,31 +1218,24 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1249,37 +1245,41 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
   },
   "raphael": {
    "aviso": "sem feed"
