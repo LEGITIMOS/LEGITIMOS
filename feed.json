@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-30T10:03:30.506Z",
+ "generatedAt": "2026-10-30T13:10:57.062Z",
  "items": [
+  {
+   "id": "f20724d7afbe",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Tower 15 beta brings syntax highlighting across diffs and the blame view for Windows users",
+   "summary": "Tower Labs has released Tower 15 in beta for Windows , delivering a visually-driven update that addresses one of the most common requests from developers over the years. The headline feature is syntax highlighting across diffs and the blam…",
+   "url": "https://alternativeto.net/news/2026/10/tower-15-beta-brings-syntax-highlighting-across-diffs-and-the-blame-view-for-windows-users/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793297660623.png",
+   "date": "2026-10-30T13:00:00.000Z"
+  },
+  {
+   "id": "626d6f539a19",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
+   "summary": "TELUS Digital uses ElevenAgents to call new internet customers in their first 90 days, cutting early cancellations by more than half",
+   "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/z3wmynt60ch-Telus-Digital--Square.webp",
+   "date": "2026-10-30T12:00:00.000Z"
+  },
   {
    "id": "7470acb645d1",
    "sourceId": "alternativeto",
@@ -50,16 +70,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-30T06:45:34.000Z"
-  },
-  {
-   "id": "84b5aa1502b7",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Apple announces its first-ever touchscreen MacBook Pro with PROLED XDR, starting at $2,899",
-   "summary": "After years of rumors, Apple has finally introduced its new 14-inch and 16-inch MacBook Pro models, featuring a touchscreen for the first time in the MacBook lineup , alongside new PROLED XDR displays with tandem OLED technology. The panel…",
-   "url": "https://alternativeto.net/news/2026/10/apple-announces-its-first-ever-touchscreen-macbook-pro-with-proled-xdr-starting-at-2-899/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793343923749.png",
-   "date": "2026-10-30T06:44:31.000Z"
   },
   {
    "id": "cec978d14990",
@@ -179,16 +189,6 @@
    "summary": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering",
    "url": "https://elevenlabs.io/blog/internal-ops-agents",
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/namnay44d3-Internal-ops-agent-cover.webp",
-   "date": "2026-10-29T12:00:00.000Z"
-  },
-  {
-   "id": "19616655e2da",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
-   "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI.",
-   "url": "https://elevenlabs.io/blog/sound-effects-v3",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/4i9xsghce45-SFX-v3_-Thumbnail--1-.webp",
    "date": "2026-10-29T12:00:00.000Z"
   },
   {
@@ -1019,9 +1019,6 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
@@ -1033,36 +1030,36 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 5
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
   "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1074,9 +1071,15 @@
   "photopea": {
    "aviso": "sem feed"
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
+  },
+  "unscreen": {
+   "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1085,38 +1088,35 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "removebg": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
-  "magnific": {
-   "aviso": "sem feed"
-  },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "cursor": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1125,13 +1125,10 @@
   "huggingface": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
-   "aviso": "sem feed"
-  },
-  "replit": {
    "aviso": "sem feed"
   },
   "unshortenit": {
@@ -1140,15 +1137,18 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1163,32 +1163,32 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -1226,16 +1226,20 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1245,16 +1249,12 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
@@ -1265,12 +1265,8 @@
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
@@ -1280,6 +1276,10 @@
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "raphael": {
    "aviso": "sem feed"
