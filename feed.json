@@ -1,6 +1,46 @@
 {
- "generatedAt": "2026-10-30T04:00:41.341Z",
+ "generatedAt": "2026-10-30T07:14:11.974Z",
  "items": [
+  {
+   "id": "7f2274d161f8",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Reddit is introducing a “For You” feed to enhance content discovery",
+   "summary": "In a move aimed at improving content discovery and user experience, Reddit has announced the introduction of a new dual-feed system that gives users a clearer choice between exploring new communities and staying updated on their existing o…",
+   "url": "https://alternativeto.net/news/2026/10/reddit-is-introducing-a-for-you-feed-to-enhance-content-discovery/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793292790208.png",
+   "date": "2026-10-30T07:00:00.000Z"
+  },
+  {
+   "id": "e32f63129ae3",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
+   "summary": "Native Forme binaries. Review and commit prebuilt.json before building mobile apps.",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-30T06:45:34.000Z"
+  },
+  {
+   "id": "84b5aa1502b7",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Apple announces its first-ever touchscreen MacBook Pro with PROLED XDR, starting at $2,899",
+   "summary": "After years of rumors, Apple has finally introduced its new 14-inch and 16-inch MacBook Pro models, featuring a touchscreen for the first time in the MacBook lineup , alongside new PROLED XDR displays with tandem OLED technology. The panel…",
+   "url": "https://alternativeto.net/news/2026/10/apple-announces-its-first-ever-touchscreen-macbook-pro-with-proled-xdr-starting-at-2-899/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793343923749.png",
+   "date": "2026-10-30T06:44:31.000Z"
+  },
+  {
+   "id": "bd8f7a39714b",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Google previews Gemini 4 Carbon for cybersecurity, outperforming Claude Opus and GPT-6",
+   "summary": "Google has announced Gemini 4 Carbon , its latest frontier AI model, just two weeks after Gemini 4 Argon's general release. The model is initially available to selected cybersecurity defenders through Google's private Fairwind initiative,…",
+   "url": "https://alternativeto.net/news/2026/10/google-previews-gemini-4-carbon-for-cybersecurity-outperforming-claude-opus-and-gpt-6/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793339606979.png",
+   "date": "2026-10-30T05:40:34.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -50,36 +90,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.23.0-r2",
    "image": "https://avatars.githubusercontent.com/u/294240611?s=60&v=4",
    "date": "2026-10-29T21:17:05.000Z"
-  },
-  {
-   "id": "02f466818112",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "DietPi 10.8 delivers network overhaul with new tool to manage WireGuard servers & clients",
-   "summary": "DietPi has released version 10.8 , marking one of the most significant updates to the lightweight ARM-focused operating system in recent months. This update introduces the headline feature: dietpi-wireguard , a dedicated tool for managing…",
-   "url": "https://alternativeto.net/news/2026/10/dietpi-10-8-delivers-network-overhaul-with-new-tool-to-manage-wireguard-servers-and-clients/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793193262068.png",
-   "date": "2026-10-29T19:00:00.000Z"
-  },
-  {
-   "id": "45a95c44f14a",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Umami Cloud adds error tracking, search and revenue data",
-   "summary": "Umami Cloud now captures JavaScript errors, groups them into issues and links each occurrence to the affected visit and available session replay. The update also adds Google Search Console reporting for queries, pages, countries and device…",
-   "url": "https://alternativeto.net/news/2026/10/umami-cloud-adds-error-tracking-search-and-revenue-data/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793296029643.png",
-   "date": "2026-10-29T17:47:09.000Z"
-  },
-  {
-   "id": "95ecea03775b",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Raycast 2.10 brings images and unlimited notes to free plans",
-   "summary": "Raycast 2.10 adds image support to Notes, including GIFs and external Markdown image sources, with drag-and-drop reordering. The release also removes the five-note limit for free plans and adds drag-and-drop reordering for list items. Else…",
-   "url": "https://alternativeto.net/news/2026/10/raycast-2-10-brings-images-and-unlimited-notes-to-free-plans/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793295821474.png",
-   "date": "2026-10-29T17:43:41.000Z"
   },
   {
    "id": "7a53bd271ac1",
@@ -320,16 +330,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.19",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-10-26T23:52:42.000Z"
-  },
-  {
-   "id": "8557a0062d70",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.7",
-   "summary": "Highlights Share your resume as a web page. The new Share mode publishes a page that uses your template and design, adapts to phones and computers, and stays up to date as you edit. Preview it before publishing, then copy its address or sh…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.7",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-26T23:47:02.000Z"
   },
   {
    "id": "57c034712ba5",
@@ -997,10 +997,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1337
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1013,47 +1013,47 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 10
   },
-  "neapay": {
+  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -1062,10 +1062,10 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "photopea": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1075,7 +1075,7 @@
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1085,13 +1085,10 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "speedtest": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1100,29 +1097,35 @@
   "magnific": {
    "aviso": "sem feed"
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "krea": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
   "huggingface": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1132,9 +1135,6 @@
    "aviso": "sem feed"
   },
   "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "v0": {
    "aviso": "sem feed"
   },
   "bolt": {
@@ -1147,6 +1147,9 @@
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
@@ -1154,10 +1157,10 @@
   "otter": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "gamma": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "notionai": {
@@ -1169,9 +1172,6 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "jasper": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
    "aviso": "sem feed"
   },
@@ -1179,33 +1179,36 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
@@ -1215,23 +1218,16 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
@@ -1242,19 +1238,19 @@
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1263,6 +1259,14 @@
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
@@ -1275,10 +1279,6 @@
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
