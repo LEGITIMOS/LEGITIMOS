@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-30T01:16:48.983Z",
+ "generatedAt": "2026-10-30T04:00:41.341Z",
  "items": [
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-30T03:29:17.000Z"
+  },
+  {
+   "id": "14aeb7ed5427",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev10",
+   "summary": "Langflow nightly v1.14.0.dev10",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev10",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-10-30T01:59:44.000Z"
+  },
   {
    "id": "432d28849a0f",
    "sourceId": "gh-reactiveresume",
@@ -110,16 +130,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.20",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-10-29T13:33:12.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-29T12:17:18.000Z"
   },
   {
    "id": "e68704a5f0fc",
@@ -260,16 +270,6 @@
    "url": "https://www.openculture.com/2026/10/inside-the-making-of-the-sagrada-familia-barcelonas-144-year-megaproject.html",
    "image": "https://i.ytimg.com/vi/gVlrhYh8vU4/maxresdefault.jpg",
    "date": "2026-10-28T09:00:07.000Z"
-  },
-  {
-   "id": "1aed3e040aad",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev8",
-   "summary": "Langflow nightly v1.14.0.dev8",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev8",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-10-28T00:29:12.000Z"
   },
   {
    "id": "1a586d876ec7",
@@ -997,10 +997,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1337
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1010,37 +1010,38 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 8
+   "itens": 10
   },
-  "escolavirtual": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "justwatch": {
@@ -1049,20 +1050,13 @@
   "poe": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "shots": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
@@ -1071,14 +1065,14 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
+  "shots": {
    "aviso": "sem feed"
   },
   "carbon": {
@@ -1091,7 +1085,16 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "removebg": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1100,35 +1103,32 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
-   "aviso": "sem feed"
-  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "rayso": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "cursor": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
   "claude": {
+   "aviso": "sem feed"
+  },
+  "replit": {
    "aviso": "sem feed"
   },
   "unshortenit": {
@@ -1140,18 +1140,12 @@
   "bolt": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
-  },
   "runway": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "napkin": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1160,97 +1154,107 @@
   "otter": {
    "aviso": "sem feed"
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "gamma": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "napkin": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
-  },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1261,24 +1265,20 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
