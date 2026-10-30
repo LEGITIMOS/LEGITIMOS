@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-30T07:14:11.974Z",
+ "generatedAt": "2026-10-30T10:03:30.506Z",
  "items": [
+  {
+   "id": "7470acb645d1",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Google Chrome's Gemini-powered enhanced autofill can now pull information from Gmail",
+   "summary": "Google has announced that Chrome 's enhanced autofill feature can now suggest information drawn directly from a user's Gmail inbox when they fill out online forms. The feature is powered by Gemini with Personal Intelligence and can surface…",
+   "url": "https://alternativeto.net/news/2026/10/google-chrome-s-gemini-powered-enhanced-autofill-can-now-pull-information-from-gmail/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793293923420.png",
+   "date": "2026-10-30T10:00:00.000Z"
+  },
+  {
+   "id": "b806dfa8c0f4",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.21",
+   "summary": "Local SEO (beta). What's new (Beta) Local SEO: see where a business ranks on Google Maps around its location The map needs a GOOGLE_MAPS_API_KEY : see Google Maps setup Full Changelog: v0.1.20...v0.1.21",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.21",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-30T08:26:38.000Z"
+  },
+  {
+   "id": "2865669fcf19",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Watch 150 Classic Horror and Suspense Films Free Online: Nosferatu, The Cabinet of Dr. Caligari, Carnival of Souls, Night of the Living Dead & More",
+   "summary": "From roughly the mid-nineteen-fifties through the mid-nineteen-seventies, the availability of airtime on American television stations exceeded their capacity to fill it with high-quality original programming. This was especially true in th…",
+   "url": "https://www.openculture.com/2026/10/watch-150-classic-horror-and-suspense-films-free-online.html",
+   "image": "https://cdn8.openculture.com/2026/10/29231611/Screenshot-2026-10-29-at-11.27.10-PM-1024x774.png",
+   "date": "2026-10-30T08:00:18.000Z"
+  },
   {
    "id": "7f2274d161f8",
    "sourceId": "alternativeto",
@@ -30,16 +60,6 @@
    "url": "https://alternativeto.net/news/2026/10/apple-announces-its-first-ever-touchscreen-macbook-pro-with-proled-xdr-starting-at-2-899/",
    "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793343923749.png",
    "date": "2026-10-30T06:44:31.000Z"
-  },
-  {
-   "id": "bd8f7a39714b",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google previews Gemini 4 Carbon for cybersecurity, outperforming Claude Opus and GPT-6",
-   "summary": "Google has announced Gemini 4 Carbon , its latest frontier AI model, just two weeks after Gemini 4 Argon's general release. The model is initially available to selected cybersecurity defenders through Google's private Fairwind initiative,…",
-   "url": "https://alternativeto.net/news/2026/10/google-previews-gemini-4-carbon-for-cybersecurity-outperforming-claude-opus-and-gpt-6/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793339606979.png",
-   "date": "2026-10-30T05:40:34.000Z"
   },
   {
    "id": "cec978d14990",
@@ -272,16 +292,6 @@
    "date": "2026-10-28T12:00:00.000Z"
   },
   {
-   "id": "b6e1dbadff7c",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Inside the Making of the Sagrada Família, Barcelona’s 144-Year Megaproject",
-   "summary": "To get a sense of Sagrada Família’s popularity with YouTubers, you have only to take a look at the related Open Culture posts linked below. As will hardly escape your attention, most subjects that consistently draw the attention of the GoP…",
-   "url": "https://www.openculture.com/2026/10/inside-the-making-of-the-sagrada-familia-barcelonas-144-year-megaproject.html",
-   "image": "https://i.ytimg.com/vi/gVlrhYh8vU4/maxresdefault.jpg",
-   "date": "2026-10-28T09:00:07.000Z"
-  },
-  {
    "id": "1a586d876ec7",
    "sourceId": "gh-openhands",
    "sourceName": "OpenHands",
@@ -350,16 +360,6 @@
    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
    "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
    "date": "2026-10-26T12:00:07.000Z"
-  },
-  {
-   "id": "796a78cdec5b",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.18",
-   "summary": "Every App support and a clearer AI visibility setup. What's new Run OpenSEO on your own Every App gateway Install it with pnpm everyapp install https://github.com/every-app/open-seo from your Every App checkout Fixed AI visibility asks for…",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.18",
-   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
-   "date": "2026-10-26T10:40:35.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -942,23 +942,23 @@
    "date": null
   },
   {
-   "id": "153ce52e6387",
+   "id": "2ffd31bd8672",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Seven pillars of wisdom : by T. E. Lawrence",
+   "title": "The Imitation of Christ by à Kempis Thomas",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79877",
-   "image": "https://www.gutenberg.org/cache/epub/79877/pg79877.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/1653",
+   "image": "https://www.gutenberg.org/cache/epub/1653/pg1653.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "97afc543bf4d",
+   "id": "b7726fc9024b",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "The single track by Isabel Ostrander",
+   "title": "In a matter of nuisances by Raymond S. Spears",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79876",
-   "image": "https://www.gutenberg.org/cache/epub/79876/pg79876.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79880",
+   "image": "https://www.gutenberg.org/cache/epub/79880/pg79880.cover.medium.jpg",
    "date": null
   },
   {
@@ -997,10 +997,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1337
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1019,6 +1019,9 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
@@ -1030,27 +1033,24 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 5
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1059,24 +1059,24 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "hibp": {
-   "feed": "https://www.troyhunt.com/rss/",
-   "itens": 15
-  },
   "shots": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "photopea": {
    "aviso": "sem feed"
+  },
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1085,16 +1085,10 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "carbon": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "unscreen": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
    "aviso": "sem feed"
   },
   "removebg": {
@@ -1103,20 +1097,26 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "magnific": {
    "aviso": "sem feed"
   },
-  "registrobr": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "pairdrop": {
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1125,7 +1125,7 @@
   "huggingface": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1137,15 +1137,15 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "runway": {
+  "v0": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
+  },
+  "runway": {
+   "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
@@ -1160,24 +1160,24 @@
   "gamma": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
   },
-  "napkin": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1195,10 +1195,6 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
@@ -1207,8 +1203,9 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
@@ -1218,59 +1215,62 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
