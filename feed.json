@@ -1,25 +1,35 @@
 {
- "generatedAt": "2026-10-30T16:01:48.162Z",
+ "generatedAt": "2026-10-30T19:00:06.100Z",
  "items": [
   {
-   "id": "184a9d924236",
+   "id": "5117226cb57a",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
-   "title": "Google expands AI Mode advertising to 10 new markets amid search evolution",
-   "summary": "Google has announced that it is rolling out advertisements in AI Mode across ten new countries in Google Search , marking a significant expansion of monetization within its generative search experience. The update brings sponsored content…",
-   "url": "https://alternativeto.net/news/2026/10/google-expands-ai-mode-advertising-to-10-new-markets-amid-search-evolution/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793306494018.png",
-   "date": "2026-10-30T14:30:00.000Z"
+   "title": "Google is giving developers a platform to build and manage apps for Search and Gemini",
+   "summary": "Google has announced the preview launch of its Connected Apps Platform , a unified system that lets third-party developers build a single integration and distribute it across both Google Search and the Gemini app. Google frames the move as…",
+   "url": "https://alternativeto.net/news/2026/10/google-is-giving-developers-a-platform-to-build-and-manage-apps-for-search-and-gemini/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793300777413.png",
+   "date": "2026-10-30T18:00:00.000Z"
   },
   {
-   "id": "f20724d7afbe",
+   "id": "51dc68ae4189",
    "sourceId": "alternativeto",
    "sourceName": "AlternativeTo",
-   "title": "Tower 15 beta brings syntax highlighting across diffs and the blame view for Windows users",
-   "summary": "Tower Labs has released Tower 15 in beta for Windows , delivering a visually-driven update that addresses one of the most common requests from developers over the years. The headline feature is syntax highlighting across diffs and the blam…",
-   "url": "https://alternativeto.net/news/2026/10/tower-15-beta-brings-syntax-highlighting-across-diffs-and-the-blame-view-for-windows-users/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793297660623.png",
-   "date": "2026-10-30T13:00:00.000Z"
+   "title": "Gemini adds in-chat file creation, preview and direct editing",
+   "summary": "Gemini can now generate, preview and edit documents, PDFs, presentations, spreadsheets, code and other files directly in chat. Users can open files in full screen for manual edits, highlight sections to request changes, and ask follow-up q…",
+   "url": "https://alternativeto.net/news/2026/10/gemini-adds-in-chat-file-creation-preview-and-direct-editing/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793381996879.png",
+   "date": "2026-10-30T17:39:56.000Z"
+  },
+  {
+   "id": "85f3db4f02ac",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Substack lists let readers build and save creator feeds",
+   "summary": "Substack has launched shareable lists for grouping writers, podcasters, and publishers. Each list includes a chronological Activity feed with the latest posts and Notes from featured creators, including publishers added after someone saves…",
+   "url": "https://alternativeto.net/news/2026/10/substack-lists-let-readers-build-and-save-creator-feeds/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793381752283.png",
+   "date": "2026-10-30T17:35:52.000Z"
   },
   {
    "id": "626d6f539a19",
@@ -32,14 +42,24 @@
    "date": "2026-10-30T12:00:00.000Z"
   },
   {
-   "id": "7470acb645d1",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google Chrome's Gemini-powered enhanced autofill can now pull information from Gmail",
-   "summary": "Google has announced that Chrome 's enhanced autofill feature can now suggest information drawn directly from a user's Gmail inbox when they fill out online forms. The feature is powered by Gemini with Personal Intelligence and can surface…",
-   "url": "https://alternativeto.net/news/2026/10/google-chrome-s-gemini-powered-enhanced-autofill-can-now-pull-information-from-gmail/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793293923420.png",
-   "date": "2026-10-30T10:00:00.000Z"
+   "id": "25cc4c9bb2e3",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Making it easier for websites to express AI training preferences",
+   "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "image": "",
+   "date": "2026-10-30T09:30:00.000Z"
+  },
+  {
+   "id": "c7606af40dbb",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Community safety report and new protections for teens",
+   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "image": "",
+   "date": "2026-10-30T09:00:00.000Z"
   },
   {
    "id": "b806dfa8c0f4",
@@ -232,16 +252,6 @@
    "date": "2026-10-29T09:00:29.000Z"
   },
   {
-   "id": "d28967fce9c6",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How we detect frontier model misalignment",
-   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "image": "",
-   "date": "2026-10-29T09:00:00.000Z"
-  },
-  {
    "id": "8d6f7aa879d4",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -250,16 +260,6 @@
    "url": "https://www.openculture.com/2026/10/surreal-pinscreen-animations-bring-kafka-gogol-mussorgsky-to-life-1933-1972.html",
    "image": "https://i.ytimg.com/vi/pqPeI7-eVgc/maxresdefault.jpg",
    "date": "2026-10-29T08:00:13.000Z"
-  },
-  {
-   "id": "2d9928289658",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "image": "",
-   "date": "2026-10-29T07:00:00.000Z"
   },
   {
    "id": "cf3a0b977498",
@@ -995,29 +995,29 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1338
-  },
-  "canva": {
-   "aviso": "sem feed"
+   "itens": 1340
   },
   "comprecripto": {
    "aviso": "sem feed"
   },
+  "canva": {
+   "aviso": "sem feed"
+  },
   "receivesms": {
    "aviso": "ignorado"
+  },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
+  "delphi": {
+   "aviso": "sem feed"
   },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
-  },
-  "delphi": {
-   "aviso": "sem feed"
-  },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
@@ -1027,10 +1027,13 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "arena": {
+  "poe": {
    "aviso": "sem feed"
   },
   "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "gutenberg": {
@@ -1042,9 +1045,6 @@
    "itens": 15
   },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
@@ -1059,57 +1059,48 @@
   "cleanup": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "smartmockups": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "pdf24": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "earthtimelapse": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
   "krea": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1119,22 +1110,34 @@
   "rayso": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "registrobr": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "perplexity": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "v0": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "bolt": {
@@ -1143,9 +1146,6 @@
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "runway": {
-   "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
@@ -1159,24 +1159,25 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "kling": {
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
+  },
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
   },
-  "gh-cobalt": {
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
    "aviso": "sem feed"
-  },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1190,16 +1191,11 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1208,6 +1204,10 @@
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1230,12 +1230,12 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1245,41 +1245,41 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
   },
   "raphael": {
    "aviso": "sem feed"
