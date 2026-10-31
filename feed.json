@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-10-31T01:14:50.281Z",
+ "generatedAt": "2026-10-31T03:57:40.808Z",
  "items": [
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-10-31T03:25:20.000Z"
+  },
+  {
+   "id": "f808d62c76b9",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.22",
+   "summary": "Docker fixes for Local SEO, long-running checks and Raspberry Pi 5. Fixed On Docker, Local SEO rank checks now run, and GOOGLE_MAPS_API_KEY in .env turns on the map. On Docker, large site audits, AI visibility runs and rank checks no longe…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.22",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-10-31T02:29:33.000Z"
+  },
   {
    "id": "af2301cfeea9",
    "sourceId": "gh-langflow",
@@ -150,16 +170,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-30T06:45:34.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-30T03:29:17.000Z"
   },
   {
    "id": "14aeb7ed5427",
@@ -330,16 +340,6 @@
    "url": "https://www.troyhunt.com/weekly-update-527/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault-1.jpg",
    "date": "2026-10-27T07:59:09.000Z"
-  },
-  {
-   "id": "d96360e24899",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.19",
-   "summary": "MCP sign-in for self-hosts with email and password accounts, and larger JavaScript-rendered audits. What's new Audits that render JavaScript are no longer capped at 1,000 pages Fixed MCP clients can finish signing in on self-hosts with ema…",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.19",
-   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
-   "date": "2026-10-26T23:52:42.000Z"
   },
   {
    "id": "57c034712ba5",
@@ -932,6 +932,16 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
+   "id": "e191c7183999",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Lady Bell, volume 3 (of 3) : by Sarah Tytler",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79883",
+   "image": "https://www.gutenberg.org/cache/epub/79883/pg79883.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "61984f83ad63",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -949,16 +959,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/696",
    "image": "https://www.gutenberg.org/cache/epub/696/pg696.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "4ba370c91bd1",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The Vampyre; a Tale by John William Polidori",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/6087",
-   "image": "https://www.gutenberg.org/cache/epub/6087/pg6087.cover.medium.jpg",
    "date": null
   },
   {
@@ -997,10 +997,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1341
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1009,6 +1009,9 @@
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "delphi": {
    "aviso": "sem feed"
@@ -1019,20 +1022,17 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "poe": {
-   "aviso": "sem feed"
+  "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 8
+   "itens": 10
   },
   "neapay": {
    "aviso": "sem feed"
@@ -1044,52 +1044,52 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
+  "poe": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
+  "shots": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
+  },
+  "unscreen": {
+   "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
@@ -1103,70 +1103,73 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "registrobr": {
    "aviso": "sem feed"
   },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
   "v0": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "runway": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "bolt": {
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "napkin": {
+  "otter": {
    "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
   },
-  "jasper": {
-   "aviso": "sem feed"
-  },
-  "otter": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1175,9 +1178,6 @@
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
-  },
-  "notionai": {
-   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1215,31 +1215,27 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1249,24 +1245,16 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
@@ -1276,6 +1264,18 @@
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
