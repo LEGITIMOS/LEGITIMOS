@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-10-31T18:58:05.959Z",
+ "generatedAt": "2026-10-31T21:48:21.161Z",
  "items": [
+  {
+   "id": "f785cd2d15c4",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc39",
+   "summary": "Bump release version to 0.9.78rc39",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc39",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-31T21:40:42.000Z"
+  },
+  {
+   "id": "bb313d7b569c",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc38",
+   "summary": "Bump release version to 0.9.78rc38",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc38",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-31T19:43:10.000Z"
+  },
+  {
+   "id": "18a5da931e48",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc38",
+   "summary": "Bump release version to 0.9.78rc38",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc38",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-10-31T19:43:10.000Z"
+  },
   {
    "id": "14084c4d46f1",
    "sourceId": "gh-gallerydl",
@@ -42,34 +72,34 @@
    "date": "2026-10-31T00:23:28.000Z"
   },
   {
-   "id": "a9ec9b9a0477",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc35",
-   "summary": "Bump release version to 0.9.78rc35",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc35",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-30T23:41:06.000Z"
+   "id": "5117226cb57a",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Google is giving developers a platform to build and manage apps for Search and Gemini",
+   "summary": "Google has announced the preview launch of its Connected Apps Platform , a unified system that lets third-party developers build a single integration and distribute it across both Google Search and the Gemini app. Google frames the move as…",
+   "url": "https://alternativeto.net/news/2026/10/google-is-giving-developers-a-platform-to-build-and-manage-apps-for-search-and-gemini/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793300777413.png",
+   "date": "2026-10-30T18:00:00.000Z"
   },
   {
-   "id": "98e5a577dbbc",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc35",
-   "summary": "Bump release version to 0.9.78rc35",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc35",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-30T23:41:06.000Z"
+   "id": "51dc68ae4189",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Gemini adds in-chat file creation, preview and direct editing",
+   "summary": "Gemini can now generate, preview and edit documents, PDFs, presentations, spreadsheets, code and other files directly in chat. Users can open files in full screen for manual edits, highlight sections to request changes, and ask follow-up q…",
+   "url": "https://alternativeto.net/news/2026/10/gemini-adds-in-chat-file-creation-preview-and-direct-editing/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793381996879.png",
+   "date": "2026-10-30T17:39:56.000Z"
   },
   {
-   "id": "3737f0e29cf2",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc34",
-   "summary": "Bump release version to 0.9.78rc34",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc34",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-10-30T22:31:24.000Z"
+   "id": "85f3db4f02ac",
+   "sourceId": "alternativeto",
+   "sourceName": "AlternativeTo",
+   "title": "Substack lists let readers build and save creator feeds",
+   "summary": "Substack has launched shareable lists for grouping writers, podcasters, and publishers. Each list includes a chronological Activity feed with the latest posts and Notes from featured creators, including publishers added after someone saves…",
+   "url": "https://alternativeto.net/news/2026/10/substack-lists-let-readers-build-and-save-creator-feeds/",
+   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793381752283.png",
+   "date": "2026-10-30T17:35:52.000Z"
   },
   {
    "id": "2029673e5076",
@@ -980,38 +1010,42 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
+  "123apps": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "tec": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "alternativeto": {
+   "feed": "https://alternativeto.net/feeds/news/",
+   "itens": 15
+  },
+  "delphi": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "tec": {
+  "arena": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 8
-  },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 8
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
@@ -1019,38 +1053,38 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
+  "poe": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "photopea": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
@@ -1058,9 +1092,6 @@
    "itens": 104
   },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1072,26 +1103,26 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
+  "cursor": {
+   "aviso": "sem feed"
+  },
   "registrobr": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1103,10 +1134,13 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "v0": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1116,26 +1150,26 @@
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
+  "otter": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "gamma": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
   "jasper": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1157,6 +1191,10 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
@@ -1165,15 +1203,8 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1192,12 +1223,16 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
@@ -1207,23 +1242,15 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1234,16 +1261,20 @@
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
