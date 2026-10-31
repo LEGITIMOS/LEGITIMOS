@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T03:57:40.808Z",
+ "generatedAt": "2026-10-31T09:53:36.140Z",
  "items": [
   {
    "id": "cec978d14990",
@@ -942,16 +942,6 @@
    "date": null
   },
   {
-   "id": "61984f83ad63",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Herland by Charlotte Perkins Gilman",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/32",
-   "image": "https://www.gutenberg.org/cache/epub/32/pg32.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "c28aba869ed7",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -959,6 +949,16 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/696",
    "image": "https://www.gutenberg.org/cache/epub/696/pg696.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "d8e71986108e",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Coxswain of the Eight by Ralph Henry Barbour",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79884",
+   "image": "https://www.gutenberg.org/cache/epub/79884/pg79884.cover.medium.jpg",
    "date": null
   },
   {
@@ -1010,9 +1010,6 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "delphi": {
    "aviso": "sem feed"
   },
@@ -1022,38 +1019,41 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
-  },
   "neapay": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 6
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -1065,47 +1065,43 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "carbon": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "unscreen": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "unscreen": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "magnific": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
+  "clipdrop": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
@@ -1113,22 +1109,20 @@
   "cursor": {
    "aviso": "sem feed"
   },
-  "registrobr": {
-   "aviso": "sem feed"
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
   },
   "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
   "replit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1137,15 +1131,21 @@
   "v0": {
    "aviso": "sem feed"
   },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "bolt": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "runway": {
-   "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
@@ -1154,22 +1154,19 @@
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "otter": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
   },
-  "napkin": {
-   "aviso": "sem feed"
-  },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
+  "otter": {
    "aviso": "sem feed"
   },
   "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1179,20 +1176,27 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "notionai": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1203,10 +1207,6 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
@@ -1215,42 +1215,38 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
@@ -1261,20 +1257,24 @@
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-strix": {
