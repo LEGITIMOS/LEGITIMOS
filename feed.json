@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T18:58:15.424Z",
+ "generatedAt": "2026-11-01T21:49:27.222Z",
  "items": [
   {
    "id": "401862f6a9bd",
@@ -90,36 +90,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev11",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-10-31T00:23:28.000Z"
-  },
-  {
-   "id": "5117226cb57a",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Google is giving developers a platform to build and manage apps for Search and Gemini",
-   "summary": "Google has announced the preview launch of its Connected Apps Platform , a unified system that lets third-party developers build a single integration and distribute it across both Google Search and the Gemini app. Google frames the move as…",
-   "url": "https://alternativeto.net/news/2026/10/google-is-giving-developers-a-platform-to-build-and-manage-apps-for-search-and-gemini/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793300777413.png",
-   "date": "2026-10-30T18:00:00.000Z"
-  },
-  {
-   "id": "51dc68ae4189",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Gemini adds in-chat file creation, preview and direct editing",
-   "summary": "Gemini can now generate, preview and edit documents, PDFs, presentations, spreadsheets, code and other files directly in chat. Users can open files in full screen for manual edits, highlight sections to request changes, and ask follow-up q…",
-   "url": "https://alternativeto.net/news/2026/10/gemini-adds-in-chat-file-creation-preview-and-direct-editing/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793381996879.png",
-   "date": "2026-10-30T17:39:56.000Z"
-  },
-  {
-   "id": "85f3db4f02ac",
-   "sourceId": "alternativeto",
-   "sourceName": "AlternativeTo",
-   "title": "Substack lists let readers build and save creator feeds",
-   "summary": "Substack has launched shareable lists for grouping writers, podcasters, and publishers. Each list includes a chronological Activity feed with the latest posts and Notes from featured creators, including publishers added after someone saves…",
-   "url": "https://alternativeto.net/news/2026/10/substack-lists-let-readers-build-and-save-creator-feeds/",
-   "image": "https://img.alternativeto.net/news/1520x760/jpeg/1793381752283.png",
-   "date": "2026-10-30T17:35:52.000Z"
   },
   {
    "id": "2029673e5076",
@@ -997,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1341
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1020,20 +990,13 @@
    "aviso": "sem feed"
   },
   "alternativeto": {
-   "feed": "https://alternativeto.net/feeds/news/",
-   "itens": 15
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "arena": {
+  "poe": {
    "aviso": "sem feed"
   },
   "gutenberg": {
@@ -1043,9 +1006,18 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
@@ -1056,10 +1028,10 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1068,15 +1040,9 @@
   "photopea": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
-  },
-  "shots": {
-   "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
@@ -1091,16 +1057,22 @@
   "speedtest": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "rayso": {
+   "aviso": "sem feed"
+  },
   "krea": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "magnific": {
    "aviso": "sem feed"
   },
   "cursor": {
@@ -1110,45 +1082,39 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "huggingface": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "runway": {
-   "aviso": "sem feed"
-  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
+  },
+  "runway": {
+   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1160,51 +1126,54 @@
   "gamma": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
-  },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1227,8 +1196,13 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
   },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
@@ -1238,20 +1212,19 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
@@ -1264,10 +1237,6 @@
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
