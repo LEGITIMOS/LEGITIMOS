@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T15:49:13.216Z",
+ "generatedAt": "2026-11-01T18:58:15.424Z",
  "items": [
   {
    "id": "401862f6a9bd",
@@ -932,6 +932,16 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
+   "id": "1fbe2b421c6c",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Thelma by Marie Corelli",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/3823",
+   "image": "https://www.gutenberg.org/cache/epub/3823/pg3823.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "e56b1311ffe7",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -949,16 +959,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/3309",
    "image": "https://www.gutenberg.org/cache/epub/3309/pg3309.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "b3c2aa2ae37c",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The art of being ruled by Wyndham Lewis",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79890",
-   "image": "https://www.gutenberg.org/cache/epub/79890/pg79890.cover.medium.jpg",
    "date": null
   },
   {
@@ -997,10 +997,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1341
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -1010,23 +1010,23 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
+  "delphi": {
+   "aviso": "sem feed"
+  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "delphi": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "alternativeto": {
    "feed": "https://alternativeto.net/feeds/news/",
    "itens": 15
   },
-  "neapay": {
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "wayback": {
@@ -1036,27 +1036,21 @@
   "arena": {
    "aviso": "sem feed"
   },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 22
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 19
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -1065,10 +1059,13 @@
   "pdf24": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "carbon": {
@@ -1078,13 +1075,13 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "earthtimelapse": {
+  "shots": {
    "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
@@ -1094,61 +1091,64 @@
   "speedtest": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "magnific": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "krea": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
-   "aviso": "sem feed"
-  },
   "registrobr": {
    "aviso": "sem feed"
   },
-  "perplexity": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "replit": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "perplexity": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
+  "v0": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "opusclip": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
-   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1160,43 +1160,39 @@
   "gamma": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "jasper": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -1207,6 +1203,10 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
@@ -1215,12 +1215,9 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1230,20 +1227,27 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
@@ -1253,32 +1257,28 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "raphael": {
