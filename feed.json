@@ -1,6 +1,56 @@
 {
- "generatedAt": "2026-11-02T04:11:27.263Z",
+ "generatedAt": "2026-11-02T10:20:01.058Z",
  "items": [
+  {
+   "id": "63e404d9b9e0",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "A Beginner’s Guide to Philosophy: From Logic to Epistemology to Metaphysics",
+   "summary": "These are, perhaps, not the very best times for humanities majors. Seldom do we even hear the once-standard defense that, by pursuing a course of study in subjects of that kind, students “learn how to think.” Such a justification still poi…",
+   "url": "https://www.openculture.com/2026/11/a-beginners-guide-to-philosophy-from-logic-to-epistemology-to-metaphysics.html",
+   "image": "https://i.ytimg.com/vi/tiZ5tb8Idlg/maxresdefault.jpg",
+   "date": "2026-11-02T10:00:38.000Z"
+  },
+  {
+   "id": "4e0aafa8d22f",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc52",
+   "summary": "Bump release version to 0.9.78rc52",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc52",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-02T09:52:46.000Z"
+  },
+  {
+   "id": "0b564784e335",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc51",
+   "summary": "Bump release version to 0.9.78rc51",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc51",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-02T09:47:29.000Z"
+  },
+  {
+   "id": "5cd5b20e4521",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc50",
+   "summary": "Bump release version to 0.9.78rc50",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc50",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-02T09:22:18.000Z"
+  },
+  {
+   "id": "d52a3f791cec",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Watch David Bowie Take MTV to Task for Failing to Play Music Videos by Black Artists (1983)",
+   "summary": "The old vaudeville phrase “Will it play in Peoria?” has its roots in the late 19th century, specifically in Horatio Alger’s novel Five Hundred Dollars; Or Jacob Marlowe’s Secret . Like all of the books Alger wrote extolling the virtues of…",
+   "url": "https://www.openculture.com/2026/11/watch-david-bowie-take-mtv-to-task-for-failing-to-play-music-videos-by-black-artists-1983.html",
+   "image": "https://i.ytimg.com/vi/XZGiVzIr8Qg/maxresdefault.jpg",
+   "date": "2026-11-02T09:00:57.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -30,36 +80,6 @@
    "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.5",
    "image": "https://avatars.githubusercontent.com/u/725423?s=60&v=4",
    "date": "2026-11-01T22:16:50.000Z"
-  },
-  {
-   "id": "401862f6a9bd",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc49",
-   "summary": "Bump release version to 0.9.78rc49",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc49",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-01T13:55:18.000Z"
-  },
-  {
-   "id": "702ed3cd7e95",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc49",
-   "summary": "Bump release version to 0.9.78rc49",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc49",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-01T13:55:18.000Z"
-  },
-  {
-   "id": "1f3b8e07dd55",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc48",
-   "summary": "Bump release version to 0.9.78rc48",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc48",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-01T10:53:41.000Z"
   },
   {
    "id": "78371aadf257",
@@ -270,26 +290,6 @@
    "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.5",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-29T09:08:03.000Z"
-  },
-  {
-   "id": "22e221502d3a",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Early Years of Electronic Pop: The Moog Craze, Psychedelic Experiments, and More",
-   "summary": "There’s a decent chance you’ve heard at least a couple of tracks from Wendy Carlos’ Switched-On Bach . But when was the last time you put on Switched-On Rock , Switched-On Country , Switched-On Santa , or Switched-On Bacharach ? More likel…",
-   "url": "https://www.openculture.com/2026/10/the-early-years-of-electronic-pop-the-moog-craze-psychedelic-experiments-and-more.html",
-   "image": "https://i.ytimg.com/vi/XPaYtGIyRvg/maxresdefault.jpg",
-   "date": "2026-10-29T09:00:29.000Z"
-  },
-  {
-   "id": "8d6f7aa879d4",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Surreal Pinscreen Animations Bring Kafka, Gogol & Mussorgsky to Life (1933–1972)",
-   "summary": "What do Franz Kafka , Nikolai Gogol, and Modest Mussorgsky have in common? They stand alone among their peers for their darkly humorous sensibilities, fascination with the grotesque, imaginative takes on cultural traditions, and a predispo…",
-   "url": "https://www.openculture.com/2026/10/surreal-pinscreen-animations-bring-kafka-gogol-mussorgsky-to-life-1933-1972.html",
-   "image": "https://i.ytimg.com/vi/pqPeI7-eVgc/maxresdefault.jpg",
-   "date": "2026-10-29T08:00:13.000Z"
   },
   {
    "id": "ae3fb4fde255",
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1341
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -986,52 +986,49 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
-   "aviso": "sem feed"
-  },
   "arena": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 28
+   "itens": 17
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "poe": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1040,12 +1037,15 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "hibp": {
-   "feed": "https://www.troyhunt.com/rss/",
-   "itens": 15
+  "photopea": {
+   "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
+  },
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1053,23 +1053,32 @@
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "magnific": {
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "krea": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "rayso": {
@@ -1079,65 +1088,52 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "replit": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
+  "claude": {
    "aviso": "sem feed"
   },
   "bolt": {
+   "aviso": "sem feed"
+  },
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "napkin": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
+  "gamma": {
+   "aviso": "sem feed"
+  },
   "otter": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
-  },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
   },
   "notionai": {
    "aviso": "sem feed"
@@ -1145,23 +1141,24 @@
   "jasper": {
    "aviso": "sem feed"
   },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
+  },
   "gh-searxng": {
    "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
@@ -1171,12 +1168,15 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1191,9 +1191,9 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
@@ -1203,32 +1203,40 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
@@ -1238,16 +1246,8 @@
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "raphael": {
