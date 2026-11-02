@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-11-02T13:25:47.032Z",
+ "generatedAt": "2026-11-02T16:14:58.865Z",
  "items": [
+  {
+   "id": "19244c7aa206",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Introducing the Grid Protectors Program",
+   "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "image": "",
+   "date": "2026-11-02T15:00:00.000Z"
+  },
+  {
+   "id": "4d1f48989ead",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Introducing SFX v3 for developers",
+   "summary": "SFX v3 is our newest sound effects model. Switch with one model_id change for better multi-part prompts, vocals, and fewer clipped high notes.",
+   "url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/5mo6tyh5yio-sfx-v1.webp",
+   "date": "2026-11-02T12:00:00.000Z"
+  },
   {
    "id": "63e404d9b9e0",
    "sourceId": "openculture",
@@ -202,16 +222,6 @@
    "date": "2026-10-30T06:45:34.000Z"
   },
   {
-   "id": "d2282bcce162",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Fair use benefits everyone",
-   "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "image": "",
-   "date": "2026-10-30T00:00:00.000Z"
-  },
-  {
    "id": "432d28849a0f",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
@@ -252,6 +262,16 @@
    "date": "2026-10-29T17:34:52.000Z"
   },
   {
+   "id": "12f53f82bf25",
+   "sourceId": "suno",
+   "sourceName": "Suno",
+   "title": "Meet Chat: Our In-house Studio Assistant",
+   "summary": "Like a studio assistant, Chat can streamline your sessions, inspire ideas and more!",
+   "url": "https://suno.com/blog/studio-chat-assistant",
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+   "date": "2026-10-29T16:00:00.000Z"
+  },
+  {
    "id": "1784407df462",
    "sourceId": "gh-openseo",
    "sourceName": "OpenSEO",
@@ -260,16 +280,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.20",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-10-29T13:33:12.000Z"
-  },
-  {
-   "id": "e68704a5f0fc",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "What is turn taking in conversational AI: A guide to natural flow",
-   "summary": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it.",
-   "url": "https://elevenlabs.io/blog/what-is-turn-taking",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-10-29T12:00:00.000Z"
   },
   {
    "id": "0992d8bb6af0",
@@ -512,6 +522,16 @@
    "date": "2026-10-15T21:26:38.000Z"
   },
   {
+   "id": "7c11c79ec35f",
+   "sourceId": "suno",
+   "sourceName": "Suno",
+   "title": "Sidechaining Makes Your Music Pump",
+   "summary": "One of the oldest tricks in pro audio can bring your mix to life",
+   "url": "https://suno.com/blog/about-sidechaining",
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5152a1b2be75701b57c6328ff10986c61d3573db-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+   "date": "2026-10-15T15:00:00.000Z"
+  },
+  {
    "id": "65f81757c6d9",
    "sourceId": "did",
    "sourceName": "D-ID",
@@ -572,16 +592,6 @@
    "date": "2026-10-06T11:30:54.000Z"
   },
   {
-   "id": "c33acdf7bc8b",
-   "sourceId": "suno",
-   "sourceName": "Suno",
-   "title": "5 Albums You Can't Miss",
-   "summary": "Discover some of the first albums on Suno.",
-   "url": "https://suno.com/blog/albums-to-discover",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5c4ceca97a157bfd08a546b52029541517b9ff40-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
-   "date": "2026-10-05T18:53:00.000Z"
-  },
-  {
    "id": "07b59d10f873",
    "sourceId": "gh-strix",
    "sourceName": "Strix",
@@ -600,16 +610,6 @@
    "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0",
    "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
    "date": "2026-10-05T01:20:26.000Z"
-  },
-  {
-   "id": "9506769ef6ff",
-   "sourceId": "suno",
-   "sourceName": "Suno",
-   "title": "Introducing Speech (beta)",
-   "summary": "A new way to express yourself creatively",
-   "url": "https://suno.com/blog/introducing-speech-beta",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/7980bce19cb4a95a1e332b32be9ab8d2f83dbd6f-1920x1102.jpg?rect=0,47,1920,1008&w=1200&h=630&fit=crop&auto=format",
-   "date": "2026-10-01T20:35:00.000Z"
   },
   {
    "id": "39b60030254c",
@@ -965,12 +965,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1341
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1342
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -979,9 +979,6 @@
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
-  },
-  "arena": {
-   "aviso": "sem feed"
   },
   "delphi": {
    "aviso": "sem feed"
@@ -992,34 +989,37 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
+  "poe": {
    "aviso": "sem feed"
   },
   "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 23
   },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1028,13 +1028,13 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "photopea": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1044,104 +1044,103 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "speedtest": {
+  "removebg": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "krea": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
-   "aviso": "sem feed"
-  },
   "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
   "replit": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "v0": {
+   "aviso": "sem feed"
+  },
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
-  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "kling": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
   "jasper": {
    "aviso": "sem feed"
   },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
   "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1164,16 +1163,16 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1184,12 +1183,13 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1203,39 +1203,43 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
@@ -1244,10 +1248,6 @@
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "raphael": {
