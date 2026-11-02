@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-11-01T21:49:27.222Z",
+ "generatedAt": "2026-11-02T01:23:40.206Z",
  "items": [
+  {
+   "id": "a9286d7a9ca8",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev13",
+   "summary": "Langflow nightly v1.14.0.dev13",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev13",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-02T00:26:41.000Z"
+  },
+  {
+   "id": "02a34f213338",
+   "sourceId": "gh-vaultwarden",
+   "sourceName": "Vaultwarden",
+   "title": "Vaultwarden · 1.37.5",
+   "summary": "Security Fixes This release contains security fixes for the following advisories. We strongly advise updating as soon as possible. Website icons [GHSA-x9cq-f669-vrr4] ( Medium , 5.3) Emergency access [GHSA-9pjj-f9g5-3x4c] ( Medium , 4.3) T…",
+   "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.5",
+   "image": "https://avatars.githubusercontent.com/u/725423?s=60&v=4",
+   "date": "2026-11-01T22:16:50.000Z"
+  },
   {
    "id": "401862f6a9bd",
    "sourceId": "gh-archivebox",
@@ -90,16 +110,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev11",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-10-31T00:23:28.000Z"
-  },
-  {
-   "id": "2029673e5076",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.13.1: fix: block assistant expression evaluation bypasses (#16055)",
-   "summary": "fix: block assistant expression evaluation fix: preserve static namespace lookup results",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.1",
-   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
-   "date": "2026-10-30T16:09:46.000Z"
   },
   {
    "id": "bac9edc458a4",
@@ -752,16 +762,6 @@
    "date": "2026-09-01T16:00:43.000Z"
   },
   {
-   "id": "50daaab95354",
-   "sourceId": "gh-vaultwarden",
-   "sourceName": "Vaultwarden",
-   "title": "Vaultwarden · 1.37.2",
-   "summary": "Note This update is required for support with clients with version 2026.8.0+, please update before reporting any issues with them. Important Also read #7615 for more details if you still have client issues! What's Changed Fix Debian cross-…",
-   "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.2",
-   "image": "https://avatars.githubusercontent.com/u/610450?s=60&v=4",
-   "date": "2026-08-24T09:42:38.000Z"
-  },
-  {
    "id": "61f9d0d39767",
    "sourceId": "gh-localsend",
    "sourceName": "LocalSend",
@@ -912,6 +912,16 @@
    "date": null
   },
   {
+   "id": "a4e1f9bd97d9",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Geographical studies by Carl Ritter",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79899",
+   "image": "https://www.gutenberg.org/cache/epub/79899/pg79899.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "e56b1311ffe7",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -919,16 +929,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/3639",
    "image": "https://www.gutenberg.org/cache/epub/3639/pg3639.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "2042212879eb",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Manners and Monuments of Prehistoric Peoples by marquis de Jean-François-Albert du Pouget Nadaillac",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/3309",
-   "image": "https://www.gutenberg.org/cache/epub/3309/pg3309.cover.medium.jpg",
    "date": null
   },
   {
@@ -989,6 +989,9 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "aviso": "sem feed"
   },
@@ -996,33 +999,30 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 22
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
+   "itens": 28
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -1031,20 +1031,20 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1057,22 +1057,25 @@
   "speedtest": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "magnific": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "cursor": {
@@ -1082,10 +1085,7 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1094,16 +1094,19 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "claude": {
    "aviso": "sem feed"
   },
   "v0": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
    "aviso": "sem feed"
   },
   "opusclip": {
@@ -1116,56 +1119,53 @@
   "runway": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "napkin": {
-   "aviso": "sem feed"
-  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
-   "aviso": "sem feed"
-  },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1176,16 +1176,15 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
-   "itens": 10
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
@@ -1196,38 +1195,43 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
@@ -1244,10 +1248,6 @@
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "raphael": {
