@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-03T13:20:44.071Z",
+ "generatedAt": "2026-11-03T16:04:45.023Z",
  "items": [
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-03T14:12:27.000Z"
+  },
   {
    "id": "87d9325f64fa",
    "sourceId": "gh-openwebui",
@@ -82,16 +92,6 @@
    "date": "2026-11-03T08:00:00.000Z"
   },
   {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-03T03:48:30.000Z"
-  },
-  {
    "id": "f73fd143082d",
    "sourceId": "gh-langflow",
    "sourceName": "Langflow",
@@ -102,22 +102,22 @@
    "date": "2026-11-03T03:33:20.000Z"
   },
   {
-   "id": "6fd6ad7938fa",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Rewarding defenders with bigger bug bounties",
-   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "image": "",
-   "date": "2026-11-02T18:00:00.000Z"
-  },
-  {
    "id": "262cfa35f430",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
    "title": "Preparing our next security sprint to harden OpenAI",
    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "image": "",
+   "date": "2026-11-02T18:00:00.000Z"
+  },
+  {
+   "id": "6fd6ad7938fa",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "image": "",
    "date": "2026-11-02T18:00:00.000Z"
   },
@@ -986,15 +986,8 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
-  },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
   },
   "alternativeto": {
    "aviso": "sem feed"
@@ -1002,13 +995,16 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 13
-  },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
   },
   "poe": {
    "aviso": "sem feed"
@@ -1016,61 +1012,72 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
+  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "smartmockups": {
+  "carbon": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
+  "earthtimelapse": {
+   "aviso": "sem feed"
+  },
   "speedtest": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
+  },
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
   },
   "pairdrop": {
    "aviso": "sem feed"
@@ -1078,14 +1085,7 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
-  },
   "cursor": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1094,16 +1094,16 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "claude": {
+  "v0": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "claude": {
    "aviso": "sem feed"
   },
   "bolt": {
@@ -1119,21 +1119,35 @@
   "opusclip": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
+  "otter": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
+  "gamma": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
+  },
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "notionai": {
    "aviso": "sem feed"
@@ -1141,42 +1155,28 @@
   "jasper": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1199,6 +1199,10 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
@@ -1211,10 +1215,6 @@
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
@@ -1222,33 +1222,33 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
   },
   "raphael": {
    "aviso": "sem feed"
