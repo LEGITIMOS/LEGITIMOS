@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-03T10:07:14.927Z",
+ "generatedAt": "2026-11-03T13:20:44.071Z",
  "items": [
+  {
+   "id": "87d9325f64fa",
+   "sourceId": "gh-openwebui",
+   "sourceName": "Open WebUI",
+   "title": "Open WebUI · v0.13.0",
+   "summary": "Added 📑 Tabbed workspace. The Tabs button at the top of a chat now opens a workspace for files, multiple terminal sessions, artifacts, previews, voice calls and comments. Add tabs from the + menu, drag to reorder them, and create and save…",
+   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.0",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-03T12:23:16.000Z"
+  },
   {
    "id": "66a947a7e4a1",
    "sourceId": "elevenlabs",
@@ -10,6 +20,26 @@
    "url": "https://elevenlabs.io/blog/angle-health",
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jp7u3my5fzc-Blog_Angle.webp",
    "date": "2026-11-03T12:00:00.000Z"
+  },
+  {
+   "id": "956cbc17ce36",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc59",
+   "summary": "Bump release version to 0.9.78rc59",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc59",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-03T10:18:26.000Z"
+  },
+  {
+   "id": "72440a09da97",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc58",
+   "summary": "Bump release version to 0.9.78rc58",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc58",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-03T10:09:46.000Z"
   },
   {
    "id": "4ca38c7e9b9c",
@@ -22,6 +52,16 @@
    "date": "2026-11-03T10:01:29.000Z"
   },
   {
+   "id": "41ef0ab1394f",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download",
+   "summary": "Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the rapidly inflating AI…",
+   "url": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
+   "image": "https://cdn8.openculture.com/2026/11/02224604/default-7.jpg",
+   "date": "2026-11-03T10:00:29.000Z"
+  },
+  {
    "id": "c668610cf5c6",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -32,24 +72,14 @@
    "date": "2026-11-03T09:00:03.000Z"
   },
   {
-   "id": "7cb44740c7ae",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc56",
-   "summary": "Bump release version to 0.9.78rc56",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc56",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-03T07:45:50.000Z"
-  },
-  {
-   "id": "052e6535bbee",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc55",
-   "summary": "Bump release version to 0.9.78rc55",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc55",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-03T06:42:41.000Z"
+   "id": "08b710f1e780",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "url": "https://openai.com/index/heimstaden",
+   "image": "",
+   "date": "2026-11-03T08:00:00.000Z"
   },
   {
    "id": "cec978d14990",
@@ -72,16 +102,6 @@
    "date": "2026-11-03T03:33:20.000Z"
   },
   {
-   "id": "262cfa35f430",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "image": "",
-   "date": "2026-11-02T18:00:00.000Z"
-  },
-  {
    "id": "6fd6ad7938fa",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -92,14 +112,14 @@
    "date": "2026-11-02T18:00:00.000Z"
   },
   {
-   "id": "de4cf53f9db9",
+   "id": "262cfa35f430",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
-   "title": "Scaling Git at OpenAI",
-   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-   "url": "https://openai.com/index/scaling-git-at-openai",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "image": "",
-   "date": "2026-11-02T15:30:00.000Z"
+   "date": "2026-11-02T18:00:00.000Z"
   },
   {
    "id": "4338b997783e",
@@ -130,16 +150,6 @@
    "url": "https://www.openculture.com/2026/11/a-beginners-guide-to-philosophy-from-logic-to-epistemology-to-metaphysics.html",
    "image": "https://i.ytimg.com/vi/tiZ5tb8Idlg/maxresdefault.jpg",
    "date": "2026-11-02T10:00:38.000Z"
-  },
-  {
-   "id": "d52a3f791cec",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Watch David Bowie Take MTV to Task for Failing to Play Music Videos by Black Artists (1983)",
-   "summary": "The old vaudeville phrase “Will it play in Peoria?” has its roots in the late 19th century, specifically in Horatio Alger’s novel Five Hundred Dollars; Or Jacob Marlowe’s Secret . Like all of the books Alger wrote extolling the virtues of…",
-   "url": "https://www.openculture.com/2026/11/watch-david-bowie-take-mtv-to-task-for-failing-to-play-music-videos-by-black-artists-1983.html",
-   "image": "https://i.ytimg.com/vi/XZGiVzIr8Qg/maxresdefault.jpg",
-   "date": "2026-11-02T09:00:57.000Z"
   },
   {
    "id": "a9286d7a9ca8",
@@ -210,6 +220,16 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.21",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-10-30T08:26:38.000Z"
+  },
+  {
+   "id": "fe1258ad6819",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "What Enterprise Teams Should Know About AI Video Platforms",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Choosing an enterprise AI video platform means judging two things at once: whether it produces videos your teams can actually use, and whether it meets your requirements for…",
+   "url": "https://www.d-id.com/blog/enterprise-teams-ai-video-platforms/",
+   "image": "",
+   "date": "2026-10-30T07:38:57.000Z"
   },
   {
    "id": "e32f63129ae3",
@@ -472,16 +492,6 @@
    "date": "2026-10-17T14:26:38.000Z"
   },
   {
-   "id": "42dce3e33270",
-   "sourceId": "gh-openwebui",
-   "sourceName": "Open WebUI",
-   "title": "Open WebUI · v0.12.3",
-   "summary": "Added 🔐 End-to-end encrypted chats. Direct messages and private group channels can now hold a temporary end-to-end encrypted chat: a member picks Encrypted Chat in the channel menu, the other members see \"Encrypted chat in progress\" with…",
-   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.3",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-16T11:46:21.000Z"
-  },
-  {
    "id": "95b4aa1b3abd",
    "sourceId": "gh-supabase",
    "sourceName": "Supabase",
@@ -530,16 +540,6 @@
    "url": "https://suno.com/blog/about-sidechaining",
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5152a1b2be75701b57c6328ff10986c61d3573db-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "date": "2026-10-15T15:00:00.000Z"
-  },
-  {
-   "id": "65f81757c6d9",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "Introducing Presentation Mode: Slides That Talk Back",
-   "summary": "Key Takeaways Presentation Mode is live. It turns any slide deck into an interactive presentation led by a D-ID Agent. Viewers can interrupt. They ask questions at any point, get answers on the spot, and the Agent continues where it left o…",
-   "url": "https://www.d-id.com/blog/blog-presentation-mode-interactive-presentations/",
-   "image": "https://www.d-id.com/wp-content/uploads/2026/10/introducing-presentation-mode-demo-poster.jpg",
-   "date": "2026-10-15T12:36:13.000Z"
   },
   {
    "id": "16316f176021",
@@ -912,23 +912,23 @@
    "date": null
   },
   {
-   "id": "39842f41ea6b",
+   "id": "d9b94798819c",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Orlando Furioso by Lodovico Ariosto",
+   "title": "The Odyssey by Homer",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/615",
-   "image": "https://www.gutenberg.org/cache/epub/615/pg615.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/1727",
+   "image": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "1fbe2b421c6c",
+   "id": "6d0785bbc37a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Thelma by Marie Corelli",
+   "title": "William Thornton and negro colonization by Gaillard Hunt",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/3823",
-   "image": "https://www.gutenberg.org/cache/epub/3823/pg3823.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79903",
+   "image": "https://www.gutenberg.org/cache/epub/79903/pg79903.cover.medium.jpg",
    "date": null
   },
   {
@@ -965,7 +965,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1348
+   "itens": 1349
   },
   "comprecripto": {
    "aviso": "sem feed"
@@ -986,11 +986,15 @@
   "tec": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "123apps": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "alternativeto": {
    "aviso": "sem feed"
@@ -998,28 +1002,24 @@
   "neapay": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 31
+   "itens": 13
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1031,13 +1031,10 @@
   "pdf24": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "carbon": {
@@ -1047,10 +1044,10 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "earthtimelapse": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
@@ -1058,6 +1055,9 @@
    "itens": 104
   },
   "speedtest": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
@@ -1072,6 +1072,12 @@
   "krea": {
    "aviso": "sem feed"
   },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
@@ -1082,16 +1088,13 @@
   "rayso": {
    "aviso": "sem feed"
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
    "aviso": "sem feed"
   },
   "replit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1103,8 +1106,12 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "bolt": {
    "aviso": "sem feed"
+  },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "runway": {
    "aviso": "sem feed"
@@ -1112,12 +1119,8 @@
   "opusclip": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "otter": {
    "aviso": "sem feed"
-  },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1129,16 +1132,13 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
   "notionai": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1168,6 +1168,9 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
@@ -1184,62 +1187,55 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
@@ -1249,6 +1245,10 @@
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "raphael": {
    "aviso": "sem feed"
