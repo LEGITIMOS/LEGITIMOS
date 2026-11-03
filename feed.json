@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T21:54:46.733Z",
+ "generatedAt": "2026-11-03T01:20:40.631Z",
  "items": [
   {
    "id": "66a947a7e4a1",
@@ -12,6 +12,26 @@
    "date": "2026-11-03T12:00:00.000Z"
   },
   {
+   "id": "f73fd143082d",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev14",
+   "summary": "Langflow nightly v1.14.0.dev14",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev14",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-03T00:24:21.000Z"
+  },
+  {
+   "id": "de4cf53f9db9",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Scaling Git at OpenAI",
+   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "image": "",
+   "date": "2026-11-02T15:30:00.000Z"
+  },
+  {
    "id": "19244c7aa206",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -22,6 +42,16 @@
    "date": "2026-11-02T15:00:00.000Z"
   },
   {
+   "id": "4338b997783e",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How are synthetic voices created for natural speech?",
+   "summary": "Learn how synthetic voices are created, from speech data to neural text to speech, plus voice cloning, voice design, and how to spot an AI voice.",
+   "url": "https://elevenlabs.io/blog/synthetic-voices",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-02T12:00:00.000Z"
+  },
+  {
    "id": "1b616ac07b1e",
    "sourceId": "elevenlabs",
    "sourceName": "ElevenLabs",
@@ -29,16 +59,6 @@
    "summary": "KPN partnered with ElevenLabs to build Mobiel AI, an AI assistant inside KPN's business mobile plans that helps Dutch entrepreneurs manage every call.",
    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wpymhzrr4w-ElevenLabs%20X%20KPN%20Blog%20Cover.webp",
-   "date": "2026-11-02T12:00:00.000Z"
-  },
-  {
-   "id": "4d1f48989ead",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Introducing SFX v3 for developers",
-   "summary": "SFX v3 is our newest sound effects model. Switch with one model_id change for better multi-part prompts, vocals, and fewer clipped high notes.",
-   "url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/5mo6tyh5yio-sfx-v1.webp",
    "date": "2026-11-02T12:00:00.000Z"
   },
   {
@@ -122,16 +142,6 @@
    "date": "2026-11-02T00:26:41.000Z"
   },
   {
-   "id": "598c6194c0d3",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Qodo builds context into AI code review with Codex",
-   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "image": "",
-   "date": "2026-11-02T00:00:00.000Z"
-  },
-  {
    "id": "02a34f213338",
    "sourceId": "gh-vaultwarden",
    "sourceName": "Vaultwarden",
@@ -180,16 +190,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.22",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-10-31T02:29:33.000Z"
-  },
-  {
-   "id": "af2301cfeea9",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev11",
-   "summary": "Langflow nightly v1.14.0.dev11",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev11",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-10-31T00:23:28.000Z"
   },
   {
    "id": "b806dfa8c0f4",
@@ -902,6 +902,16 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
+   "id": "ddc0c41dc159",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "By Allah who made tigers by Talbot Mundy",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79906",
+   "image": "https://www.gutenberg.org/cache/epub/79906/pg79906.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "39842f41ea6b",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -919,16 +929,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/3823",
    "image": "https://www.gutenberg.org/cache/epub/3823/pg3823.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "a4e1f9bd97d9",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Geographical studies by Carl Ritter",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79899",
-   "image": "https://www.gutenberg.org/cache/epub/79899/pg79899.cover.medium.jpg",
    "date": null
   },
   {
@@ -965,7 +965,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1344
+   "itens": 1346
   },
   "canva": {
    "aviso": "sem feed"
@@ -986,15 +986,8 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
-  },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
   },
   "alternativeto": {
    "aviso": "sem feed"
@@ -1002,18 +995,25 @@
   "neapay": {
    "aviso": "sem feed"
   },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 23
+   "itens": 28
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "arena": {
    "aviso": "sem feed"
   },
   "justwatch": {
@@ -1022,76 +1022,76 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
   "carbon": {
    "aviso": "sem feed"
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "unshortenit": {
@@ -1100,28 +1100,28 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
   "v0": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
-  },
-  "runway": {
-   "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
@@ -1132,44 +1132,47 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1183,9 +1186,6 @@
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1207,14 +1207,6 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
@@ -1226,28 +1218,36 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
