@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:07:32.901Z",
+ "generatedAt": "2026-11-04T19:14:18.911Z",
  "items": [
   {
    "id": "705ae87e07f8",
@@ -9,7 +9,17 @@
    "summary": "Langflow nightly v1.14.0.dev17",
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev17",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-04T15:26:47.000Z"
+   "date": "2026-11-04T17:09:26.000Z"
+  },
+  {
+   "id": "ccf4ad643fca",
+   "sourceId": "suno",
+   "sourceName": "Suno",
+   "title": "Start Songs with MIDI",
+   "summary": "Create music on Suno using a MIDI file as your starting point",
+   "url": "https://suno.com/blog/MIDI-in-create",
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/a5da456a682e0f8821e74530c8c95c868685394c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+   "date": "2026-11-04T16:45:00.000Z"
   },
   {
    "id": "3a06f84c0f51",
@@ -40,6 +50,26 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev16",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-04T12:18:24.000Z"
+  },
+  {
+   "id": "a239c4a01220",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "AI voice agent pricing: What it costs for your business",
+   "summary": "See AI voice agent pricing from $0 to custom Enterprise, what sets your price per minute, and how to calculate ROI against staffing costs.",
+   "url": "https://elevenlabs.io/blog/ai-voice-agent-pricing-guide",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-04T12:00:00.000Z"
+  },
+  {
+   "id": "e28316334a91",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "ElevenAgents integrates natively with leading contact center platforms to deliver enterprise-ready agents",
+   "summary": "ElevenAgents now integrates natively with NiCE, Genesys Cloud, Amazon Connect, and Five9, and connects to any other platform over SIP.",
+   "url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-04T12:00:00.000Z"
   },
   {
    "id": "50676cf6cd07",
@@ -172,16 +202,6 @@
    "date": "2026-11-03T12:00:00.000Z"
   },
   {
-   "id": "66a947a7e4a1",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Angle Health’s ElevenAgents pilot handles 90% of provider calls without a transfer",
-   "summary": "Angle Health’s voice agents answer provider calls 24/7 with almost no wait, freeing about 9,000 minutes a day for complex escalations.",
-   "url": "https://elevenlabs.io/blog/angle-health",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jp7u3my5fzc-Blog_Angle.webp",
-   "date": "2026-11-03T12:00:00.000Z"
-  },
-  {
    "id": "956cbc17ce36",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
@@ -210,16 +230,6 @@
    "url": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
    "image": "https://cdn8.openculture.com/2026/11/02224604/default-7.jpg",
    "date": "2026-11-03T10:00:29.000Z"
-  },
-  {
-   "id": "4338b997783e",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "How are synthetic voices created for natural speech?",
-   "summary": "Learn how synthetic voices are created, from speech data to neural text to speech, plus voice cloning, voice design, and how to spot an AI voice.",
-   "url": "https://elevenlabs.io/blog/synthetic-voices",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-02T12:00:00.000Z"
   },
   {
    "id": "02a34f213338",
@@ -580,16 +590,6 @@
    "url": "https://github.com/unclecode/crawl4ai/releases/tag/docker-rebuild-v0.9.5",
    "image": "https://avatars.githubusercontent.com/u/17140097?s=60&v=4",
    "date": "2026-10-14T10:23:58.000Z"
-  },
-  {
-   "id": "ed2bad3e4df7",
-   "sourceId": "suno",
-   "sourceName": "Suno",
-   "title": "Behind the Scenes: Make what moves you",
-   "summary": "Nina McNeely brings Braylon Browner's and Banoffee's visions to life across two shoots built on experimentation, instinct and creative freedom.",
-   "url": "https://suno.com/blog/behind-the-scenes-make-what-moves-you",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/71ffab6b0d1c3fd4787bf7ae1135c926a97fe4f8-2970x1620.jpg?rect=0,31,2970,1559&w=1200&h=630&fit=crop&auto=format",
-   "date": "2026-10-13T19:01:53.000Z"
   },
   {
    "id": "fce65b81393e",
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1356
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -983,31 +983,31 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "tec": {
+   "aviso": "sem feed"
+  },
+  "123apps": {
+   "aviso": "sem feed"
+  },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "arena": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
-   "aviso": "sem feed"
-  },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
+   "itens": 11
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -1031,9 +1031,6 @@
   "photopea": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "shots": {
    "aviso": "sem feed"
   },
@@ -1044,7 +1041,13 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "carbon": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1053,42 +1056,39 @@
   "speedtest": {
    "aviso": "sem feed"
   },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
+  "krea": {
    "aviso": "sem feed"
   },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "krea": {
+  "cursor": {
    "aviso": "sem feed"
+  },
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
   },
   "replit": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1097,16 +1097,16 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "bolt": {
    "aviso": "sem feed"
   },
   "v0": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1116,24 +1116,24 @@
   "runway": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
-  "napkin": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
+  "otter": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
+  },
+  "napkin": {
+   "aviso": "sem feed"
+  },
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
+   "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
@@ -1145,12 +1145,8 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "notionai": {
    "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1160,8 +1156,16 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1170,10 +1174,6 @@
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1188,6 +1188,10 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
@@ -1199,12 +1203,19 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1213,13 +1224,6 @@
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
@@ -1234,20 +1238,16 @@
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "raphael": {
