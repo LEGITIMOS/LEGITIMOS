@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-11-04T13:22:19.630Z",
+ "generatedAt": "2026-11-04T16:07:32.901Z",
  "items": [
+  {
+   "id": "705ae87e07f8",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev17",
+   "summary": "Langflow nightly v1.14.0.dev17",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev17",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-04T15:26:47.000Z"
+  },
+  {
+   "id": "3a06f84c0f51",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "image": "",
+   "date": "2026-11-04T14:30:00.000Z"
+  },
+  {
+   "id": "d9f0a9d6a243",
+   "sourceId": "gh-opennotebook",
+   "sourceName": "Open Notebook",
+   "title": "Open Notebook · v1.15.1 — security release",
+   "summary": "Security release — we recommend all users upgrade. v1.15.1 closes gaps in how sources are processed and requires content-core 2.2.1, which hardens URL fetching. It also ships the documentation rewrite and a handful of small fixes. Validate…",
+   "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.1",
+   "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
+   "date": "2026-11-04T14:19:57.000Z"
+  },
   {
    "id": "02455f00be1e",
    "sourceId": "gh-langflow",
@@ -52,6 +82,16 @@
    "date": "2026-11-04T07:37:34.000Z"
   },
   {
+   "id": "75679f5aa60b",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "image": "",
+   "date": "2026-11-04T07:00:00.000Z"
+  },
+  {
    "id": "8553834a8358",
    "sourceId": "gh-openseo",
    "sourceName": "OpenSEO",
@@ -72,16 +112,6 @@
    "date": "2026-11-04T03:14:19.000Z"
   },
   {
-   "id": "a0dc563117e4",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · 1.12.9",
-   "summary": "What's Changed 🐛 Bug Fixes fix: backport 1.13.1 fixes and image security updates to 1.12.9 by @erichare in #16119 fix: absorb lxml and Mako image workarounds for 1.12.9 by @erichare in #16123 Full Changelog : v1.12.8...v1.12.9",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.9",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-04T01:39:09.000Z"
-  },
-  {
    "id": "f4e0306861d3",
    "sourceId": "gh-openseo",
    "sourceName": "OpenSEO",
@@ -90,16 +120,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.23",
    "image": "https://avatars.githubusercontent.com/u/51297686?s=60&v=4",
    "date": "2026-11-04T00:56:01.000Z"
-  },
-  {
-   "id": "d9f0a9d6a243",
-   "sourceId": "gh-opennotebook",
-   "sourceName": "Open Notebook",
-   "title": "Open Notebook · v1.15.1: chore(release): 1.15.1 (#1541)",
-   "summary": "Bump pyproject.toml and uv.lock to 1.15.1 and move the Unreleased changelog entries into a dated 1.15.1 section.",
-   "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.1",
-   "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
-   "date": "2026-11-04T00:47:55.000Z"
   },
   {
    "id": "00c52087a831",
@@ -190,26 +210,6 @@
    "url": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
    "image": "https://cdn8.openculture.com/2026/11/02224604/default-7.jpg",
    "date": "2026-11-03T10:00:29.000Z"
-  },
-  {
-   "id": "a2357e701f02",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-   "url": "https://openai.com/index/cisco-cyber",
-   "image": "",
-   "date": "2026-11-03T08:00:00.000Z"
-  },
-  {
-   "id": "08b710f1e780",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-   "url": "https://openai.com/index/heimstaden",
-   "image": "",
-   "date": "2026-11-03T08:00:00.000Z"
   },
   {
    "id": "4338b997783e",
@@ -965,12 +965,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1354
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1356
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -983,24 +983,24 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "arena": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
    "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
+  "123apps": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
+  },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "tec": {
+   "aviso": "sem feed"
   },
   "poe": {
    "aviso": "sem feed"
@@ -1013,31 +1013,31 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1047,48 +1047,42 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "magnific": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "registrobr": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "perplexity": {
+  "krea": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1097,10 +1091,16 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "claude": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
    "aviso": "sem feed"
   },
   "v0": {
@@ -1116,10 +1116,6 @@
   "runway": {
    "aviso": "sem feed"
   },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
-  },
   "otter": {
    "aviso": "sem feed"
   },
@@ -1132,6 +1128,13 @@
   "napkin": {
    "aviso": "sem feed"
   },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
+  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
@@ -1139,29 +1142,30 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
   },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1170,10 +1174,6 @@
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1188,66 +1188,66 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "raphael": {
