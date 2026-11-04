@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-11-04T04:09:06.457Z",
+ "generatedAt": "2026-11-04T07:31:57.326Z",
  "items": [
+  {
+   "id": "1758151caf39",
+   "sourceId": "gh-dify",
+   "sourceName": "Dify",
+   "title": "Dify · 1.19.0",
+   "summary": "1.19.0",
+   "url": "https://github.com/langgenius/dify/releases/tag/1.19.0",
+   "image": "https://avatars.githubusercontent.com/u/16485841?s=60&v=4",
+   "date": "2026-11-04T07:20:24.000Z"
+  },
+  {
+   "id": "02455f00be1e",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev16",
+   "summary": "Langflow nightly v1.14.0.dev16",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev16",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-04T06:17:05.000Z"
+  },
+  {
+   "id": "8553834a8358",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.24",
+   "summary": "Branded filter and competitors named in Prompt Tracking. What's new Filter tracked prompts by Branded and Non-branded See which competitors each prompt's AI answers name Updated the Every App config so OpenSEO installs on Every App 0.3.0-r…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.24",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-11-04T04:33:55.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -50,16 +80,6 @@
    "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.1",
    "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
    "date": "2026-11-04T00:47:55.000Z"
-  },
-  {
-   "id": "8d99dc5e42e2",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev15",
-   "summary": "Langflow nightly v1.14.0.dev15",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev15",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-04T00:24:08.000Z"
   },
   {
    "id": "00c52087a831",
@@ -242,26 +262,6 @@
    "date": "2026-10-31T02:29:33.000Z"
   },
   {
-   "id": "b806dfa8c0f4",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.21",
-   "summary": "Local SEO (beta). What's new (Beta) Local SEO: see where a business ranks on Google Maps around its location The map needs a GOOGLE_MAPS_API_KEY : see Google Maps setup Full Changelog: v0.1.20...v0.1.21",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.21",
-   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
-   "date": "2026-10-30T08:26:38.000Z"
-  },
-  {
-   "id": "fe1258ad6819",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "What Enterprise Teams Should Know About AI Video Platforms",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Choosing an enterprise AI video platform means judging two things at once: whether it produces videos your teams can actually use, and whether it meets your requirements for…",
-   "url": "https://www.d-id.com/blog/enterprise-teams-ai-video-platforms/",
-   "image": "",
-   "date": "2026-10-30T07:38:57.000Z"
-  },
-  {
    "id": "e32f63129ae3",
    "sourceId": "gh-reactiveresume",
    "sourceName": "Reactive Resume",
@@ -352,16 +352,6 @@
    "date": "2026-10-28T12:00:00.000Z"
   },
   {
-   "id": "74e30ca32bbd",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "The 15 Best AI Avatar Generators of 2026",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI avatar generators make it possible to create high-quality video content faster, cheaper, and at scale, without traditional production. The biggest different…",
-   "url": "https://www.d-id.com/blog/best-ai-avatar-generators/",
-   "image": "",
-   "date": "2026-10-27T13:19:13.000Z"
-  },
-  {
    "id": "d875aa436373",
    "sourceId": "wayback",
    "sourceName": "Wayback Machine",
@@ -440,16 +430,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.2",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-10-24T09:55:03.000Z"
-  },
-  {
-   "id": "9e133320e816",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "How Conversational AI Avatars Are Transforming Customer Support",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways Conversational AI avatars give your customers a face to talk to at any hour. You can create your own avatar from a photo or short video, or choose a ready-made…",
-   "url": "https://www.d-id.com/blog/conversational-ai-avatars-customer-support/",
-   "image": "",
-   "date": "2026-10-23T08:39:14.000Z"
   },
   {
    "id": "2f533b8e9395",
@@ -762,16 +742,6 @@
    "date": "2026-09-02T16:10:57.000Z"
   },
   {
-   "id": "62d1fd0a127f",
-   "sourceId": "gh-dify",
-   "sourceName": "Dify",
-   "title": "Dify · v1.16.0",
-   "summary": "Introducing Dify Agent (Beta) : A New Agent Experience in Dify Warning You should provide Dify Agent services ⚠️ only to trusted, non-malicious users ⚠️ . As many of you know, the shell-based LLM agent paradigm has brought a major leap in…",
-   "url": "https://github.com/langgenius/dify/releases/tag/1.16.0",
-   "image": "https://avatars.githubusercontent.com/u/12965714?s=60&v=4",
-   "date": "2026-09-01T16:00:43.000Z"
-  },
-  {
    "id": "61f9d0d39767",
    "sourceId": "gh-localsend",
    "sourceName": "LocalSend",
@@ -912,23 +882,23 @@
    "date": null
   },
   {
-   "id": "d9b94798819c",
+   "id": "839011e0d245",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "The Odyssey by Homer",
+   "title": "Last night of summer by Alfed Coppel",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/1727",
-   "image": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79916",
+   "image": "https://www.gutenberg.org/cache/epub/79916/pg79916.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "6d0785bbc37a",
+   "id": "4477d94e4f60",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "William Thornton and negro colonization by Gaillard Hunt",
+   "title": "Seasoned Traveler by F. L. Wallace",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79903",
-   "image": "https://www.gutenberg.org/cache/epub/79903/pg79903.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79914",
+   "image": "https://www.gutenberg.org/cache/epub/79914/pg79914.cover.medium.jpg",
    "date": null
   },
   {
@@ -983,13 +953,16 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "poe": {
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
+   "aviso": "sem feed"
+  },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "neapay": {
@@ -999,18 +972,12 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
-   "aviso": "sem feed"
-  },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
+  "arena": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 18
+   "itens": 23
   },
   "escolavirtual": {
    "aviso": "sem feed"
@@ -1018,6 +985,12 @@
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
@@ -1028,33 +1001,17 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
-   "aviso": "sem feed"
-  },
   "shots": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
-  },
-  "removebg": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "speedtest": {
@@ -1063,35 +1020,45 @@
   "unscreen": {
    "aviso": "sem feed"
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
+  },
+  "earthtimelapse": {
+   "aviso": "sem feed"
+  },
   "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1100,10 +1067,13 @@
   "claude": {
    "aviso": "sem feed"
   },
+  "v0": {
+   "aviso": "sem feed"
+  },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1116,92 +1086,89 @@
   "opusclip": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "napkin": {
    "aviso": "sem feed"
   },
-  "kling": {
+  "otter": {
+   "aviso": "sem feed"
+  },
+  "gamma": {
    "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 5
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
@@ -1211,15 +1178,23 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1230,25 +1205,19 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
+  "unshortenit": {
+   "aviso": "sem feed"
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
+  "did": {
+   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
