@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-05T16:19:23.832Z",
+ "generatedAt": "2026-11-05T19:11:48.974Z",
  "items": [
+  {
+   "id": "e5c43998bfef",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.12.10",
+   "summary": "fix: patch bundled npm glob and minimatch for 1.12.10 ( #16205 )",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.10",
+   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
+   "date": "2026-11-05T18:51:18.000Z"
+  },
   {
    "id": "47ed0f8aa3d0",
    "sourceId": "gh-supabase",
@@ -20,6 +30,16 @@
    "url": "https://www.openculture.com/2026/11/the-man-who-risked-his-life-mocking-the-nazis-read-96-issues-of-his-underground-magazine.html",
    "image": "https://cdn8.openculture.com/2026/10/04200639/curt-bloch-het-onderwater-cabaret-magazine-cover-from-30.08.1943-1.jpg",
    "date": "2026-11-05T10:00:27.000Z"
+  },
+  {
+   "id": "53c56afbaf05",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "image": "",
+   "date": "2026-11-05T09:00:00.000Z"
   },
   {
    "id": "db22356f3c4d",
@@ -152,16 +172,6 @@
    "date": "2026-11-04T14:19:57.000Z"
   },
   {
-   "id": "02455f00be1e",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev16",
-   "summary": "Langflow nightly v1.14.0.dev16",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev16",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-04T12:18:24.000Z"
-  },
-  {
    "id": "dfaa3a304111",
    "sourceId": "elevenlabs",
    "sourceName": "ElevenLabs",
@@ -190,16 +200,6 @@
    "url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/sffqyrov83-ElevenAgents-contact-center-integrations.webp",
    "date": "2026-11-04T12:00:00.000Z"
-  },
-  {
-   "id": "a4f4c423c542",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "A thousand fewer paths to root",
-   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "image": "",
-   "date": "2026-11-04T08:00:00.000Z"
   },
   {
    "id": "1758151caf39",
@@ -902,6 +902,16 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
+   "id": "a84355b50030",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Amusements in Mathematics by Henry Ernest Dudeney",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/16713",
+   "image": "https://www.gutenberg.org/cache/epub/16713/pg16713.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "f6a421241f50",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -919,16 +929,6 @@
    "summary": "Language: Italian",
    "url": "https://www.gutenberg.org/ebooks/79919",
    "image": "https://www.gutenberg.org/cache/epub/79919/pg79919.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "6d141f549cbb",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Il Pentamerone; ossia, La fiaba delle fiabe, vol. 2/2 by Giambattista Basile",
-   "summary": "Language: Italian",
-   "url": "https://www.gutenberg.org/ebooks/79920",
-   "image": "https://www.gutenberg.org/cache/epub/79920/pg79920.cover.medium.jpg",
    "date": null
   },
   {
@@ -965,7 +965,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1360
+   "itens": 1361
   },
   "canva": {
    "aviso": "sem feed"
@@ -992,46 +992,49 @@
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 10
+   "itens": 14
   },
   "neapay": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "arena": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1041,7 +1044,7 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1054,41 +1057,41 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "krea": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "krea": {
+   "aviso": "sem feed"
+  },
   "magnific": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
   "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1097,27 +1100,24 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
   "v0": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
-  },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
   },
   "bolt": {
    "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
+  },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "napkin": {
    "aviso": "sem feed"
@@ -1126,66 +1126,66 @@
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "otter": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gamma": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "kling": {
    "aviso": "sem feed"
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1199,10 +1199,6 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
@@ -1211,16 +1207,23 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1231,24 +1234,21 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
   },
   "raphael": {
    "aviso": "sem feed"
