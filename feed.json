@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T10:18:34.344Z",
+ "generatedAt": "2026-11-05T13:28:15.516Z",
  "items": [
   {
    "id": "5808f34b7b59",
@@ -60,6 +60,16 @@
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-11-05T03:25:58.000Z"
+  },
+  {
+   "id": "f93567576105",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "image": "",
+   "date": "2026-11-05T02:00:00.000Z"
   },
   {
    "id": "b16904cbfaee",
@@ -190,16 +200,6 @@
    "url": "https://github.com/langgenius/dify/releases/tag/1.19.0",
    "image": "https://avatars.githubusercontent.com/u/16485841?s=60&v=4",
    "date": "2026-11-04T07:37:34.000Z"
-  },
-  {
-   "id": "75679f5aa60b",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "image": "",
-   "date": "2026-11-04T07:00:00.000Z"
   },
   {
    "id": "8553834a8358",
@@ -902,33 +902,33 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
-   "id": "4477d94e4f60",
+   "id": "f6a421241f50",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Seasoned traveler by F. L. Wallace",
+   "title": "Tanglewood Tales by Nathaniel Hawthorne",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79914",
-   "image": "https://www.gutenberg.org/cache/epub/79914/pg79914.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/976",
+   "image": "https://www.gutenberg.org/cache/epub/976/pg976.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "7196176ecd02",
+   "id": "608965f32dcf",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Penelope's Experiences in Scotland by Kate Douglas Smith Wiggin",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/1217",
-   "image": "https://www.gutenberg.org/cache/epub/1217/pg1217.cover.medium.jpg",
+   "title": "Il Pentamerone; ossia, La fiaba delle fiabe, vol. 1/2 by Giambattista Basile",
+   "summary": "Language: Italian",
+   "url": "https://www.gutenberg.org/ebooks/79919",
+   "image": "https://www.gutenberg.org/cache/epub/79919/pg79919.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "cb3846ce435a",
+   "id": "6d141f549cbb",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Two Years Before the Mast by Richard Henry Dana",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/2055",
-   "image": "https://www.gutenberg.org/cache/epub/2055/pg2055.cover.medium.jpg",
+   "title": "Il Pentamerone; ossia, La fiaba delle fiabe, vol. 2/2 by Giambattista Basile",
+   "summary": "Language: Italian",
+   "url": "https://www.gutenberg.org/ebooks/79920",
+   "image": "https://www.gutenberg.org/cache/epub/79920/pg79920.cover.medium.jpg",
    "date": null
   },
   {
@@ -965,12 +965,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1359
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1360
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -983,28 +983,27 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "tec": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 19
+   "itens": 10
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -1013,25 +1012,20 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
   "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1040,28 +1034,34 @@
   "photopea": {
    "aviso": "sem feed"
   },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
-  },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
+  },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
   },
   "clipdrop": {
    "aviso": "sem feed"
@@ -1072,32 +1072,29 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
-   "aviso": "sem feed"
-  },
-  "replit": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1109,22 +1106,22 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "opusclip": {
+   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "otter": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "napkin": {
    "aviso": "sem feed"
@@ -1132,7 +1129,13 @@
   "gamma": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "notionai": {
@@ -1145,15 +1148,12 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "jasper": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
@@ -1180,12 +1180,12 @@
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1199,6 +1199,10 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
@@ -1207,19 +1211,23 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
@@ -1233,14 +1241,6 @@
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
