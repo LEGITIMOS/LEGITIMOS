@@ -1,15 +1,35 @@
 {
- "generatedAt": "2026-11-05T19:11:48.974Z",
+ "generatedAt": "2026-11-05T21:59:03.614Z",
  "items": [
+  {
+   "id": "9d9cb41156f3",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · PR #19394 evidence (temporary)",
+   "summary": "Temporary evidence assets for #19394 . Browser click-through of automation setup dead ends and decoded PostHog automation_setup_blocked payloads. This release is evidence storage only and can be deleted after PR review.",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/pr19394-evidence",
+   "image": "https://avatars.githubusercontent.com/u/398875?s=60&v=4",
+   "date": "2026-11-05T21:57:26.000Z"
+  },
+  {
+   "id": "13a8bf9f166f",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.36.0",
+   "summary": "1.36.0 (2026-11-05) What's Changed Features feat(automations): open templates without the missing-integration notice by @ak684 in #19297 feat(automations): list a script automation's files collapsed by @VascoSch92 in #19319 feat(automation…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-05T21:46:26.000Z"
+  },
   {
    "id": "e5c43998bfef",
    "sourceId": "gh-langflow",
    "sourceName": "Langflow",
    "title": "Langflow · v1.12.10",
-   "summary": "fix: patch bundled npm glob and minimatch for 1.12.10 ( #16205 )",
+   "summary": "fix(deps): update FastMCP to 3.4.10",
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.10",
    "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
-   "date": "2026-11-05T18:51:18.000Z"
+   "date": "2026-11-05T21:14:42.000Z"
   },
   {
    "id": "47ed0f8aa3d0",
@@ -20,6 +40,16 @@
    "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.4",
    "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
    "date": "2026-11-05T14:24:51.000Z"
+  },
+  {
+   "id": "9a44a8aa72aa",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "SRT file guide: Create, edit, and use subtitles in video",
+   "summary": "Learn what an SRT file is, how the SRT file format works, and how to open, edit, and create SRT files from audio or text. Compare SRT vs WebVTT.",
+   "url": "https://elevenlabs.io/blog/srt-file-guide",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-05T12:00:00.000Z"
   },
   {
    "id": "5808f34b7b59",
@@ -192,16 +222,6 @@
    "date": "2026-11-04T12:00:00.000Z"
   },
   {
-   "id": "e28316334a91",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "ElevenAgents integrates natively with leading contact center platforms to deliver enterprise-ready agents",
-   "summary": "ElevenAgents now integrates natively with NiCE, Genesys Cloud, Amazon Connect, and Five9, and connects to any other platform over SIP.",
-   "url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/sffqyrov83-ElevenAgents-contact-center-integrations.webp",
-   "date": "2026-11-04T12:00:00.000Z"
-  },
-  {
    "id": "1758151caf39",
    "sourceId": "gh-dify",
    "sourceName": "Dify",
@@ -350,26 +370,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-30T06:45:34.000Z"
-  },
-  {
-   "id": "5ba4a4cbbf1c",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.23.0-r3",
-   "summary": "fix(security): rebuild agent-canvas 1.23.0-r2 with patched dependenci…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.23.0-r3",
-   "image": "https://avatars.githubusercontent.com/u/294240611?s=60&v=4",
-   "date": "2026-10-29T21:17:05.000Z"
-  },
-  {
-   "id": "9d77539e3ac4",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.23.0-r2",
-   "summary": "fix(security): rebuild agent-canvas 1.23.0-r2 with patched dependenci…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.23.0-r2",
-   "image": "https://avatars.githubusercontent.com/u/294240611?s=60&v=4",
-   "date": "2026-10-29T21:17:05.000Z"
   },
   {
    "id": "7a53bd271ac1",
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1361
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -980,10 +980,10 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
@@ -996,45 +996,42 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "poe": {
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 14
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
+  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1044,27 +1041,27 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
+  "shots": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
+  "removebg": {
+   "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
-   "aviso": "sem feed"
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
   },
   "krea": {
    "aviso": "sem feed"
@@ -1072,15 +1069,18 @@
   "magnific": {
    "aviso": "sem feed"
   },
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
   },
   "cursor": {
    "aviso": "sem feed"
@@ -1091,7 +1091,7 @@
   "perplexity": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1100,13 +1100,7 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "v0": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "bolt": {
@@ -1115,12 +1109,12 @@
   "runway": {
    "aviso": "sem feed"
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "napkin": {
-   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1129,13 +1123,23 @@
   "otter": {
    "aviso": "sem feed"
   },
+  "napkin": {
+   "aviso": "sem feed"
+  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "jasper": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1145,6 +1149,10 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
@@ -1153,31 +1161,24 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
@@ -1207,10 +1208,6 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
@@ -1226,6 +1223,10 @@
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
@@ -1234,21 +1235,20 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
+  },
+  "v0": {
+   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
