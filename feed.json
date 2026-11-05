@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-05T01:23:52.387Z",
+ "generatedAt": "2026-11-05T04:08:56.047Z",
  "items": [
+  {
+   "id": "e03d9c603f36",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.1.0",
+   "summary": "Highlights Apply with everything in one place. Saved jobs now open on Apply , which walks you through the posting, a tailored resume, an optional letter and form answers. Keep contact details, work authorization, salary expectations and re…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.1.0",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-11-05T03:55:20.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -9,7 +19,7 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-05T01:22:32.000Z"
+   "date": "2026-11-05T03:25:58.000Z"
   },
   {
    "id": "b16904cbfaee",
@@ -90,6 +100,16 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev16",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-04T12:18:24.000Z"
+  },
+  {
+   "id": "dfaa3a304111",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Fix speech to text accuracy problems with a smarter workflow",
+   "summary": "Learn why speech to text accuracy drops and how to fix it, from audio quality and accents to keyterm prompting, plus how to measure it with WER.",
+   "url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-04T12:00:00.000Z"
   },
   {
    "id": "a239c4a01220",
@@ -202,16 +222,6 @@
    "date": "2026-11-03T12:23:16.000Z"
   },
   {
-   "id": "0e889c44fa0a",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "What is call transcription? A practical business guide",
-   "summary": "Learn what call transcription is, how it works, and how to transcribe phone calls with AI. Compare software types and see a sample transcript.",
-   "url": "https://elevenlabs.io/blog/what-is-call-transcription",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-03T12:00:00.000Z"
-  },
-  {
    "id": "956cbc17ce36",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
@@ -310,16 +320,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-10-30T06:45:34.000Z"
-  },
-  {
-   "id": "432d28849a0f",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · v6.0.9",
-   "summary": "Highlights Write a cover letter with its own sender details. Edit your name, email, phone and location without changing a resume, or choose No resume for a standalone letter. Your saved details carry through the preview, signature and down…",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.0.9",
-   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
-   "date": "2026-10-29T21:35:46.000Z"
   },
   {
    "id": "5ba4a4cbbf1c",
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1359
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -980,38 +980,38 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
   "arena": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 16
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
@@ -1022,24 +1022,17 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "pdf24": {
    "aviso": "sem feed"
-  },
-  "hibp": {
-   "feed": "https://www.troyhunt.com/rss/",
-   "itens": 15
   },
   "shots": {
    "aviso": "sem feed"
@@ -1047,15 +1040,12 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
   },
-  "removebg": {
+  "smartmockups": {
    "aviso": "sem feed"
-  },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1063,23 +1053,33 @@
   "speedtest": {
    "aviso": "sem feed"
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 104
+  },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "krea": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "magnific": {
-   "aviso": "sem feed"
-  },
   "registrobr": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
    "aviso": "sem feed"
   },
   "pairdrop": {
@@ -1088,30 +1088,23 @@
   "cursor": {
    "aviso": "sem feed"
   },
-  "replit": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "v0": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "v0": {
+   "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
@@ -1119,17 +1112,27 @@
   "opusclip": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "bolt": {
    "aviso": "sem feed"
+  },
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
+  "napkin": {
+   "aviso": "sem feed"
+  },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "napkin": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1138,34 +1141,27 @@
   "notionai": {
    "aviso": "sem feed"
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "jasper": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-archivebox": {
-   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-archivebox": {
+   "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -1176,35 +1172,51 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 5
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1218,29 +1230,17 @@
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
