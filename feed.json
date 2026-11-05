@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-05T04:08:56.047Z",
+ "generatedAt": "2026-11-05T07:34:00.461Z",
  "items": [
+  {
+   "id": "d7070f7988d1",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.70.1",
+   "summary": "What's Changed Update ruff requirement from >=0.17.1 to >=0.17.2 by @dependabot [bot] in #4604 Update jsonpath-ng requirement from ~=1.12.0 to ~=1.13.0 by @dependabot [bot] in #4603 Update wtforms requirement from ~=3.2 to ~=3.3 by @depend…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-11-05T05:18:46.000Z"
+  },
   {
    "id": "e03d9c603f36",
    "sourceId": "gh-reactiveresume",
@@ -662,16 +672,6 @@
    "date": "2026-09-30T03:16:23.000Z"
   },
   {
-   "id": "0da1ef5420c4",
-   "sourceId": "gh-changedetection",
-   "sourceName": "Changedetection.io",
-   "title": "Changedetection.io · 0.60.8",
-   "summary": "What's Changed Adding HTTP browser caching of UI elements by @dgtlmoon in #4450 UI - Set language on reverse proxy/subdirectory hosting was acting wrong, just redirect it to watchlist so theres no failures. by @dgtlmoon in #4453 System - E…",
-   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.8",
-   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
-   "date": "2026-09-28T07:24:57.000Z"
-  },
-  {
    "id": "6d47b4109654",
    "sourceId": "gh-supabase",
    "sourceName": "Supabase",
@@ -902,20 +902,10 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
-   "id": "839011e0d245",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Last night of summer by Alfed Coppel",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79916",
-   "image": "https://www.gutenberg.org/cache/epub/79916/pg79916.cover.medium.jpg",
-   "date": null
-  },
-  {
    "id": "4477d94e4f60",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Seasoned Traveler by F. L. Wallace",
+   "title": "Seasoned traveler by F. L. Wallace",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79914",
    "image": "https://www.gutenberg.org/cache/epub/79914/pg79914.cover.medium.jpg",
@@ -929,6 +919,16 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/1217",
    "image": "https://www.gutenberg.org/cache/epub/1217/pg1217.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "cb3846ce435a",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Two Years Before the Mast by Richard Henry Dana",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/2055",
+   "image": "https://www.gutenberg.org/cache/epub/2055/pg2055.cover.medium.jpg",
    "date": null
   },
   {
@@ -980,69 +980,69 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "delphi": {
    "aviso": "sem feed"
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "123apps": {
+   "aviso": "sem feed"
+  },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 16
-  },
-  "neapay": {
-   "aviso": "sem feed"
+   "itens": 19
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
+  },
+  "carbon": {
+   "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
@@ -1053,45 +1053,39 @@
   "speedtest": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 104
   },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "krea": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "registrobr": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1100,24 +1094,30 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
+  "perplexity": {
+   "aviso": "sem feed"
+  },
   "claude": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
+  },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "runway": {
+   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1126,13 +1126,10 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1144,6 +1141,9 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
@@ -1152,12 +1152,16 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -1172,9 +1176,8 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
@@ -1184,39 +1187,24 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1226,20 +1214,32 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
