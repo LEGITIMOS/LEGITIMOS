@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-06T07:31:27.636Z",
+ "generatedAt": "2026-11-06T10:17:20.588Z",
  "items": [
+  {
+   "id": "96b9a40568ff",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Was Homer’s Ithaca Really an Island?: New Research Challenges a 2,000-Year-Old Assumption",
+   "summary": "Even if we didn’t make it to a screening of Christopher Nolan’s big-screen adaptation this past summer — and indeed, even if we’ve never read Homer’s original epic at all — we know that the Odyssey tells the story of a ten-year-long journe…",
+   "url": "https://www.openculture.com/2026/11/was-homers-ithaca-really-an-island.html",
+   "image": "https://i.ytimg.com/vi/TG2xnZ_fn5U/maxresdefault.jpg",
+   "date": "2026-11-06T09:00:21.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -190,16 +200,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-53f30d4e76f87b341b6a72a0847bddc49c6a3ea035b587802948d3733e8a2486",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-11-04T21:20:47.000Z"
-  },
-  {
-   "id": "8102e4e31472",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "If Fritz Lang’s Iconic Film Metropolis Had a Kraftwerk Soundtrack",
-   "summary": "The case of the copyright history of Fritz Lang’s influential sci-fi masterpiece Metropolis is as convoluted as the history of its film print. Lang’s vision and his original almost-three-hour cut were doomed to censorship right from the st…",
-   "url": "https://www.openculture.com/2026/11/if-fritz-langs-iconic-film-metropolis-had-a-kraftwerk-soundtrack.html",
-   "image": "https://i.ytimg.com/vi/6P2iUJucbk4/maxresdefault.jpg",
-   "date": "2026-11-04T19:45:39.000Z"
   },
   {
    "id": "ccf4ad643fca",
@@ -932,6 +932,16 @@
    "date": null
   },
   {
+   "id": "3027ea4ee7f5",
+   "sourceId": "photoroom",
+   "sourceName": "Photoroom",
+   "title": "How SkyPilot helped us put 1,000 idle GPU hours a week to work",
+   "summary": "",
+   "url": "https://www.photoroom.com/inside-photoroom/using-idle-gpus-with-skypilot",
+   "image": "https://storyblok-cdn.photoroom.com/f/191576/3200x1800/b902810afc/cover_fit.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
+   "date": null
+  },
+  {
    "id": "7e376c0fe334",
    "sourceId": "photoroom",
    "sourceName": "Photoroom",
@@ -950,16 +960,6 @@
    "url": "https://www.photoroom.com/inside-photoroom/how-a-read-replica-almost-took-down-its-primary-database",
    "image": "https://storyblok-cdn.photoroom.com/f/191576/1066x600/0a714b9792/database-replica-cover.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
    "date": null
-  },
-  {
-   "id": "d3b8497aceac",
-   "sourceId": "photoroom",
-   "sourceName": "Photoroom",
-   "title": "Vestiaire Collective becomes the first luxury resale platform to standardize every new listing photo with Photoroom, lifting liquidity 5%",
-   "summary": "",
-   "url": "https://www.photoroom.com/inside-photoroom/vestiaire-collective-liquidity-photoroom",
-   "image": "https://storyblok-cdn.photoroom.com/f/191576/2132x1200/0aae7a147d/photoroom-x-vestiaire-collective-x-nvidia-m.webp/m/1200x0/filters:format(jpeg):quality(80):no_upscale()",
-   "date": null
   }
  ],
  "report": {
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1366
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -983,28 +983,25 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
   },
   "tec": {
    "aviso": "sem feed"
   },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 25
-  },
-  "neapay": {
-   "aviso": "sem feed"
   },
   "poe": {
    "aviso": "sem feed"
@@ -1016,6 +1013,9 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
    "aviso": "sem feed"
   },
@@ -1025,13 +1025,13 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1041,29 +1041,26 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "smartmockups": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 104
+   "itens": 105
   },
-  "clipdrop": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1072,13 +1069,10 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
    "aviso": "sem feed"
   },
   "cursor": {
@@ -1088,10 +1082,19 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "perplexity": {
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "replit": {
+   "aviso": "sem feed"
+  },
+  "perplexity": {
+   "aviso": "sem feed"
+  },
+  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1100,60 +1103,57 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "claude": {
-   "aviso": "sem feed"
-  },
   "v0": {
    "aviso": "sem feed"
   },
   "bolt": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "opusclip": {
+   "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
+  "gamma": {
+   "aviso": "sem feed"
+  },
   "napkin": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
@@ -1187,33 +1187,33 @@
   "kling": {
    "aviso": "sem feed"
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
@@ -1222,24 +1222,20 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-strix": {
@@ -1248,6 +1244,10 @@
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
