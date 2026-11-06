@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T13:22:40.788Z",
+ "generatedAt": "2026-11-06T16:00:58.682Z",
  "items": [
   {
    "id": "1d8d63c09f83",
@@ -110,6 +110,16 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-11-05T21:46:26.000Z"
+  },
+  {
+   "id": "5d4f7dc67c88",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Give your Unity NPCs a voice with ElevenAgents",
+   "summary": "The ElevenAgents Unity SDK connects your Unity scene to a voice agent. See what it does, where it runs, and how to start.",
+   "url": "https://elevenlabs.io/blog/unity-sdk-release",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hmnalk0cbgt-unity-16-9.webp",
+   "date": "2026-11-05T20:44:00.000Z"
   },
   {
    "id": "c88b52d0b210",
@@ -248,16 +258,6 @@
    "title": "Fix speech to text accuracy problems with a smarter workflow",
    "summary": "Learn why speech to text accuracy drops and how to fix it, from audio quality and accents to keyterm prompting, plus how to measure it with WER.",
    "url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-04T12:00:00.000Z"
-  },
-  {
-   "id": "a239c4a01220",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "AI voice agent pricing: What it costs for your business",
-   "summary": "See AI voice agent pricing from $0 to custom Enterprise, what sets your price per minute, and how to calculate ROI against staffing costs.",
-   "url": "https://elevenlabs.io/blog/ai-voice-agent-pricing-guide",
    "image": "https://elevenlabs.io/cover.png",
    "date": "2026-11-04T12:00:00.000Z"
   },
@@ -983,21 +983,27 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
@@ -1007,19 +1013,16 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "neapay": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -1028,13 +1031,13 @@
   "pdf24": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1044,23 +1047,20 @@
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
+  "removebg": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1072,23 +1072,26 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
   "cursor": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "perplexity": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1097,19 +1100,13 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
   "v0": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1119,73 +1116,76 @@
   "runway": {
    "aviso": "sem feed"
   },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
-  },
-  "napkin": {
-   "aviso": "sem feed"
-  },
-  "gamma": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
+  },
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "napkin": {
    "aviso": "sem feed"
   },
   "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1214,28 +1214,32 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
@@ -1244,10 +1248,6 @@
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "raphael": {
