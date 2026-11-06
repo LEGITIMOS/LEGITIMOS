@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T16:00:58.682Z",
+ "generatedAt": "2026-11-06T19:08:06.462Z",
  "items": [
   {
    "id": "1d8d63c09f83",
@@ -9,7 +9,7 @@
    "summary": "OmniRoute v3.8.53 1,189 documented changes from 1,162 commits in the cycle, with 222 people contributing. Thank you all. 📄 Complete release notes (every entry, full description and credit): attached below as CHANGELOG-v3.8.53.md , and in…",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.53",
    "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
-   "date": "2026-11-06T13:09:58.000Z"
+   "date": "2026-11-06T18:37:15.000Z"
   },
   {
    "id": "5a1e0e88b1d1",
@@ -22,6 +22,16 @@
    "date": "2026-11-06T13:06:00.000Z"
   },
   {
+   "id": "f5b8adcdd8f1",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Ads Engine adds human review from localization experts and creative specialists",
+   "summary": "Ads Engine now adds human review from localization experts and creative specialists. Discover how to ship on-brand, localized ads in every market.",
+   "url": "https://elevenlabs.io/blog/ads-engine-human-review",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/p1a3efh4o-Cover0.webp",
+   "date": "2026-11-06T12:00:00.000Z"
+  },
+  {
    "id": "96b9a40568ff",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -30,6 +40,16 @@
    "url": "https://www.openculture.com/2026/11/was-homers-ithaca-really-an-island.html",
    "image": "https://i.ytimg.com/vi/TG2xnZ_fn5U/maxresdefault.jpg",
    "date": "2026-11-06T09:00:21.000Z"
+  },
+  {
+   "id": "bc8f9eac1966",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "image": "",
+   "date": "2026-11-06T08:00:00.000Z"
   },
   {
    "id": "cec978d14990",
@@ -172,16 +192,6 @@
    "date": "2026-11-05T10:00:27.000Z"
   },
   {
-   "id": "53c56afbaf05",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "image": "",
-   "date": "2026-11-05T09:00:00.000Z"
-  },
-  {
    "id": "db22356f3c4d",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -250,16 +260,6 @@
    "url": "https://github.com/lfnovo/open-notebook/releases/tag/v1.15.1",
    "image": "https://avatars.githubusercontent.com/u/579178?s=60&v=4",
    "date": "2026-11-04T14:19:57.000Z"
-  },
-  {
-   "id": "dfaa3a304111",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Fix speech to text accuracy problems with a smarter workflow",
-   "summary": "Learn why speech to text accuracy drops and how to fix it, from audio quality and accents to keyterm prompting, plus how to measure it with WER.",
-   "url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-04T12:00:00.000Z"
   },
   {
    "id": "1758151caf39",
@@ -905,20 +905,10 @@
    "id": "cb51438f35a3",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Narratives of the rites and laws of the Yncas by Avila and Molina and Ondegardo and Salcamayhua",
+   "title": "Narratives of the rites and laws of the Yncas by Francisco de Avila",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79927",
    "image": "https://www.gutenberg.org/cache/epub/79927/pg79927.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "f9a72ccfb7af",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "En route by Helen R. Hull",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79928",
-   "image": "https://www.gutenberg.org/cache/epub/79928/pg79928.cover.medium.jpg",
    "date": null
   },
   {
@@ -929,6 +919,16 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/27035",
    "image": "https://www.gutenberg.org/cache/epub/27035/pg27035.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "005a4cb5bb17",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Romanesque Art in Southern Manche: Album by Marie Lebert",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/33249",
+   "image": "https://www.gutenberg.org/cache/epub/33249/pg33249.cover.medium.jpg",
    "date": null
   },
   {
@@ -965,12 +965,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1366
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1367
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -981,6 +981,9 @@
    "itens": 15
   },
   "delphi": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "tec": {
@@ -996,8 +999,9 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "arena": {
-   "aviso": "sem feed"
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 16
   },
   "neapay": {
    "aviso": "sem feed"
@@ -1005,19 +1009,9 @@
   "poe": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 16
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
@@ -1025,65 +1019,71 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "smartmockups": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "speedtest": {
+   "aviso": "sem feed"
+  },
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "removebg": {
+  "unscreen": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
-   "aviso": "sem feed"
-  },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
+  "krea": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
   },
   "rayso": {
    "aviso": "sem feed"
@@ -1091,16 +1091,16 @@
   "perplexity": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "replit": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "unshortenit": {
@@ -1109,17 +1109,17 @@
   "v0": {
    "aviso": "sem feed"
   },
+  "runway": {
+   "aviso": "sem feed"
+  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
+  "otter": {
    "aviso": "sem feed"
   },
   "opusclip": {
-   "aviso": "sem feed"
-  },
-  "otter": {
    "aviso": "sem feed"
   },
   "suno": {
@@ -1132,21 +1132,21 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "kling": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
+  "gh-gallerydl": {
+   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
+   "itens": 10
   },
   "notionai": {
    "aviso": "sem feed"
   },
-  "gh-gallerydl": {
-   "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1160,12 +1160,12 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
@@ -1199,12 +1199,16 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1214,36 +1218,32 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
