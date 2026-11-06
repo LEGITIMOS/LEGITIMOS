@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-11-06T10:17:20.588Z",
+ "generatedAt": "2026-11-06T13:22:40.788Z",
  "items": [
+  {
+   "id": "1d8d63c09f83",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · v3.8.53",
+   "summary": "OmniRoute v3.8.53 1,189 documented changes from 1,162 commits in the cycle, with 222 people contributing. Thank you all. 📄 Complete release notes (every entry, full description and credit): attached below as CHANGELOG-v3.8.53.md , and in…",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.53",
+   "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
+   "date": "2026-11-06T13:09:58.000Z"
+  },
+  {
+   "id": "5a1e0e88b1d1",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.37.0",
+   "summary": "1.37.0 (2026-11-06) What's Changed Features feat(automations): explain each automation with a Mermaid diagram by @VascoSch92 in #19318 Bug Fixes fix(chat): place resumed sessions after UTC conversation history by @ak684 in #19400 fix: keep…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.37.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-06T13:06:00.000Z"
+  },
   {
    "id": "96b9a40568ff",
    "sourceId": "openculture",
@@ -280,16 +300,6 @@
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc60",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-11-03T19:38:02.000Z"
-  },
-  {
-   "id": "dfd80e5cea7c",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.35.0",
-   "summary": "1.35.0 (2026-11-03) What's Changed Features feat(home): remember and clear the cloud repository selection by @tofarr in #19053 feat(automations): store picked Bitbucket Data Center repositories as clone URLs by @ak684 in #19023 feat(automa…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-11-03T18:56:52.000Z"
   },
   {
    "id": "87d9325f64fa",
@@ -662,16 +672,6 @@
    "date": "2026-10-01T17:38:20.000Z"
   },
   {
-   "id": "e38267f28b0e",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · v3.8.51",
-   "summary": "OmniRoute v3.8.51 2,022 documented changes — 235 features, 1,454 fixes and 333 maintenance entries from 1,973 commits in the cycle, with 301 external contributors . Thank you all. 📄 Complete release notes (every entry, full description an…",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.51",
-   "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
-   "date": "2026-09-30T06:53:54.000Z"
-  },
-  {
    "id": "1d1c2c9aaec3",
    "sourceId": "gh-suwayomi",
    "sourceName": "Suwayomi",
@@ -912,6 +912,16 @@
    "date": null
   },
   {
+   "id": "f9a72ccfb7af",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "En route by Helen R. Hull",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79928",
+   "image": "https://www.gutenberg.org/cache/epub/79928/pg79928.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "28377c52b4be",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -919,16 +929,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/27035",
    "image": "https://www.gutenberg.org/cache/epub/27035/pg27035.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "005a4cb5bb17",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Romanesque Art in Southern Manche: Album by Marie Lebert",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/33249",
-   "image": "https://www.gutenberg.org/cache/epub/33249/pg33249.cover.medium.jpg",
    "date": null
   },
   {
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1366
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -992,34 +992,31 @@
   "alternativeto": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 25
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 16
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
+  "neapay": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "arena": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1028,37 +1025,40 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
+  "shots": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
-  "speedtest": {
+  "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
+  },
+  "speedtest": {
+   "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
@@ -1072,10 +1072,10 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "cursor": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1088,10 +1088,10 @@
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "perplexity": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1106,30 +1106,27 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "runway": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "runway": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gamma": {
    "aviso": "sem feed"
   },
   "otter": {
@@ -1138,19 +1135,15 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1160,6 +1153,13 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "notionai": {
+   "aviso": "sem feed"
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
@@ -1168,12 +1168,12 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1211,10 +1211,6 @@
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
@@ -1222,20 +1218,28 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-strix": {
@@ -1244,10 +1248,6 @@
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
