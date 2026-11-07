@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T04:03:08.750Z",
+ "generatedAt": "2026-11-07T07:16:27.204Z",
  "items": [
   {
    "id": "cec978d14990",
@@ -9,7 +9,7 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-07T03:34:01.000Z"
+   "date": "2026-11-07T04:38:48.000Z"
   },
   {
    "id": "c92559e299e2",
@@ -918,17 +918,17 @@
    "title": "Prince of peril by Otis Adelbert Kline",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79932",
-   "image": "",
+   "image": "https://www.gutenberg.org/cache/epub/79932/pg79932.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "28377c52b4be",
+   "id": "46d792a7d818",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Entretiens / Interviews / Entrevistas by Marie Lebert",
+   "title": "The radio man returns by Ralph Milne Farley",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/27035",
-   "image": "https://www.gutenberg.org/cache/epub/27035/pg27035.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79934",
+   "image": "https://www.gutenberg.org/cache/epub/79934/pg79934.cover.medium.jpg",
    "date": null
   },
   {
@@ -983,81 +983,81 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "arena": {
    "aviso": "sem feed"
   },
   "tec": {
    "aviso": "sem feed"
   },
+  "123apps": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
    "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
   },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 22
+   "itens": 25
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "removebg": {
@@ -1072,9 +1072,6 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
   "cursor": {
    "aviso": "sem feed"
   },
@@ -1085,26 +1082,36 @@
   "registrobr": {
    "aviso": "sem feed"
   },
+  "rayso": {
+   "aviso": "sem feed"
+  },
   "pairdrop": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "huggingface": {
+   "aviso": "sem feed"
+  },
+  "replit": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "runway": {
    "aviso": "sem feed"
@@ -1112,12 +1119,8 @@
   "opusclip": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "otter": {
    "aviso": "sem feed"
-  },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1129,10 +1132,7 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1145,16 +1145,16 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
+  "jasper": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -1164,16 +1164,16 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1192,16 +1192,12 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
@@ -1211,11 +1207,19 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
@@ -1230,24 +1234,20 @@
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "raphael": {
