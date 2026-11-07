@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-07T01:16:21.206Z",
+ "generatedAt": "2026-11-07T04:03:08.750Z",
  "items": [
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-07T03:34:01.000Z"
+  },
   {
    "id": "c92559e299e2",
    "sourceId": "gh-openseo",
@@ -90,16 +100,6 @@
    "url": "https://openai.com/index/partnering-with-hacktron",
    "image": "",
    "date": "2026-11-06T08:00:00.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-06T07:22:57.000Z"
   },
   {
    "id": "9ac2aed6ce54",
@@ -918,7 +918,7 @@
    "title": "Prince of peril by Otis Adelbert Kline",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79932",
-   "image": "https://www.gutenberg.org/cache/epub/79932/pg79932.cover.medium.jpg",
+   "image": "",
    "date": null
   },
   {
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1368
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -980,24 +980,24 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
-  },
-  "poe": {
-   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
@@ -1010,10 +1010,10 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "arena": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1022,29 +1022,32 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1054,22 +1057,19 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
   "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "rayso": {
@@ -1106,18 +1106,18 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
+  "runway": {
+   "aviso": "sem feed"
+  },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "runway": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "bolt": {
-   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1129,13 +1129,13 @@
   "napkin": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "otter": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1145,23 +1145,19 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -1170,6 +1166,10 @@
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1184,28 +1184,28 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
@@ -1222,10 +1222,6 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
@@ -1233,6 +1229,10 @@
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
@@ -1246,8 +1246,8 @@
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "raphael": {
