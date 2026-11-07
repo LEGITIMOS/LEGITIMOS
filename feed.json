@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-07T15:51:36.718Z",
+ "generatedAt": "2026-11-07T18:59:09.389Z",
  "items": [
+  {
+   "id": "2fd4120b5bb9",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc64",
+   "summary": "Bump release version to 0.9.78rc64",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc64",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-07T15:13:46.000Z"
+  },
   {
    "id": "b0bbd89212d1",
    "sourceId": "gh-archivebox",
@@ -30,16 +40,6 @@
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc63",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-11-07T14:45:43.000Z"
-  },
-  {
-   "id": "918fd4bd1d28",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc62",
-   "summary": "Bump release version to 0.9.78rc62",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc62",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-07T14:21:28.000Z"
   },
   {
    "id": "c92559e299e2",
@@ -902,6 +902,16 @@
    "date": "2026-05-11T21:00:17.000Z"
   },
   {
+   "id": "235f1f9243b6",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The Secret Garden by Frances Hodgson Burnett",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/113",
+   "image": "https://www.gutenberg.org/cache/epub/113/pg113.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "964780c6ecee",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -919,16 +929,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79934",
    "image": "https://www.gutenberg.org/cache/epub/79934/pg79934.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "9b746a9ffc79",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Riding the whirlwind by Helen R. Hull",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79930",
-   "image": "https://www.gutenberg.org/cache/epub/79930/pg79930.cover.medium.jpg",
    "date": null
   },
   {
@@ -967,10 +967,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1368
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -980,13 +980,13 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
-   "aviso": "sem feed"
-  },
-  "tec": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -996,20 +996,20 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 11
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 13
   },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "arena": {
    "aviso": "sem feed"
   },
   "openculture": {
@@ -1025,13 +1025,13 @@
   "squoosh": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
    "aviso": "sem feed"
   },
   "photopea": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1044,29 +1044,29 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "unscreen": {
+   "aviso": "sem feed"
+  },
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "earthtimelapse": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "removebg": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "krea": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1078,6 +1078,9 @@
   "pairdrop": {
    "aviso": "sem feed"
   },
+  "cursor": {
+   "aviso": "sem feed"
+  },
   "registrobr": {
    "aviso": "sem feed"
   },
@@ -1085,63 +1088,57 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "replit": {
    "aviso": "sem feed"
   },
-  "perplexity": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "claude": {
    "aviso": "sem feed"
   },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "v0": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "bolt": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
+  "gamma": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "gamma": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1155,36 +1152,43 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
@@ -1195,28 +1199,24 @@
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
@@ -1234,16 +1234,16 @@
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
