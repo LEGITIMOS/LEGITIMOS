@@ -1,35 +1,45 @@
 {
- "generatedAt": "2026-11-08T18:58:59.603Z",
+ "generatedAt": "2026-11-08T21:50:37.755Z",
  "items": [
   {
-   "id": "805a717e1095",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc82",
-   "summary": "Bump release version to 0.9.78rc82",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc82",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-08T18:31:37.000Z"
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-08T20:29:21.000Z"
   },
   {
-   "id": "208404beabff",
+   "id": "2bd45b00f7bf",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc82",
-   "summary": "Bump release version to 0.9.78rc82",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc82",
+   "title": "ArchiveBox · v0.9.78rc84",
+   "summary": "Bump release version to 0.9.78rc84",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc84",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-08T18:31:37.000Z"
+   "date": "2026-11-08T19:38:06.000Z"
   },
   {
-   "id": "6d7f1dcf4a53",
+   "id": "e3c55b797f78",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc81",
-   "summary": "Bump release version to 0.9.78rc81",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc81",
+   "title": "ArchiveBox · release-candidate/0.9.78rc84",
+   "summary": "Bump release version to 0.9.78rc84",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc84",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-08T18:13:02.000Z"
+   "date": "2026-11-08T19:38:06.000Z"
+  },
+  {
+   "id": "0f850fffe941",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc83",
+   "summary": "Bump release version to 0.9.78rc83",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc83",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-08T19:05:57.000Z"
   },
   {
    "id": "59d941db7cef",
@@ -60,16 +70,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2",
    "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
    "date": "2026-11-08T04:43:07.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-08T04:38:31.000Z"
   },
   {
    "id": "a24fdecccf32",
@@ -976,40 +976,34 @@
   "tec": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "123apps": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "alternativeto": {
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 16
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
@@ -1018,7 +1012,16 @@
   "pdf24": {
    "aviso": "sem feed"
   },
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1027,22 +1030,12 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "photopea": {
+  "carbon": {
    "aviso": "sem feed"
-  },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 105
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1050,10 +1043,11 @@
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 105
   },
-  "clipdrop": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1062,20 +1056,26 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
+   "aviso": "sem feed"
   },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "cursor": {
    "aviso": "sem feed"
   },
-  "registrobr": {
-   "aviso": "sem feed"
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
   },
-  "pairdrop": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1084,25 +1084,25 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
   "claude": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "v0": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "runway": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1113,30 +1113,34 @@
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
   "gamma": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "jasper": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "notionai": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "otter": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -1144,10 +1148,6 @@
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -1174,6 +1174,9 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
@@ -1182,62 +1185,59 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
-  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
