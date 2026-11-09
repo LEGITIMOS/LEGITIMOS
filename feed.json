@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-11-09T07:42:38.808Z",
+ "generatedAt": "2026-11-09T10:13:13.441Z",
  "items": [
+  {
+   "id": "bd8b0257249f",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Explore the Reading List for Harvard’s Humanities 10: The “Brutal” Humanities Class That’s Suddenly in High Demand",
+   "summary": "There are plenty of good reasons a student might want to go to Harvard. One is its long history, at least by American standards; another is the formidable accomplishments of the professors hired to teach there. But on some level, a teenage…",
+   "url": "https://www.openculture.com/2026/11/explore-the-reading-list-for-harvards-humanities-10.html",
+   "image": "https://i.ytimg.com/vi/SD3AI0r88aA/maxresdefault.jpg",
+   "date": "2026-11-09T10:00:07.000Z"
+  },
+  {
+   "id": "e6aae988a928",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "“Don’t Try”: Charles Bukowski’s Concise Philosophy of Art and Life",
+   "summary": "In 1994, Charles Bukowski was buried in a Los Angeles cemetery, beneath a simple gravestone. The stone memorializes the poet’s name. It recites his dates of birth and death, but adds the symbol of a boxer between the two, suggesting his li…",
+   "url": "https://www.openculture.com/2026/11/dont-try-charles-bukowskis-concise-philosophy-of-art-and-life.html",
+   "image": "https://www.openculture.com/wp-content/uploads/2026/11/bukowski-grave-e1361771067336.jpeg",
+   "date": "2026-11-09T09:03:39.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -260,26 +280,6 @@
    "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.4",
    "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
    "date": "2026-11-05T14:24:51.000Z"
-  },
-  {
-   "id": "5808f34b7b59",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Man Who Risked His Life Mocking the Nazis: Read 96 Issues of His Underground Magazine, Created in Hiding During WWII",
-   "summary": "The word zine , referring to a homemade magazine not distributed through the normal commercial channels, has a longer history than you might expect. Its earliest recorded uses date from 1946 in the world of pulp magazines , most often of t…",
-   "url": "https://www.openculture.com/2026/11/the-man-who-risked-his-life-mocking-the-nazis-read-96-issues-of-his-underground-magazine.html",
-   "image": "https://cdn8.openculture.com/2026/10/04200639/curt-bloch-het-onderwater-cabaret-magazine-cover-from-30.08.1943-1.jpg",
-   "date": "2026-11-05T10:00:27.000Z"
-  },
-  {
-   "id": "db22356f3c4d",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Martin Scorsese Creates a List of 39 Essential Foreign Films for a Young Filmmaker",
-   "summary": "As a young man, filmmaker Colin Levy got an opportunity of a lifetime. He got a one-on-one meeting with Martin Scorsese. After spending much of his time in high school making a five-minute short, Levy won the national YoungArts award — and…",
-   "url": "https://www.openculture.com/2026/11/martin-scorsese-creates-a-list-of-39-essential-foreign-films-for-a-young-filmmaker.html",
-   "image": "https://cdn8.openculture.com/2026/11/04203700/uuM85o4.jpeg",
-   "date": "2026-11-05T09:00:00.000Z"
   },
   {
    "id": "6950d26a9589",
@@ -957,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1368
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -973,21 +973,24 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
-  },
-  "poe": {
-   "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
@@ -996,20 +999,11 @@
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 34
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "pdf24": {
@@ -1018,10 +1012,16 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1031,35 +1031,35 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
-   "aviso": "sem feed"
-  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "rayso": {
@@ -1068,14 +1068,14 @@
   "cursor": {
    "aviso": "sem feed"
   },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
   "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1087,31 +1087,31 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
   "unshortenit": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
   "bolt": {
-   "aviso": "sem feed"
-  },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "runway": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
+  },
+  "opusclip": {
+   "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
@@ -1119,33 +1119,35 @@
   "gamma": {
    "aviso": "sem feed"
   },
-  "jasper": {
-   "aviso": "sem feed"
-  },
   "otter": {
    "aviso": "sem feed"
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
   "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -1156,31 +1158,24 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
@@ -1195,24 +1190,34 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1223,22 +1228,17 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
   },
   "raphael": {
    "aviso": "sem feed"
