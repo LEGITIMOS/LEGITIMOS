@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-09T16:16:59.703Z",
+ "generatedAt": "2026-11-09T19:10:36.724Z",
  "items": [
   {
-   "id": "f4cd2402b8e3",
-   "sourceId": "gh-changedetection",
-   "sourceName": "Changedetection.io",
-   "title": "Changedetection.io · 0.70.3",
-   "summary": "What's Changed Update pytest requirement from ~=9.1 to ~=9.2 by @dependabot [bot] in #4692 Update python-engineio requirement from <5,>=4.14.0 to >=4.15.1,<5 by @dependabot [bot] in #4693 Update flask-socketio requirement from <6,>=5.7.0 t…",
-   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
-   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
-   "date": "2026-11-09T14:57:31.000Z"
+   "id": "9c331579e229",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "image": "",
+   "date": "2026-11-09T19:00:00.000Z"
   },
   {
    "id": "cec978d14990",
@@ -19,7 +19,27 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-09T13:14:35.000Z"
+   "date": "2026-11-09T18:28:16.000Z"
+  },
+  {
+   "id": "cf5d50012681",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · 1.0.0rc2: release candidate for browser-use 1.0",
+   "summary": "Release candidate (first one published; the 1.0.0rc1 version number was unusable on PyPI). Install it explicitly. Plain pip install browser-use and uv add browser-use still give you 0.13.14 until 1.0.0 ships. Please report problems at http…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.0rc2",
+   "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
+   "date": "2026-11-09T16:52:16.000Z"
+  },
+  {
+   "id": "f4cd2402b8e3",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.70.3",
+   "summary": "What's Changed Update pytest requirement from ~=9.1 to ~=9.2 by @dependabot [bot] in #4692 Update python-engineio requirement from <5,>=4.14.0 to >=4.15.1,<5 by @dependabot [bot] in #4693 Update flask-socketio requirement from <6,>=5.7.0 t…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-11-09T14:57:31.000Z"
   },
   {
    "id": "278448d5d206",
@@ -48,7 +68,7 @@
    "title": "“Don’t Try”: Charles Bukowski’s Concise Philosophy of Art and Life",
    "summary": "In 1994, Charles Bukowski was buried in a Los Angeles cemetery, beneath a simple gravestone. The stone memorializes the poet’s name. It recites his dates of birth and death, but adds the symbol of a boxer between the two, suggesting his li…",
    "url": "https://www.openculture.com/2026/11/dont-try-charles-bukowskis-concise-philosophy-of-art-and-life.html",
-   "image": "https://www.openculture.com/wp-content/uploads/2026/11/bukowski-grave-e1361771067336.jpeg",
+   "image": "https://cdn8.openculture.com/2026/11/09001219/Screenshot-2026-11-09-at-12.23.23-AM.png",
    "date": "2026-11-09T09:03:39.000Z"
   },
   {
@@ -270,16 +290,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-11-05T21:46:26.000Z"
-  },
-  {
-   "id": "c88b52d0b210",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "image": "",
-   "date": "2026-11-05T20:00:00.000Z"
   },
   {
    "id": "47ed0f8aa3d0",
@@ -592,16 +602,6 @@
    "date": "2026-10-15T23:50:45.000Z"
   },
   {
-   "id": "57c5034d6421",
-   "sourceId": "gh-browseruse",
-   "sourceName": "Browser Use",
-   "title": "Browser Use · 0.13.12: OpenAI browser tools",
-   "summary": "Add OpenAI browser tools backed by Browser Use Actor. Import BrowserUse from browser_use.integrations.openai . Install browser-use[openai-tools] to enable OpenAI Python 3.31+. Use local browsers, Browser Use Cloud, or an existing connected…",
-   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.12",
-   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
-   "date": "2026-10-15T23:37:58.000Z"
-  },
-  {
    "id": "7c11c79ec35f",
    "sourceId": "suno",
    "sourceName": "Suno",
@@ -912,13 +912,13 @@
    "date": null
   },
   {
-   "id": "a62323b7e5f2",
+   "id": "467231d129a8",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Moby Dick; Or, The Whale by Herman Melville",
+   "title": "A man's right by Helen R. Hull",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/2489",
-   "image": "https://www.gutenberg.org/cache/epub/2489/pg2489.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79944",
+   "image": "https://www.gutenberg.org/cache/epub/79944/pg79944.cover.medium.jpg",
    "date": null
   },
   {
@@ -955,102 +955,102 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1368
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1369
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "delphi": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 23
+   "itens": 26
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
+  "squoosh": {
    "aviso": "sem feed"
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
+  "arena": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "shots": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "smartmockups": {
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1059,16 +1059,10 @@
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
-   "aviso": "sem feed"
-  },
   "rayso": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "registrobr": {
+  "krea": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1078,13 +1072,16 @@
   "cursor": {
    "aviso": "sem feed"
   },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "v0": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1093,24 +1090,28 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
-   "aviso": "sem feed"
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
   },
   "napkin": {
    "aviso": "sem feed"
@@ -1118,13 +1119,13 @@
   "gamma": {
    "aviso": "sem feed"
   },
-  "kling": {
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1134,13 +1135,12 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "notionai": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
-  },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -1154,16 +1154,16 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1174,28 +1174,28 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
-  },
-  "jasper": {
-   "aviso": "sem feed"
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
@@ -1203,6 +1203,10 @@
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
@@ -1212,16 +1216,8 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1234,6 +1230,10 @@
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
