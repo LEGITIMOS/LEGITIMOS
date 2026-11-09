@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-09T01:26:03.411Z",
+ "generatedAt": "2026-11-09T07:42:38.808Z",
  "items": [
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-09T05:01:28.000Z"
+  },
   {
    "id": "68bd1902dde5",
    "sourceId": "gh-langflow",
@@ -10,16 +20,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev22",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-09T00:27:17.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-08T23:49:18.000Z"
   },
   {
    "id": "5f1c02eab672",
@@ -180,6 +180,16 @@
    "url": "https://openai.com/index/partnering-with-hacktron",
    "image": "",
    "date": "2026-11-06T08:00:00.000Z"
+  },
+  {
+   "id": "180a8db0dac9",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "When Should Businesses Use AI Video? 5 Use Cases That Make Sense",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI video is especially useful for content that needs frequent updates, multiple versions, or localization. Common business uses include employee training, inte…",
+   "url": "https://www.d-id.com/blog/when-should-businesses-use-ai-video/",
+   "image": "https://www.d-id.com/wp-content/uploads/2026/11/Modernes-Buro-mit-Lern-und-Zweckpanel.png",
+   "date": "2026-11-06T07:19:38.000Z"
   },
   {
    "id": "9ac2aed6ce54",
@@ -440,16 +450,6 @@
    "url": "https://blog.archive.org/2026/10/28/celebrating-democracys-library/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/2026-10-21-Internet-Archive-Democracys-Library_0352-1024x683.jpg",
    "date": "2026-10-28T12:00:00.000Z"
-  },
-  {
-   "id": "74e30ca32bbd",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "The 15 Best AI Avatar Generators of 2026",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI avatar generators make it possible to create high-quality video content faster, cheaper, and at scale, without traditional production. The biggest different…",
-   "url": "https://www.d-id.com/blog/best-ai-avatar-generators/",
-   "image": "",
-   "date": "2026-10-27T13:19:13.000Z"
   },
   {
    "id": "d875aa436373",
@@ -957,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1368
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -973,87 +973,84 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "alternativeto": {
-   "aviso": "sem feed"
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 30
+   "itens": 34
   },
-  "arena": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "arena": {
    "aviso": "sem feed"
   },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "cleanup": {
    "aviso": "sem feed"
   },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "earthtimelapse": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "unscreen": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1062,7 +1059,13 @@
   "krea": {
    "aviso": "sem feed"
   },
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1075,22 +1078,19 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
    "aviso": "sem feed"
   },
   "replit": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "v0": {
@@ -1099,18 +1099,15 @@
   "bolt": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "runway": {
+   "aviso": "sem feed"
   },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "otter": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1122,40 +1119,37 @@
   "gamma": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
   "jasper": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "otter": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -1166,20 +1160,12 @@
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
-   "itens": 10
-  },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
-   "itens": 10
-  },
   "kling": {
    "aviso": "sem feed"
   },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 5
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
@@ -1189,47 +1175,52 @@
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
   },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
@@ -1239,6 +1230,15 @@
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
