@@ -1,15 +1,25 @@
 {
- "generatedAt": "2026-11-09T19:10:36.724Z",
+ "generatedAt": "2026-11-09T21:59:19.567Z",
  "items": [
   {
-   "id": "9c331579e229",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "image": "",
-   "date": "2026-11-09T19:00:00.000Z"
+   "id": "a0c283b13b94",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.13.2: fix(security): require admin custom-code authoring by default (#16288)",
+   "summary": "fix(security): require admin custom-code authoring by default fix: preserve projects under the default code policy test: scope trusted code fixtures under the administrator default test: update remaining trusted authoring and execution fix…",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2",
+   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
+   "date": "2026-11-09T21:39:41.000Z"
+  },
+  {
+   "id": "27cdf852ace2",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · 1.0.0rc4: release candidate for browser-use 1.0",
+   "summary": "Release candidate (first one published; the version numbers 1.0.0rc1 to rc3 were unusable on PyPI). Install it explicitly. Plain pip install browser-use and uv add browser-use still give you 0.13.14 until 1.0.0 ships. Please report problem…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.0rc4",
+   "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
+   "date": "2026-11-09T21:21:31.000Z"
   },
   {
    "id": "cec978d14990",
@@ -19,7 +29,17 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-09T18:28:16.000Z"
+   "date": "2026-11-09T21:15:58.000Z"
+  },
+  {
+   "id": "9c331579e229",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "image": "",
+   "date": "2026-11-09T19:00:00.000Z"
   },
   {
    "id": "cf5d50012681",
@@ -40,6 +60,16 @@
    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
    "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
    "date": "2026-11-09T14:57:31.000Z"
+  },
+  {
+   "id": "5d57e1aa0817",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Introducing Control Room: Human control over AI workloads",
+   "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "url": "https://openai.com/index/introducing-control-room",
+   "image": "",
+   "date": "2026-11-09T13:00:00.000Z"
   },
   {
    "id": "278448d5d206",
@@ -70,6 +100,16 @@
    "url": "https://www.openculture.com/2026/11/dont-try-charles-bukowskis-concise-philosophy-of-art-and-life.html",
    "image": "https://cdn8.openculture.com/2026/11/09001219/Screenshot-2026-11-09-at-12.23.23-AM.png",
    "date": "2026-11-09T09:03:39.000Z"
+  },
+  {
+   "id": "23b94c697622",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "url": "https://openai.com/index/coderabbit-codex-daybreak",
+   "image": "",
+   "date": "2026-11-09T08:00:00.000Z"
   },
   {
    "id": "68bd1902dde5",
@@ -142,16 +182,6 @@
    "date": "2026-11-08T11:07:53.000Z"
   },
   {
-   "id": "a0c283b13b94",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.13.2: test(auth): cover trusted proxy credential sources (#16238)",
-   "summary": "test(auth): cover trusted proxy credential sources test(auth): verify WebSocket query token forwarding",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2",
-   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
-   "date": "2026-11-08T04:43:07.000Z"
-  },
-  {
    "id": "a24fdecccf32",
    "sourceId": "gh-langflow",
    "sourceName": "Langflow",
@@ -222,23 +252,13 @@
    "date": "2026-11-06T09:00:21.000Z"
   },
   {
-   "id": "bc8f9eac1966",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-   "url": "https://openai.com/index/partnering-with-hacktron",
-   "image": "",
-   "date": "2026-11-06T08:00:00.000Z"
-  },
-  {
    "id": "180a8db0dac9",
    "sourceId": "did",
    "sourceName": "D-ID",
    "title": "When Should Businesses Use AI Video? 5 Use Cases That Make Sense",
    "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI video is especially useful for content that needs frequent updates, multiple versions, or localization. Common business uses include employee training, inte…",
    "url": "https://www.d-id.com/blog/when-should-businesses-use-ai-video/",
-   "image": "",
+   "image": "https://www.d-id.com/wp-content/uploads/2026/11/Modernes-Buro-mit-Lern-und-Zweckpanel.png",
    "date": "2026-11-06T07:19:38.000Z"
   },
   {
@@ -250,16 +270,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.25",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-11-06T05:01:14.000Z"
-  },
-  {
-   "id": "cfd4354afa14",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "image": "",
-   "date": "2026-11-06T00:00:00.000Z"
   },
   {
    "id": "4e910104600e",
@@ -592,16 +602,6 @@
    "date": "2026-10-16T11:43:13.000Z"
   },
   {
-   "id": "a60158f2cce8",
-   "sourceId": "gh-browseruse",
-   "sourceName": "Browser Use",
-   "title": "Browser Use · 0.13.13: OpenAI browser tools and Cloud fixes",
-   "summary": "This release includes the OpenAI browser-tool driver and fixes two integration issues. Handle temporary empty Cloud tab URLs during navigation. Keep screenshots, crops, and pointer coordinates aligned on scaled displays. Provide 18 default…",
-   "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.13",
-   "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
-   "date": "2026-10-15T23:50:45.000Z"
-  },
-  {
    "id": "7c11c79ec35f",
    "sourceId": "suno",
    "sourceName": "Suno",
@@ -898,7 +898,7 @@
    "title": "Sixty-four, ninety-four! by R. H. Mottram",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79947",
-   "image": "https://www.gutenberg.org/cache/epub/79947/pg79947.cover.medium.jpg",
+   "image": "",
    "date": null
   },
   {
@@ -908,7 +908,7 @@
    "title": "The complete poetical works of Geoffrey Chaucer, now first put into modern English by Chaucer",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79952",
-   "image": "https://www.gutenberg.org/cache/epub/79952/pg79952.cover.medium.jpg",
+   "image": "",
    "date": null
   },
   {
@@ -918,7 +918,7 @@
    "title": "A man's right by Helen R. Hull",
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79944",
-   "image": "https://www.gutenberg.org/cache/epub/79944/pg79944.cover.medium.jpg",
+   "image": "",
    "date": null
   },
   {
@@ -955,7 +955,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1369
+   "itens": 1372
   },
   "canva": {
    "aviso": "sem feed"
@@ -966,62 +966,65 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "123apps": {
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
+  "delphi": {
    "aviso": "sem feed"
   },
   "tec": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "arena": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "123apps": {
    "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "escolavirtual": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 26
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
+  "poe": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "wolframalpha": {
    "aviso": "sem feed"
   },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
   "photopea": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1031,13 +1034,13 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
   "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "unscreen": {
@@ -1047,10 +1050,10 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
+  "removebg": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1059,55 +1062,58 @@
   "magnific": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "krea": {
-   "aviso": "sem feed"
-  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "registrobr": {
    "aviso": "sem feed"
   },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "perplexity": {
-   "aviso": "sem feed"
-  },
-  "v0": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
+  "cursor": {
+   "aviso": "sem feed"
+  },
   "bolt": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "perplexity": {
    "aviso": "sem feed"
   },
-  "runway": {
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
+  },
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "otter": {
+   "aviso": "sem feed"
+  },
+  "gamma": {
+   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1116,13 +1122,7 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "jasper": {
-   "aviso": "sem feed"
-  },
-  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1142,10 +1142,6 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
@@ -1154,59 +1150,60 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "gh-opengenerativeai": {
-   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
-   "itens": 10
-  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-opengenerativeai": {
+   "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
@@ -1216,13 +1213,21 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
@@ -1232,13 +1237,8 @@
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
