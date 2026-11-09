@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-08T21:50:37.755Z",
+ "generatedAt": "2026-11-09T01:26:03.411Z",
  "items": [
+  {
+   "id": "68bd1902dde5",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev22",
+   "summary": "Langflow nightly v1.14.0.dev22",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev22",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-09T00:27:17.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -9,7 +19,17 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-08T20:29:21.000Z"
+   "date": "2026-11-08T23:49:18.000Z"
+  },
+  {
+   "id": "5f1c02eab672",
+   "sourceId": "gh-openwebui",
+   "sourceName": "Open WebUI",
+   "title": "Open WebUI · v0.13.3",
+   "summary": "Added 🦾 Agents in automations. The automation editor now lets you choose a terminal and working folder, then select a coding agent available there. Scheduled runs use that saved terminal and folder, and check that the terminal and agent a…",
+   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.3",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-08T23:48:24.000Z"
   },
   {
    "id": "2bd45b00f7bf",
@@ -100,16 +120,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.26",
    "image": "https://avatars.githubusercontent.com/u/51297686?s=60&v=4",
    "date": "2026-11-07T00:47:14.000Z"
-  },
-  {
-   "id": "3908d42b715b",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev20",
-   "summary": "Langflow nightly v1.14.0.dev20",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev20",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-07T00:22:53.000Z"
   },
   {
    "id": "5a1e0e88b1d1",
@@ -340,16 +350,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.24",
    "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
    "date": "2026-11-04T04:33:55.000Z"
-  },
-  {
-   "id": "87d9325f64fa",
-   "sourceId": "gh-openwebui",
-   "sourceName": "Open WebUI",
-   "title": "Open WebUI · v0.13.0",
-   "summary": "Added 📑 Tabbed workspace. The Tabs button at the top of a chat now opens a workspace for files, multiple terminal sessions, artifacts, previews, voice calls and comments. Add tabs from the + menu, drag to reorder them, and create and save…",
-   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.0",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-03T12:23:16.000Z"
   },
   {
    "id": "02a34f213338",
@@ -912,13 +912,13 @@
    "date": null
   },
   {
-   "id": "562b17e55b37",
+   "id": "cbc7327c7ab1",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Anting-Anting Stories, and Other Strange Tales of the Filipinos by Sargent Kayme",
+   "title": "Sixty-four, ninety-four! by R. H. Mottram",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/24690",
-   "image": "https://www.gutenberg.org/cache/epub/24690/pg24690.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79947",
+   "image": "https://www.gutenberg.org/cache/epub/79947/pg79947.cover.medium.jpg",
    "date": null
   },
   {
@@ -957,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1368
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -982,22 +982,22 @@
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
-  },
-  "arena": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "poe": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 16
+   "itens": 30
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -1009,10 +1009,10 @@
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1024,18 +1024,18 @@
   "photopea": {
    "aviso": "sem feed"
   },
+  "smartmockups": {
+   "aviso": "sem feed"
+  },
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
-  },
-  "carbon": {
-   "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1050,32 +1050,32 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "magnific": {
-   "aviso": "sem feed"
-  },
-  "krea": {
-   "aviso": "sem feed"
-  },
   "speedtest": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "krea": {
+   "aviso": "sem feed"
+  },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
   "registrobr": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1084,13 +1084,13 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "claude": {
    "aviso": "sem feed"
   },
   "v0": {
@@ -1099,48 +1099,45 @@
   "bolt": {
    "aviso": "sem feed"
   },
-  "runway": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "opusclip": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
+  "runway": {
+   "aviso": "sem feed"
+  },
+  "otter": {
+   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gamma": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
-  },
-  "otter": {
-   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -1150,16 +1147,19 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
+  "notionai": {
+   "aviso": "sem feed"
+  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1177,52 +1177,56 @@
   "kling": {
    "aviso": "sem feed"
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
@@ -1234,10 +1238,6 @@
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
