@@ -1,6 +1,16 @@
 {
- "generatedAt": "2026-11-09T13:29:36.216Z",
+ "generatedAt": "2026-11-09T16:16:59.703Z",
  "items": [
+  {
+   "id": "f4cd2402b8e3",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.70.3",
+   "summary": "What's Changed Update pytest requirement from ~=9.1 to ~=9.2 by @dependabot [bot] in #4692 Update python-engineio requirement from <5,>=4.14.0 to >=4.15.1,<5 by @dependabot [bot] in #4693 Update flask-socketio requirement from <6,>=5.7.0 t…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-11-09T14:57:31.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -10,6 +20,16 @@
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-11-09T13:14:35.000Z"
+  },
+  {
+   "id": "278448d5d206",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "ElevenAgents Campaign Manager works every contact to an outcome",
+   "summary": "Run outbound voice campaigns at scale with ElevenAgents. Upload contacts, set policies, and track every call, callback, and outcome in one view.",
+   "url": "https://elevenlabs.io/blog/elevenagents-campaign-manager",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/8pcszoncytr-YT-Campaign-Manager.webp",
+   "date": "2026-11-09T12:00:00.000Z"
   },
   {
    "id": "bd8b0257249f",
@@ -172,16 +192,6 @@
    "date": "2026-11-06T12:00:00.000Z"
   },
   {
-   "id": "f5b8adcdd8f1",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Ads Engine adds human review from localization experts and creative specialists",
-   "summary": "Ads Engine now adds human review from localization experts and creative specialists. Discover how to ship on-brand, localized ads in every market.",
-   "url": "https://elevenlabs.io/blog/ads-engine-human-review",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/p1a3efh4o-Cover0.webp",
-   "date": "2026-11-06T12:00:00.000Z"
-  },
-  {
    "id": "96b9a40568ff",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -208,7 +218,7 @@
    "title": "When Should Businesses Use AI Video? 5 Use Cases That Make Sense",
    "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI video is especially useful for content that needs frequent updates, multiple versions, or localization. Common business uses include employee training, inte…",
    "url": "https://www.d-id.com/blog/when-should-businesses-use-ai-video/",
-   "image": "https://www.d-id.com/wp-content/uploads/2026/11/Modernes-Buro-mit-Lern-und-Zweckpanel.png",
+   "image": "",
    "date": "2026-11-06T07:19:38.000Z"
   },
   {
@@ -480,16 +490,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.14",
    "image": "https://avatars.githubusercontent.com/u/67061560?s=60&v=4",
    "date": "2026-10-26T22:00:34.000Z"
-  },
-  {
-   "id": "4d402a57715f",
-   "sourceId": "gh-changedetection",
-   "sourceName": "Changedetection.io",
-   "title": "Changedetection.io · 0.60.10",
-   "summary": "What's Changed Update orjson requirement from ~=3.12 to ~=3.13 by @dependabot [bot] in #4542 LLM restock: fix locale-formatted string prices (1.299,95 read as 1.29995) by @dgtlmoon in #4544 Puppeteer fetcher - PDF improvements, Handle PDF…",
-   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.60.10",
-   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
-   "date": "2026-10-26T12:00:07.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -966,33 +966,30 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
-  },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "arena": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "gutenberg": {
@@ -1009,19 +1006,25 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
+  "poe": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "photopea": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -1034,12 +1037,6 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
@@ -1047,10 +1044,16 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1059,10 +1062,13 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1072,13 +1078,19 @@
   "cursor": {
    "aviso": "sem feed"
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "claude": {
    "aviso": "sem feed"
   },
   "v0": {
@@ -1087,79 +1099,67 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
-   "aviso": "sem feed"
-  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
   "runway": {
    "aviso": "sem feed"
-  },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "kling": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1170,12 +1170,13 @@
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
@@ -1193,51 +1194,50 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
