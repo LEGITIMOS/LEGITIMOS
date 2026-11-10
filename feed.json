@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-11-10T19:11:33.203Z",
+ "generatedAt": "2026-11-10T21:54:54.128Z",
  "items": [
+  {
+   "id": "a0c283b13b94",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.13.2",
+   "summary": "fix: preserve Gunicorn compatibility cap in release installs",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2",
+   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
+   "date": "2026-11-10T21:30:51.000Z"
+  },
+  {
+   "id": "e7f0eb0d8331",
+   "sourceId": "gh-strix",
+   "sourceName": "Strix",
+   "title": "Strix · v1.7.1",
+   "summary": "What's Changed Stop the run after finish_pr_review by @ian-at-strix in #1451 Stop false \"ended without calling finish_scan\" error on PR reviews by @ian-at-strix in #1449 feat(cli): add -r and a title column to the resume picker by @ian-at-…",
+   "url": "https://github.com/usestrix/strix/releases/tag/v1.7.1",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-10T21:24:38.000Z"
+  },
+  {
+   "id": "7b115936c314",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+   "summary": "This is simultaneously the most boring yet exciting blog title I&apos;ve written in a long time. How you pay for services isn&apos;t exactly a sexy topic, but it solves a problem that&apos;s been a massive bugbear for a long time. Here&apo…",
+   "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/11/image.jpg",
+   "date": "2026-11-10T20:26:15.000Z"
+  },
   {
    "id": "cec978d14990",
    "sourceId": "gh-omniroute",
@@ -170,16 +200,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.0rc5",
    "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
    "date": "2026-11-09T23:36:28.000Z"
-  },
-  {
-   "id": "a0c283b13b94",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.13.2",
-   "summary": "fix: reset model provider scroll on selection ( #16314 )",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2",
-   "image": "https://avatars.githubusercontent.com/u/700235?s=60&v=4",
-   "date": "2026-11-09T23:22:52.000Z"
   },
   {
    "id": "f4cd2402b8e3",
@@ -512,16 +532,6 @@
    "date": "2026-10-28T12:00:00.000Z"
   },
   {
-   "id": "ac4461527126",
-   "sourceId": "hibp",
-   "sourceName": "Have I Been Pwned",
-   "title": "Weekly Update 527: Cybergeddon News v. Reality",
-   "summary": "As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn&apos;t eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single s…",
-   "url": "https://www.troyhunt.com/weekly-update-527/",
-   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/10/maxresdefault-1.jpg",
-   "date": "2026-10-27T07:59:09.000Z"
-  },
-  {
    "id": "b4fe94b57e73",
    "sourceId": "gh-gallerydl",
    "sourceName": "Gallery-DL",
@@ -762,16 +772,6 @@
    "date": "2026-09-05T01:30:11.000Z"
   },
   {
-   "id": "83cc3748142c",
-   "sourceId": "gh-strix",
-   "sourceName": "Strix",
-   "title": "Strix · v1.6.1",
-   "summary": "What's Changed skills: reference new cloud cli by @bearsyankees in #1227 MCP call errors no longer quarantine the connection by @yoni-at-strix in #1228 fix(tui): run environment and model checks on the no-target start screen by @devin-ai-i…",
-   "url": "https://github.com/usestrix/strix/releases/tag/v1.6.1",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-09-02T16:10:57.000Z"
-  },
-  {
    "id": "61f9d0d39767",
    "sourceId": "gh-localsend",
    "sourceName": "LocalSend",
@@ -985,49 +985,46 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 7
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
+  "arena": {
    "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1037,7 +1034,13 @@
   "shots": {
    "aviso": "sem feed"
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "carbon": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1047,7 +1050,7 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
+  "magnific": {
    "aviso": "sem feed"
   },
   "removebg": {
@@ -1058,13 +1061,6 @@
   },
   "clipdrop": {
    "aviso": "sem feed"
-  },
-  "magnific": {
-   "aviso": "sem feed"
-  },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
   },
   "rayso": {
    "aviso": "sem feed"
@@ -1078,7 +1074,14 @@
   "cursor": {
    "aviso": "sem feed"
   },
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
+  },
   "perplexity": {
+   "aviso": "sem feed"
+  },
+  "huggingface": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1087,39 +1090,39 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "runway": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "bolt": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
+  "napkin": {
+   "aviso": "sem feed"
+  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
-  },
-  "napkin": {
-   "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
   },
   "otter": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1129,12 +1132,6 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "jasper": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
    "aviso": "sem feed"
   },
@@ -1142,9 +1139,8 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
+  "notionai": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -1154,16 +1150,20 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1178,16 +1178,17 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
@@ -1197,19 +1198,26 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1224,20 +1232,12 @@
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "raphael": {
