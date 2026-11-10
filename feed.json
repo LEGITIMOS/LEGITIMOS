@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-11-10T16:01:13.049Z",
+ "generatedAt": "2026-11-10T19:11:33.203Z",
  "items": [
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-10T17:57:07.000Z"
+  },
+  {
+   "id": "500a763c6237",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "2027 Public Domain Film Contest: The Internet Archive is Looking For Creative Short Films Made By You!",
+   "summary": "We invite filmmakers, artists, and creatives of all skill levels and backgrounds to celebrate Public Domain Day, by creating and uploading a short film not exceeding 4 minutes to the Internet Archive. This contest offers a chance to explor…",
+   "url": "https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/11/PD_FILM_CONTEST_16-9_2027-1024x576.png",
+   "date": "2026-11-10T17:00:00.000Z"
+  },
   {
    "id": "46ecb159c153",
    "sourceId": "chatgpt",
@@ -9,6 +29,16 @@
    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "image": "",
+   "date": "2026-11-10T12:00:00.000Z"
+  },
+  {
+   "id": "9fcb62f6e3d7",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Introducing Scribe v3 and v3 Live, our most accurate speech to text models",
+   "summary": "Scribe v3 and Scribe v3 Live are our most accurate speech to text models for recorded and realtime audio, with 27% fewer word errors than Scribe v2.",
+   "url": "https://elevenlabs.io/blog/scribe-v3",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/62nrpu3ec1u-Cover.webp",
    "date": "2026-11-10T12:00:00.000Z"
   },
   {
@@ -52,6 +82,16 @@
    "date": "2026-11-10T10:00:18.000Z"
   },
   {
+   "id": "5ca4dc7b6d88",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Introducing Businesses in ChatGPT",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "image": "",
+   "date": "2026-11-10T10:00:00.000Z"
+  },
+  {
    "id": "3ab93afdd787",
    "sourceId": "gh-browseruse",
    "sourceName": "Browser Use",
@@ -80,26 +120,6 @@
    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "image": "",
    "date": "2026-11-10T09:00:00.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-10T08:57:49.000Z"
-  },
-  {
-   "id": "3588ceed4155",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "image": "",
-   "date": "2026-11-10T07:00:00.000Z"
   },
   {
    "id": "79e31cfb117b",
@@ -270,16 +290,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.37.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-11-06T13:06:00.000Z"
-  },
-  {
-   "id": "12839cc6c88c",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Share your ElevenMusic creations directly to SoundCloud",
-   "summary": "Create a track in ElevenMusic and publish it to SoundCloud in a few clicks. SoundCloud Artist Pro members get 3 months of ElevenMusic free.",
-   "url": "https://elevenlabs.io/blog/soundcloud",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/7755y4l487u-ElevenMusic_SoundCloud_Integration_Blog_Cover_1600x900--3-.webp",
-   "date": "2026-11-06T12:00:00.000Z"
   },
   {
    "id": "180a8db0dac9",
@@ -500,16 +510,6 @@
    "url": "https://blog.archive.org/2026/10/28/celebrating-democracys-library/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/10/2026-10-21-Internet-Archive-Democracys-Library_0352-1024x683.jpg",
    "date": "2026-10-28T12:00:00.000Z"
-  },
-  {
-   "id": "d875aa436373",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "A Behind-the-Scenes Look at the Physical Archive",
-   "summary": "Internet Archive&#8217;s digital librarian, Brewster Kahle, leads a tour through the Physical Archive. Visitors who came to the open house at the Physical Archive in Richmond, California, on October 20 were curious. They wanted to learn ab…",
-   "url": "https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/Brewster-Physical-Archive-1-1024x683.jpg",
-   "date": "2026-10-27T11:05:00.000Z"
   },
   {
    "id": "ac4461527126",
@@ -955,7 +955,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1375
+   "itens": 1376
   },
   "canva": {
    "aviso": "sem feed"
@@ -966,38 +966,35 @@
   "receivesms": {
    "aviso": "ignorado"
   },
+  "tempmail": {
+   "feed": "https://temp-mail.org/blog/feed",
+   "itens": 15
+  },
+  "delphi": {
+   "aviso": "sem feed"
+  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
-   "aviso": "sem feed"
-  },
-  "tempmail": {
-   "feed": "https://temp-mail.org/blog/feed",
-   "itens": 15
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 7
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
-  },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
   },
   "arena": {
    "aviso": "sem feed"
@@ -1006,41 +1003,41 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "squoosh": {
+  "poe": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "shots": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "unscreen": {
+  "shots": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1050,19 +1047,26 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "clipdrop": {
-   "aviso": "sem feed"
-  },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "krea": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "pairdrop": {
@@ -1071,142 +1075,137 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "v0": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "perplexity": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "replit": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "v0": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "napkin": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "gamma": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "otter": {
    "aviso": "sem feed"
   },
-  "kling": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-cobalt": {
+  "jasper": {
    "aviso": "sem feed"
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "notionai": {
+   "aviso": "sem feed"
   },
-  "otter": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
+  },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
@@ -1221,6 +1220,14 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
@@ -1228,13 +1235,6 @@
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
