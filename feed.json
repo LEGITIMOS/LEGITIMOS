@@ -1,6 +1,26 @@
 {
- "generatedAt": "2026-11-10T04:04:27.963Z",
+ "generatedAt": "2026-11-10T07:27:43.996Z",
  "items": [
+  {
+   "id": "79e31cfb117b",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.38.0",
+   "summary": "1.38.0 (2026-11-10) What's Changed Features feat: edit executable plugin configuration in automation help by @ak684 in #19453 feat: display conversation budgets with semantic meter fills by @enyst in #18533 feat: add Paper theme to Agent C…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.38.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-10T05:10:01.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-10T05:05:20.000Z"
+  },
   {
    "id": "a6f65171961a",
    "sourceId": "gh-browseruse",
@@ -60,16 +80,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.0rc4",
    "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
    "date": "2026-11-09T21:21:31.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-09T21:15:58.000Z"
   },
   {
    "id": "9c331579e229",
@@ -310,16 +320,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/pr19394-evidence",
    "image": "https://avatars.githubusercontent.com/u/398875?s=60&v=4",
    "date": "2026-11-05T22:31:40.000Z"
-  },
-  {
-   "id": "13a8bf9f166f",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.36.0",
-   "summary": "1.36.0 (2026-11-05) What's Changed Features feat(automations): open templates without the missing-integration notice by @ak684 in #19297 feat(automations): list a script automation's files collapsed by @VascoSch92 in #19319 feat(automation…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-11-05T21:46:26.000Z"
   },
   {
    "id": "47ed0f8aa3d0",
@@ -892,6 +892,26 @@
    "date": "2026-05-23T00:42:31.000Z"
   },
   {
+   "id": "b20ebfd6885f",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Stories from the Faerie Queene by Mary Macleod and Edmund Spenser",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79406",
+   "image": "https://www.gutenberg.org/cache/epub/79406/pg79406.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "454cae38576f",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Lumimyrskyssä : by Adolf Schmitthenner and Mark Twain",
+   "summary": "Language: Finnish",
+   "url": "https://www.gutenberg.org/ebooks/79949",
+   "image": "https://www.gutenberg.org/cache/epub/79949/pg79949.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "cbc7327c7ab1",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -899,26 +919,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79947",
    "image": "https://www.gutenberg.org/cache/epub/79947/pg79947.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "ce183f7a7bef",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The complete poetical works of Geoffrey Chaucer, now first put into modern English by Chaucer",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79952",
-   "image": "https://www.gutenberg.org/cache/epub/79952/pg79952.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "467231d129a8",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "A man's right by Helen R. Hull",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79944",
-   "image": "https://www.gutenberg.org/cache/epub/79944/pg79944.cover.medium.jpg",
    "date": null
   },
   {
@@ -973,13 +973,10 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "alternativeto": {
@@ -989,83 +986,86 @@
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 26
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
-  },
-  "justwatch": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "arena": {
    "aviso": "sem feed"
   },
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 29
+  },
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
+  },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "squoosh": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
+  "photopea": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "krea": {
    "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "rayso": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1075,22 +1075,22 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
   "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "claude": {
    "aviso": "sem feed"
   },
   "v0": {
@@ -1102,36 +1102,33 @@
   "opusclip": {
    "aviso": "sem feed"
   },
+  "runway": {
+   "aviso": "sem feed"
+  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "runway": {
-   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
+  "napkin": {
+   "aviso": "sem feed"
+  },
   "gamma": {
    "aviso": "sem feed"
   },
-  "napkin": {
+  "otter": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
-   "aviso": "sem feed"
-  },
   "notionai": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "otter": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1141,6 +1138,9 @@
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
+  },
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -1158,36 +1158,33 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
+   "itens": 10
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
@@ -1197,9 +1194,13 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
@@ -1212,33 +1213,32 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
+   "itens": 10
+  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
