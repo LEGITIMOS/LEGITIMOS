@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T07:31:01.165Z",
+ "generatedAt": "2026-11-11T10:13:33.303Z",
  "items": [
   {
    "id": "f28f90d2895a",
@@ -12,6 +12,26 @@
    "date": "2026-11-12T00:00:00.000Z"
   },
   {
+   "id": "3da8daaf7a7a",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Watch Seoul’s 6,500-Year Evolution in a Mesmerizing 3D Animated Time Lapse",
+   "summary": "In this century, few countries have been as visibly successful as South Korea. China’s vertiginous economic rise once absorbed vast amounts of news-media attention, but its soft power has comparatively little reach across the wider world,…",
+   "url": "https://www.openculture.com/2026/11/watch-seouls-6500-year-evolution-in-a-mesmerizing-3d-animated-time-lapse.html",
+   "image": "https://i.ytimg.com/vi/C4mJqKvQALg/maxresdefault.jpg",
+   "date": "2026-11-11T10:00:21.000Z"
+  },
+  {
+   "id": "e56bdd21e3dd",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Inspiration from Charles Bukowski: You Might Be Old, Your Life May Be “Crappy,” But You Can Still Make Good Art",
+   "summary": "Now more than ever, there’s tremendous pressure to make it big while you’re young. Pity the 31-year-old who fails to make it onto a 30-under-30 list… The soon-to-graduate high schooler passed over for YouTube stardom… The great hordes who…",
+   "url": "https://www.openculture.com/2026/11/charles-bukowski-you-might-be-old-your-life-may-be-crappy.html",
+   "image": "https://i.ytimg.com/vi/eTiW_zpMP8U/maxresdefault.jpg",
+   "date": "2026-11-11T09:00:23.000Z"
+  },
+  {
    "id": "80b38ea7da37",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -22,14 +42,34 @@
    "date": "2026-11-11T08:00:00.000Z"
   },
   {
-   "id": "ec49eaeee1ac",
+   "id": "1db884adfb82",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc98",
-   "summary": "Bump release version to 0.9.78rc98",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc98",
+   "title": "ArchiveBox · v0.9.78rc100",
+   "summary": "Bump release version to 0.9.78rc100",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc100",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-11T07:16:44.000Z"
+   "date": "2026-11-11T07:49:05.000Z"
+  },
+  {
+   "id": "6f33f658c8a8",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc100",
+   "summary": "Bump release version to 0.9.78rc100",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc100",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-11T07:49:05.000Z"
+  },
+  {
+   "id": "024a05455fa3",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc99",
+   "summary": "Bump release version to 0.9.78rc99",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc99",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-11T07:35:42.000Z"
   },
   {
    "id": "afd02633ea51",
@@ -40,26 +80,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev24",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-11T06:00:50.000Z"
-  },
-  {
-   "id": "59ff4350dabf",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc97",
-   "summary": "Bump release version to 0.9.78rc97",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc97",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-11T05:51:12.000Z"
-  },
-  {
-   "id": "5a54d3d02b2e",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc97",
-   "summary": "Bump release version to 0.9.78rc97",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc97",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-11T05:51:12.000Z"
   },
   {
    "id": "cec978d14990",
@@ -132,6 +152,16 @@
    "date": "2026-11-10T20:26:15.000Z"
   },
   {
+   "id": "500a763c6237",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "2027 Public Domain Film Contest: The Internet Archive is Looking For Creative Short Films Made By You!",
+   "summary": "We invite filmmakers, artists, and creatives of all skill levels and backgrounds to celebrate Public Domain Day, by creating and uploading a short film not exceeding 4 minutes to the Internet Archive. This contest offers a chance to explor…",
+   "url": "https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/11/PD_FILM_CONTEST_16-9_2027-1024x576.png",
+   "date": "2026-11-10T17:00:00.000Z"
+  },
+  {
    "id": "46ecb159c153",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -182,16 +212,6 @@
    "date": "2026-11-10T09:27:28.000Z"
   },
   {
-   "id": "8cea8ed88f7a",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "When Charles Dickens Met Edgar Allan Poe",
-   "summary": "“There comes Poe with his raven,” wrote the poet James Russell Lowell in 1848, “like Barnaby Rudge, / Three-fifths of him genius and two-fifths sheer fudge.” Barnaby Rudge , as you may know, is a novel by Charles Dickens , published serial…",
-   "url": "https://www.openculture.com/2026/11/when-charles-dickens-and-edgar-allan-poe-met.html",
-   "image": "https://cdn8.openculture.com/2026/11/09230825/Dickens-Poe-brighter.jpg",
-   "date": "2026-11-10T09:00:04.000Z"
-  },
-  {
    "id": "79e31cfb117b",
    "sourceId": "gh-openhands",
    "sourceName": "OpenHands",
@@ -230,16 +250,6 @@
    "url": "https://elevenlabs.io/blog/what-is-an-api-endpoint",
    "image": "https://elevenlabs.io/cover.png",
    "date": "2026-11-09T12:00:00.000Z"
-  },
-  {
-   "id": "bd8b0257249f",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Explore the Reading List for Harvard’s Humanities 10: The “Brutal” Humanities Class That’s Suddenly in High Demand",
-   "summary": "There are plenty of good reasons a student might want to go to Harvard. One is its long history, at least by American standards; another is the formidable accomplishments of the professors hired to teach there. But on some level, a teenage…",
-   "url": "https://www.openculture.com/2026/11/explore-the-reading-list-for-harvards-humanities-10.html",
-   "image": "https://i.ytimg.com/vi/SD3AI0r88aA/maxresdefault.jpg",
-   "date": "2026-11-09T10:00:07.000Z"
   },
   {
    "id": "5f1c02eab672",
@@ -416,7 +426,7 @@
    "sourceId": "gh-dify",
    "sourceName": "Dify",
    "title": "Dify · v1.19.0 - Trace Your Workflows, Layer by Layer",
-   "summary": "",
+   "summary": "Dify 1.19.0 brings nested workflow tracing to your observability tools. Follow a workflow into the Workflow Tools it calls, inspect the steps inside each invocation, and keep the LLM context alongside the execution tree. This release also…",
    "url": "https://github.com/langgenius/dify/releases/tag/1.19.0",
    "image": "https://avatars.githubusercontent.com/u/16485841?s=60&v=4",
    "date": "2026-11-04T07:37:34.000Z"
@@ -492,6 +502,16 @@
    "date": "2026-10-30T06:45:34.000Z"
   },
   {
+   "id": "7a53bd271ac1",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Weaving ‘Tapestries’: Introducing A New Tool for Digital Storytelling and Archiving",
+   "summary": "Between text, images, audio clips and videos, there are so many elements at your fingertips to tell a story in the digital era. A new expressive tool is now available to make it easy to assemble material online and share your creation wide…",
+   "url": "https://blog.archive.org/2026/10/29/weaving-tapestries/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/exploring-seed-catalogs-tapestry-1-1024x716.png",
+   "date": "2026-10-29T17:34:52.000Z"
+  },
+  {
    "id": "12f53f82bf25",
    "sourceId": "suno",
    "sourceName": "Suno",
@@ -500,6 +520,16 @@
    "url": "https://suno.com/blog/studio-chat-assistant",
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "date": "2026-10-29T16:00:00.000Z"
+  },
+  {
+   "id": "ae3fb4fde255",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "From Main Street to Capitol Hill, the Case for Democracy’s Library",
+   "summary": "At a time when free speech is under attack and the public record is fragile, supporters gathered in San Francisco on October 21 to celebrate the Internet Archive’s work to preserve knowledge for all through Democracy’s Library , an initiat…",
+   "url": "https://blog.archive.org/2026/10/28/celebrating-democracys-library/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/2026-10-21-Internet-Archive-Democracys-Library_0352-1024x683.jpg",
+   "date": "2026-10-28T12:00:00.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -536,7 +566,7 @@
    "sourceId": "gh-dify",
    "sourceName": "Dify",
    "title": "Dify · v1.18.0 — Smarter Agent Routing, Portable Apps, Deeper Workflow Visibility",
-   "summary": "",
+   "summary": "Dify 1.18.0 brings Agents that route workflows , portable app packages , deeper visibility into nested workflow runs , and the opt-in Agent Knowledge Base experience. OpenAPI and the new difyctl expand how you build and manage apps from th…",
    "url": "https://github.com/langgenius/dify/releases/tag/1.18.0",
    "image": "https://avatars.githubusercontent.com/u/16485841?s=60&v=4",
    "date": "2026-10-23T06:35:41.000Z"
@@ -726,7 +756,7 @@
    "sourceId": "gh-dify",
    "sourceName": "Dify",
    "title": "Dify · v1.17.1 - Bug Fixes and Improvements",
-   "summary": "chore: bump version to 1.17.1 ( #42129 ) Co-authored-by: Devin <158243242+devin-ai-integration[bot]@users.noreply.github.com>",
+   "summary": "Warning Self-hosted deployments using the bundled Weaviate must complete a manual, staged upgrade before starting 1.17.1. The bundled Weaviate server moves from 1.27.0 to 1.39.2 — 12 minor versions — and skipping minors is unsupported . Pu…",
    "url": "https://github.com/langgenius/dify/releases/tag/1.17.1",
    "image": "https://avatars.githubusercontent.com/u/12965714?s=60&v=4",
    "date": "2026-09-10T10:17:09.000Z"
@@ -927,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1380
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -955,15 +985,19 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "poe": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 14
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "neapay": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
@@ -972,16 +1006,10 @@
   "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
    "aviso": "sem feed"
   },
   "arena": {
@@ -993,26 +1021,23 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
+  "shots": {
+   "aviso": "sem feed"
+  },
   "unscreen": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "wayback": {
    "aviso": "sem feed"
   },
   "photoroom": {
@@ -1022,29 +1047,35 @@
   "speedtest": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "carbon": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "rayso": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "registrobr": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1059,21 +1090,21 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "v0": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "bolt": {
    "aviso": "sem feed"
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
-  },
-  "opusclip": {
-   "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
@@ -1088,43 +1119,43 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "notionai": {
+   "aviso": "sem feed"
+  },
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
+  "otter": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
@@ -1143,23 +1174,23 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
@@ -1177,36 +1208,36 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/tags.atom",
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "raphael": {
