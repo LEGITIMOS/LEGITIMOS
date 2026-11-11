@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T10:13:33.303Z",
+ "generatedAt": "2026-11-11T13:27:17.388Z",
  "items": [
   {
    "id": "f28f90d2895a",
@@ -892,23 +892,13 @@
    "date": "2026-05-23T00:42:31.000Z"
   },
   {
-   "id": "b20ebfd6885f",
+   "id": "166f89fc708b",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Stories from the Faerie Queene by Mary Macleod and Edmund Spenser",
+   "title": "Home and garden : by Gertrude Jekyll",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79406",
-   "image": "https://www.gutenberg.org/cache/epub/79406/pg79406.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "12b6711dedb0",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Utopia by Saint Thomas More",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/2130",
-   "image": "https://www.gutenberg.org/cache/epub/2130/pg2130.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79967",
+   "image": "https://www.gutenberg.org/cache/epub/79967/pg79967.cover.medium.jpg",
    "date": null
   },
   {
@@ -919,6 +909,16 @@
    "summary": "Language: German",
    "url": "https://www.gutenberg.org/ebooks/79966",
    "image": "https://www.gutenberg.org/cache/epub/79966/pg79966.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "ffca09c86ff8",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "The Wreck of the Titan by Morgan Robertson",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/24880",
+   "image": "https://www.gutenberg.org/cache/epub/24880/pg24880.cover.medium.jpg",
    "date": null
   },
   {
@@ -957,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1380
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -985,18 +985,18 @@
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 14
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "gutenberg": {
+   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+   "itens": 9
+  },
   "neapay": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "openculture": {
@@ -1009,32 +1009,32 @@
   "squoosh": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "poe": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "photopea": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1044,16 +1044,16 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "krea": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1062,13 +1062,13 @@
   "magnific": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1084,29 +1084,29 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
   "claude": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "v0": {
    "aviso": "sem feed"
   },
   "opusclip": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "suno": {
@@ -1125,29 +1125,29 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
@@ -1174,9 +1174,6 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
@@ -1185,31 +1182,38 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1224,20 +1228,16 @@
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
