@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T13:27:17.388Z",
+ "generatedAt": "2026-11-11T16:05:16.732Z",
  "items": [
   {
    "id": "f28f90d2895a",
@@ -10,6 +10,46 @@
    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "image": "",
    "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "id": "afd02633ea51",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev24",
+   "summary": "Langflow nightly v1.14.0.dev24",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev24",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-11T15:24:21.000Z"
+  },
+  {
+   "id": "8b73b7b93013",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "ElevenLabs expands partner program to help enterprises adopt AI agents faster",
+   "summary": "ElevenLabs launches its Partner Program: more than 550 partners in 44 countries, new certifications, and co-selling to speed enterprise AI adoption.",
+   "url": "https://elevenlabs.io/blog/partner-program",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ttcswsp2jxa-blog-partner-program-16x9.webp",
+   "date": "2026-11-11T12:00:00.000Z"
+  },
+  {
+   "id": "781844fdfff7",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "McKinsey and ElevenLabs collaborate to take natural AI conversations to enterprise scale",
+   "summary": "McKinsey and ElevenLabs announce an alliance to help enterprises prove and scale conversational AI agents, starting with telecom and insurance.",
+   "url": "https://elevenlabs.io/blog/mckinsey",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/xnc1dpl24a-blog-elevenlabs-x-mckinsey-16x9--1-.webp",
+   "date": "2026-11-11T12:00:00.000Z"
+  },
+  {
+   "id": "342e94320731",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How enterprise clients are putting ElevenLabs AI to work",
+   "summary": "See how Yahoo, Westgate, KPN, Doppel, Pocket, and Twilio put ElevenLabs voice AI to work, from front-desk agents to Dutch fine-tuning.",
+   "url": "https://elevenlabs.io/blog/enterprise-nyc-summit",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jd8xet1p04m-Horizontal.webp",
+   "date": "2026-11-11T12:00:00.000Z"
   },
   {
    "id": "3da8daaf7a7a",
@@ -70,16 +110,6 @@
    "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc99",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
    "date": "2026-11-11T07:35:42.000Z"
-  },
-  {
-   "id": "afd02633ea51",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev24",
-   "summary": "Langflow nightly v1.14.0.dev24",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev24",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-11T06:00:50.000Z"
   },
   {
    "id": "cec978d14990",
@@ -172,26 +202,6 @@
    "date": "2026-11-10T12:00:00.000Z"
   },
   {
-   "id": "e8fdfdb1c5c8",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "WAV vs MP3: How to choose the right audio file format",
-   "summary": "WAV vs MP3? Compare file size, sound quality, and compatibility, and learn which audio format to use for recording, editing, sharing, and voice cloning",
-   "url": "https://elevenlabs.io/blog/wav-vs-mp3",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-10T12:00:00.000Z"
-  },
-  {
-   "id": "9fcb62f6e3d7",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Introducing Scribe v3 and v3 Live, our most accurate speech to text models",
-   "summary": "Scribe v3 and Scribe v3 Live are our most accurate speech to text models for recorded and realtime audio, with 27% fewer word errors than Scribe v2.",
-   "url": "https://elevenlabs.io/blog/scribe-v3",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/62nrpu3ec1u-Cover.webp",
-   "date": "2026-11-10T12:00:00.000Z"
-  },
-  {
    "id": "011c6da833ff",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -240,16 +250,6 @@
    "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.3",
    "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
    "date": "2026-11-09T14:57:31.000Z"
-  },
-  {
-   "id": "c0887ea342e8",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "What is an API endpoint? A guide to connected software",
-   "summary": "Learn what an API endpoint is, how requests and responses work, common HTTP methods, and how to test and secure endpoints, with ElevenAPI examples.",
-   "url": "https://elevenlabs.io/blog/what-is-an-api-endpoint",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-09T12:00:00.000Z"
   },
   {
    "id": "5f1c02eab672",
@@ -970,10 +970,10 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
@@ -982,52 +982,52 @@
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
    "itens": 9
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
-  "arena": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "poe": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
+   "aviso": "sem feed"
+  },
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1037,23 +1037,23 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "earthtimelapse": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "unscreen": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "removebg": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1062,20 +1062,20 @@
   "magnific": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1084,19 +1084,16 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "huggingface": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "claude": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
   "v0": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
    "aviso": "sem feed"
   },
   "runway": {
@@ -1113,30 +1110,33 @@
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
   "gamma": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
-   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
@@ -1166,6 +1166,9 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
@@ -1174,16 +1177,16 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
@@ -1194,26 +1197,23 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1224,16 +1224,16 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
