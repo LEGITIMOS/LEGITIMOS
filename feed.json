@@ -1,15 +1,65 @@
 {
- "generatedAt": "2026-11-12T11:18:50.167Z",
+ "generatedAt": "2026-11-12T19:58:18.012Z",
  "items": [
   {
-   "id": "a6955e39678c",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "2,800-Year-Old Bone Flute Unearthed in Troy May Have Been Played During Homer’s Time",
-   "summary": "Image by Mehmet Nuri Ersoy, via Twitter The prolific Hans Zimmer scored Christopher Nolan’s films over the dozen years from Batman Begins through Dunkirk . From 2020’s Tenet onward, Nolan has employed the younger Swedish composer Ludwig Gö…",
-   "url": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
-   "image": "https://cdn8.openculture.com/2026/11/11202916/HVN3NLsW0AApS9U.jpeg",
-   "date": "2026-11-12T10:00:59.000Z"
+   "id": "c6db5a462587",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Annual Celebration 2026: Internet Archive Staff and Friends Showcase Latest Developments",
+   "summary": "The theme for this year’s annual celebration was “Democracy’s Library: Tools for Participation” : putting a spotlight on the ways people can use Internet Archive’s tools to participate—from saving and contributing materials to exploring go…",
+   "url": "https://blog.archive.org/2026/11/12/annual-celebration-2026-internet-archive-staff-and-friends-showcase-latest-developments/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/10/TOOLS_FOR_PARTICIPATION_EVENTBRITE_2160-2048x1024-1-1024x512.png",
+   "date": "2026-11-12T19:15:39.000Z"
+  },
+  {
+   "id": "a9735ffeec07",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "Preserving 30 Years of Salon Journalism",
+   "summary": "When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for…",
+   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1-1024x536.png",
+   "date": "2026-11-12T16:55:50.000Z"
+  },
+  {
+   "id": "48cd1d0fa6fb",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · browser-use 1.0.3",
+   "summary": "pip install 'browser-use==1.0.3' --cli-mcp exits cleanly when the client closed the pipe before the reply (was exit 1 with ExceptionGroup ). The CLI runs its own Chromium when no browser has remote debugging on or there is no display, like…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.3",
+   "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
+   "date": "2026-11-12T16:52:54.000Z"
+  },
+  {
+   "id": "48d6cc35c8c2",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc108",
+   "summary": "Bump release version to 0.9.78rc108",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc108",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-12T16:51:27.000Z"
+  },
+  {
+   "id": "62e65fb44850",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc108",
+   "summary": "Bump release version to 0.9.78rc108",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc108",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-12T16:51:27.000Z"
+  },
+  {
+   "id": "11e076221845",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78",
+   "summary": "Bump release version to 0.9.78",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-12T16:48:33.000Z"
   },
   {
    "id": "cec978d14990",
@@ -19,7 +69,37 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-12T09:56:51.000Z"
+   "date": "2026-11-12T15:31:03.000Z"
+  },
+  {
+   "id": "7cd315dbd923",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.40.0",
+   "summary": "1.40.0 (2026-11-12) What's Changed Features feat: improve Codex subscription authentication guidance by @xunjizhe in #17194 Bug Fixes fix(chat): keep messages at tied history page boundaries by @enyst in #19649 fix(chat): prevent delayed e…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.40.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-12T14:32:59.000Z"
+  },
+  {
+   "id": "2315d5b92875",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
+   "summary": "ElevenLabs launches free ElevenMusic for artists with voice loss, partners with Wounded Warrior Project, and adds NYU Langone to 1 Million Voices.",
+   "url": "https://elevenlabs.io/blog/impact-nyc-summit",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/hzu606cgpup-2304662705.webp",
+   "date": "2026-11-12T12:00:00.000Z"
+  },
+  {
+   "id": "a6955e39678c",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "2,800-Year-Old Bone Flute Unearthed in Troy May Have Been Played During Homer’s Time",
+   "summary": "Image by Mehmet Nuri Ersoy, via Twitter The prolific Hans Zimmer scored Christopher Nolan’s films over the dozen years from Batman Begins through Dunkirk . From 2020’s Tenet onward, Nolan has employed the younger Swedish composer Ludwig Gö…",
+   "url": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
+   "image": "https://cdn8.openculture.com/2026/11/11202916/HVN3NLsW0AApS9U.jpeg",
+   "date": "2026-11-12T10:00:59.000Z"
   },
   {
    "id": "0990939c7d6e",
@@ -62,26 +142,6 @@
    "date": "2026-11-12T02:11:28.000Z"
   },
   {
-   "id": "ab49305312bc",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc107",
-   "summary": "Bump release version to 0.9.78rc107",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc107",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-12T01:02:11.000Z"
-  },
-  {
-   "id": "ee010ae66b9d",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc107",
-   "summary": "Bump release version to 0.9.78rc107",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc107",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-12T01:02:11.000Z"
-  },
-  {
    "id": "b06379671ede",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -100,16 +160,6 @@
    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "image": "",
    "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "id": "f2e7b3d0e695",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc106",
-   "summary": "Bump release version to 0.9.78rc106",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc106",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-11T21:53:32.000Z"
   },
   {
    "id": "cfc3826d21d3",
@@ -162,16 +212,6 @@
    "date": "2026-11-11T12:00:00.000Z"
   },
   {
-   "id": "8b73b7b93013",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "ElevenLabs expands partner program to help enterprises adopt AI agents faster",
-   "summary": "ElevenLabs launches its Partner Program: more than 550 partners in 44 countries, new certifications, and co-selling to speed enterprise AI adoption.",
-   "url": "https://elevenlabs.io/blog/partner-program",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/ttcswsp2jxa-blog-partner-program-16x9.webp",
-   "date": "2026-11-11T12:00:00.000Z"
-  },
-  {
    "id": "3da8daaf7a7a",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -200,16 +240,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev23",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-11T00:26:04.000Z"
-  },
-  {
-   "id": "14c506985b9d",
-   "sourceId": "gh-browseruse",
-   "sourceName": "Browser Use",
-   "title": "Browser Use · 1.0.2rc1: release candidate for 1.0.2",
-   "summary": "Release candidate for 1.0.2. Install it explicitly: pip install 'browser-use==1.0.2rc1' . Plain installs still get 1.0.1. --cli-mcp with Chrome remote debugging off now drives its own Chromium and tells the model how to get your Chrome (to…",
-   "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.2rc1",
-   "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
-   "date": "2026-11-10T22:56:31.000Z"
   },
   {
    "id": "e7f0eb0d8331",
@@ -320,16 +350,6 @@
    "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.26",
    "image": "https://avatars.githubusercontent.com/u/51297686?s=60&v=4",
    "date": "2026-11-07T00:47:14.000Z"
-  },
-  {
-   "id": "5a1e0e88b1d1",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.37.0",
-   "summary": "1.37.0 (2026-11-06) What's Changed Features feat(automations): explain each automation with a Mermaid diagram by @VascoSch92 in #19318 Bug Fixes fix(chat): place resumed sessions after UTC conversation history by @ak684 in #19400 fix: keep…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.37.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-11-06T13:06:00.000Z"
   },
   {
    "id": "180a8db0dac9",
@@ -502,16 +522,6 @@
    "date": "2026-10-30T06:45:34.000Z"
   },
   {
-   "id": "7a53bd271ac1",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Weaving ‘Tapestries’: Introducing A New Tool for Digital Storytelling and Archiving",
-   "summary": "Between text, images, audio clips and videos, there are so many elements at your fingertips to tell a story in the digital era. A new expressive tool is now available to make it easy to assemble material online and share your creation wide…",
-   "url": "https://blog.archive.org/2026/10/29/weaving-tapestries/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/exploring-seed-catalogs-tapestry-1-1024x716.png",
-   "date": "2026-10-29T17:34:52.000Z"
-  },
-  {
    "id": "12f53f82bf25",
    "sourceId": "suno",
    "sourceName": "Suno",
@@ -520,16 +530,6 @@
    "url": "https://suno.com/blog/studio-chat-assistant",
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/fc8af4d734f5a625daf3e957d7cdee3f1b2aa3fc-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "date": "2026-10-29T16:00:00.000Z"
-  },
-  {
-   "id": "ae3fb4fde255",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "From Main Street to Capitol Hill, the Case for Democracy’s Library",
-   "summary": "At a time when free speech is under attack and the public record is fragile, supporters gathered in San Francisco on October 21 to celebrate the Internet Archive’s work to preserve knowledge for all through Democracy’s Library , an initiat…",
-   "url": "https://blog.archive.org/2026/10/28/celebrating-democracys-library/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/10/2026-10-21-Internet-Archive-Democracys-Library_0352-1024x683.jpg",
-   "date": "2026-10-28T12:00:00.000Z"
   },
   {
    "id": "b4fe94b57e73",
@@ -957,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1383
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -982,46 +982,46 @@
   "alternativeto": {
    "aviso": "sem feed"
   },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "arena": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 16
-  },
-  "poe": {
-   "aviso": "sem feed"
+   "itens": 19
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "squoosh": {
+  "poe": {
    "aviso": "sem feed"
   },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "pdf24": {
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "shots": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "photopea": {
@@ -1034,26 +1034,23 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
    "aviso": "sem feed"
   },
   "krea": {
@@ -1062,18 +1059,21 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "cursor": {
+  "magnific": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
+   "aviso": "sem feed"
   },
   "registrobr": {
    "aviso": "sem feed"
@@ -1081,10 +1081,10 @@
   "perplexity": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "bolt": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1093,10 +1093,10 @@
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "v0": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1109,18 +1109,18 @@
   "runway": {
    "aviso": "sem feed"
   },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
-  },
-  "gamma": {
-   "aviso": "sem feed"
-  },
   "otter": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
+  },
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
   },
   "gh-cobalt": {
    "aviso": "sem feed"
@@ -1129,10 +1129,14 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "jasper": {
+  "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-searxng": {
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "notionai": {
@@ -1146,20 +1150,8 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1169,16 +1161,20 @@
   "kling": {
    "aviso": "sem feed"
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "did": {
@@ -1199,6 +1195,10 @@
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
@@ -1224,10 +1224,6 @@
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
@@ -1238,6 +1234,10 @@
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "raphael": {
