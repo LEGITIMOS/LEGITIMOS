@@ -1,6 +1,36 @@
 {
- "generatedAt": "2026-11-13T01:52:21.302Z",
+ "generatedAt": "2026-11-13T11:04:38.446Z",
  "items": [
+  {
+   "id": "3f79cd39ca28",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "When Animals Were Put on Trial in Medieval Europe",
+   "summary": "Most of us twenty-first-century urbanites have a fairly sentimental view of farm animals, precisely because so many generations have gone by since they’ve been part of our daily lives. (In South Korea, where I live, the agricultural past r…",
+   "url": "https://www.openculture.com/2026/11/when-animals-were-put-on-trial-in-medieval-europe.html",
+   "image": "https://cdn8.openculture.com/2026/11/12230056/colored_v2.png",
+   "date": "2026-11-13T09:00:58.000Z"
+  },
+  {
+   "id": "63e9ecf367b4",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "European Intellectual History Since Nietzsche: A Free Online Course from Yale",
+   "summary": "Taught by historian Marci Shore , “ European Intellectual History Since Nietzsche ” surveys the story of modern thought, from the late 18th century to the late 20th. Along the way, the course explores major trends in modern European though…",
+   "url": "https://www.openculture.com/2026/11/european-intellectual-history-since-nietzsche-a-free-online-course-from-yale.html",
+   "image": "https://cdn8.openculture.com/2026/11/13002045/studio_square_thumbnail.jpg",
+   "date": "2026-11-13T08:22:58.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-13T03:27:01.000Z"
+  },
   {
    "id": "db069d0ae6b5",
    "sourceId": "gh-langflow",
@@ -82,16 +112,6 @@
    "date": "2026-11-12T16:51:27.000Z"
   },
   {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-12T15:31:03.000Z"
-  },
-  {
    "id": "7cd315dbd923",
    "sourceId": "gh-openhands",
    "sourceName": "OpenHands",
@@ -152,14 +172,14 @@
    "date": "2026-11-12T09:30:00.000Z"
   },
   {
-   "id": "435303e1b257",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "When Salvador Dali Met Sigmund Freud, and Changed Freud’s Mind About Surrealism (1938)",
-   "summary": "The close associations between Surrealism and Freudian psychoanalysis were liberally encouraged by the most famous proponent of the movement, Salvador Dalí, who considered himself a devoted follower of Freud. We don’t have to wonder what t…",
-   "url": "https://www.openculture.com/2026/11/when-salvador-dali-met-sigmund-freud-and-changed-freuds-mind-about-surrealism-1938.html",
-   "image": "https://cdn8.openculture.com/2020/01/21230300/Dali-Freud1-e1579679444891.jpg",
-   "date": "2026-11-12T09:01:41.000Z"
+   "id": "3f61f5827257",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "Best 5 AI Avatar Agent Platforms for Enterprise Teams",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Enterprise teams comparing AI avatar agent platforms are choosing more than a face. The decision rests on who builds and maintains the agent, what it can know and do, who co…",
+   "url": "https://www.d-id.com/blog/best-5-ai-avatar-agent-platforms-enterprise-teams/",
+   "image": "",
+   "date": "2026-11-12T06:44:39.000Z"
   },
   {
    "id": "b686bcb1c359",
@@ -220,16 +240,6 @@
    "url": "https://elevenlabs.io/blog/voice-cloning-for-content-creators",
    "image": "https://elevenlabs.io/cover.png",
    "date": "2026-11-11T12:00:00.000Z"
-  },
-  {
-   "id": "3da8daaf7a7a",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Watch Seoul’s 6,500-Year Evolution in a Mesmerizing 3D Animated Time Lapse",
-   "summary": "In this century, few countries have been as visibly successful as South Korea. China’s vertiginous economic rise once absorbed vast amounts of news-media attention, but its soft power has comparatively little reach across the wider world,…",
-   "url": "https://www.openculture.com/2026/11/watch-seouls-6500-year-evolution-in-a-mesmerizing-3d-animated-time-lapse.html",
-   "image": "https://i.ytimg.com/vi/C4mJqKvQALg/maxresdefault.jpg",
-   "date": "2026-11-11T10:00:21.000Z"
   },
   {
    "id": "ccbee83d6df6",
@@ -500,16 +510,6 @@
    "url": "https://www.d-id.com/blog/enterprise-teams-ai-video-platforms/",
    "image": "",
    "date": "2026-10-30T07:38:57.000Z"
-  },
-  {
-   "id": "db741cfaaef2",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "10 Best AI Avatar Agent Platforms for Marketing",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → AI avatar agents for marketing answer visitor questions in real time through a face and a voice, on a website, a campaign page or an event screen. Beyond avatar appearance,…",
-   "url": "https://www.d-id.com/blog/10-best-ai-avatar-agent-platforms-marketing/",
-   "image": "",
-   "date": "2026-10-30T07:36:29.000Z"
   },
   {
    "id": "e32f63129ae3",
@@ -892,33 +892,33 @@
    "date": "2026-05-23T00:42:31.000Z"
   },
   {
-   "id": "166f89fc708b",
+   "id": "ea65cef9c02a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Home and garden : by Gertrude Jekyll",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79967",
-   "image": "https://www.gutenberg.org/cache/epub/79967/pg79967.cover.medium.jpg",
+   "title": "L'étreinte du passé by Henri Ardel",
+   "summary": "Language: French",
+   "url": "https://www.gutenberg.org/ebooks/79986",
+   "image": "https://www.gutenberg.org/cache/epub/79986/pg79986.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "7d929c1f5b38",
+   "id": "d81d348dad0a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Arts and crafts in the Middle Ages : by Julia de Wolf Addison",
+   "title": "With the Russians in Manchuria by Maurice Baring",
    "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/18212",
-   "image": "https://www.gutenberg.org/cache/epub/18212/pg18212.cover.medium.jpg",
+   "url": "https://www.gutenberg.org/ebooks/79985",
+   "image": "https://www.gutenberg.org/cache/epub/79985/pg79985.cover.medium.jpg",
    "date": null
   },
   {
-   "id": "d53346845c34",
+   "id": "a5d1bdf37087",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Glasshead by Stanley Mullen",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79975",
-   "image": "https://www.gutenberg.org/cache/epub/79975/pg79975.cover.medium.jpg",
+   "title": "Joug d'amour by Brada",
+   "summary": "Language: French",
+   "url": "https://www.gutenberg.org/ebooks/79987",
+   "image": "https://www.gutenberg.org/cache/epub/79987/pg79987.cover.medium.jpg",
    "date": null
   },
   {
@@ -957,10 +957,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1385
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -979,52 +979,49 @@
   "123apps": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "neapay": {
-   "aviso": "sem feed"
-  },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 20
+   "itens": 8
   },
-  "poe": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
   "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
   "photopea": {
-   "aviso": "sem feed"
-  },
-  "shots": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1034,7 +1031,10 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "carbon": {
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -1044,13 +1044,13 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "removebg": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1059,12 +1059,11 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "speedtest": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
+  "rayso": {
+   "aviso": "sem feed"
   },
   "cursor": {
    "aviso": "sem feed"
@@ -1072,16 +1071,14 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "rayso": {
-   "aviso": "sem feed"
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
    "aviso": "sem feed"
   },
   "replit": {
@@ -1093,10 +1090,13 @@
   "huggingface": {
    "aviso": "sem feed"
   },
+  "v0": {
+   "aviso": "sem feed"
+  },
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1109,13 +1109,17 @@
   "runway": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
+  "suno": {
+   "feed": "https://suno.com/blog/rss.xml",
+   "itens": 50
   },
   "gamma": {
    "aviso": "sem feed"
   },
   "napkin": {
+   "aviso": "sem feed"
+  },
+  "otter": {
    "aviso": "sem feed"
   },
   "jasper": {
@@ -1124,58 +1128,54 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
+  "gh-searxng": {
+   "aviso": "sem feed"
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
-   "itens": 10
-  },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
@@ -1186,44 +1186,51 @@
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
+  },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
@@ -1232,13 +1239,6 @@
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "suno": {
-   "feed": "https://suno.com/blog/rss.xml",
-   "itens": 50
   },
   "raphael": {
    "aviso": "sem feed"
