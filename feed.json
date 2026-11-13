@@ -1,6 +1,66 @@
 {
- "generatedAt": "2026-11-13T11:04:38.446Z",
+ "generatedAt": "2026-11-13T19:46:57.086Z",
  "items": [
+  {
+   "id": "13b6ac16ace6",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc110",
+   "summary": "Bump release version to 0.9.78rc110",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc110",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-13T18:07:50.000Z"
+  },
+  {
+   "id": "5bf4951adbe9",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Introducing ChatGPT Wallet",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "image": "",
+   "date": "2026-11-13T15:00:00.000Z"
+  },
+  {
+   "id": "d8997432476f",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · v6.1.1",
+   "summary": "Highlights A calmer workspace for your job search. Today, Documents, Applications, Career and the resume builder have a refreshed interface, with clearer navigation, focused editing panels and layouts that adapt to phones. The builder keep…",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.1.1",
+   "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
+   "date": "2026-11-13T14:12:51.000Z"
+  },
+  {
+   "id": "08e508ab77ec",
+   "sourceId": "suno",
+   "sourceName": "Suno",
+   "title": "Suno Bridge: Your DAW, Suno-powered.",
+   "summary": "Get Suno in your session with our new standalone Mac app",
+   "url": "https://suno.com/blog/introducing-bridge",
+   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
+   "date": "2026-11-13T14:00:00.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-13T12:14:01.000Z"
+  },
+  {
+   "id": "610b94d69401",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Oxford spent years studying how women build companies. Now this research can speak.",
+   "summary": "SOFIA for Business, built with Oxford Saïd and ElevenLabs Impact, lets founders talk to and add to research on women founders.",
+   "url": "https://elevenlabs.io/blog/impact-sofia-oxford-said",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/k4ojn877vrg-Screenshot-2026-10-10-at-11.33.41%E2%80%AFam.webp",
+   "date": "2026-11-13T12:00:00.000Z"
+  },
   {
    "id": "3f79cd39ca28",
    "sourceId": "openculture",
@@ -20,16 +80,6 @@
    "url": "https://www.openculture.com/2026/11/european-intellectual-history-since-nietzsche-a-free-online-course-from-yale.html",
    "image": "https://cdn8.openculture.com/2026/11/13002045/studio_square_thumbnail.jpg",
    "date": "2026-11-13T08:22:58.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-13T03:27:01.000Z"
   },
   {
    "id": "db069d0ae6b5",
@@ -102,16 +152,6 @@
    "date": "2026-11-12T16:51:27.000Z"
   },
   {
-   "id": "62e65fb44850",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc108",
-   "summary": "Bump release version to 0.9.78rc108",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc108",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-12T16:51:27.000Z"
-  },
-  {
    "id": "7cd315dbd923",
    "sourceId": "gh-openhands",
    "sourceName": "OpenHands",
@@ -160,16 +200,6 @@
    "url": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
    "image": "https://cdn8.openculture.com/2026/11/11202916/HVN3NLsW0AApS9U.jpeg",
    "date": "2026-11-12T10:00:59.000Z"
-  },
-  {
-   "id": "0990939c7d6e",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "image": "",
-   "date": "2026-11-12T09:30:00.000Z"
   },
   {
    "id": "3f61f5827257",
@@ -230,16 +260,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev24",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-11T15:24:21.000Z"
-  },
-  {
-   "id": "bbcbea15fb37",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Voice cloning for content creators: Scale your content workflows with voice AI",
-   "summary": "Learn how voice cloning for content creators helps improve existing workflows across podcasts, YouTube, digital classes, and more with ElevenCreative",
-   "url": "https://elevenlabs.io/blog/voice-cloning-for-content-creators",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-11T12:00:00.000Z"
   },
   {
    "id": "ccbee83d6df6",
@@ -512,16 +532,6 @@
    "date": "2026-10-30T07:38:57.000Z"
   },
   {
-   "id": "e32f63129ae3",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
-   "summary": "Native Forme binaries. Review and commit prebuilt.json before building mobile apps.",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-10-30T06:45:34.000Z"
-  },
-  {
    "id": "12f53f82bf25",
    "sourceId": "suno",
    "sourceName": "Suno",
@@ -610,16 +620,6 @@
    "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.3",
    "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
    "date": "2026-10-16T11:43:13.000Z"
-  },
-  {
-   "id": "7c11c79ec35f",
-   "sourceId": "suno",
-   "sourceName": "Suno",
-   "title": "Sidechaining Makes Your Music Pump",
-   "summary": "One of the oldest tricks in pro audio can bring your mix to life",
-   "url": "https://suno.com/blog/about-sidechaining",
-   "image": "https://cdn.sanity.io/images/cl7b1q1i/production/5152a1b2be75701b57c6328ff10986c61d3573db-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
-   "date": "2026-10-15T15:00:00.000Z"
   },
   {
    "id": "16316f176021",
@@ -892,6 +892,16 @@
    "date": "2026-05-23T00:42:31.000Z"
   },
   {
+   "id": "8a95f44d2350",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Papeis Avulsos by Machado de Assis",
+   "summary": "Language: Portuguese",
+   "url": "https://www.gutenberg.org/ebooks/57001",
+   "image": "https://www.gutenberg.org/cache/epub/57001/pg57001.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "ea65cef9c02a",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -909,16 +919,6 @@
    "summary": "Language: English",
    "url": "https://www.gutenberg.org/ebooks/79985",
    "image": "https://www.gutenberg.org/cache/epub/79985/pg79985.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "a5d1bdf37087",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Joug d'amour by Brada",
-   "summary": "Language: French",
-   "url": "https://www.gutenberg.org/ebooks/79987",
-   "image": "https://www.gutenberg.org/cache/epub/79987/pg79987.cover.medium.jpg",
    "date": null
   },
   {
@@ -955,7 +955,7 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1385
+   "itens": 1386
   },
   "canva": {
    "aviso": "sem feed"
@@ -979,31 +979,32 @@
   "123apps": {
    "aviso": "sem feed"
   },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 8
+   "itens": 14
   },
-  "neapay": {
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "squoosh": {
-   "aviso": "sem feed"
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
   "justwatch": {
    "aviso": "sem feed"
@@ -1011,17 +1012,22 @@
   "pdf24": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "wolframalpha": {
+   "aviso": "sem feed"
   },
   "photopea": {
+   "aviso": "sem feed"
+  },
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "smartmockups": {
@@ -1031,39 +1037,40 @@
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "shots": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "unscreen": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "krea": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
    "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "krea": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
   "rayso": {
    "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
+  "uizard": {
+   "feed": "https://uizard.io/blog/feed",
+   "itens": 15
   },
   "cursor": {
    "aviso": "sem feed"
@@ -1071,20 +1078,7 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "uizard": {
-   "feed": "https://uizard.io/blog/feed",
-   "itens": 15
-  },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1096,33 +1090,36 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
   "bolt": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "runway": {
-   "aviso": "sem feed"
-  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
-   "aviso": "sem feed"
-  },
-  "napkin": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "napkin": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1135,20 +1132,23 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
+   "itens": 10
+  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
-  },
-  "notionai": {
-   "aviso": "sem feed"
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "notionai": {
+   "aviso": "sem feed"
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
@@ -1158,13 +1158,17 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
@@ -1178,62 +1182,58 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
-   "itens": 10
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-strix": {
