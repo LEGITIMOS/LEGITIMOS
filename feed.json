@@ -1,35 +1,45 @@
 {
- "generatedAt": "2026-11-14T10:31:17.823Z",
+ "generatedAt": "2026-11-14T18:08:41.346Z",
  "items": [
   {
-   "id": "ee15e6e729c2",
+   "id": "21562e93172a",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc125",
-   "summary": "Bump release version to 0.9.78rc125",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc125",
+   "title": "ArchiveBox · release-candidate/0.9.78rc147",
+   "summary": "Bump release version to 0.9.78rc147",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc147",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-14T10:10:05.000Z"
+   "date": "2026-11-14T18:04:28.000Z"
   },
   {
-   "id": "ee6aa4497ded",
+   "id": "f7dfd300188d",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc124",
-   "summary": "Bump release version to 0.9.78rc124",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc124",
+   "title": "ArchiveBox · release-candidate/0.9.78rc146",
+   "summary": "Bump release version to 0.9.78rc146",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc146",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-14T09:58:48.000Z"
+   "date": "2026-11-14T13:20:33.000Z"
   },
   {
-   "id": "ffb4f1fcb588",
+   "id": "6aa2607c6816",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc123",
-   "summary": "Bump release version to 0.9.78rc123",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc123",
+   "title": "ArchiveBox · release-candidate/0.9.78rc145",
+   "summary": "Bump release version to 0.9.78rc145",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc145",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-14T09:50:48.000Z"
+   "date": "2026-11-14T12:57:34.000Z"
+  },
+  {
+   "id": "8b5c3f4c3a58",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.20",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.20 Extractors Additions [E621] support blep.art ( cb#597 ) [E621] support hmofa.gallery (…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.20",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-11-14T11:20:14.000Z"
   },
   {
    "id": "dccf70f3a753",
@@ -602,16 +612,6 @@
    "date": "2026-10-20T01:56:41.000Z"
   },
   {
-   "id": "ab7f42636114",
-   "sourceId": "gh-gallerydl",
-   "sourceName": "Gallery-DL",
-   "title": "Gallery-DL · v1.32.17",
-   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.17 Extractors 500px fix PhotoGroup items in user results ( cb#517 ) warn about missing x-5…",
-   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.17",
-   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
-   "date": "2026-10-17T14:26:38.000Z"
-  },
-  {
    "id": "95b4aa1b3abd",
    "sourceId": "gh-supabase",
    "sourceName": "Supabase",
@@ -912,13 +912,13 @@
    "date": null
   },
   {
-   "id": "8a95f44d2350",
+   "id": "6ce4628c48a5",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
-   "title": "Papeis Avulsos by Machado de Assis",
-   "summary": "Language: Portuguese",
-   "url": "https://www.gutenberg.org/ebooks/57001",
-   "image": "https://www.gutenberg.org/cache/epub/57001/pg57001.cover.medium.jpg",
+   "title": "The emancipation of women and its probable consequences by Adele Crepaz",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79996",
+   "image": "https://www.gutenberg.org/cache/epub/79996/pg79996.cover.medium.jpg",
    "date": null
   },
   {
@@ -970,19 +970,22 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
+  "poe": {
    "aviso": "sem feed"
   },
   "neapay": {
@@ -990,52 +993,49 @@
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 17
+   "itens": 18
   },
   "arena": {
-   "aviso": "sem feed"
-  },
-  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
+  "squoosh": {
+   "aviso": "sem feed"
+  },
   "justwatch": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
    "aviso": "sem feed"
   },
-  "squoosh": {
-   "aviso": "sem feed"
-  },
-  "smartmockups": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "shots": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "shots": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
+  },
+  "carbon": {
+   "aviso": "sem feed"
   },
   "earthtimelapse": {
    "aviso": "sem feed"
@@ -1050,68 +1050,71 @@
   "removebg": {
    "aviso": "sem feed"
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
-   "aviso": "sem feed"
-  },
   "krea": {
+   "aviso": "sem feed"
+  },
+  "speedtest": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "magnific": {
    "aviso": "sem feed"
   },
-  "registrobr": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "perplexity": {
+  "cursor": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "replit": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "claude": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "huggingface": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "opusclip": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
+  },
+  "otter": {
+   "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
@@ -1119,42 +1122,40 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "jasper": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "jasper": {
+  "notionai": {
    "aviso": "sem feed"
+  },
+  "gh-reactiveresume": {
+   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-reactiveresume": {
-   "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -1165,10 +1166,6 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
@@ -1177,47 +1174,42 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 5
-  },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 5
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
   },
-  "gh-claudejobsearch": {
+  "kling": {
    "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1228,8 +1220,16 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+   "itens": 10
+  },
   "gh-dify": {
    "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
