@@ -1,6 +1,66 @@
 {
- "generatedAt": "2026-11-14T01:28:58.010Z",
+ "generatedAt": "2026-11-14T10:31:17.823Z",
  "items": [
+  {
+   "id": "ee15e6e729c2",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc125",
+   "summary": "Bump release version to 0.9.78rc125",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc125",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-14T10:10:05.000Z"
+  },
+  {
+   "id": "ee6aa4497ded",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc124",
+   "summary": "Bump release version to 0.9.78rc124",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc124",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-14T09:58:48.000Z"
+  },
+  {
+   "id": "ffb4f1fcb588",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc123",
+   "summary": "Bump release version to 0.9.78rc123",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc123",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-14T09:50:48.000Z"
+  },
+  {
+   "id": "dccf70f3a753",
+   "sourceId": "gh-browseruse",
+   "sourceName": "Browser Use",
+   "title": "Browser Use · browser-use 1.0.5",
+   "summary": "pip install 'browser-use==1.0.5' Every run is judged by your own model: one more low-effort request checks the run against the task and fills result.judgement with success , failure_reason , description , prompt_injection_detected , bot_bl…",
+   "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.5",
+   "image": "https://avatars.githubusercontent.com/u/38050249?s=60&v=4",
+   "date": "2026-11-14T08:24:22.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-14T06:18:18.000Z"
+  },
+  {
+   "id": "37521cadb8e3",
+   "sourceId": "gh-reactiveresume",
+   "sourceName": "Reactive Resume",
+   "title": "Reactive Resume · Android 1.0.2 (354)",
+   "summary": "The same build as the Google Play production release, as one universal APK signed by Google Play. It updates a Play Store install, and the Play Store can update it.",
+   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/android-354",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-14T02:39:57.000Z"
+  },
   {
    "id": "4cfc616546b3",
    "sourceId": "gh-langflow",
@@ -10,16 +70,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev27",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-14T00:24:31.000Z"
-  },
-  {
-   "id": "d14a9d93ce87",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc111",
-   "summary": "Bump release version to 0.9.78rc111",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc111",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-13T22:49:48.000Z"
   },
   {
    "id": "8450a224c9ae",
@@ -40,16 +90,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.4rc1",
    "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
    "date": "2026-11-13T20:03:00.000Z"
-  },
-  {
-   "id": "13b6ac16ace6",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc110",
-   "summary": "Bump release version to 0.9.78rc110",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc110",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-13T18:07:50.000Z"
   },
   {
    "id": "5bf4951adbe9",
@@ -80,16 +120,6 @@
    "url": "https://suno.com/blog/introducing-bridge",
    "image": "https://cdn.sanity.io/images/cl7b1q1i/production/82b39b7eda6ba746df9166d864ce48cddb76843f-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&fit=crop&auto=format",
    "date": "2026-11-13T14:00:00.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-13T12:14:01.000Z"
   },
   {
    "id": "98fa1e92ab08",
@@ -162,16 +192,6 @@
    "date": "2026-11-13T00:25:14.000Z"
   },
   {
-   "id": "538960d63fa9",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc109",
-   "summary": "Bump release version to 0.9.78rc109",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc109",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-12T23:04:37.000Z"
-  },
-  {
    "id": "5b0f73df89a6",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -200,16 +220,6 @@
    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
    "image": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1-1024x536.png",
    "date": "2026-11-12T16:55:50.000Z"
-  },
-  {
-   "id": "48cd1d0fa6fb",
-   "sourceId": "gh-browseruse",
-   "sourceName": "Browser Use",
-   "title": "Browser Use · browser-use 1.0.3",
-   "summary": "pip install 'browser-use==1.0.3' --cli-mcp exits cleanly when the client closed the pipe before the reply (was exit 1 with ExceptionGroup ). The CLI runs its own Chromium when no browser has remote debugging on or there is no display, like…",
-   "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.3",
-   "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
-   "date": "2026-11-12T16:52:54.000Z"
   },
   {
    "id": "7cd315dbd923",
@@ -450,16 +460,6 @@
    "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/v6.1.0",
    "image": "https://avatars.githubusercontent.com/u/1134738?s=60&v=4",
    "date": "2026-11-05T03:55:20.000Z"
-  },
-  {
-   "id": "b3597a16c54e",
-   "sourceId": "gh-reactiveresume",
-   "sourceName": "Reactive Resume",
-   "title": "Reactive Resume · forme-native-v0.0.0-53f30d4e76f87b341b6a72a0847bddc49c6a3ea035b587802948d3733e8a2486",
-   "summary": "Native Forme binaries. Review and commit prebuilt.json before building mobile apps.",
-   "url": "https://github.com/reactive-resume/reactive-resume/releases/tag/forme-native-v0.0.0-53f30d4e76f87b341b6a72a0847bddc49c6a3ea035b587802948d3733e8a2486",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-04T21:20:47.000Z"
   },
   {
    "id": "ccf4ad643fca",
@@ -892,6 +892,26 @@
    "date": "2026-05-23T00:42:31.000Z"
   },
   {
+   "id": "11f703db75af",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Mrs. Fitzherbert and George IV; vol. 1 of 2 by W. H. Wilkins",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79993",
+   "image": "https://www.gutenberg.org/cache/epub/79993/pg79993.cover.medium.jpg",
+   "date": null
+  },
+  {
+   "id": "b73cc0c0c324",
+   "sourceId": "gutenberg",
+   "sourceName": "Project Gutenberg",
+   "title": "Mrs. Fitzherbert and George IV; vol. 2 of 2 by W. H. Wilkins",
+   "summary": "Language: English",
+   "url": "https://www.gutenberg.org/ebooks/79994",
+   "image": "https://www.gutenberg.org/cache/epub/79994/pg79994.cover.medium.jpg",
+   "date": null
+  },
+  {
    "id": "8a95f44d2350",
    "sourceId": "gutenberg",
    "sourceName": "Project Gutenberg",
@@ -899,26 +919,6 @@
    "summary": "Language: Portuguese",
    "url": "https://www.gutenberg.org/ebooks/57001",
    "image": "https://www.gutenberg.org/cache/epub/57001/pg57001.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "202f8eb32b5f",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Documents scientifiques de la mission Tilho (1906-1909), Tome 2 by Mission Tilho",
-   "summary": "Language: French",
-   "url": "https://www.gutenberg.org/ebooks/79992",
-   "image": "https://www.gutenberg.org/cache/epub/79992/pg79992.cover.medium.jpg",
-   "date": null
-  },
-  {
-   "id": "ea65cef9c02a",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "L'étreinte du passé by Henri Ardel",
-   "summary": "Language: French",
-   "url": "https://www.gutenberg.org/ebooks/79986",
-   "image": "https://www.gutenberg.org/cache/epub/79986/pg79986.cover.medium.jpg",
    "date": null
   },
   {
@@ -966,9 +966,6 @@
   "receivesms": {
    "aviso": "ignorado"
   },
-  "123apps": {
-   "aviso": "sem feed"
-  },
   "tempmail": {
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
@@ -979,21 +976,24 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "123apps": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
   "alternativeto": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "neapay": {
    "aviso": "sem feed"
   },
   "gutenberg": {
    "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 15
+   "itens": 17
+  },
+  "arena": {
+   "aviso": "sem feed"
   },
   "poe": {
    "aviso": "sem feed"
@@ -1002,17 +1002,17 @@
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "pdf24": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -1021,60 +1021,57 @@
   "squoosh": {
    "aviso": "sem feed"
   },
+  "smartmockups": {
+   "aviso": "sem feed"
+  },
   "photopea": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "removebg": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
-  "carbon": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
+  "removebg": {
    "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "krea": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
-   "aviso": "sem feed"
-  },
   "magnific": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "registrobr": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "cursor": {
    "aviso": "sem feed"
   },
   "uizard": {
@@ -1084,16 +1081,19 @@
   "perplexity": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "v0": {
-   "aviso": "sem feed"
-  },
   "huggingface": {
    "aviso": "sem feed"
   },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
   "claude": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "bolt": {
@@ -1103,18 +1103,15 @@
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
+  "runway": {
    "aviso": "sem feed"
   },
-  "runway": {
+  "opusclip": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
-  },
-  "otter": {
-   "aviso": "sem feed"
   },
   "gamma": {
    "aviso": "sem feed"
@@ -1122,10 +1119,10 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "otter": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "gh-cobalt": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
@@ -1133,6 +1130,9 @@
    "itens": 10
   },
   "gh-searxng": {
+   "aviso": "sem feed"
+  },
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-libretranslate": {
@@ -1146,7 +1146,7 @@
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "notionai": {
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-archivebox": {
@@ -1157,20 +1157,20 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
@@ -1185,10 +1185,6 @@
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
-  "gh-browseruse": {
-   "feed": "https://github.com/browser-use/browser-use/releases.atom",
-   "itens": 10
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
@@ -1197,23 +1193,31 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+  "gh-browseruse": {
+   "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
@@ -1224,12 +1228,8 @@
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
