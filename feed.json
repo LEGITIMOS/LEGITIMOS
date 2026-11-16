@@ -1,35 +1,135 @@
 {
- "generatedAt": "2026-11-16T06:35:56.771Z",
+ "generatedAt": "2026-11-16T19:40:09.096Z",
  "items": [
   {
-   "id": "265ebb72ddd9",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc230",
-   "summary": "Bump release version to 0.9.78rc230",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc230",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-16T06:29:41.000Z"
+   "id": "2bd9a2245c49",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How the Nordics' leading postal operator rebuilt its customer support on ElevenAgents",
+   "summary": "Yahoo used the ElevenAgents platform to add conversational voice to its new Yahoo Scout AI answer tool, going from kickoff to production in 6 weeks.",
+   "url": "https://elevenlabs.io/blog/postnord",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/w7xjkvb77xo-Postnord.webp",
+   "date": "2026-11-17T12:00:00.000Z"
   },
   {
-   "id": "3f826c68be4e",
+   "id": "e1d97f7c0ed5",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc229",
-   "summary": "Bump release version to 0.9.78rc229",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc229",
+   "title": "ArchiveBox · release-candidate/0.9.78rc238",
+   "summary": "Bump release version to 0.9.78rc238",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc238",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-16T05:14:15.000Z"
+   "date": "2026-11-16T19:25:51.000Z"
   },
   {
-   "id": "85115ccc786b",
+   "id": "75f27749defa",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.13.3",
+   "summary": "fix: read the Assistant's bundled component sources under S3 storage …",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.3",
+   "image": "https://avatars.githubusercontent.com/u/35466513?s=60&v=4",
+   "date": "2026-11-16T18:32:06.000Z"
+  },
+  {
+   "id": "306023120679",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc228",
-   "summary": "Bump release version to 0.9.78rc228",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc228",
+   "title": "ArchiveBox · release-candidate/0.9.78rc237",
+   "summary": "Bump release version to 0.9.78rc237",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc237",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-16T05:11:18.000Z"
+   "date": "2026-11-16T18:29:35.000Z"
+  },
+  {
+   "id": "f26f2a4dfd6b",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Broadening access to AI for scientists",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "image": "",
+   "date": "2026-11-16T17:00:00.000Z"
+  },
+  {
+   "id": "b1c71d07875a",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "image": "",
+   "date": "2026-11-16T17:00:00.000Z"
+  },
+  {
+   "id": "57e9fc7e3add",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc236",
+   "summary": "Bump release version to 0.9.78rc236",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc236",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-16T16:36:37.000Z"
+  },
+  {
+   "id": "f891bd93f3d2",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "image": "",
+   "date": "2026-11-16T12:00:00.000Z"
+  },
+  {
+   "id": "acd9d81f8120",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Autotorino automates dealership calls with ElevenAgents",
+   "summary": "Automated call handling more than doubled call volume capacity across the dealer network by using ElevenLabs.",
+   "url": "https://elevenlabs.io/blog/autotorino-agents",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/m67i5st2gwp-Autotorino--1-.webp",
+   "date": "2026-11-16T12:00:00.000Z"
+  },
+  {
+   "id": "d1737df71af8",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "The Year of More: $200,000 for what you create next",
+   "summary": "The new ElevenCreative competition rewards work that brings voice, sound, image, and video together.",
+   "url": "https://elevenlabs.io/blog/the-year-of-more",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/k31pmekoew-Minimal-Chair-%E2%80%94-1_1--feed---in-app-notification--1080x1080.webp",
+   "date": "2026-11-16T12:00:00.000Z"
+  },
+  {
+   "id": "39926ec5d9a2",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Behold the Gloriously Cheap 1970s Italian Knockoffs Inspired by Star Wars",
+   "summary": "When the first Star Wars movie came out, in 1977, cinema was the better part of a century old, yet it had never produced a popular-culture phenomenon on such a scale. Covering the resulting explosion of public enthusiasm, the contemporary…",
+   "url": "https://www.openculture.com/2026/11/behold-the-gloriously-cheap-1970s-italian-knockoffs-inspired-by-star-wars.html",
+   "image": "https://i.ytimg.com/vi/a2jlDGZJRBI/maxresdefault.jpg",
+   "date": "2026-11-16T10:00:18.000Z"
+  },
+  {
+   "id": "eb3f60bf522b",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "How Leo Tolstoy Became a Vegetarian and Jumpstarted the Vegetarian & Humanitarian Movements in the 19th Century",
+   "summary": "Leo Tolstoy is remembered as both a towering pinnacle of Russian literature and a fascinating example of Christian anarchism, a mystical version of which the aristocratic author pioneered in the last quarter century of his life. After a dr…",
+   "url": "https://www.openculture.com/2026/11/how-leo-tolstoy-became-a-vegetarian-and-jumpstarted-the-vegetarian-humanitarian-movements.html",
+   "image": "https://cdn8.openculture.com/2026/11/15233344/portrait_lighter_colorful.png",
+   "date": "2026-11-16T09:00:22.000Z"
+  },
+  {
+   "id": "f40bccb5d841",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Weekly Update 530: Email Dependencies & Apps",
+   "summary": "Email is just one of those utilities like power or water where you always expect it to just, well, to just be there. You sign up with a provider and use as much of it as you need, when you need it, and the idea of it being unavailable for…",
+   "url": "https://www.troyhunt.com/weekly-update-530/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/11/maxresdefault.jpg",
+   "date": "2026-11-16T07:09:38.000Z"
   },
   {
    "id": "cec978d14990",
@@ -60,26 +160,6 @@
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev29",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
    "date": "2026-11-16T00:29:59.000Z"
-  },
-  {
-   "id": "87d7014c15ee",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "image": "",
-   "date": "2026-11-15T22:00:01.000Z"
-  },
-  {
-   "id": "4b0fc5b701ff",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Our new blog for science",
-   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "url": "https://openai.com/index/our-new-blog-for-science",
-   "image": "",
-   "date": "2026-11-15T22:00:00.000Z"
   },
   {
    "id": "9ceba3a2927b",
@@ -122,16 +202,6 @@
    "date": "2026-11-14T02:39:57.000Z"
   },
   {
-   "id": "4cfc616546b3",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev27",
-   "summary": "Langflow nightly v1.14.0.dev27",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev27",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-14T00:24:31.000Z"
-  },
-  {
    "id": "8450a224c9ae",
    "sourceId": "gh-browseruse",
    "sourceName": "Browser Use",
@@ -140,16 +210,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.4",
    "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
    "date": "2026-11-13T20:50:13.000Z"
-  },
-  {
-   "id": "5bf4951adbe9",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Introducing ChatGPT Wallet",
-   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "image": "",
-   "date": "2026-11-13T15:00:00.000Z"
   },
   {
    "id": "d8997432476f",
@@ -172,36 +232,6 @@
    "date": "2026-11-13T14:00:00.000Z"
   },
   {
-   "id": "98fa1e92ab08",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Open source TTS vs paid APIs: How to choose wisely",
-   "summary": "Compare open source TTS vs paid APIs on cost, control, licensing, and data residency, and learn how to evaluate models before you commit.",
-   "url": "https://elevenlabs.io/blog/open-source-tts-vs-paid-apis",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-13T12:00:00.000Z"
-  },
-  {
-   "id": "cb5a4d17dfb8",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Introducing Forward Deployed Creatives in ElevenCreative",
-   "summary": "Forward Deployed Creatives build workflows in ElevenCreative alongside your team, or produce finished, on-brand creative for your team to approve.",
-   "url": "https://elevenlabs.io/blog/introducing-forward-deployed-creatives",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/tepmgzfsczl-Group-2147256834.webp",
-   "date": "2026-11-13T12:00:00.000Z"
-  },
-  {
-   "id": "610b94d69401",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Oxford spent years studying how women build companies. Now this research can speak.",
-   "summary": "SOFIA for Business, built with Oxford Saïd and ElevenLabs Impact, lets founders talk to and add to research on women founders.",
-   "url": "https://elevenlabs.io/blog/impact-sofia-oxford-said",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/k4ojn877vrg-Screenshot-2026-10-10-at-11.33.41%E2%80%AFam.webp",
-   "date": "2026-11-13T12:00:00.000Z"
-  },
-  {
    "id": "3f79cd39ca28",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
@@ -210,16 +240,6 @@
    "url": "https://www.openculture.com/2026/11/when-animals-were-put-on-trial-in-medieval-europe.html",
    "image": "https://cdn8.openculture.com/2026/11/12230056/colored_v2.png",
    "date": "2026-11-13T09:00:58.000Z"
-  },
-  {
-   "id": "63e9ecf367b4",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "European Intellectual History Since Nietzsche: A Free Online Course from Yale",
-   "summary": "Taught by historian Marci Shore , “ European Intellectual History Since Nietzsche ” surveys the story of modern thought, from the late 18th century to the late 20th. Along the way, the course explores major trends in modern European though…",
-   "url": "https://www.openculture.com/2026/11/european-intellectual-history-since-nietzsche-a-free-online-course-from-yale.html",
-   "image": "https://cdn8.openculture.com/2026/11/13002045/studio_square_thumbnail.jpg",
-   "date": "2026-11-13T08:22:58.000Z"
   },
   {
    "id": "c6db5a462587",
@@ -250,16 +270,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.40.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-11-12T14:32:59.000Z"
-  },
-  {
-   "id": "a6955e39678c",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "2,800-Year-Old Bone Flute Unearthed in Troy May Have Been Played During Homer’s Time",
-   "summary": "Image by Mehmet Nuri Ersoy, via Twitter The prolific Hans Zimmer scored Christopher Nolan’s films over the dozen years from Batman Begins through Dunkirk . From 2020’s Tenet onward, Nolan has employed the younger Swedish composer Ludwig Gö…",
-   "url": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
-   "image": "https://cdn8.openculture.com/2026/11/11202916/HVN3NLsW0AApS9U.jpeg",
-   "date": "2026-11-12T10:00:59.000Z"
   },
   {
    "id": "3f61f5827257",
@@ -510,16 +520,6 @@
    "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.5",
    "image": "https://avatars.githubusercontent.com/u/725423?s=60&v=4",
    "date": "2026-11-01T22:16:50.000Z"
-  },
-  {
-   "id": "78371aadf257",
-   "sourceId": "hibp",
-   "sourceName": "Have I Been Pwned",
-   "title": "Weekly Update 528: Reading AI-generated Code & the Economics of Solar",
-   "summary": "By pure timing coincidence, the Proton CEO&apos;s AI @ Proton, Engineering Manifesto made headlines around the same time as this week&apos;s video. The guy&apos;s management style and choice of language have really rubbed a lot of people u…",
-   "url": "https://www.troyhunt.com/weekly-update-528/",
-   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/11/dK01FOVwq4A-HD--1-.jpg",
-   "date": "2026-11-01T07:35:23.000Z"
   },
   {
    "id": "14084c4d46f1",
@@ -892,36 +892,6 @@
    "date": "2026-05-23T00:42:31.000Z"
   },
   {
-   "id": "6ce4628c48a5",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The emancipation of women and its probable consequences by Adele Crepaz",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/79996",
-   "image": "",
-   "date": null
-  },
-  {
-   "id": "e7af25aac1c0",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "Louis XIV by Louis Bertrand",
-   "summary": "Language: French",
-   "url": "https://www.gutenberg.org/ebooks/79999",
-   "image": "",
-   "date": null
-  },
-  {
-   "id": "400a48821403",
-   "sourceId": "gutenberg",
-   "sourceName": "Project Gutenberg",
-   "title": "The works of Samuel Johnson, LL.D. in nine volumes, volume 09 : by Samuel Johnson",
-   "summary": "Language: English",
-   "url": "https://www.gutenberg.org/ebooks/80007",
-   "image": "",
-   "date": null
-  },
-  {
    "id": "3027ea4ee7f5",
    "sourceId": "photoroom",
    "sourceName": "Photoroom",
@@ -955,12 +925,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1389
-  },
-  "canva": {
-   "aviso": "sem feed"
+   "itens": 1397
   },
   "comprecripto": {
+   "aviso": "sem feed"
+  },
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -970,42 +940,45 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "escolavirtual": {
+  "neapay": {
+   "aviso": "sem feed"
+  },
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "poe": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
-   "feed": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-   "itens": 15
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
   },
-  "neapay": {
+  "escolavirtual": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "gutenberg": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "arena": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "squoosh": {
@@ -1014,20 +987,16 @@
   "cleanup": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "pdf24": {
+   "aviso": "sem feed"
   },
   "photopea": {
    "aviso": "sem feed"
   },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "smartmockups": {
+   "aviso": "sem feed"
+  },
+  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -1037,6 +1006,9 @@
   "unscreen": {
    "aviso": "sem feed"
   },
+  "removebg": {
+   "aviso": "sem feed"
+  },
   "earthtimelapse": {
    "aviso": "sem feed"
   },
@@ -1044,13 +1016,7 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
-  "krea": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
+  "shots": {
    "aviso": "sem feed"
   },
   "speedtest": {
@@ -1059,76 +1025,82 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "removebg": {
-   "aviso": "sem feed"
-  },
   "rayso": {
    "aviso": "sem feed"
   },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "replit": {
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "cursor": {
    "aviso": "sem feed"
   },
   "registrobr": {
    "aviso": "sem feed"
   },
+  "krea": {
+   "aviso": "sem feed"
+  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
    "aviso": "sem feed"
   },
   "unshortenit": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "replit": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "v0": {
    "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
   },
-  "bolt": {
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
-  },
-  "napkin": {
-   "aviso": "sem feed"
-  },
-  "gamma": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
+  "bolt": {
    "aviso": "sem feed"
   },
   "otter": {
    "aviso": "sem feed"
   },
-  "gh-cobalt": {
+  "gamma": {
+   "aviso": "sem feed"
+  },
+  "napkin": {
+   "aviso": "sem feed"
+  },
+  "kling": {
    "aviso": "sem feed"
   },
   "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-searxng": {
@@ -1136,10 +1108,6 @@
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
-   "itens": 10
-  },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-libretranslate": {
@@ -1154,9 +1122,13 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
@@ -1164,6 +1136,10 @@
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1174,31 +1150,28 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
-  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
   "gh-claudejobsearch": {
@@ -1208,24 +1181,20 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
   },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
