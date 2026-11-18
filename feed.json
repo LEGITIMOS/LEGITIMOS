@@ -1,15 +1,15 @@
 {
- "generatedAt": "2026-11-17T16:05:22.289Z",
+ "generatedAt": "2026-11-18T00:59:58.885Z",
  "items": [
   {
-   "id": "b13acdb0352f",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "How a Town’s Forgotten History Helped Protect Its Drinking Water",
-   "summary": "Eric Hryniewicz stands at the edge of Long Pond in Falmouth, Massachusetts. When word started to circulate in Falmouth, Massachusetts, that the town had proposed housing development near Long Pond, the town’s main water source, Eric Hrynie…",
-   "url": "https://blog.archive.org/2026/11/17/the-falmouth-story/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/11/IA_Falmouth_Doc_FINAL_THUMBNAIL_01-1-1024x576.jpg",
-   "date": "2026-11-17T16:00:00.000Z"
+   "id": "499646e051db",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev31",
+   "summary": "Langflow nightly v1.14.0.dev31",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev31",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-18T00:25:34.000Z"
   },
   {
    "id": "f679dd395bc7",
@@ -19,7 +19,47 @@
    "summary": "OmniRoute v3.8.54 Providers: official \"Sign in with ChatGPT\" provider ( chatgpt , PKCE + live model discovery); MiniMax Code (managed gateway + dashboard device-code sign-in); RenderHour (images, video, speech); MegaBrain (dual auth); Empi…",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.54",
    "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
-   "date": "2026-11-17T15:31:16.000Z"
+   "date": "2026-11-17T23:19:45.000Z"
+  },
+  {
+   "id": "75f27749defa",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · 1.13.3",
+   "summary": "What's Changed 🐛 Bug Fixes fix(nextplaid): restore 1.13 component template loading by @erichare in #16339 fix: enforce custom component policy in background workflows by @erichare in #16383 fix(auth): invalidate native sessions after pass…",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.3",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-17T21:22:30.000Z"
+  },
+  {
+   "id": "6b282223328d",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.28",
+   "summary": "Google AI Mode in Prompt Tracking, movable local rank grids, and site audit path exclusions. What's new Track Google AI Mode in Prompt Tracking Move a local rank grid's center on a map Exclude URL paths from a site audit Edit Prompt Resear…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.28",
+   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
+   "date": "2026-11-17T18:01:25.000Z"
+  },
+  {
+   "id": "549a77347d5e",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "image": "",
+   "date": "2026-11-17T17:45:00.000Z"
+  },
+  {
+   "id": "b13acdb0352f",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "How a Town’s Forgotten History Helped Protect Its Drinking Water",
+   "summary": "Eric Hryniewicz stands at the edge of Long Pond in Falmouth, Massachusetts. When word started to circulate in Falmouth, Massachusetts, that the town had proposed housing development near Long Pond, the town’s main water source, Eric Hrynie…",
+   "url": "https://blog.archive.org/2026/11/17/the-falmouth-story/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/11/IA_Falmouth_Doc_FINAL_THUMBNAIL_01-1-1024x576.jpg",
+   "date": "2026-11-17T16:00:00.000Z"
   },
   {
    "id": "53dff2f089e7",
@@ -52,6 +92,26 @@
    "date": "2026-11-17T13:20:20.000Z"
   },
   {
+   "id": "9729e350f38f",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "The AI retail assistant: from customer question to completed transaction",
+   "summary": "Learn how to build an AI agent to handle customer booking conversations from start to finish with ElevenAgents",
+   "url": "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jxghfr45t4m-elevenbooking-from-customer-question-to-completed-transactio-landscape.webp",
+   "date": "2026-11-17T12:00:00.000Z"
+  },
+  {
+   "id": "b9fccc282f81",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "What is WebRTC? A guide to real-time web communication",
+   "summary": "Learn what WebRTC is, how it works, and how STUN, TURN, and media servers fit in. Compare WebRTC vs WebSocket and see use cases and limitations.",
+   "url": "https://elevenlabs.io/blog/what-is-webrtc",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-17T12:00:00.000Z"
+  },
+  {
    "id": "2bd9a2245c49",
    "sourceId": "elevenlabs",
    "sourceName": "ElevenLabs",
@@ -80,6 +140,16 @@
    "url": "https://www.openculture.com/2026/11/accurate-recreations-of-medieval-italian-longsword-fighting-techniques.html",
    "image": "https://i.ytimg.com/vi/4GoQlvc_H3s/maxresdefault.jpg",
    "date": "2026-11-17T09:00:25.000Z"
+  },
+  {
+   "id": "c6c361c53bc4",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Introducing ChatGPT for Sales",
+   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "image": "",
+   "date": "2026-11-17T08:00:00.000Z"
   },
   {
    "id": "336101f06903",
@@ -122,16 +192,6 @@
    "date": "2026-11-17T00:00:00.000Z"
   },
   {
-   "id": "58da9c66b145",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Introducing OpenAI for Chile",
-   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-   "url": "https://openai.com/index/introducing-openai-for-chile",
-   "image": "",
-   "date": "2026-11-17T00:00:00.000Z"
-  },
-  {
    "id": "f0dc5543a2f0",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
@@ -150,46 +210,6 @@
    "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.41.0",
    "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
    "date": "2026-11-16T20:55:32.000Z"
-  },
-  {
-   "id": "75f27749defa",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.13.3",
-   "summary": "fix: read the Assistant's bundled component sources under S3 storage …",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.3",
-   "image": "https://avatars.githubusercontent.com/u/35466513?s=60&v=4",
-   "date": "2026-11-16T18:32:06.000Z"
-  },
-  {
-   "id": "f26f2a4dfd6b",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Broadening access to AI for scientists",
-   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "image": "",
-   "date": "2026-11-16T17:00:00.000Z"
-  },
-  {
-   "id": "587e227a3e26",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "What is an LLM? A practical guide to language models",
-   "summary": "Learn what a large language model (LLM) is, how LLMs work, how they are trained, the main architectures, real examples, and their limitations.",
-   "url": "https://elevenlabs.io/blog/what-is-an-llm",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-16T12:00:00.000Z"
-  },
-  {
-   "id": "8b70d99b098d",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Kotoba is joining ElevenLabs",
-   "summary": "ElevenLabs is acquiring Kotoba, the leading Japanese voice AI lab, to bring natural, culturally fluent AI agents and voice interfaces to Japan.",
-   "url": "https://elevenlabs.io/blog/kotoba",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/7bmftwo9yq5-Kotoba-and-ElevenLabs-2.webp",
-   "date": "2026-11-16T12:00:00.000Z"
   },
   {
    "id": "39926ec5d9a2",
@@ -220,16 +240,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.6",
    "image": "https://avatars.githubusercontent.com/u/38050249?s=60&v=4",
    "date": "2026-11-16T00:51:24.000Z"
-  },
-  {
-   "id": "b2f665bd3a89",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev29",
-   "summary": "Langflow nightly v1.14.0.dev29",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev29",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-16T00:29:59.000Z"
   },
   {
    "id": "8b5c3f4c3a58",
@@ -440,16 +450,6 @@
    "url": "https://www.d-id.com/blog/when-should-businesses-use-ai-video/",
    "image": "",
    "date": "2026-11-06T07:19:38.000Z"
-  },
-  {
-   "id": "9ac2aed6ce54",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.25",
-   "summary": "Keyword wildcards, redesigned Keyword Research and dashboard, and steadier rank checks. What's new Search keyword patterns with * wildcards, like best * for dogs Redesigned Keyword Research Redesigned the dashboard, with a Search Console c…",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.25",
-   "image": "https://avatars.githubusercontent.com/u/44480372?s=60&v=4",
-   "date": "2026-11-06T05:01:14.000Z"
   },
   {
    "id": "4e910104600e",
@@ -925,12 +925,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1401
-  },
-  "comprecripto": {
-   "aviso": "sem feed"
+   "itens": 1406
   },
   "canva": {
+   "aviso": "sem feed"
+  },
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -940,51 +940,44 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "delphi": {
-   "aviso": "sem feed"
-  },
-  "123apps": {
-   "aviso": "sem feed"
-  },
-  "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
-   "aviso": "sem feed"
-  },
-  "arena": {
    "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
+  "123apps": {
+   "aviso": "sem feed"
+  },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "escolavirtual": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "tec": {
+   "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "squoosh": {
    "aviso": "sem feed"
   },
   "wolframalpha": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "arena": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -993,33 +986,37 @@
   "photopea": {
    "aviso": "sem feed"
   },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
   "smartmockups": {
-   "aviso": "sem feed"
-  },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "carbon": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "earthtimelapse": {
+  "carbon": {
    "aviso": "sem feed"
   },
   "unscreen": {
+   "aviso": "sem feed"
+  },
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 105
   },
-  "speedtest": {
+  "removebg": {
    "aviso": "sem feed"
   },
-  "magnific": {
+  "shots": {
    "aviso": "sem feed"
   },
   "rayso": {
@@ -1031,7 +1028,10 @@
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "magnific": {
    "aviso": "sem feed"
   },
   "cursor": {
@@ -1041,16 +1041,16 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "pairdrop": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
+   "aviso": "sem feed"
+  },
+  "replit": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1068,57 +1068,63 @@
   "bolt": {
    "aviso": "sem feed"
   },
-  "elevenlabs": {
-   "feed": "https://elevenlabs.io/blog/rss.xml",
-   "itens": 50
-  },
   "opusclip": {
    "aviso": "sem feed"
   },
   "runway": {
    "aviso": "sem feed"
   },
-  "napkin": {
-   "aviso": "sem feed"
+  "elevenlabs": {
+   "feed": "https://elevenlabs.io/blog/rss.xml",
+   "itens": 50
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "otter": {
+  "gamma": {
    "aviso": "sem feed"
   },
-  "gamma": {
+  "napkin": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
+  "gh-searxng": {
+   "aviso": "sem feed"
   },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
@@ -1129,85 +1135,79 @@
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
-   "itens": 10
-  },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-cobalt": {
+  "kling": {
    "aviso": "sem feed"
-  },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-searxng": {
+  "gh-maxun": {
+   "feed": "https://github.com/getmaxun/maxun/releases.atom",
+   "itens": 10
+  },
+  "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-openseo": {
+   "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-maxun": {
-   "feed": "https://github.com/getmaxun/maxun/releases.atom",
-   "itens": 10
-  },
-  "gh-openseo": {
-   "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
   },
   "raphael": {
    "aviso": "sem feed"
