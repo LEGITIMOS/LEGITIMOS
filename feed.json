@@ -1,15 +1,75 @@
 {
- "generatedAt": "2026-11-19T02:37:24.307Z",
+ "generatedAt": "2026-11-19T11:45:31.521Z",
  "items": [
   {
-   "id": "fb02f61ff52f",
+   "id": "3aa4bddd517b",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc296",
-   "summary": "Bump release version to 0.9.78rc296",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc296",
+   "title": "ArchiveBox · release-candidate/0.9.78rc315",
+   "summary": "Bump release version to 0.9.78rc315",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc315",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-19T02:23:11.000Z"
+   "date": "2026-11-19T11:31:18.000Z"
+  },
+  {
+   "id": "bd14aa1d9c81",
+   "sourceId": "gh-changedetection",
+   "sourceName": "Changedetection.io",
+   "title": "Changedetection.io · 0.70.4",
+   "summary": "What's Changed Third-party licences - update docs/THIRD-PARTY-LICENSES.md by @github-actions[bot] in #4714 fix: keep jinja2 blocks intact when splitting tags from imported URLs ( #1516 ) by @ebarkhordar in #4259 Update regex requirement fr…",
+   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.4",
+   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
+   "date": "2026-11-19T11:07:21.000Z"
+  },
+  {
+   "id": "91aaca4b13db",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc314",
+   "summary": "Bump release version to 0.9.78rc314",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc314",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-19T10:32:19.000Z"
+  },
+  {
+   "id": "78c5831f3f3a",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Amazing Inventions of Ancient Greece: From Plato’s Alarm Clock to Ancient Flamethrowers",
+   "summary": "“It’s a sunny morning in ancient Greece. Students have started gathering in the Academy, but their famous teacher Plato is nowhere to be seen.” The great philosopher has, it seems, “overslept and missed his own lecture.” The sun and the so…",
+   "url": "https://www.openculture.com/2026/11/the-amazing-inventions-of-ancient-greece.html",
+   "image": "https://i.ytimg.com/vi/F20zQmyZa20/maxresdefault.jpg",
+   "date": "2026-11-19T10:00:02.000Z"
+  },
+  {
+   "id": "a43bd83666e6",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc312",
+   "summary": "Bump release version to 0.9.78rc312",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc312",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-19T09:24:22.000Z"
+  },
+  {
+   "id": "264e9facb465",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Psychedelic Animated Video for Kraftwerk’s “Autobahn” (1979)",
+   "summary": "Ah, yes, “Autobahn.” From the moment the door slams and the ignition starts, prog rockers and pre-new wavers know a journey is afoot. Though Kraftwerk had already made three albums, and the band members still looked like well-meaning, book…",
+   "url": "https://www.openculture.com/2026/11/the-psychedelic-animated-video-for-kraftwerks-autobahn.html",
+   "image": "https://i.ytimg.com/vi/aFfW0DCoGBg/maxresdefault.jpg",
+   "date": "2026-11-19T09:00:10.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-19T03:26:54.000Z"
   },
   {
    "id": "b0967c5fd441",
@@ -19,7 +79,7 @@
    "summary": "Langflow nightly v1.14.0.dev32",
    "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev32",
    "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-19T02:17:56.000Z"
+   "date": "2026-11-19T03:10:10.000Z"
   },
   {
    "id": "d599fed7cd3d",
@@ -30,26 +90,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.4.0",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-11-19T02:14:37.000Z"
-  },
-  {
-   "id": "61ff65e3ae61",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc295",
-   "summary": "Bump release version to 0.9.78rc295",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc295",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-19T01:38:11.000Z"
-  },
-  {
-   "id": "d9a3960e0ced",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc294",
-   "summary": "Bump release version to 0.9.78rc294",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc294",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-19T00:47:42.000Z"
   },
   {
    "id": "aa226b45fe9a",
@@ -142,16 +182,6 @@
    "date": "2026-11-18T09:56:56.000Z"
   },
   {
-   "id": "cf0466a3bc88",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Explore 250,000 Articles from Salon’s 31-Year History at the Internet Archive",
-   "summary": "Earlier this month, Salon announced that it’s ceasing publication after 31 years. In its farewell address, the magazine writes: “The business realities of independent digital journalism have changed profoundly over the years. After careful…",
-   "url": "https://www.openculture.com/2026/11/explore-250000-articles-from-salons-31-year-history-at-the-internet-archive.html",
-   "image": "https://cdn8.openculture.com/2026/11/17223014/Screenshot-2026-11-17-at-10.41.33-PM.png",
-   "date": "2026-11-18T09:00:39.000Z"
-  },
-  {
    "id": "9fa731b0ef6c",
    "sourceId": "chatgpt",
    "sourceName": "ChatGPT",
@@ -170,16 +200,6 @@
    "url": "https://openai.com/business/customer-stories/sumitomo-life",
    "image": "",
    "date": "2026-11-18T08:00:00.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-18T03:27:56.000Z"
   },
   {
    "id": "499646e051db",
@@ -250,16 +270,6 @@
    "url": "https://elevenlabs.io/blog/retail-ai-assistant-webinar-recap",
    "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/jxghfr45t4m-elevenbooking-from-customer-question-to-completed-transactio-landscape.webp",
    "date": "2026-11-17T12:00:00.000Z"
-  },
-  {
-   "id": "f0ddd5638b4d",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "When Jorge Luis Borges Co-Wrote a Surreal Sci-Fi Noir Film: Invasión (1969)",
-   "summary": "“ La ciudad es más que la gente. ” So declares a character called Don Porfirio in Invasión , the debut feature by Argentine director Hugo Santiago. The line is the film’s most memorable, not least because of the reversal it pulls on our ex…",
-   "url": "https://www.openculture.com/2026/11/when-jorge-luis-borges-co-wrote-a-surreal-sci-fi-noir-film-invasion-1969.html",
-   "image": "https://i.ytimg.com/vi/FLd-bmxFWTI/maxresdefault.jpg",
-   "date": "2026-11-17T10:00:08.000Z"
   },
   {
    "id": "bf2c6e47df12",
@@ -500,16 +510,6 @@
    "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.3.0",
    "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
    "date": "2026-11-05T08:55:56.000Z"
-  },
-  {
-   "id": "d7070f7988d1",
-   "sourceId": "gh-changedetection",
-   "sourceName": "Changedetection.io",
-   "title": "Changedetection.io · 0.70.1",
-   "summary": "What's Changed Update ruff requirement from >=0.17.1 to >=0.17.2 by @dependabot [bot] in #4604 Update jsonpath-ng requirement from ~=1.12.0 to ~=1.13.0 by @dependabot [bot] in #4603 Update wtforms requirement from ~=3.2 to ~=3.3 by @depend…",
-   "url": "https://github.com/dgtlmoon/changedetection.io/releases/tag/0.70.1",
-   "image": "https://avatars.githubusercontent.com/u/275001?s=60&v=4",
-   "date": "2026-11-05T05:18:46.000Z"
   },
   {
    "id": "e03d9c603f36",
@@ -917,10 +917,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1413
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -933,19 +933,19 @@
   "delphi": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "123apps": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
+  "123apps": {
    "aviso": "sem feed"
   },
   "tec": {
@@ -957,9 +957,6 @@
   "gutenberg": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
@@ -967,42 +964,39 @@
   "justwatch": {
    "aviso": "sem feed"
   },
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
   "squoosh": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "cleanup": {
-   "aviso": "sem feed"
-  },
   "shots": {
    "aviso": "sem feed"
   },
-  "photopea": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "pdf24": {
    "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "pdf24": {
-   "aviso": "sem feed"
-  },
   "carbon": {
    "aviso": "sem feed"
   },
-  "removebg": {
+  "photopea": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
@@ -1010,6 +1004,12 @@
    "itens": 105
   },
   "speedtest": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
+   "aviso": "sem feed"
+  },
+  "removebg": {
    "aviso": "sem feed"
   },
   "clipdrop": {
@@ -1025,16 +1025,16 @@
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
+  "rayso": {
    "aviso": "sem feed"
   },
   "cursor": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "registrobr": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "perplexity": {
@@ -1043,13 +1043,13 @@
   "replit": {
    "aviso": "sem feed"
   },
-  "claude": {
+  "unshortenit": {
    "aviso": "sem feed"
   },
   "huggingface": {
    "aviso": "sem feed"
   },
-  "unshortenit": {
+  "claude": {
    "aviso": "sem feed"
   },
   "bolt": {
@@ -1058,12 +1058,12 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
+  },
+  "runway": {
+   "aviso": "sem feed"
   },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
@@ -1084,18 +1084,18 @@
   "gh-cobalt": {
    "aviso": "sem feed"
   },
+  "jasper": {
+   "aviso": "sem feed"
+  },
   "notionai": {
+   "aviso": "sem feed"
+  },
+  "gh-searxng": {
    "aviso": "sem feed"
   },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
-  },
-  "gh-searxng": {
-   "aviso": "sem feed"
-  },
-  "jasper": {
-   "aviso": "sem feed"
   },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
@@ -1113,35 +1113,36 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
-  "kling": {
-   "aviso": "sem feed"
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+   "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 5
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
@@ -1152,8 +1153,8 @@
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1163,41 +1164,40 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
+  "kling": {
+   "aviso": "sem feed"
+  },
   "gh-supabase": {
    "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
-  "gh-stirlingpdf": {
-   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
+  "gh-stirlingpdf": {
+   "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
   },
   "raphael": {
    "aviso": "sem feed"
