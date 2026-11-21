@@ -1,45 +1,45 @@
 {
- "generatedAt": "2026-11-21T11:10:02.609Z",
+ "generatedAt": "2026-11-21T19:20:30.485Z",
  "items": [
   {
-   "id": "86372ecec188",
-   "sourceId": "gh-gallerydl",
-   "sourceName": "Gallery-DL",
-   "title": "Gallery-DL · v1.32.21",
-   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.21 Extractors Additions [fastpic] add image extractor ( gh#9886 ) [topfaps] add support (…",
-   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.21",
-   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
-   "date": "2026-11-21T10:04:54.000Z"
+   "id": "3cfb638a0c55",
+   "sourceId": "gh-suwayomi",
+   "sourceName": "Suwayomi",
+   "title": "Suwayomi · v2.4.2372 - Security Fixes!",
+   "summary": "Fixed ( Security ) Form submissions now require a CSRF cookie to prevent forgery ( Security ) Update JRE to resolve Java4Shell ( Security ) Use random URLs for temporary files to prevent guessable file URLs",
+   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.4.2372",
+   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
+   "date": "2026-11-21T19:19:26.000Z"
   },
   {
-   "id": "fa128094aee4",
+   "id": "2e0be17dab45",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc382",
-   "summary": "Bump release version to 0.9.78rc382",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc382",
+   "title": "ArchiveBox · release-candidate/0.9.78rc389",
+   "summary": "Bump release version to 0.9.78rc389",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc389",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-21T10:02:23.000Z"
+   "date": "2026-11-21T19:01:02.000Z"
   },
   {
-   "id": "8669e60736d1",
+   "id": "c0c0f06729e3",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc381",
-   "summary": "Bump release version to 0.9.78rc381",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc381",
+   "title": "ArchiveBox · v0.9.78rc388",
+   "summary": "Bump release version to 0.9.78rc388",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc388",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-21T09:28:11.000Z"
+   "date": "2026-11-21T16:45:31.000Z"
   },
   {
-   "id": "30043b0122f5",
+   "id": "ce79b56a5334",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc380",
-   "summary": "Bump release version to 0.9.78rc380",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc380",
+   "title": "ArchiveBox · release-candidate/0.9.78rc388",
+   "summary": "Bump release version to 0.9.78rc388",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc388",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-21T09:18:27.000Z"
+   "date": "2026-11-21T16:45:31.000Z"
   },
   {
    "id": "cec978d14990",
@@ -49,7 +49,17 @@
    "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-21T08:13:42.000Z"
+   "date": "2026-11-21T15:29:35.000Z"
+  },
+  {
+   "id": "86372ecec188",
+   "sourceId": "gh-gallerydl",
+   "sourceName": "Gallery-DL",
+   "title": "Gallery-DL · v1.32.21",
+   "summary": "Active development has moved to Codeberg (see [Announcement] Moving to Codeberg for details) https://codeberg.org/mikf/gallery-dl/releases/tag/v1.32.21 Extractors Additions [fastpic] add image extractor ( gh#9886 ) [topfaps] add support (…",
+   "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.21",
+   "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
+   "date": "2026-11-21T10:04:54.000Z"
   },
   {
    "id": "b05575fe4f1e",
@@ -862,16 +872,6 @@
    "date": "2026-07-13T18:34:38.000Z"
   },
   {
-   "id": "392d7dac1c1f",
-   "sourceId": "gh-suwayomi",
-   "sourceName": "Suwayomi",
-   "title": "Suwayomi · v2.3.2238 - SyncYomi Support, Extension API v1.6, and More! Hotfix 3",
-   "summary": "Hotfix 3 for v2.3.2223 Changed ( Extension ) Support fully qualified extension class names ( Manga/API ) Return partial responses for Manga And Chapters query Fixed ( Database/H2 ) Use temporary file for H2 migration tools download Hotfix…",
-   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.3.2238",
-   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
-   "date": "2026-07-05T19:44:30.000Z"
-  },
-  {
    "id": "bc43e2a2a821",
    "sourceId": "gh-libretranslate",
    "sourceName": "LibreTranslate",
@@ -933,48 +933,44 @@
   "delphi": {
    "aviso": "sem feed"
   },
-  "tec": {
-   "aviso": "sem feed"
-  },
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
+  "tec": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
   "neapay": {
    "aviso": "sem feed"
   },
-  "poe": {
+  "gutenberg": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "poe": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
   "justwatch": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "squoosh": {
+   "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -983,36 +979,34 @@
   "photopea": {
    "aviso": "sem feed"
   },
+  "shots": {
+   "aviso": "sem feed"
+  },
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "hibp": {
+   "feed": "https://www.troyhunt.com/rss/",
+   "itens": 15
+  },
   "smartmockups": {
    "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
   },
-  "hibp": {
-   "feed": "https://www.troyhunt.com/rss/",
-   "itens": 15
-  },
-  "shots": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
+  "unscreen": {
    "aviso": "sem feed"
   },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 106
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "removebg": {
    "aviso": "sem feed"
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "clipdrop": {
+  "earthtimelapse": {
    "aviso": "sem feed"
   },
   "magnific": {
@@ -1021,10 +1015,10 @@
   "krea": {
    "aviso": "sem feed"
   },
-  "cursor": {
+  "clipdrop": {
    "aviso": "sem feed"
   },
-  "registrobr": {
+  "speedtest": {
    "aviso": "sem feed"
   },
   "rayso": {
@@ -1033,52 +1027,61 @@
   "pairdrop": {
    "aviso": "sem feed"
   },
+  "cursor": {
+   "aviso": "sem feed"
+  },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
+  "registrobr": {
+   "aviso": "sem feed"
+  },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
-   "aviso": "sem feed"
-  },
-  "huggingface": {
-   "aviso": "sem feed"
-  },
-  "claude": {
-   "aviso": "sem feed"
-  },
-  "unshortenit": {
-   "aviso": "sem feed"
-  },
-  "replit": {
    "aviso": "sem feed"
   },
   "v0": {
    "aviso": "sem feed"
   },
+  "huggingface": {
+   "aviso": "sem feed"
+  },
+  "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "claude": {
+   "aviso": "sem feed"
+  },
+  "replit": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
   "runway": {
+   "aviso": "sem feed"
+  },
+  "opusclip": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
   "suno": {
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
   "gamma": {
    "aviso": "sem feed"
   },
+  "otter": {
+   "aviso": "sem feed"
+  },
   "napkin": {
+   "aviso": "sem feed"
+  },
+  "jasper": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1088,28 +1091,22 @@
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
   },
-  "jasper": {
-   "aviso": "sem feed"
-  },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-searxng": {
    "aviso": "sem feed"
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
   "gh-libretranslate": {
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "kling": {
+  "notionai": {
    "aviso": "sem feed"
   },
   "gh-archivebox": {
@@ -1120,12 +1117,12 @@
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
-   "itens": 10
-  },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
+   "itens": 10
+  },
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-langflow": {
@@ -1136,24 +1133,32 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-booktoskill": {
-   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
-   "itens": 7
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
   },
   "gh-openwebui": {
    "feed": "https://github.com/open-webui/open-webui/releases.atom",
    "itens": 10
   },
+  "gh-booktoskill": {
+   "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
+   "itens": 7
+  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
+   "itens": 10
+  },
+  "gh-crawl4ai": {
+   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-crawl4ai": {
-   "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-maxun": {
@@ -1163,41 +1168,36 @@
   "gh-claudejobsearch": {
    "aviso": "sem feed"
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
-   "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
-   "itens": 10
-  },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
+  },
+  "kling": {
+   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
