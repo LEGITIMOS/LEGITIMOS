@@ -1,45 +1,75 @@
 {
- "generatedAt": "2026-11-21T19:20:30.485Z",
+ "generatedAt": "2026-11-22T01:23:10.365Z",
  "items": [
+  {
+   "id": "9bf597b9308c",
+   "sourceId": "gh-stirlingpdf",
+   "sourceName": "Stirling PDF",
+   "title": "Stirling PDF · 3.5.0 New Conversions are Live! and Desktop reload fix and more",
+   "summary": "Stirling Office Convert has now replaced Libreoffice in our docker containers! Along with speed increases and better quality conversions it also means our docker going to half the size! Thank you to everyone who sent us example files, and…",
+   "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.5.0",
+   "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
+   "date": "2026-11-22T00:59:23.000Z"
+  },
+  {
+   "id": "df29973a28a6",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev35",
+   "summary": "Langflow nightly v1.14.0.dev35",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev35",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-22T00:26:25.000Z"
+  },
+  {
+   "id": "a6fd0e9a711a",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · v0.9.78rc395",
+   "summary": "Bump release version to 0.9.78rc395",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc395",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-21T22:42:12.000Z"
+  },
+  {
+   "id": "df72f477e648",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc395",
+   "summary": "Bump release version to 0.9.78rc395",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc395",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-21T22:42:12.000Z"
+  },
+  {
+   "id": "e3b2f98ed4e9",
+   "sourceId": "gh-archivebox",
+   "sourceName": "ArchiveBox",
+   "title": "ArchiveBox · release-candidate/0.9.78rc394",
+   "summary": "Bump release version to 0.9.78rc394",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc394",
+   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
+   "date": "2026-11-21T22:05:57.000Z"
+  },
+  {
+   "id": "f62c78906c70",
+   "sourceId": "gh-suwayomi",
+   "sourceName": "Suwayomi",
+   "title": "Suwayomi · v2.4.2373 - Security Fixes! Hotfix",
+   "summary": "Fixed Fix using the wrong version of the Launcher Fixed ( Security ) Form submissions now require a CSRF cookie to prevent forgery ( Security ) Update JRE to resolve Java4Shell ( Security ) Use random URLs for temporary files to prevent gu…",
+   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.4.2373",
+   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
+   "date": "2026-11-21T20:00:32.000Z"
+  },
   {
    "id": "3cfb638a0c55",
    "sourceId": "gh-suwayomi",
    "sourceName": "Suwayomi",
    "title": "Suwayomi · v2.4.2372 - Security Fixes!",
-   "summary": "Fixed ( Security ) Form submissions now require a CSRF cookie to prevent forgery ( Security ) Update JRE to resolve Java4Shell ( Security ) Use random URLs for temporary files to prevent guessable file URLs",
+   "summary": "Fixed ( Security ) Form submissions now require a CSRF cookie to prevent forgery ( Security ) Update JRE to resolve Java4Shell ( Security ) Use random URLs for temporary files to prevent guessable file URLs Contributors: @Syer10 , @cpiber",
    "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.4.2372",
    "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
-   "date": "2026-11-21T19:19:26.000Z"
-  },
-  {
-   "id": "2e0be17dab45",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc389",
-   "summary": "Bump release version to 0.9.78rc389",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc389",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-21T19:01:02.000Z"
-  },
-  {
-   "id": "c0c0f06729e3",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · v0.9.78rc388",
-   "summary": "Bump release version to 0.9.78rc388",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc388",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-21T16:45:31.000Z"
-  },
-  {
-   "id": "ce79b56a5334",
-   "sourceId": "gh-archivebox",
-   "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc388",
-   "summary": "Bump release version to 0.9.78rc388",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc388",
-   "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-21T16:45:31.000Z"
+   "date": "2026-11-21T19:33:12.000Z"
   },
   {
    "id": "cec978d14990",
@@ -260,16 +290,6 @@
    "url": "https://www.openculture.com/2026/11/the-psychedelic-animated-video-for-kraftwerks-autobahn.html",
    "image": "https://i.ytimg.com/vi/aFfW0DCoGBg/maxresdefault.jpg",
    "date": "2026-11-19T09:00:10.000Z"
-  },
-  {
-   "id": "b0967c5fd441",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev32",
-   "summary": "Langflow nightly v1.14.0.dev32",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev32",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-19T03:10:10.000Z"
   },
   {
    "id": "d599fed7cd3d",
@@ -652,16 +672,6 @@
    "date": "2026-10-25T01:45:40.000Z"
   },
   {
-   "id": "814ef480a5f1",
-   "sourceId": "gh-stirlingpdf",
-   "sourceName": "Stirling PDF",
-   "title": "Stirling PDF · 3.2.2 new annotations and other minor changes and improvements",
-   "summary": "Another small release with some bug fixes Fix for some viewer rendering issues New auto fit to width button for viewer New annotation shape options like arrow and polyline QR code stamp types What's Changed Bug Fixes fix(i18n): expand Turk…",
-   "url": "https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v3.2.2",
-   "image": "https://avatars.githubusercontent.com/u/77850077?s=60&v=4",
-   "date": "2026-10-24T09:55:03.000Z"
-  },
-  {
    "id": "2f533b8e9395",
    "sourceId": "gh-dify",
    "sourceName": "Dify",
@@ -862,16 +872,6 @@
    "date": "2026-07-21T02:09:26.000Z"
   },
   {
-   "id": "5d8fe5de0b43",
-   "sourceId": "gh-suwayomi",
-   "sourceName": "Suwayomi",
-   "title": "Suwayomi · v2.3.2243 - SyncYomi Support, Extension API v1.6, and More! Fix 4",
-   "summary": "Fix 4 for v2.3.2223 Added ( Extension ) Add ability to install jar versions of extensions Fixed ( Extension ) Fix missing memo field in getPageList Fix 3 for v2.3.2223 Changed ( Extension ) Support fully qualified extension class names ( M…",
-   "url": "https://github.com/Suwayomi/Suwayomi-Server/releases/tag/v2.3.2243",
-   "image": "https://avatars.githubusercontent.com/u/6090655?s=60&v=4",
-   "date": "2026-07-13T18:34:38.000Z"
-  },
-  {
    "id": "bc43e2a2a821",
    "sourceId": "gh-libretranslate",
    "sourceName": "LibreTranslate",
@@ -917,10 +917,10 @@
    "feed": "https://openai.com/news/rss.xml",
    "itens": 1421
   },
-  "comprecripto": {
+  "canva": {
    "aviso": "sem feed"
   },
-  "canva": {
+  "comprecripto": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -933,16 +933,19 @@
   "delphi": {
    "aviso": "sem feed"
   },
+  "tec": {
+   "aviso": "sem feed"
+  },
   "123apps": {
    "aviso": "sem feed"
   },
-  "tec": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
+  "poe": {
    "aviso": "sem feed"
   },
   "neapay": {
@@ -951,26 +954,27 @@
   "gutenberg": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "justwatch": {
+  "arena": {
    "aviso": "sem feed"
   },
-  "squoosh": {
+  "wolframalpha": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "pdf24": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "wayback": {
+   "feed": "https://blog.archive.org/feed/",
+   "itens": 10
+  },
+  "squoosh": {
    "aviso": "sem feed"
   },
   "cleanup": {
@@ -982,16 +986,12 @@
   "shots": {
    "aviso": "sem feed"
   },
-  "wayback": {
-   "feed": "https://blog.archive.org/feed/",
-   "itens": 10
+  "smartmockups": {
+   "aviso": "sem feed"
   },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
-  },
-  "smartmockups": {
-   "aviso": "sem feed"
   },
   "carbon": {
    "aviso": "sem feed"
@@ -999,32 +999,29 @@
   "unscreen": {
    "aviso": "sem feed"
   },
+  "earthtimelapse": {
+   "aviso": "sem feed"
+  },
   "photoroom": {
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 106
   },
+  "speedtest": {
+   "aviso": "sem feed"
+  },
   "removebg": {
-   "aviso": "sem feed"
-  },
-  "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
    "aviso": "sem feed"
   },
   "krea": {
    "aviso": "sem feed"
   },
+  "magnific": {
+   "aviso": "sem feed"
+  },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
   "rayso": {
-   "aviso": "sem feed"
-  },
-  "pairdrop": {
    "aviso": "sem feed"
   },
   "cursor": {
@@ -1037,10 +1034,10 @@
   "registrobr": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "pairdrop": {
    "aviso": "sem feed"
   },
-  "v0": {
+  "perplexity": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1052,16 +1049,16 @@
   "claude": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "v0": {
    "aviso": "sem feed"
   },
   "bolt": {
    "aviso": "sem feed"
   },
-  "runway": {
+  "replit": {
    "aviso": "sem feed"
   },
-  "opusclip": {
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
@@ -1072,16 +1069,16 @@
    "feed": "https://suno.com/blog/rss.xml",
    "itens": 50
   },
-  "gamma": {
+  "opusclip": {
    "aviso": "sem feed"
   },
-  "otter": {
+  "gamma": {
    "aviso": "sem feed"
   },
   "napkin": {
    "aviso": "sem feed"
   },
-  "jasper": {
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1090,6 +1087,9 @@
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "jasper": {
+   "aviso": "sem feed"
   },
   "gh-searxng": {
    "aviso": "sem feed"
@@ -1106,24 +1106,24 @@
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
    "itens": 10
   },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
-   "itens": 10
-  },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
    "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
+   "itens": 10
+  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
+  },
+  "notionai": {
+   "aviso": "sem feed"
   },
   "gh-langflow": {
    "feed": "https://github.com/langflow-ai/langflow/releases.atom",
@@ -1133,71 +1133,71 @@
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
+  },
   "did": {
    "feed": "https://www.d-id.com/blog/feed",
    "itens": 9
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
-   "itens": 10
+  "kling": {
+   "aviso": "sem feed"
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 7
   },
-  "gh-opennotebook": {
-   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
-   "itens": 10
-  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
+   "itens": 10
+  },
+  "gh-opennotebook": {
+   "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
    "itens": 7
   },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
-   "itens": 10
-  },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
    "itens": 10
   },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
   "gh-omniroute": {
    "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
   },
   "raphael": {
    "aviso": "sem feed"
