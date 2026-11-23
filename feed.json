@@ -1,35 +1,85 @@
 {
- "generatedAt": "2026-11-23T01:47:23.983Z",
+ "generatedAt": "2026-11-23T12:52:21.030Z",
  "items": [
   {
-   "id": "beb977de2b72",
+   "id": "59829b11fe82",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc428",
-   "summary": "Bump release version to 0.9.78rc428",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc428",
+   "title": "ArchiveBox · release-candidate/0.9.78rc475",
+   "summary": "Bump release version to 0.9.78rc475",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc475",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-23T01:45:05.000Z"
+   "date": "2026-11-23T12:44:29.000Z"
   },
   {
-   "id": "1c98f7a5affb",
+   "id": "89d1cef9e9af",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc427",
-   "summary": "Bump release version to 0.9.78rc427",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc427",
+   "title": "ArchiveBox · release-candidate/0.9.78rc474",
+   "summary": "Bump release version to 0.9.78rc474",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc474",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-23T01:26:13.000Z"
+   "date": "2026-11-23T12:27:08.000Z"
   },
   {
-   "id": "c0ba9306a663",
+   "id": "1a4a23d380ee",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc426",
-   "summary": "Bump release version to 0.9.78rc426",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc426",
+   "title": "ArchiveBox · release-candidate/0.9.78rc473",
+   "summary": "Bump release version to 0.9.78rc473",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc473",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-23T01:22:05.000Z"
+   "date": "2026-11-23T12:16:00.000Z"
+  },
+  {
+   "id": "2bd9a2245c49",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "How the Nordics' leading postal operator rebuilt its customer support on ElevenAgents",
+   "summary": "Raising AI resolution rate from 45% to 60% on ElevenAgents in 90 days",
+   "url": "https://elevenlabs.io/blog/postnord",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/w7xjkvb77xo-Postnord.webp",
+   "date": "2026-11-23T12:00:00.000Z"
+  },
+  {
+   "id": "70eb071070ea",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "Behold the Most Detailed Painting in History: The Ghent Altarpiece",
+   "summary": "These days, if you want to see a particular painting, you can almost certainly pull it up online in seconds. In more and more cases, the resolution of the image will be so high that you can zoom in and in and in: such a level of detail is…",
+   "url": "https://www.openculture.com/2026/11/behold-the-most-detailed-painting-in-history-the-ghent-altarpiece.html",
+   "image": "https://i.ytimg.com/vi/4APkXceabVY/maxresdefault.jpg",
+   "date": "2026-11-23T10:00:00.000Z"
+  },
+  {
+   "id": "31c8cfbd7e48",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "How Isaac Newton Lost $3 Million Dollars in the “South Sea Bubble” of 1720: Even Geniuses Can’t Prevail Against the Machinations of the Markets",
+   "summary": "The Aristotelian notion of “man” as a “rational animal” has seen its share of detractors, from the Cynics to Bertrand Russell to nearly the whole of Poststructuralist thought. Leave it up to Oscar Wilde to compress the debate between intel…",
+   "url": "https://www.openculture.com/2026/11/how-isaac-newton-lost-3-million-dollars-in-the-south-sea-bubble-of-1720.html",
+   "image": "https://cdn8.openculture.com/2026/11/22225235/isaac-newton-list-of-sins-1.jpg",
+   "date": "2026-11-23T09:00:29.000Z"
+  },
+  {
+   "id": "2e92de5c4e42",
+   "sourceId": "hibp",
+   "sourceName": "Have I Been Pwned",
+   "title": "Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies",
+   "summary": "When I asked Claude to write the blog post below, I already knew what was in the messages it would read. Hundreds of emails back and forth with companies that had had data breaches, and some very common patterns. I knew the emails containe…",
+   "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
+   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/11/4----Marked-up-close-up@2x.png",
+   "date": "2026-11-23T07:58:47.000Z"
+  },
+  {
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-23T03:28:37.000Z"
   },
   {
    "id": "84a9954443a3",
@@ -80,16 +130,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.8",
    "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
    "date": "2026-11-22T03:30:41.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-22T03:25:35.000Z"
   },
   {
    "id": "df29973a28a6",
@@ -192,16 +232,6 @@
    "date": "2026-11-20T12:00:00.000Z"
   },
   {
-   "id": "e8758b64c9e8",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "How Fundación Televisa interviewed more than 1,000 entrepreneurs with voice AI",
-   "summary": "Fundación Televisa used ElevenAgents to interview more than 1,000 entrepreneurs for POSiBLE, Mexico’s largest entrepreneurship accelerator.",
-   "url": "https://elevenlabs.io/blog/fundacion-televisa-posible",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/5yo3m77h6p-44.webp",
-   "date": "2026-11-20T12:00:00.000Z"
-  },
-  {
    "id": "410e9b0cea10",
    "sourceId": "gh-crawl4ai",
    "sourceName": "Crawl4AI",
@@ -292,24 +322,14 @@
    "date": "2026-11-19T11:07:21.000Z"
   },
   {
-   "id": "78c5831f3f3a",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Amazing Inventions of Ancient Greece: From Plato’s Alarm Clock to Ancient Flamethrowers",
-   "summary": "“It’s a sunny morning in ancient Greece. Students have started gathering in the Academy, but their famous teacher Plato is nowhere to be seen.” The great philosopher has, it seems, “overslept and missed his own lecture.” The sun and the so…",
-   "url": "https://www.openculture.com/2026/11/the-amazing-inventions-of-ancient-greece.html",
-   "image": "https://i.ytimg.com/vi/F20zQmyZa20/maxresdefault.jpg",
-   "date": "2026-11-19T10:00:02.000Z"
-  },
-  {
-   "id": "264e9facb465",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "The Psychedelic Animated Video for Kraftwerk’s “Autobahn” (1979)",
-   "summary": "Ah, yes, “Autobahn.” From the moment the door slams and the ignition starts, prog rockers and pre-new wavers know a journey is afoot. Though Kraftwerk had already made three albums, and the band members still looked like well-meaning, book…",
-   "url": "https://www.openculture.com/2026/11/the-psychedelic-animated-video-for-kraftwerks-autobahn.html",
-   "image": "https://i.ytimg.com/vi/aFfW0DCoGBg/maxresdefault.jpg",
-   "date": "2026-11-19T09:00:10.000Z"
+   "id": "2cb49e814c19",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "AI Video Platforms for Training: 2026 Buyer’s Guide",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → Judge AI video platforms for training on fit, not on the demo video. The right platform matches how training content actually lives: reviewed by subject-matter experts, upda…",
+   "url": "https://www.d-id.com/blog/ai-video-platforms-training-2026/",
+   "image": "https://www.d-id.com/wp-content/uploads/2026/11/Cinematices-D%E2%80%91ID-Tech-Workspace-mit-gluhenden-Symbolen.png",
+   "date": "2026-11-19T10:17:49.000Z"
   },
   {
    "id": "d599fed7cd3d",
@@ -502,16 +522,6 @@
    "date": "2026-11-10T21:24:38.000Z"
   },
   {
-   "id": "7b115936c314",
-   "sourceId": "hibp",
-   "sourceName": "Have I Been Pwned",
-   "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-   "summary": "This is simultaneously the most boring yet exciting blog title I&apos;ve written in a long time. How you pay for services isn&apos;t exactly a sexy topic, but it solves a problem that&apos;s been a massive bugbear for a long time. Here&apo…",
-   "url": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/",
-   "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/11/image.jpg",
-   "date": "2026-11-10T20:26:15.000Z"
-  },
-  {
    "id": "f4cd2402b8e3",
    "sourceId": "gh-changedetection",
    "sourceName": "Changedetection.io",
@@ -650,16 +660,6 @@
    "url": "https://github.com/mikf/gallery-dl/releases/tag/v1.32.19",
    "image": "https://avatars.githubusercontent.com/u/5375314?s=60&v=4",
    "date": "2026-10-31T11:35:41.000Z"
-  },
-  {
-   "id": "fe1258ad6819",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "What Enterprise Teams Should Know About AI Video Platforms",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Choosing an enterprise AI video platform means judging two things at once: whether it produces videos your teams can actually use, and whether it meets your requirements for…",
-   "url": "https://www.d-id.com/blog/enterprise-teams-ai-video-platforms/",
-   "image": "",
-   "date": "2026-10-30T07:38:57.000Z"
   },
   {
    "id": "6cb72fb1af7e",
@@ -920,54 +920,54 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "delphi": {
-   "aviso": "sem feed"
-  },
   "tec": {
    "aviso": "sem feed"
   },
-  "arena": {
-   "aviso": "sem feed"
-  },
-  "alternativeto": {
+  "delphi": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "neapay": {
+  "alternativeto": {
    "aviso": "sem feed"
   },
   "escolavirtual": {
    "aviso": "sem feed"
   },
+  "arena": {
+   "aviso": "sem feed"
+  },
+  "neapay": {
+   "aviso": "sem feed"
+  },
   "gutenberg": {
+   "aviso": "sem feed"
+  },
+  "poe": {
+   "aviso": "sem feed"
+  },
+  "openculture": {
+   "feed": "https://www.openculture.com/feed",
+   "itens": 15
+  },
+  "pdf24": {
+   "aviso": "sem feed"
+  },
+  "justwatch": {
    "aviso": "sem feed"
   },
   "wayback": {
    "feed": "https://blog.archive.org/feed/",
    "itens": 10
   },
-  "openculture": {
-   "feed": "https://www.openculture.com/feed",
-   "itens": 15
-  },
-  "wolframalpha": {
-   "aviso": "sem feed"
-  },
-  "justwatch": {
-   "aviso": "sem feed"
-  },
-  "poe": {
-   "aviso": "sem feed"
-  },
   "squoosh": {
    "aviso": "sem feed"
   },
-  "pdf24": {
+  "cleanup": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "shots": {
@@ -976,14 +976,14 @@
   "smartmockups": {
    "aviso": "sem feed"
   },
-  "carbon": {
-   "aviso": "sem feed"
-  },
   "hibp": {
    "feed": "https://www.troyhunt.com/rss/",
    "itens": 15
   },
-  "photopea": {
+  "carbon": {
+   "aviso": "sem feed"
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "earthtimelapse": {
@@ -993,47 +993,41 @@
    "feed": "https://www.photoroom.com/feed/inside-photoroom",
    "itens": 106
   },
-  "speedtest": {
-   "aviso": "sem feed"
-  },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "removebg": {
    "aviso": "sem feed"
   },
-  "clipdrop": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "magnific": {
    "aviso": "sem feed"
   },
-  "krea": {
+  "speedtest": {
+   "aviso": "sem feed"
+  },
+  "rayso": {
+   "aviso": "sem feed"
+  },
+  "clipdrop": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "registrobr": {
-   "aviso": "sem feed"
-  },
   "cursor": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
-   "aviso": "sem feed"
-  },
-  "rayso": {
+  "registrobr": {
    "aviso": "sem feed"
   },
   "perplexity": {
-   "aviso": "sem feed"
-  },
-  "replit": {
-   "aviso": "sem feed"
-  },
-  "claude": {
    "aviso": "sem feed"
   },
   "huggingface": {
@@ -1042,23 +1036,26 @@
   "unshortenit": {
    "aviso": "sem feed"
   },
+  "claude": {
+   "aviso": "sem feed"
+  },
   "v0": {
    "aviso": "sem feed"
   },
-  "runway": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
+  "replit": {
    "aviso": "sem feed"
   },
   "opusclip": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "otter": {
+  "runway": {
    "aviso": "sem feed"
   },
   "suno": {
@@ -1071,7 +1068,7 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "notionai": {
+  "otter": {
    "aviso": "sem feed"
   },
   "gh-cobalt": {
@@ -1087,13 +1084,16 @@
   "gh-searxng": {
    "aviso": "sem feed"
   },
+  "gh-libretranslate": {
+   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
+   "itens": 10
+  },
   "gh-vaultwarden": {
    "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
-  "gh-libretranslate": {
-   "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
-   "itens": 10
+  "notionai": {
+   "aviso": "sem feed"
   },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
@@ -1103,12 +1103,12 @@
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-localsend": {
-   "feed": "https://github.com/localsend/localsend/releases.atom",
-   "itens": 10
-  },
   "gh-suwayomi": {
    "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+   "itens": 10
+  },
+  "gh-localsend": {
+   "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
   "gh-changedetection": {
@@ -1131,15 +1131,16 @@
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 7
   },
-  "kling": {
-   "aviso": "sem feed"
-  },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
    "itens": 10
   },
   "gh-browseruse": {
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
+   "itens": 10
+  },
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
    "itens": 10
   },
   "gh-crawl4ai": {
@@ -1150,9 +1151,9 @@
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+   "itens": 10
   },
   "gh-claudejobsearch": {
    "aviso": "sem feed"
@@ -1161,32 +1162,31 @@
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
+  "kling": {
+   "aviso": "sem feed"
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-noaislop": {
+   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
+   "itens": 7
+  },
+  "gh-supabase": {
+   "feed": "https://github.com/supabase/supabase/releases.atom",
    "itens": 10
   },
   "gh-stirlingpdf": {
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
+  "gh-openhands": {
+   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
-  },
-  "gh-supabase": {
-   "feed": "https://github.com/supabase/supabase/releases.atom",
-   "itens": 10
-  },
-  "gh-noaislop": {
-   "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
-   "itens": 7
   },
   "gh-strix": {
    "feed": "https://github.com/usestrix/strix/releases.atom",
-   "itens": 10
-  },
-  "gh-openhands": {
-   "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
   "raphael": {
