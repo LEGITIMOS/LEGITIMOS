@@ -1,65 +1,265 @@
 {
- "generatedAt": "2026-11-23T12:52:21.030Z",
+ "generatedAt": "2026-11-26T16:58:29.447Z",
  "items": [
   {
-   "id": "59829b11fe82",
+   "id": "65eed410a033",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc475",
-   "summary": "Bump release version to 0.9.78rc475",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc475",
+   "title": "ArchiveBox · v0.9.78rc683",
+   "summary": "Bump release version to 0.9.78rc683",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/v0.9.78rc683",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-23T12:44:29.000Z"
+   "date": "2026-11-26T16:24:11.000Z"
   },
   {
-   "id": "89d1cef9e9af",
+   "id": "436ffcaaca82",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc474",
-   "summary": "Bump release version to 0.9.78rc474",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc474",
+   "title": "ArchiveBox · release-candidate/0.9.78rc683",
+   "summary": "Bump release version to 0.9.78rc683",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc683",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-23T12:27:08.000Z"
+   "date": "2026-11-26T16:24:11.000Z"
   },
   {
-   "id": "1a4a23d380ee",
+   "id": "8011ca881613",
    "sourceId": "gh-archivebox",
    "sourceName": "ArchiveBox",
-   "title": "ArchiveBox · release-candidate/0.9.78rc473",
-   "summary": "Bump release version to 0.9.78rc473",
-   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc473",
+   "title": "ArchiveBox · release-candidate/0.9.78rc682",
+   "summary": "Bump release version to 0.9.78rc682",
+   "url": "https://github.com/ArchiveBox/ArchiveBox/releases/tag/release-candidate%2F0.9.78rc682",
    "image": "https://avatars.githubusercontent.com/u/511499?s=60&v=4",
-   "date": "2026-11-23T12:16:00.000Z"
+   "date": "2026-11-26T15:47:39.000Z"
   },
   {
-   "id": "2bd9a2245c49",
+   "id": "cec978d14990",
+   "sourceId": "gh-omniroute",
+   "sourceName": "OmniRoute",
+   "title": "OmniRoute · Radar catalog export (rolling)",
+   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
+   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-26T14:31:24.000Z"
+  },
+  {
+   "id": "6980065c71ca",
+   "sourceId": "did",
+   "sourceName": "D-ID",
+   "title": "How to Create Product Demo Videos with AI Avatars",
+   "summary": "Create AI videos with interactive avatars. Get started for FREE → A product demo video shows one user problem, shows the product solving it, and ends with one clear next step. An AI avatar can present that demo from a script, so you can re…",
+   "url": "https://www.d-id.com/blog/create-product-demo-videos-ai-avatars/",
+   "image": "",
+   "date": "2026-11-26T11:18:09.000Z"
+  },
+  {
+   "id": "99eb89d22eca",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "How a Thanksgiving Crisis Inspired the Invention of Swanson’s TV Dinner (1953)",
+   "summary": "“Taste — the mouth’s response to the sensation of eating and drinking — is a strange and complex and complicated thing,” writes New York Times food editor Craig Claiborne . “I am convinced that there are a multitude of people (Americans, m…",
+   "url": "https://www.openculture.com/2026/11/how-a-thanksgiving-crisis-inspired-the-invention-of-swansons-tv-dinner-1953.html",
+   "image": "https://cdn8.openculture.com/2026/11/25221615/Retro-Swanson-Turkey-Dinner-Box.png",
+   "date": "2026-11-26T10:00:00.000Z"
+  },
+  {
+   "id": "8708ac2f31bb",
+   "sourceId": "openculture",
+   "sourceName": "Open Culture",
+   "title": "The Illustrated Version of “Alice’s Restaurant”: Watch Arlo Guthrie’s Thanksgiving Counterculture Classic",
+   "summary": "Alice’s Restaurant. It’s now a Thanksgiving classic, and something of a tradition around here. Recorded in 1967, the 18+ minute counterculture song recounts Arlo Guthrie’s real encounter with the law, starting on Thanksgiving Day 1965. As…",
+   "url": "https://www.openculture.com/2026/11/alices-restaurant-watch-arlo-guthries-thanksgiving-counterculture-classic.html",
+   "image": "https://i.ytimg.com/vi/W5_8U4j51lI/maxresdefault.jpg",
+   "date": "2026-11-26T09:00:57.000Z"
+  },
+  {
+   "id": "903e4fb57772",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev39",
+   "summary": "Langflow nightly v1.14.0.dev39",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev39",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-26T03:34:44.000Z"
+  },
+  {
+   "id": "98679b388aae",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.46.0",
+   "summary": "1.46.0 (2026-11-25) What's Changed Features feat(conversation): list and unshare the conversations shared with a team org (OHE-4205) by @hieptl in #19954 feat: add Feedback button and submission flow by @DevinVinson in #19272 feat(automati…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.46.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-25T14:19:07.000Z"
+  },
+  {
+   "id": "022420567f75",
    "sourceId": "elevenlabs",
    "sourceName": "ElevenLabs",
-   "title": "How the Nordics' leading postal operator rebuilt its customer support on ElevenAgents",
-   "summary": "Raising AI resolution rate from 45% to 60% on ElevenAgents in 90 days",
-   "url": "https://elevenlabs.io/blog/postnord",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/w7xjkvb77xo-Postnord.webp",
-   "date": "2026-11-23T12:00:00.000Z"
+   "title": "What is GraphRAG? A practical guide to smarter AI retrieval",
+   "summary": "Learn what is GraphRAG, how knowledge graph RAG works, and where it beats standard RAG. See use cases and how ElevenAgents handles RAG for voice agents.",
+   "url": "https://elevenlabs.io/blog/what-is-graphrag",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-25T12:00:00.000Z"
   },
   {
-   "id": "70eb071070ea",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "Behold the Most Detailed Painting in History: The Ghent Altarpiece",
-   "summary": "These days, if you want to see a particular painting, you can almost certainly pull it up online in seconds. In more and more cases, the resolution of the image will be so high that you can zoom in and in and in: such a level of detail is…",
-   "url": "https://www.openculture.com/2026/11/behold-the-most-detailed-painting-in-history-the-ghent-altarpiece.html",
-   "image": "https://i.ytimg.com/vi/4APkXceabVY/maxresdefault.jpg",
-   "date": "2026-11-23T10:00:00.000Z"
+   "id": "4398de60e3fa",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "Fixing the front door to government, one voice agent at a time",
+   "summary": "The front door to government for millions of people is an outdated IVR phone menu. Governments are now adopting AI agents for several kinds of calls.",
+   "url": "https://elevenlabs.io/blog/fixing-front-door-government",
+   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/bxbv23zf2u-fixing-front-door-government-agent-16x9.webp",
+   "date": "2026-11-25T12:00:00.000Z"
   },
   {
-   "id": "31c8cfbd7e48",
+   "id": "1a30a51b3fa7",
+   "sourceId": "gh-openwebui",
+   "sourceName": "Open WebUI",
+   "title": "Open WebUI · v0.13.5",
+   "summary": "Added Folder workspaces. Run your project’s tests in a terminal and try the app in a browser while your chat stays open beside them. Choose the computer and project directory once for the folder. Even in a shared folder, everyone can retur…",
+   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.5",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-25T09:37:55.000Z"
+  },
+  {
+   "id": "e1775e4d9b0c",
    "sourceId": "openculture",
    "sourceName": "Open Culture",
-   "title": "How Isaac Newton Lost $3 Million Dollars in the “South Sea Bubble” of 1720: Even Geniuses Can’t Prevail Against the Machinations of the Markets",
-   "summary": "The Aristotelian notion of “man” as a “rational animal” has seen its share of detractors, from the Cynics to Bertrand Russell to nearly the whole of Poststructuralist thought. Leave it up to Oscar Wilde to compress the debate between intel…",
-   "url": "https://www.openculture.com/2026/11/how-isaac-newton-lost-3-million-dollars-in-the-south-sea-bubble-of-1720.html",
-   "image": "https://cdn8.openculture.com/2026/11/22225235/isaac-newton-list-of-sins-1.jpg",
-   "date": "2026-11-23T09:00:29.000Z"
+   "title": "The Map of Ancient Philosophy: Animation Shows How Socrates, Aristotle, Confucius, the Buddha & Other Great Thinkers Fit Together",
+   "summary": "Here on Open Culture, we’ve often featured the charming and informative posters of Domain of Science . Each one maps out a different field of knowledge: there’s biology , physics , chemistry , quantum physics , quantum computing , fungi ,…",
+   "url": "https://www.openculture.com/2026/11/the-map-of-ancient-philosophy.html",
+   "image": "https://i.ytimg.com/vi/I0rkpF49Deo/maxresdefault.jpg",
+   "date": "2026-11-25T09:00:18.000Z"
+  },
+  {
+   "id": "89a95ebee1d3",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · v1.14.0.dev38",
+   "summary": "Langflow nightly v1.14.0.dev38",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev38",
+   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
+   "date": "2026-11-25T00:25:19.000Z"
+  },
+  {
+   "id": "00a5579d6d56",
+   "sourceId": "gh-localsend",
+   "sourceName": "LocalSend",
+   "title": "LocalSend · v1.19.0",
+   "summary": "This release also added the rpm package for the first time (e.g. for Fedora users). Please note a breaking change in the CLI when sending files. feat: make sending checksums opt-in ( @Tienisto ) feat: format timestamps using system date an…",
+   "url": "https://github.com/localsend/localsend/releases/tag/v1.19.0",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-24T20:17:03.000Z"
+  },
+  {
+   "id": "122c71b95012",
+   "sourceId": "gh-langflow",
+   "sourceName": "Langflow",
+   "title": "Langflow · 1.13.4",
+   "summary": "What's Changed 🐛 Bug Fixes fix: enforce component logging policy by @erichare in #16476 fix(mcp): require credentials for project file resources by @erichare in #16477 fix(mcp): require an active project owner by @erichare in #16478 fix(m…",
+   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.4",
+   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "date": "2026-11-24T18:07:48.000Z"
+  },
+  {
+   "id": "3c1db9aa1289",
+   "sourceId": "wayback",
+   "sourceName": "Wayback Machine",
+   "title": "How a Public Radio Project Turned the Public Domain Into a Creative Playground",
+   "summary": "WNYC&#8217;s Simon Close is joined on stage at the Internet Archive by music duo miirage. Simon Close says The Public Song Project invites people to think of the public domain as a free archive. It’s a place where creative works from the p…",
+   "url": "https://blog.archive.org/2026/11/24/public-song-project/",
+   "image": "https://blog.archive.org/wp-content/uploads/2026/11/Simon-Close-on-stage-1024x683.png",
+   "date": "2026-11-24T14:00:00.000Z"
+  },
+  {
+   "id": "3c6728c1bfd1",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+   "date": "2026-11-24T13:00:00.000Z"
+  },
+  {
+   "id": "44341f568c01",
+   "sourceId": "elevenlabs",
+   "sourceName": "ElevenLabs",
+   "title": "What is SIP trunking? A business guide to modern calls",
+   "summary": "Learn what is SIP trunking, how it works, what it costs, how to choose a provider, and how to connect it to AI voice agents for customer service.",
+   "url": "https://elevenlabs.io/blog/what-is-sip-trunking",
+   "image": "https://elevenlabs.io/cover.png",
+   "date": "2026-11-24T12:00:00.000Z"
+  },
+  {
+   "id": "f3aa9260f109",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "Searching for distant planets with Astra",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+   "date": "2026-11-24T11:00:00.000Z"
+  },
+  {
+   "id": "5c827e5d691c",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.45.0",
+   "summary": "1.45.0 (2026-11-24) What's Changed Features feat(factories): show a factory's worklogs, newest first by @jpshackelford in #19811 feat(factories): delete a factory from its page by @jpshackelford in #19861 feat(projects): OpenHands Projects…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.45.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-24T09:25:38.000Z"
+  },
+  {
+   "id": "cde5658629ce",
+   "sourceId": "gh-libretranslate",
+   "sourceName": "LibreTranslate",
+   "title": "LibreTranslate · 1.10.0",
+   "summary": "What's Changed Add --trust-forwarded-for by @pierotofy in #987 Set Persian translation to reviewed by @ahangarha in #989 fix: make Gunicorn worker timeout configurable via LT_TIMEOUT by @raulniraj in #993 ci: pin jlumbroso/free-disk-space…",
+   "url": "https://github.com/LibreTranslate/LibreTranslate/releases/tag/v1.10.0",
+   "image": "https://avatars.githubusercontent.com/u/1951843?s=60&v=4",
+   "date": "2026-11-24T05:10:16.000Z"
+  },
+  {
+   "id": "ec442b764e04",
+   "sourceId": "chatgpt",
+   "sourceName": "ChatGPT",
+   "title": "How Intentful uses dots to make more time for growth",
+   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
+   "date": "2026-11-24T00:00:00.000Z"
+  },
+  {
+   "id": "7b30ac0f7feb",
+   "sourceId": "gh-openseo",
+   "sourceName": "OpenSEO",
+   "title": "OpenSEO · v0.1.32",
+   "summary": "Branded query filter in GSC Insights, Local SEO in miles, and agent reports that lead with the plan. What's new Filter GSC Insights and the get_search_console_performance MCP tool by branded and non-branded queries Google only classifies t…",
+   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.32",
+   "image": "https://avatars.githubusercontent.com/u/51297686?s=60&v=4",
+   "date": "2026-11-23T22:44:31.000Z"
+  },
+  {
+   "id": "7849964b887e",
+   "sourceId": "gh-openhands",
+   "sourceName": "OpenHands",
+   "title": "OpenHands · v1.44.0",
+   "summary": "1.44.0 (2026-11-23) What's Changed Features feat(chat): conversation mentions, behind the conversation_mentions flag by @enyst in #19921 feat(automations): choose who can see an automation (OHE-4206) by @hieptl in #19893 feat(chat): show a…",
+   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.44.0",
+   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
+   "date": "2026-11-23T15:39:58.000Z"
+  },
+  {
+   "id": "fef45cb02c63",
+   "sourceId": "gh-supabase",
+   "sourceName": "Supabase",
+   "title": "Supabase · self-hosted/v0.8.5",
+   "summary": "Self-hosted Supabase v0.8.5: Security fixes for Auth, Storage, Supavi…",
+   "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.5",
+   "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
+   "date": "2026-11-23T15:37:58.000Z"
   },
   {
    "id": "2e92de5c4e42",
@@ -70,36 +270,6 @@
    "url": "https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/",
    "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/11/4----Marked-up-close-up@2x.png",
    "date": "2026-11-23T07:58:47.000Z"
-  },
-  {
-   "id": "cec978d14990",
-   "sourceId": "gh-omniroute",
-   "sourceName": "OmniRoute",
-   "title": "OmniRoute · Radar catalog export (rolling)",
-   "summary": "Export estável do catálogo OmniRoute para o Radar. Atualizado automaticamente; NÃO é um release de versão do produto.",
-   "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/radar-export-latest",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-23T03:28:37.000Z"
-  },
-  {
-   "id": "84a9954443a3",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev36",
-   "summary": "Langflow nightly v1.14.0.dev36",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev36",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-23T00:27:12.000Z"
-  },
-  {
-   "id": "122c71b95012",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.13.4: fix(deps): dependency upgrades for 1.13.4 (#16541)",
-   "summary": "fix(deps): refresh UBI Python image for 1.13.4",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.4",
-   "image": "https://avatars.githubusercontent.com/u/149833988?s=60&v=4",
-   "date": "2026-11-22T23:02:15.000Z"
   },
   {
    "id": "9bf597b9308c",
@@ -130,26 +300,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.8",
    "image": "https://avatars.githubusercontent.com/u/36313686?s=60&v=4",
    "date": "2026-11-22T03:30:41.000Z"
-  },
-  {
-   "id": "df29973a28a6",
-   "sourceId": "gh-langflow",
-   "sourceName": "Langflow",
-   "title": "Langflow · v1.14.0.dev35",
-   "summary": "Langflow nightly v1.14.0.dev35",
-   "url": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev35",
-   "image": "https://avatars.githubusercontent.com/u/70824914?s=60&v=4",
-   "date": "2026-11-22T00:26:25.000Z"
-  },
-  {
-   "id": "de5cd1a6d51d",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Perplexity and Intelligence",
-   "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-   "url": "https://openai.com/index/perplexity-and-intelligence",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
-   "date": "2026-11-22T00:00:00.000Z"
   },
   {
    "id": "f62c78906c70",
@@ -192,16 +342,6 @@
    "date": "2026-11-20T22:48:28.000Z"
   },
   {
-   "id": "6668009dbad5",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "Introducing video ad variants and localization in Ads Engine",
-   "summary": "Ads Engine makes new versions of the video ads you already run: new hooks, new soundtracks, and dubbed versions with translated captions.",
-   "url": "https://elevenlabs.io/blog/video-variants-localization-ads-engine",
-   "image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/wkj94xsg9yf-ads-engine-video-variants-cover-v5.webp",
-   "date": "2026-11-20T21:12:00.000Z"
-  },
-  {
    "id": "daba8269dd42",
    "sourceId": "gh-browseruse",
    "sourceName": "Browser Use",
@@ -210,26 +350,6 @@
    "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.7",
    "image": "https://avatars.githubusercontent.com/u/38050249?s=60&v=4",
    "date": "2026-11-20T20:01:20.000Z"
-  },
-  {
-   "id": "0b9778aa5adc",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.43.0",
-   "summary": "1.43.0 (2026-11-20) What's Changed Features feat(automations): create automations enabled from the setup wizard by @SaltGardenia in #19769 feat(settings): Features page for experimental user feature flags, with Conversation reactions by @e…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.43.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-11-20T19:03:08.000Z"
-  },
-  {
-   "id": "d0d32febab12",
-   "sourceId": "elevenlabs",
-   "sourceName": "ElevenLabs",
-   "title": "How to fix text to speech accuracy problems",
-   "summary": "Text to speech not working? Learn how to fix text to speech accuracy problems like mispronounced words, robotic delivery, and API errors with these tips.",
-   "url": "https://elevenlabs.io/blog/fix-text-to-speech-accuracy-problems",
-   "image": "https://elevenlabs.io/cover.png",
-   "date": "2026-11-20T12:00:00.000Z"
   },
   {
    "id": "410e9b0cea10",
@@ -242,16 +362,6 @@
    "date": "2026-11-20T11:53:28.000Z"
   },
   {
-   "id": "3ea993db7e3c",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Combatting adversarial distillation",
-   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
-   "date": "2026-11-20T10:00:00.000Z"
-  },
-  {
    "id": "a3b6e8d465ae",
    "sourceId": "gh-crawl4ai",
    "sourceName": "Crawl4AI",
@@ -260,26 +370,6 @@
    "url": "https://github.com/unclecode/crawl4ai/releases/tag/v0.9.6",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-11-20T09:46:52.000Z"
-  },
-  {
-   "id": "a795ae1386e2",
-   "sourceId": "openculture",
-   "sourceName": "Open Culture",
-   "title": "What Makes Notre-Dame Cathedral a Masterpiece of Gothic Architecture",
-   "summary": "Most of us remember where we were when we heard that Notre-Dame had burned down. And even upon learning that the most famous of all French cathedrals had been badly damaged rather than completely destroyed, it still felt as if something ir…",
-   "url": "https://www.openculture.com/2026/11/what-makes-notre-dame-cathedral-a-masterpiece-of-gothic-architecture.html",
-   "image": "https://i.ytimg.com/vi/-bqA022KHvs/maxresdefault.jpg",
-   "date": "2026-11-20T09:00:05.000Z"
-  },
-  {
-   "id": "d15c45643214",
-   "sourceId": "chatgpt",
-   "sourceName": "ChatGPT",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-   "url": "https://openai.com/business/customer-stories/hebbia",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
-   "date": "2026-11-20T00:00:00.000Z"
   },
   {
    "id": "7ece3b59af24",
@@ -322,13 +412,13 @@
    "date": "2026-11-19T11:07:21.000Z"
   },
   {
-   "id": "2cb49e814c19",
+   "id": "8a43e9664410",
    "sourceId": "did",
    "sourceName": "D-ID",
-   "title": "AI Video Platforms for Training: 2026 Buyer’s Guide",
+   "title": "AI Video Platforms for Training: 2027 Buyer’s Guide",
    "summary": "Create AI videos with interactive avatars. Get started for FREE → Judge AI video platforms for training on fit, not on the demo video. The right platform matches how training content actually lives: reviewed by subject-matter experts, upda…",
-   "url": "https://www.d-id.com/blog/ai-video-platforms-training-2026/",
-   "image": "https://www.d-id.com/wp-content/uploads/2026/11/Cinematices-D%E2%80%91ID-Tech-Workspace-mit-gluhenden-Symbolen.png",
+   "url": "https://www.d-id.com/blog/ai-video-platforms-training-2027/",
+   "image": "",
    "date": "2026-11-19T10:17:49.000Z"
   },
   {
@@ -360,26 +450,6 @@
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.54",
    "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
    "date": "2026-11-18T19:51:36.000Z"
-  },
-  {
-   "id": "114de6b3a4fd",
-   "sourceId": "gh-openseo",
-   "sourceName": "OpenSEO",
-   "title": "OpenSEO · v0.1.29",
-   "summary": "Rank checks that replace incomplete Google results, plus Discover report and Docker fixes. What's new Rank checks now detect and replace incomplete Google results Some positions may show lower than before, correcting earlier checks that ov…",
-   "url": "https://github.com/every-app/open-seo/releases/tag/v0.1.29",
-   "image": "https://avatars.githubusercontent.com/u/51297686?s=60&v=4",
-   "date": "2026-11-18T17:00:33.000Z"
-  },
-  {
-   "id": "6a782ce13ed5",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.42.0",
-   "summary": "1.42.0 (2026-11-18) What's Changed Features feat(cloud): pick the exact connected git provider for repositories by @tofarr in #19762 feat(verify-openhands): every run has a non-loopback plain-HTTP origin by @enyst in #19756 Bug Fixes fix(f…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.42.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-11-18T16:46:40.000Z"
   },
   {
    "id": "31b5a7424f52",
@@ -420,16 +490,6 @@
    "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.4",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-11-17T14:46:26.000Z"
-  },
-  {
-   "id": "bf2c6e47df12",
-   "sourceId": "gh-openhands",
-   "sourceName": "OpenHands",
-   "title": "OpenHands · v1.41.0",
-   "summary": "1.41.0 (2026-11-16) What's Changed Features feat(verify-openhands): scenarios beyond the happy path, map controls , browser timezone by @enyst in #19670 feat(acp): choose the reasoning effort from what the agent reports by @simonrosenberg…",
-   "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.41.0",
-   "image": "https://avatars.githubusercontent.com/u/225919603?s=60&v=4",
-   "date": "2026-11-16T20:55:32.000Z"
   },
   {
    "id": "f40bccb5d841",
@@ -492,16 +552,6 @@
    "date": "2026-11-12T19:15:39.000Z"
   },
   {
-   "id": "a9735ffeec07",
-   "sourceId": "wayback",
-   "sourceName": "Wayback Machine",
-   "title": "Preserving 30 Years of Salon Journalism",
-   "summary": "When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for…",
-   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-   "image": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1-1024x536.png",
-   "date": "2026-11-12T16:55:50.000Z"
-  },
-  {
    "id": "3f61f5827257",
    "sourceId": "did",
    "sourceName": "D-ID",
@@ -542,16 +592,6 @@
    "date": "2026-11-08T23:48:24.000Z"
   },
   {
-   "id": "59d941db7cef",
-   "sourceId": "gh-openwebui",
-   "sourceName": "Open WebUI",
-   "title": "Open WebUI · v0.13.2",
-   "summary": "Fixed 🔓 Chat over plain HTTP. Opening Open WebUI over plain HTTP at a LAN or Docker address now loads new and existing chats instead of staying on a spinner with \"crypto.randomUUID is not a function\". #33919 📝 Comments and Markdown editi…",
-   "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.2",
-   "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
-   "date": "2026-11-08T11:53:42.000Z"
-  },
-  {
    "id": "1d8d63c09f83",
    "sourceId": "gh-omniroute",
    "sourceName": "OmniRoute",
@@ -560,16 +600,6 @@
    "url": "https://github.com/cheaper-inference/OmniRoute/releases/tag/v3.8.53",
    "image": "https://avatars.githubusercontent.com/u/8016841?s=60&v=4",
    "date": "2026-11-07T21:38:57.000Z"
-  },
-  {
-   "id": "180a8db0dac9",
-   "sourceId": "did",
-   "sourceName": "D-ID",
-   "title": "When Should Businesses Use AI Video? 5 Use Cases That Make Sense",
-   "summary": "Create AI videos with interactive avatars. Get started for FREE → Key Takeaways AI video is especially useful for content that needs frequent updates, multiple versions, or localization. Common business uses include employee training, inte…",
-   "url": "https://www.d-id.com/blog/when-should-businesses-use-ai-video/",
-   "image": "",
-   "date": "2026-11-06T07:19:38.000Z"
   },
   {
    "id": "4e910104600e",
@@ -752,16 +782,6 @@
    "date": "2026-09-30T03:16:23.000Z"
   },
   {
-   "id": "6d47b4109654",
-   "sourceId": "gh-supabase",
-   "sourceName": "Supabase",
-   "title": "Supabase · self-hosted/v0.8.2",
-   "summary": "Self-hosted Supabase v0.8.2: Postgres init changes, setup.sh fix, OAu…",
-   "url": "https://github.com/supabase/supabase/releases/tag/self-hosted%2Fv0.8.2",
-   "image": "https://avatars.githubusercontent.com/u/56412611?s=60&v=4",
-   "date": "2026-09-23T13:17:39.000Z"
-  },
-  {
    "id": "4f9aa12fcc42",
    "sourceId": "gh-maxun",
    "sourceName": "Maxun",
@@ -810,16 +830,6 @@
    "url": "https://github.com/usestrix/strix/releases/tag/v1.6.2",
    "image": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
    "date": "2026-09-05T01:30:11.000Z"
-  },
-  {
-   "id": "61f9d0d39767",
-   "sourceId": "gh-localsend",
-   "sourceName": "LocalSend",
-   "title": "LocalSend · v1.18.1",
-   "summary": "Android+iOS only hotfix update. See 1.18.0 for the full release. fix: revert button icon sizes to 24 fix: when sending a message that is accepted immediately, a ghost device list tile appears fix(mobile): when sending a link message, the \"…",
-   "url": "https://github.com/localsend/localsend/releases/tag/v1.18.1",
-   "image": "https://avatars.githubusercontent.com/u/38380847?s=60&v=4",
-   "date": "2026-08-12T13:11:17.000Z"
   },
   {
    "id": "1a1d85f01323",
@@ -905,12 +915,12 @@
  "report": {
   "chatgpt": {
    "feed": "https://openai.com/news/rss.xml",
-   "itens": 1422
-  },
-  "canva": {
-   "aviso": "sem feed"
+   "itens": 1430
   },
   "comprecripto": {
+   "aviso": "sem feed"
+  },
+  "canva": {
    "aviso": "sem feed"
   },
   "receivesms": {
@@ -920,41 +930,41 @@
    "feed": "https://temp-mail.org/blog/feed",
    "itens": 15
   },
-  "tec": {
+  "delphi": {
    "aviso": "sem feed"
   },
-  "delphi": {
+  "tec": {
    "aviso": "sem feed"
   },
   "123apps": {
    "aviso": "sem feed"
   },
-  "alternativeto": {
-   "aviso": "sem feed"
-  },
   "escolavirtual": {
-   "aviso": "sem feed"
-  },
-  "arena": {
    "aviso": "sem feed"
   },
   "neapay": {
    "aviso": "sem feed"
   },
-  "gutenberg": {
+  "alternativeto": {
+   "aviso": "sem feed"
+  },
+  "arena": {
    "aviso": "sem feed"
   },
   "poe": {
+   "aviso": "sem feed"
+  },
+  "gutenberg": {
    "aviso": "sem feed"
   },
   "openculture": {
    "feed": "https://www.openculture.com/feed",
    "itens": 15
   },
-  "pdf24": {
+  "justwatch": {
    "aviso": "sem feed"
   },
-  "justwatch": {
+  "wolframalpha": {
    "aviso": "sem feed"
   },
   "wayback": {
@@ -964,16 +974,19 @@
   "squoosh": {
    "aviso": "sem feed"
   },
-  "cleanup": {
+  "pdf24": {
    "aviso": "sem feed"
   },
-  "wolframalpha": {
+  "smartmockups": {
    "aviso": "sem feed"
   },
   "shots": {
    "aviso": "sem feed"
   },
-  "smartmockups": {
+  "photopea": {
+   "aviso": "sem feed"
+  },
+  "cleanup": {
    "aviso": "sem feed"
   },
   "hibp": {
@@ -983,57 +996,54 @@
   "carbon": {
    "aviso": "sem feed"
   },
-  "unscreen": {
-   "aviso": "sem feed"
-  },
   "earthtimelapse": {
-   "aviso": "sem feed"
-  },
-  "photoroom": {
-   "feed": "https://www.photoroom.com/feed/inside-photoroom",
-   "itens": 106
-  },
-  "removebg": {
-   "aviso": "sem feed"
-  },
-  "photopea": {
-   "aviso": "sem feed"
-  },
-  "krea": {
-   "aviso": "sem feed"
-  },
-  "magnific": {
    "aviso": "sem feed"
   },
   "speedtest": {
    "aviso": "sem feed"
   },
-  "rayso": {
+  "photoroom": {
+   "feed": "https://www.photoroom.com/feed/inside-photoroom",
+   "itens": 107
+  },
+  "unscreen": {
    "aviso": "sem feed"
   },
   "clipdrop": {
    "aviso": "sem feed"
   },
-  "pairdrop": {
+  "removebg": {
+   "aviso": "sem feed"
+  },
+  "magnific": {
+   "aviso": "sem feed"
+  },
+  "krea": {
    "aviso": "sem feed"
   },
   "uizard": {
    "feed": "https://uizard.io/blog/feed",
    "itens": 15
   },
-  "cursor": {
-   "aviso": "sem feed"
-  },
   "registrobr": {
    "aviso": "sem feed"
   },
-  "perplexity": {
+  "rayso": {
    "aviso": "sem feed"
   },
-  "huggingface": {
+  "cursor": {
+   "aviso": "sem feed"
+  },
+  "bolt": {
+   "aviso": "sem feed"
+  },
+  "replit": {
    "aviso": "sem feed"
   },
   "unshortenit": {
+   "aviso": "sem feed"
+  },
+  "perplexity": {
    "aviso": "sem feed"
   },
   "claude": {
@@ -1042,20 +1052,20 @@
   "v0": {
    "aviso": "sem feed"
   },
-  "replit": {
+  "huggingface": {
    "aviso": "sem feed"
   },
-  "opusclip": {
-   "aviso": "sem feed"
-  },
-  "bolt": {
+  "runway": {
    "aviso": "sem feed"
   },
   "elevenlabs": {
    "feed": "https://elevenlabs.io/blog/rss.xml",
    "itens": 50
   },
-  "runway": {
+  "opusclip": {
+   "aviso": "sem feed"
+  },
+  "otter": {
    "aviso": "sem feed"
   },
   "suno": {
@@ -1068,18 +1078,24 @@
   "napkin": {
    "aviso": "sem feed"
   },
-  "otter": {
-   "aviso": "sem feed"
-  },
-  "gh-cobalt": {
+  "kling": {
    "aviso": "sem feed"
   },
   "jasper": {
    "aviso": "sem feed"
   },
+  "gh-cobalt": {
+   "aviso": "sem feed"
+  },
+  "pairdrop": {
+   "aviso": "sem feed"
+  },
   "gh-gallerydl": {
    "feed": "https://github.com/mikf/gallery-dl/releases.atom",
    "itens": 10
+  },
+  "notionai": {
+   "aviso": "sem feed"
   },
   "gh-searxng": {
    "aviso": "sem feed"
@@ -1088,48 +1104,45 @@
    "feed": "https://github.com/LibreTranslate/LibreTranslate/releases.atom",
    "itens": 10
   },
-  "gh-vaultwarden": {
-   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
-   "itens": 10
-  },
-  "notionai": {
-   "aviso": "sem feed"
-  },
   "gh-reactiveresume": {
    "feed": "https://github.com/AmruthPillai/Reactive-Resume/releases.atom",
+   "itens": 10
+  },
+  "gh-vaultwarden": {
+   "feed": "https://github.com/dani-garcia/vaultwarden/releases.atom",
    "itens": 10
   },
   "gh-archivebox": {
    "feed": "https://github.com/ArchiveBox/ArchiveBox/releases.atom",
    "itens": 10
   },
-  "gh-suwayomi": {
-   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
+  "gh-changedetection": {
+   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
    "itens": 10
   },
   "gh-localsend": {
    "feed": "https://github.com/localsend/localsend/releases.atom",
    "itens": 10
   },
-  "gh-changedetection": {
-   "feed": "https://github.com/dgtlmoon/changedetection.io/releases.atom",
-   "itens": 10
-  },
-  "gh-langflow": {
-   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
+  "gh-suwayomi": {
+   "feed": "https://github.com/Suwayomi/Suwayomi-Server/releases.atom",
    "itens": 10
   },
   "gh-opengenerativeai": {
    "feed": "https://github.com/Anil-matcha/Open-Generative-AI/releases.atom",
    "itens": 10
   },
-  "gh-openwebui": {
-   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+  "gh-langflow": {
+   "feed": "https://github.com/langflow-ai/langflow/releases.atom",
    "itens": 10
   },
   "gh-booktoskill": {
    "feed": "https://github.com/virgiliojr94/book-to-skill/releases.atom",
    "itens": 7
+  },
+  "gh-openwebui": {
+   "feed": "https://github.com/open-webui/open-webui/releases.atom",
+   "itens": 10
   },
   "gh-opennotebook": {
    "feed": "https://github.com/lfnovo/open-notebook/releases.atom",
@@ -1139,35 +1152,24 @@
    "feed": "https://github.com/browser-use/browser-use/releases.atom",
    "itens": 10
   },
-  "gh-dify": {
-   "feed": "https://github.com/langgenius/dify/releases.atom",
-   "itens": 10
-  },
   "gh-crawl4ai": {
    "feed": "https://github.com/unclecode/crawl4ai/releases.atom",
    "itens": 10
+  },
+  "did": {
+   "feed": "https://www.d-id.com/blog/feed",
+   "itens": 9
+  },
+  "gh-claudejobsearch": {
+   "aviso": "sem feed"
   },
   "gh-maxun": {
    "feed": "https://github.com/getmaxun/maxun/releases.atom",
    "itens": 10
   },
-  "gh-omniroute": {
-   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
-   "itens": 10
-  },
-  "gh-claudejobsearch": {
-   "aviso": "sem feed"
-  },
   "gh-openseo": {
    "feed": "https://github.com/every-app/open-seo/releases.atom",
    "itens": 10
-  },
-  "kling": {
-   "aviso": "sem feed"
-  },
-  "did": {
-   "feed": "https://www.d-id.com/blog/feed",
-   "itens": 9
   },
   "gh-noaislop": {
    "feed": "https://github.com/petergyang/no-ai-slop/releases.atom",
@@ -1181,12 +1183,20 @@
    "feed": "https://github.com/Stirling-Tools/Stirling-PDF/releases.atom",
    "itens": 10
   },
+  "gh-strix": {
+   "feed": "https://github.com/usestrix/strix/releases.atom",
+   "itens": 10
+  },
   "gh-openhands": {
    "feed": "https://github.com/OpenHands/OpenHands/releases.atom",
    "itens": 10
   },
-  "gh-strix": {
-   "feed": "https://github.com/usestrix/strix/releases.atom",
+  "gh-dify": {
+   "feed": "https://github.com/langgenius/dify/releases.atom",
+   "itens": 10
+  },
+  "gh-omniroute": {
+   "feed": "https://github.com/diegosouzapw/OmniRoute/releases.atom",
    "itens": 10
   },
   "raphael": {
